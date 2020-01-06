@@ -1,0 +1,6209 @@
+{
+  "Abilio Lucena": {
+    "Felipe M. G. França": [
+      {
+        "title": [
+          "Minimum Concurrency for Assembling Computer Music."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      }
+    ],
+    "Laura Bahiense": [
+      {
+        "title": [
+          "A New Lagrangian Based Branch and Bound Algorithm for the 0-1 Knapsack Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      }
+    ],
+    "Luidi Simonetti": [
+      {
+        "title": [
+          "Minimum Concurrency for Assembling Computer Music."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Lagrangian heuristics for the Quadratic Knapsack Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "A strong symmetric formulation for the Min-degree Constrained Minimum Spanning Tree Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "The Tree-Star Problem: A Formulation and a Branch-and-Cut Algorithm."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Optimality cuts and a branch-and-cut algorithm for the K-rooted mini-max spanning forest problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Formulations and exact solution approaches for the degree preserving spanning tree problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Benders Decomposition, Branch-and-Cut, and Hybrid Algorithms for the Minimum Connected Dominating Set Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "The Degree Preserving Spanning Tree Problem: Valid Inequalities and Branch-and-cut method."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Formulating and Solving the Minimum Dominating Cycle Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "A New Formulation and Computational Results for the Simple Cycle Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Polyhedral results and a Branch-and-cut algorithm for the $$k$$ -cardinality tree problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Formulations and Branch-and-Cut Algorithm for the K-rooted Mini-Max Spanning Forest Problem."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "The Minimum Connected Dominating Set Problem: Formulation, Valid Inequalities and a Branch-and-Cut Algorithm."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Reformulations and solution algorithms for the maximum leaf spanning tree problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      }
+    ],
+    "Nelson Maculan": [
+      {
+        "title": [
+          "Formulations for the Minimum 2-Connected Dominating Set Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Reformulations and solution algorithms for the maximum leaf spanning tree problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "A relax-and-cut algorithm for the prize-collecting Steiner problem in graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Preface."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Using Lagrangian dual information to generate degree constrained spanning trees."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Stronger K-tree relaxations for the vehicle routing problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      }
+    ]
+  },
+  "Adilson Elias Xavier": {
+    "Felipe M. G. França": [
+      {
+        "title": [
+          "A hyperbolic smoothing approach to the Multisource Weber problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      }
+    ],
+    "Nelson Maculan": [
+      {
+        "title": [
+          "A geometric perspective of the Weiszfeld algorithm for solving the Fermat-Weber problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "An evaluation of the bihyperbolic function in the optimization of the backpropagation algorithm."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Hyperbolic smoothing and penalty techniques applied to molecular structure determination."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "NLPToolbox: an open-source nonlinear programming tool."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "The Euclidean Steiner tree problem in R",
+          ": A mathematical programming formulation."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2000"
+      }
+    ],
+    "Priscila Machado Vieira Lima": [
+      {
+        "title": [
+          "A hyperbolic smoothing approach to the Multisource Weber problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      }
+    ]
+  },
+  "Alexandre A. B. Lima": {
+    "Claudio Esperança": [
+      {
+        "title": [
+          "A Parallel Spatial Join Framework Using PMR-Quadtrees."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ],
+    "Marta Mattoso": [
+      {
+        "title": [
+          "Spark Scalability Analysis in a Scientific Workflow."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "SGProv: Summarization Mechanism for Multiple Provenance Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "SGProv: Mecanismo de Sumarização para Múltiplos Grafos de Proveniência."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Many task computing for orthologous genes identification in protozoan genomes using Hydra."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Distributed Database Research at COPPE/UFRJ."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "SciPhy: A Cloud-Based Workflow for Phylogenetic Analysis of Drug Targets in Protozoan Genomes."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Adaptive Virtual Partitioning for OLAP Query Processing in a Database Cluster."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Adaptive Virtual Partitioning: Further Developments."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Data parallelism in bioinformatics workflows using Hydra."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Athena: Text Mining Based Discovery of Scientific Workflows in Disperse Repositories."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Parallel OLAP query processing in database clusters with data replication."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Processamento de Alto Desempenho em Consultas sobre Bases de Dados Geoestatísticas Usando Replicação Parcial."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Parallel query processing for OLAP in grids."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Adaptive hybrid partitioning for OLAP query processing in a database cluster."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "High-Performance Query Processing of a Real-World OLAP Database with ParGRES."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Apuama: Combining Intra-query and Inter-query Parallelism in a Database Cluster."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Physical and Virtual Partitioning in OLAP Database Clusters."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "OLAP Query Processing in a Database Cluster."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Adaptive Virtual Partitioning for OLAP Query Processing in a Database Cluster."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "A Parallel Spatial Join Framework Using PMR-Quadtrees."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ]
+  },
+  "Ana Regina Cavalcanti da Rocha": {
+    "Cláudia Maria Lima Werner": [
+      {
+        "title": [
+          "An O.O. Software Engineering Training Experience within a Collaboration Project between Academia and Industry."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      },
+      {
+        "title": [
+          "Memphis: A Reuse Based O.O. Software Development Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1997"
+      }
+    ],
+    "Geraldo Xexéo": [
+      {
+        "title": [
+          "A Web Process Support System For Distributed Working Groups."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      }
+    ],
+    "Guilherme Horta Travassos": [
+      {
+        "title": [
+          "Towards Successful Software Process Improvement Initiatives: Experiences from the Battlefield."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "MPS.BR Program and MPS Model: Main Results, Benefits and Beneficiaries of Software Process Improvement in Brazil."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "MPS.BR: A Tale of Software Process Improvement and Performance Results in the Brazilian Software Industry."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Use of Ontologies in Software Development Environments."
+        ],
+        "type_of_publication": "entry incollection toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "The Use of an Enterprise Ontology to Support Knowledge Management in Software Development Environments."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Enterprise-Oriented Software Development Environments to Support Software Products and Processes Quality Improvement."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "On the Importance Attributed to Different Knowledge in Software Development Environments."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Knowledge Management in a Software Development Environment to Support Software Processes Deployment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Domain-oriented software development environment."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Building Ontology Based Tools for a Software Development Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Knowledge Acquisition and Communities of Practice: An Approach to Convert Individual Knowledge into Multi-organizational Knowledge."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Knowledge Management in an Enterprise-Oriented Software Development Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Managing Organizational Risk Knowledge."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "ACKNOWLEDGE: a Tool to Support Knowledge Capturing."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Cordis-FBC: An Enterprise-Oriented Software Development Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Managing Organizational Risk Knowledge."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Gestão de Conhecimento em Ambientes de Desenvolvimento de Software."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "A Domain-Oriented Software Development Environment for Cardiology."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1999"
+      },
+      {
+        "title": [
+          "An O.O. Software Engineering Training Experience within a Collaboration Project between Academia and Industry."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      },
+      {
+        "title": [
+          "Memphis: A Reuse Based O.O. Software Development Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1997"
+      }
+    ]
+  },
+  "Carlos Eduardo Pedreira": {
+    "Felipe M. G. França": [
+      {
+        "title": [
+          "The Exact VC Dimension of the WiSARD n-Tuple Classifier."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "A universal multilingual weightless neural network tagger via quantitative linguistics."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Financial credit analysis via a clustering weightless neural classifier."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Credit analysis with a clustering RAM-based neural classifier."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      }
+    ],
+    "Priscila Machado Vieira Lima": [
+      {
+        "title": [
+          "The Exact VC Dimension of the WiSARD n-Tuple Classifier."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "A universal multilingual weightless neural network tagger via quantitative linguistics."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Financial credit analysis via a clustering weightless neural classifier."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Credit analysis with a clustering RAM-based neural classifier."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      }
+    ]
+  },
+  "Celina M. H. de Figueiredo": {
+    "Franklin L. Marquezino": [
+      {
+        "title": [
+          "The graph tessellation cover number: Chromatic bounds, efficient algorithms and hardness."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2020"
+      },
+      {
+        "title": [
+          "The Tessellation Cover Number of Good Tessellable Graphs."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "The Graph Tessellation Cover Number: Extremal Bounds, Efficient Algorithms and Hardness."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "The tessellation problem of quantum walks."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "The graph tessellation cover number: extremal bounds, efficient algorithms and hardness."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "A new reversible circuit synthesis algorithm based on cycle representations of permutations."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Cayley graphs and analysis of quantum cost for reversible circuit synthesis."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2012"
+      }
+    ],
+    "Jayme Luiz Szwarcfiter": [
+      {
+        "title": [
+          "On probe co-bipartite and probe diamond-free graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Graph theory and algorithms - Fourth Latin-American Workshop on Cliques in Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "On the generation of bicliques of a graph."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Generating bicliques of a graph in lexicographic order."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "On the generation of bicliques of a graph."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "On the Generation of Bicliques of a Graph."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "The stable marriage problem with restricted pairs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "A note on transitive orientations with maximum sets of sources and sinks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Stable marriages with restricted pairs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "Even and Odd Pairs in Comparability and in P4-comparability Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1999"
+      },
+      {
+        "title": [
+          "Linear-time Algorithms for Maximum Sets of Sources and sinks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1999"
+      }
+    ],
+    "Márcia R. Cerioli": [
+      {
+        "title": [
+          "Tree loop graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Non loop graphs with induced cycles."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Loop Graphs and Asteroidal Sets."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Tree Loop Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "The Homogeneous Set Sandwich Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1998"
+      }
+    ],
+    "Sulamita Klein": [
+      {
+        "title": [
+          "The chain graph sandwich problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "2K",
+          " vertex-set partition into nonempty parts."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Advances on the List Stubborn Problem."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "2K",
+          " vertex-set partition into nonempty parts."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "On the complexity of the sandwich problems for strongly chordal graphs and chordal bipartite graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Extended skew partition problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Finding H-partitions efficiently."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "The perfection and recognition of bull-reducible Berge graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Stable skew partition problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "The graph sandwich problem for 1-join composition is NP-complete."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Bull-Reducible Berge Graphs are Perfect."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "The graph sandwich problem for 1-join composition is NP-complete."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2000"
+      },
+      {
+        "title": [
+          "Finding Skew Partitions Efficiently."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2000"
+      },
+      {
+        "title": [
+          "Finding Skew Partitions Efficiently."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      },
+      {
+        "title": [
+          "The Homogeneous Set Sandwich Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1998"
+      }
+    ]
+  },
+  "Claudio Esperança": {
+    "Alexandre A. B. Lima": [
+      {
+        "title": [
+          "A Parallel Spatial Join Framework Using PMR-Quadtrees."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ],
+    "Marta Mattoso": [
+      {
+        "title": [
+          "A Parallel Spatial Join Framework Using PMR-Quadtrees."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ],
+    "Ricardo C. Farias": [
+      {
+        "title": [
+          "Volume and Isosurface Rendering with GPU-Accelerated Cell Projection*."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "GPU-based cell projection for large structured data sets."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "GPU-Based Cell Projection for Interactive Volume Rendering."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "3D Free-form Modeling with Variational Surfaces."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Loop Snakes: Snakes with Enhanced Topology Control."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      }
+    ],
+    "Ricardo Marroquim": [
+      {
+        "title": [
+          "OMiCroN - Oblique Multipass Hierarchy Creation while Navigating."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Image Space Rendering of Point Clouds Using the HPR Operator."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Lazy Work Stealing for Continuous Hierarchy Traversal on Deformable Bodies."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Forensic Facial Reconstruction Using Mesh Template Deformation with Detail Transfer over HRBF."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Enhanced Target Driven Smoke Morphing."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Volume and Isosurface Rendering with GPU-Accelerated Cell Projection*."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Point-based level-of-detail with object textures."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "GPU-based cell projection for large structured data sets."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "GPU-Based Cell Projection for Interactive Volume Rendering."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Multi-Resolution Triangulations with Adaptation to the Domain Based on Physical Compression."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      }
+    ]
+  },
+  "Claudio Luis de Amorim": {
+    "Felipe M. G. França": [
+      {
+        "title": [
+          "Interest-centric vehicular ad hoc network."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "RAdNet-VE: An Interest-Centric Mobile Ad Hoc Network for Vehicular Environments."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "An FPGA-Based Fan Beam Image Reconstruction Module."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1999"
+      },
+      {
+        "title": [
+          "Implementation of RNS Addition and RNS Multiplication into FPGAs."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      }
+    ],
+    "Marta Mattoso": [
+      {
+        "title": [
+          "Evaluating the DSMIO Cache-Coherence Algorithm in Cluster-Based Parallel ODBMS."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Avaliação de Sistemas de Coerência de Cache em Arquiteturas ODBMs Cliente-Servidor."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Avaliação do Algoritmo de Coerência de Cache de Disco DSMIO."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ],
+    "Priscila Machado Vieira Lima": [
+      {
+        "title": [
+          "Hardware Supported Synchronization Primitives for Clusters."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      }
+    ]
+  },
+  "Cláudia Maria Lima Werner": {
+    "Ana Regina Cavalcanti da Rocha": [
+      {
+        "title": [
+          "An O.O. Software Engineering Training Experience within a Collaboration Project between Academia and Industry."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      },
+      {
+        "title": [
+          "Memphis: A Reuse Based O.O. Software Development Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1997"
+      }
+    ],
+    "Gerson Zaverucha": [
+      {
+        "title": [
+          "Object Oriented Design Expertise Reuse: An Approach Based on Heuristics, Design Patterns and Anti-patterns."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ],
+    "Guilherme Horta Travassos": [
+      {
+        "title": [
+          "Verification of Software Product Line Artefacts: A Checklist to Support Feature Model Inspections."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Checklist-Based Inspection Technique for Feature Models Review."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Towards supporting the life cycle of large scale scientific experiments."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Supporting risks in software project management."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "A system dynamics metamodel for software process modeling."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Project Management Knowledge Reuse through Scenario Models."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Scenario Oriented Project Management Knowledge Reuse within a Risk Analysis Process."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "An O.O. Software Engineering Training Experience within a Collaboration Project between Academia and Industry."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      },
+      {
+        "title": [
+          "Memphis: A Reuse Based O.O. Software Development Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1997"
+      }
+    ],
+    "Jano Moreira de Souza": [
+      {
+        "title": [
+          "Developing Digital Games through Software Reuse."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      }
+    ],
+    "Marta Mattoso": [
+      {
+        "title": [
+          "ProvManager: a provenance management system for scientific workflows."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Challenges in Managing Implicit and Abstract Provenance Data: Experiences with ProvManager."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Towards supporting the life cycle of large scale scientific experiments."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Integrating Provenance Data from Distributed Workflow Systems with ProvManager."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "A Strategy for Provenance Gathering in Distributed Scientific Workflows."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Experiment Line: Software Reuse in Scientific Workflows."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Using Provenance to Improve Workflow Design."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Odyssey-Search: A multi-agent system for component information search and retrieval."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Ariane: An Awareness Mechanism for Shared Databases."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "OdysseyShare: An Environment for Collaborative Component-Based Development."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Software Components Retrieval Through Mediators and Web Search."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "The use of mediation and ontology technologies for software component information retrieval."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "Software Components Reuse Through Web Search and Retrieval."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "Using Ontologies for Domain Information Retrieval."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ],
+    "Toacy Cavalcante de Oliveira": [
+      {
+        "title": [
+          "Model-driven engineering ecosystems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Building the foundations for 'MDE as Service'."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Revisiting Criteria for Description of MDE Artifacts."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Automated Approach for Asset Integration in Eclipse IDE."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Towards facilities to introduce solutions for MDE in development environments with reusable assets."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "A Common Representation for Reuse Assistants."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "From applications to a software ecosystem platform: an exploratory study."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "How do You Execute Reuse Tasks Among Tools?"
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Towards Coupled Evolution of Metamodels, Models, Graph-Based Transformations and Traceability Links (S)."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Ensuring consistency of feature-based decisions with a business rule system."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "An analysis of change operations to achieve consistency in model-driven software product lines."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      }
+    ]
+  },
+  "Daniel R. Figueiredo": {
+    "Edmundo de Souza e Silva": [
+      {
+        "title": [
+          "Heterogeneous download times in a homogeneous BitTorrent swarm."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Characterizing continuous time random walks on time varying graphs."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Characterizing continuous-time random walks on dynamic networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Heterogeneous download times in a homogeneous BitTorrent swarm."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Characterizing Random Walks on Dynamic Graphs."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "The TANGRAMII integrated modeling environment for computer systems and networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "An evolutionary game-theoretic approach to congestion control."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      }
+    ],
+    "Felipe M. G. França": [
+      {
+        "title": [
+          "A robust gradient clock synchronization algorithm for wireless sensor networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Two ID-Free Distributed Distance-2 Edge Coloring Algorithms for WSNs."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      }
+    ],
+    "Rosa Maria Meri Leão": [
+      {
+        "title": [
+          "The TANGRAMII integrated modeling environment for computer systems and networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      }
+    ],
+    "Valmir Carneiro Barbosa": [
+      {
+        "title": [
+          "Approximating the degree sequences of two random graphs."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2016"
+      }
+    ]
+  },
+  "Edmundo de Souza e Silva": {
+    "Daniel R. Figueiredo": [
+      {
+        "title": [
+          "Heterogeneous download times in a homogeneous BitTorrent swarm."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Characterizing continuous time random walks on time varying graphs."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Characterizing continuous-time random walks on dynamic networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Heterogeneous download times in a homogeneous BitTorrent swarm."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Characterizing Random Walks on Dynamic Graphs."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "The TANGRAMII integrated modeling environment for computer systems and networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "An evolutionary game-theoretic approach to congestion control."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      }
+    ],
+    "Rosa Maria Meri Leão": [
+      {
+        "title": [
+          "On the scalability of P2P swarming systems."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Enabling opportunistic search and placement in cache networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "An experimental reality check on the scaling laws of swarming systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Assessing survivability to support power grid investment decisions."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Search and Placement in Tiered Cache Networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "A Preliminary Performance Measurement Study of Residential Broadband Services in Brazil."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Search and Placement in Tiered Cache Networks."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Flexible Content Placement in Cache Networks using Reinforced Counters."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Assessing survivability of smart grid distribution network designs accounting for multiple failures."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "On the Service Capacity of P2P Systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Scalability Issues in P2P Systems."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Efficient Transient Analysis of Markovian Models Using a Block Reduction Approach."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Experience with model-based performance, reliability, and adaptability assessment of a complex industrial architecture."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "On the Interplay between Content Popularity and Performance in P2P Systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Survivability models for the assessment of smart grid distribution automation network designs."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Enabling Information Centric Networks through Opportunistic Search, Routing and Caching."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Survivability analysis of power distribution in smart grids with active and reactive power modeling."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Automated generation of test cases using a performability model."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Experience building non-functional requirement models of a complex industrial architecture (abstracts only)."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Implications of peer selection strategies by publishers on the performance of P2P swarming systems."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Experience building non-functional requirement models of a complex industrial architecture."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Estimating self-sustainability in peer-to-peer swarming systems."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Effect of Varying the Intra-Frame Packet Burstiness on the Performance of Wireless Video Streaming."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Experience with a New Architecture Review Process Using a Globally Distributed Architecture Review Team."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Performance Evaluation with Hidden Markov Models."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Estimating Self-Sustainability in Peer-to-Peer Swarming Systems."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "The TANGRAMII integrated modeling environment for computer systems and networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Modeling chunk availability in P2P swarming systems."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Quality assessment of interactive voice applications."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "User Level Fairness of a Multirate 3G Technology (EVDO) With Application to Digital TV Return Channel Technology."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Reliability estimation for large distributed software systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Modeling Resource Sharing Dynamics of VoIP Users over a WLAN Using a Game-Theoretic Approach."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "The Effect of Mobility on the User-Level Fairness of a 3G Wireless Technology (EV-DO)."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Extending model transformations in the performance domain with a node modeling library."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "An End-to-End Technique to Estimate the Transmission Rate of an IEEE 802.11 WLAN."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "A Non-cooperative Active Measurement Technique for Estimating the Average and Variance of the One-Way Delay."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "On the Use of Cellular Technology for Digital TV Bi-Directional Return Channel Services."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Modeling, analysis, measurement and experimentation with the Tangram-II integrated environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "An efficient approximate technique for solving fluid models."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "The required capacity distribution for the patching bandwidth sharing technique."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Performance Issues of Multimedia Applications."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Transient analysis applied to traffic modeling."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "A Set of Tools for Traffic Modeling, Analysis and Experimentation."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      },
+      {
+        "title": [
+          "The TANGRAM-II Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ]
+  },
+  "Felipe M. G. França": {
+    "Abilio Lucena": [
+      {
+        "title": [
+          "Minimum Concurrency for Assembling Computer Music."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      }
+    ],
+    "Adilson Elias Xavier": [
+      {
+        "title": [
+          "A hyperbolic smoothing approach to the Multisource Weber problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      }
+    ],
+    "Carlos Eduardo Pedreira": [
+      {
+        "title": [
+          "The Exact VC Dimension of the WiSARD n-Tuple Classifier."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "A universal multilingual weightless neural network tagger via quantitative linguistics."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Financial credit analysis via a clustering weightless neural classifier."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Credit analysis with a clustering RAM-based neural classifier."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      }
+    ],
+    "Claudio Luis de Amorim": [
+      {
+        "title": [
+          "Interest-centric vehicular ad hoc network."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "RAdNet-VE: An Interest-Centric Mobile Ad Hoc Network for Vehicular Environments."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "An FPGA-Based Fan Beam Image Reconstruction Module."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1999"
+      },
+      {
+        "title": [
+          "Implementation of RNS Addition and RNS Multiplication into FPGAs."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      }
+    ],
+    "Daniel R. Figueiredo": [
+      {
+        "title": [
+          "A robust gradient clock synchronization algorithm for wireless sensor networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Two ID-Free Distributed Distance-2 Edge Coloring Algorithms for WSNs."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      }
+    ],
+    "Jayme Luiz Szwarcfiter": [
+      {
+        "title": [
+          "On Computing All Maximal Cliques Distributedly."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1997"
+      }
+    ],
+    "José Ferreira de Rezende": [
+      {
+        "title": [
+          "On the security aspects of Internet of Things: A systematic literature review."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      }
+    ],
+    "Luidi Simonetti": [
+      {
+        "title": [
+          "Minimum Concurrency for Assembling Computer Music."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      }
+    ],
+    "Luís Felipe M. de Moraes": [
+      {
+        "title": [
+          "On the security aspects of Internet of Things: A systematic literature review."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      }
+    ],
+    "Nelson Maculan": [
+      {
+        "title": [
+          "A Distributed Dynamics for WebGraph Decontamination."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      }
+    ],
+    "Priscila Machado Vieira Lima": [
+      {
+        "title": [
+          "The Exact VC Dimension of the WiSARD n-Tuple Classifier."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Action Units Classification Using ClusWiSARD."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Near-optimal facial emotion classification using a WiSARD-based weightless system."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "Prescription of rhythmic patterns for legged locomotion."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "A universal multilingual weightless neural network tagger via quantitative linguistics."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Financial credit analysis via a clustering weightless neural classifier."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Multilingual part-of-speech tagging with weightless neural networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Real-Time Music Tracking Based on a Weightless Neural Network."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "A WiSARD-based multi-term memory framework for online tracking of objects."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "A hyperbolic smoothing approach to the Multisource Weber problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Extracting Semantic Information from Patent Claims Using Phrasal Structure Annotations."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Spatio-temporal Pattern Classification with KernelCanvas and WiSARD."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Credit analysis with a clustering RAM-based neural classifier."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Online tracking of multiple objects using WiSARD."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Advances on Weightless Neural Systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "A legged central pattern generation model for autonomous gait transition."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "WIPS: the WiSARD Indoor Positioning System."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "B-bleaching: Agile Overtraining Avoidance in the WiSARD Weightless Neural Classifier."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Recognition of HIV-1 subtypes and antiretroviral drug resistance using weightless neural networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "The Effect of Intelligent Escape on Distributed SER-Based Search."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "A Weightless Neural Network-Based Approach for Stream Data Clustering."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Clustering data streams with weightless neural networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Producing pattern examples from \"mental\" images."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "WANN-Tagger - A Weightless Artificial Neural Network Tagger for the Portuguese Language."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "A Distributed Dynamics for WebGraph Decontamination."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "A brief introduction to Weightless Neural Systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Extracting fuzzy rules from \"mental\" images generated by a modified WISARD perceptron."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Logical Reasoning via Satisfiability Mapped into Energy Functions."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "The Influence of Order on a Large Bag of Words."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Logic as Energy: A SAT-Based Approach."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Mapping and Combining Combinatorial Problems into Energy Landscapes via Pseudo-Boolean Constraints."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "SATyrus: A SAT-based Neuro-Symbolic Architecture for Constraint Processing."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      }
+    ],
+    "Valmir Carneiro Barbosa": [
+      {
+        "title": [
+          "Early detection of epilepsy seizures based on a weightless neural network."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Effectively addressing complex proteomic search spaces with peptide spectrum matching."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Sharing Resources at Nonuniform Access Rates."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2001"
+      }
+    ]
+  },
+  "Franklin L. Marquezino": {
+    "Celina M. H. de Figueiredo": [
+      {
+        "title": [
+          "The graph tessellation cover number: Chromatic bounds, efficient algorithms and hardness."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2020"
+      },
+      {
+        "title": [
+          "The Tessellation Cover Number of Good Tessellable Graphs."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "The Graph Tessellation Cover Number: Extremal Bounds, Efficient Algorithms and Hardness."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "The tessellation problem of quantum walks."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "The graph tessellation cover number: extremal bounds, efficient algorithms and hardness."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "A new reversible circuit synthesis algorithm based on cycle representations of permutations."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Cayley graphs and analysis of quantum cost for reversible circuit synthesis."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2012"
+      }
+    ]
+  },
+  "Fábio Botler": {},
+  "Geraldo Xexéo": {
+    "Ana Regina Cavalcanti da Rocha": [
+      {
+        "title": [
+          "A Web Process Support System For Distributed Working Groups."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      }
+    ],
+    "Geraldo Zimbrão": [
+      {
+        "title": [
+          "Buzzword detection in the scientific scenario."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "A P2P Approach for Business Process Modelling and Reuse."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      }
+    ],
+    "Jano Moreira de Souza": [
+      {
+        "title": [
+          "Evaluation of a GWAP for Social Recruitment and Measurement of Musical Talent."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Analyzing Knowledge Codification for Planning Military Operations."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Multi-criteria Analysis Applied to the Inspection of Aedes Aegypti Mosquito Breeding Places."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "Bringing knowledge into recommender systems."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Cassino musical: A game with a purpose for social recruitment and measurement of musical talent."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Towards a Framework for Crowdsourced Collection, Cleaning and Measurement of Digital Content."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "A recommender system for metrics."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "A collaborative approach to build evaluated web page datasets."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Bringing knowledge into recommendation systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Emotions in Business Game: Case Study in Desafio Sebrae."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "ARARA - A collaborative tool to requirement change awarenes."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Discarding Similar Data with Autonomic Data Killing Framework Based on High-Level Petri Net Rules: An RSS Implementation."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Community-supported collaborative navigation with FoxPeer."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Collaborative process modeling and reuse evaluation."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Autonomic collaborative RSS: An implementation of autonomic data using data killing patterns."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Does conference participation lead to increased collaboration? A quantitative investigation."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "A collaborative approach to building evaluated web pages datasets."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Requirement-Based Costing with MDA."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "A Fuzzy Tool for Substituting Researchers."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Autonomic RSS: Discarding Irrelevant News."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "TIGRAS: A Topology-Independent Gradient Search Approach for Peer-to-Peer Key Look Up."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Autonomic Patterns: Modelling Data Killing Patterns Using High-Level Petri Nets."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Using Wavelets to Classify Documents."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "A Framework to Collaborative and Incremental Development of Distributed Information Systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Coppeer Documents: An Agent Based Approach to Collaborative and Incremental Development of Document Oriented Peer-to-peer Systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Dynamic Workflow Management for P2P Environments Using Agents."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Dynaflow: Agent-Based Dynamic Workflow Management for P2P Environments."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "A P2P Approach for Business Process Modelling and Reuse."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Using Autonomic Computing and Click Stream Analysis for Problem Identification in Continuous Production."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Olympus: Personal Knowledge Recommendation Using Agents, Ontologies and Web Mining."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Building a Personal Knowledge Recommendation System using Agents, Learning Ontologies and Web Mining."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Supporting Student-Supervisor Scientific Collaboration."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Towards an Emergence Approach to Software Systems Design."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Building Tools for Emergent Design with COPPEER."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "COE: A collaborative ontology editor based on a peer-to-peer framework."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "CEJ - An Environment for Flexible Definition and Execution of Scientific Publication Processes."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      }
+    ],
+    "Marta Mattoso": [
+      {
+        "title": [
+          "Semi-Supervised Clustering of XML Documents: Getting the Most from Structural Information."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "XVI Simpósio Brasileiro de Banco de Dados, 1-3 Outubro 2001, Rio de Janeiro, Brasil, Anais/Proceedings."
+        ],
+        "type_of_publication": "entry editor toc",
+        "year": "2001"
+      }
+    ],
+    "Priscila Machado Vieira Lima": [
+      {
+        "title": [
+          "Playing with Robots Using Your Brain."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2018"
+      }
+    ],
+    "Valmir Carneiro Barbosa": [
+      {
+        "title": [
+          "A Distributed System for SearchOnMath Based on the Microsoft BizSpark Program."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "A distributed system for SearchOnMath based on the Microsoft BizSpark program."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "The network structure of mathematical knowledge according to the Wikipedia, MathWorld, and DLMF online libraries."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "The network structure of mathematical knowledge according to the Wikipedia, MathWorld, and DLMF online libraries."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2012"
+      }
+    ]
+  },
+  "Geraldo Zimbrão": {
+    "Geraldo Xexéo": [
+      {
+        "title": [
+          "Buzzword detection in the scientific scenario."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "A P2P Approach for Business Process Modelling and Reuse."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      }
+    ],
+    "Jano Moreira de Souza": [
+      {
+        "title": [
+          "Rational Erdös number and maximum flow as measurement models for scientific social network analysis."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "Data abstraction and centrality measures to scientific social network analysis."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Applying data mining techniques for spatial distribution analysis of plant species co-occurrences."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Information Extraction to improve Link Prediction in scientific social networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Exchanging Solutions for Information Systems Development using a Model Pattern Perspective - Diagram Templates in the Context of the Mdarte Collaborative Evolution Process."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "A crowdsourcing approach to the design of Virtual Research Environments."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Collaborative evolution process in MDArte: Exchanging solutions for information systems development among projects."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "The MDArte Experience - Organizational Aspects Acquired from a Successful Partnership between Government and Academia using Model-Driven Development."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Group and link analysis of multi-relational scientific social networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Modeling, Mining and Analysis of Multi-Relational Scientific Social Network."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Collaborative support embedded in information system through automatic code generation."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Identifying Workgroups in Brazilian Scientific Social Networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Evaluating knowledge flow in multirelational scientific social networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Model-Driven Architecture Approach for Data Warehouse."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Exploring Calendar-Based Pattern Mining in Data Streams."
+        ],
+        "type_of_publication": "entry incollection toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Analysis and visualization of the geographical distribution of atlantic forest bromeliads species."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Mining and analyzing organizational social networks for collaborative design."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Mining and Analyzing Multirelational Social Networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Mining and Analyzing Organizational Social Networks Using Minimum Spanning Tree."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "An MDA Approach for Database Profiling and Performance Assessment."
+        ],
+        "type_of_publication": "entry incollection toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Autonomic Business Processes Scalable Architecture."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "DWFIST: Leveraging Calendar-Based Pattern Mining in Data Streams."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Desenvolvimento de SIG para Web utilizando MDA."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Extensão do WEKA para Métodos de Agrupamento com Restrição de Contigüidade do Rio de Janeiro."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "A P2P Approach for Business Process Modelling and Reuse."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Approximate Query Processing in Spatial Databases Using Raster Signatures."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Filtering with raster signatures."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Building the Data Warehouse of Frequent Itemsets in the DWFIST Approach."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Estimating the Overlapping Area of Polygon Join."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Efficient Processing of Spatiotemporal Joins."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Polygon and Polyline Join Using Raster Filters."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Approximate Spatial Query Processing using Raster Signatures."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Polyline Spatial Join Evaluation Using Raster Approximation."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Enforcement of Business Rules in Relational Databases Using Constraints."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Processamento Eficiente de Junções Espaçotemporais."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "A Raster Approximation for Processing of Polyline Joins."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      },
+      {
+        "title": [
+          "A Raster Approximation For Processing of Spatial Joins."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      }
+    ],
+    "Marta Mattoso": [
+      {
+        "title": [
+          "Adaptive Normalization: A novel data normalization approach for non-stationary time series."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Neural networks cartridges for data mining on time series."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      }
+    ]
+  },
+  "Gerson Zaverucha": {
+    "Cláudia Maria Lima Werner": [
+      {
+        "title": [
+          "Object Oriented Design Expertise Reuse: An Approach Based on Heuristics, Design Patterns and Anti-patterns."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ],
+    "Marta Mattoso": [
+      {
+        "title": [
+          "A Distribution Design Methodology for Object DBMS."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Applying Theory Revision to the Design of Distributed Databases."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Towards a Theory Revision Approach for the Vertical Fragmentation of Object Oriented Databases."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "A Framework for the Design of Distributed Databases."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Towards an Inductive Design of Distributed Object Oriented Databases."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      }
+    ],
+    "Priscila Machado Vieira Lima": [
+      {
+        "title": [
+          "Neural-Symbolic Learning and Reasoning: A Survey and Interpretation."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2017"
+      }
+    ],
+    "Valmir Carneiro Barbosa": [
+      {
+        "title": [
+          "Learning Logic Programs with Neural Networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "Towards a Hybrid Model of First-Order Theory Refinement."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      },
+      {
+        "title": [
+          "A Penalty-Function Approach to Rule Extraction from Knowledge-Based Neural Networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      }
+    ]
+  },
+  "Guilherme Horta Travassos": {
+    "Ana Regina Cavalcanti da Rocha": [
+      {
+        "title": [
+          "Towards Successful Software Process Improvement Initiatives: Experiences from the Battlefield."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "MPS.BR Program and MPS Model: Main Results, Benefits and Beneficiaries of Software Process Improvement in Brazil."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "MPS.BR: A Tale of Software Process Improvement and Performance Results in the Brazilian Software Industry."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Use of Ontologies in Software Development Environments."
+        ],
+        "type_of_publication": "entry incollection toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "The Use of an Enterprise Ontology to Support Knowledge Management in Software Development Environments."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Enterprise-Oriented Software Development Environments to Support Software Products and Processes Quality Improvement."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "On the Importance Attributed to Different Knowledge in Software Development Environments."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Knowledge Management in a Software Development Environment to Support Software Processes Deployment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Domain-oriented software development environment."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Building Ontology Based Tools for a Software Development Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Knowledge Acquisition and Communities of Practice: An Approach to Convert Individual Knowledge into Multi-organizational Knowledge."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Knowledge Management in an Enterprise-Oriented Software Development Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Managing Organizational Risk Knowledge."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "ACKNOWLEDGE: a Tool to Support Knowledge Capturing."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Cordis-FBC: An Enterprise-Oriented Software Development Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Managing Organizational Risk Knowledge."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Gestão de Conhecimento em Ambientes de Desenvolvimento de Software."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "A Domain-Oriented Software Development Environment for Cardiology."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1999"
+      },
+      {
+        "title": [
+          "An O.O. Software Engineering Training Experience within a Collaboration Project between Academia and Industry."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      },
+      {
+        "title": [
+          "Memphis: A Reuse Based O.O. Software Development Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1997"
+      }
+    ],
+    "Cláudia Maria Lima Werner": [
+      {
+        "title": [
+          "Verification of Software Product Line Artefacts: A Checklist to Support Feature Model Inspections."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Checklist-Based Inspection Technique for Feature Models Review."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Towards supporting the life cycle of large scale scientific experiments."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Supporting risks in software project management."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "A system dynamics metamodel for software process modeling."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Project Management Knowledge Reuse through Scenario Models."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Scenario Oriented Project Management Knowledge Reuse within a Risk Analysis Process."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "An O.O. Software Engineering Training Experience within a Collaboration Project between Academia and Industry."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      },
+      {
+        "title": [
+          "Memphis: A Reuse Based O.O. Software Development Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1997"
+      }
+    ],
+    "Marta Mattoso": [
+      {
+        "title": [
+          "Towards supporting the life cycle of large scale scientific experiments."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      }
+    ]
+  },
+  "Henrique Luiz Cukierman": {
+    "Jano Moreira de Souza": [
+      {
+        "title": [
+          "Perspectives on Creativity in Web learning."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      }
+    ]
+  },
+  "Jano Moreira de Souza": {
+    "Cláudia Maria Lima Werner": [
+      {
+        "title": [
+          "Developing Digital Games through Software Reuse."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      }
+    ],
+    "Geraldo Xexéo": [
+      {
+        "title": [
+          "Evaluation of a GWAP for Social Recruitment and Measurement of Musical Talent."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Analyzing Knowledge Codification for Planning Military Operations."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Multi-criteria Analysis Applied to the Inspection of Aedes Aegypti Mosquito Breeding Places."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "Bringing knowledge into recommender systems."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Cassino musical: A game with a purpose for social recruitment and measurement of musical talent."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Towards a Framework for Crowdsourced Collection, Cleaning and Measurement of Digital Content."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "A recommender system for metrics."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "A collaborative approach to build evaluated web page datasets."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Bringing knowledge into recommendation systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Emotions in Business Game: Case Study in Desafio Sebrae."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "ARARA - A collaborative tool to requirement change awarenes."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Discarding Similar Data with Autonomic Data Killing Framework Based on High-Level Petri Net Rules: An RSS Implementation."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Community-supported collaborative navigation with FoxPeer."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Collaborative process modeling and reuse evaluation."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Autonomic collaborative RSS: An implementation of autonomic data using data killing patterns."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Does conference participation lead to increased collaboration? A quantitative investigation."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "A collaborative approach to building evaluated web pages datasets."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Requirement-Based Costing with MDA."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "A Fuzzy Tool for Substituting Researchers."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Autonomic RSS: Discarding Irrelevant News."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "TIGRAS: A Topology-Independent Gradient Search Approach for Peer-to-Peer Key Look Up."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Autonomic Patterns: Modelling Data Killing Patterns Using High-Level Petri Nets."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Using Wavelets to Classify Documents."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "A Framework to Collaborative and Incremental Development of Distributed Information Systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Coppeer Documents: An Agent Based Approach to Collaborative and Incremental Development of Document Oriented Peer-to-peer Systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Dynamic Workflow Management for P2P Environments Using Agents."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Dynaflow: Agent-Based Dynamic Workflow Management for P2P Environments."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "A P2P Approach for Business Process Modelling and Reuse."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Using Autonomic Computing and Click Stream Analysis for Problem Identification in Continuous Production."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Olympus: Personal Knowledge Recommendation Using Agents, Ontologies and Web Mining."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Building a Personal Knowledge Recommendation System using Agents, Learning Ontologies and Web Mining."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Supporting Student-Supervisor Scientific Collaboration."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Towards an Emergence Approach to Software Systems Design."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Building Tools for Emergent Design with COPPEER."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "COE: A collaborative ontology editor based on a peer-to-peer framework."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "CEJ - An Environment for Flexible Definition and Execution of Scientific Publication Processes."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      }
+    ],
+    "Geraldo Zimbrão": [
+      {
+        "title": [
+          "Rational Erdös number and maximum flow as measurement models for scientific social network analysis."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "Data abstraction and centrality measures to scientific social network analysis."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Applying data mining techniques for spatial distribution analysis of plant species co-occurrences."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Information Extraction to improve Link Prediction in scientific social networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Exchanging Solutions for Information Systems Development using a Model Pattern Perspective - Diagram Templates in the Context of the Mdarte Collaborative Evolution Process."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "A crowdsourcing approach to the design of Virtual Research Environments."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Collaborative evolution process in MDArte: Exchanging solutions for information systems development among projects."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "The MDArte Experience - Organizational Aspects Acquired from a Successful Partnership between Government and Academia using Model-Driven Development."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Group and link analysis of multi-relational scientific social networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Modeling, Mining and Analysis of Multi-Relational Scientific Social Network."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Collaborative support embedded in information system through automatic code generation."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Identifying Workgroups in Brazilian Scientific Social Networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Evaluating knowledge flow in multirelational scientific social networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Model-Driven Architecture Approach for Data Warehouse."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Exploring Calendar-Based Pattern Mining in Data Streams."
+        ],
+        "type_of_publication": "entry incollection toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Analysis and visualization of the geographical distribution of atlantic forest bromeliads species."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Mining and analyzing organizational social networks for collaborative design."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Mining and Analyzing Multirelational Social Networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Mining and Analyzing Organizational Social Networks Using Minimum Spanning Tree."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "An MDA Approach for Database Profiling and Performance Assessment."
+        ],
+        "type_of_publication": "entry incollection toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Autonomic Business Processes Scalable Architecture."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "DWFIST: Leveraging Calendar-Based Pattern Mining in Data Streams."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Desenvolvimento de SIG para Web utilizando MDA."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Extensão do WEKA para Métodos de Agrupamento com Restrição de Contigüidade do Rio de Janeiro."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "A P2P Approach for Business Process Modelling and Reuse."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Approximate Query Processing in Spatial Databases Using Raster Signatures."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Filtering with raster signatures."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Building the Data Warehouse of Frequent Itemsets in the DWFIST Approach."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Estimating the Overlapping Area of Polygon Join."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Efficient Processing of Spatiotemporal Joins."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Polygon and Polyline Join Using Raster Filters."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Approximate Spatial Query Processing using Raster Signatures."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Polyline Spatial Join Evaluation Using Raster Approximation."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Enforcement of Business Rules in Relational Databases Using Constraints."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Processamento Eficiente de Junções Espaçotemporais."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "A Raster Approximation for Processing of Polyline Joins."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      },
+      {
+        "title": [
+          "A Raster Approximation For Processing of Spatial Joins."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      }
+    ],
+    "Henrique Luiz Cukierman": [
+      {
+        "title": [
+          "Perspectives on Creativity in Web learning."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      }
+    ],
+    "Ricardo C. Farias": [
+      {
+        "title": [
+          "GCE: Knowledge Management Applied in a Design Reengineering Process."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      }
+    ],
+    "Toacy Cavalcante de Oliveira": [
+      {
+        "title": [
+          "Investigating the collaborative support in CollabRDL: An analysis based on the 3C model."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "A survey of languages to represent collaboration as a means of designing CSCW facilities in RDL."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      }
+    ]
+  },
+  "Jayme Luiz Szwarcfiter": {
+    "Celina M. H. de Figueiredo": [
+      {
+        "title": [
+          "On probe co-bipartite and probe diamond-free graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Graph theory and algorithms - Fourth Latin-American Workshop on Cliques in Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "On the generation of bicliques of a graph."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Generating bicliques of a graph in lexicographic order."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "On the generation of bicliques of a graph."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "On the Generation of Bicliques of a Graph."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "The stable marriage problem with restricted pairs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "A note on transitive orientations with maximum sets of sources and sinks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Stable marriages with restricted pairs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "Even and Odd Pairs in Comparability and in P4-comparability Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1999"
+      },
+      {
+        "title": [
+          "Linear-time Algorithms for Maximum Sets of Sources and sinks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1999"
+      }
+    ],
+    "Felipe M. G. França": [
+      {
+        "title": [
+          "On Computing All Maximal Cliques Distributedly."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1997"
+      }
+    ],
+    "Márcia R. Cerioli": [
+      {
+        "title": [
+          "The interval count of interval graphs and orders: a short survey."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "On counting interval lengths of interval graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Extreme Cliques in Interval Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Linear-Interval Dimension and PI Orders."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Characterizing Intersection Graphs of Substars of a Star."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Edge clique graphs and some classes of chordal graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "A Characterization of Edge Clique Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2001"
+      }
+    ],
+    "Nelson Maculan": [
+      {
+        "title": [
+          "Distance geometry approach for special graph coloring problems."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Characterizing and Edge-colouring Split-indifference Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1998"
+      }
+    ],
+    "Sulamita Klein": [
+      {
+        "title": [
+          "The Arboreal Jump Number of an Order."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "A representation for the modular-pairs of a P",
+          "-reducible graph by modular decomposition."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "A representation for the modular-pairs of a cograph by modular decomposition."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "A Representation for the Modules of a Graph and applications."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2003"
+      }
+    ],
+    "Valmir Carneiro Barbosa": [
+      {
+        "title": [
+          "A computational study of f-reversible processes on graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "Generating all the Acyclic Orientations of an Undirected Graph."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1999"
+      }
+    ]
+  },
+  "José Ferreira de Rezende": {
+    "Felipe M. G. França": [
+      {
+        "title": [
+          "On the security aspects of Internet of Things: A systematic literature review."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      }
+    ],
+    "Luís Felipe M. de Moraes": [
+      {
+        "title": [
+          "On the security aspects of Internet of Things: A systematic literature review."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Evaluating fairness in aggregated traffic marking."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ],
+    "Valmir Carneiro Barbosa": [
+      {
+        "title": [
+          "Scheduling wireless links in the physical interference model by fractional edge coloring."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "Scheduling wireless links by vertex multicoloring in the physical interference model."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Scheduling wireless links by graph multicoloring in the physical interference model."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Cooperation in Cognitive Radio Networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Local heuristic for the refinement of multi-path routing in wireless mesh networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Scheduling links for heavy traffic on interfering routes in wireless mesh networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Local heuristic for the refinement of multi-path routing in wireless mesh networks."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Scheduling links for heavy traffic on interfering routes in wireless mesh networks."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2011"
+      }
+    ]
+  },
+  "Laura Bahiense": {
+    "Abilio Lucena": [
+      {
+        "title": [
+          "A New Lagrangian Based Branch and Bound Algorithm for the 0-1 Knapsack Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      }
+    ],
+    "Nelson Maculan": [
+      {
+        "title": [
+          "A Branch-and-Cut Algorithm for Equitable Coloring based on a Formulation by Representatives."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "The volume algorithm revisited: relation with bundle methods."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2002"
+      }
+    ]
+  },
+  "Luidi Simonetti": {
+    "Abilio Lucena": [
+      {
+        "title": [
+          "Minimum Concurrency for Assembling Computer Music."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Lagrangian heuristics for the Quadratic Knapsack Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "A strong symmetric formulation for the Min-degree Constrained Minimum Spanning Tree Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "The Tree-Star Problem: A Formulation and a Branch-and-Cut Algorithm."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Optimality cuts and a branch-and-cut algorithm for the K-rooted mini-max spanning forest problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Formulations and exact solution approaches for the degree preserving spanning tree problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Benders Decomposition, Branch-and-Cut, and Hybrid Algorithms for the Minimum Connected Dominating Set Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "The Degree Preserving Spanning Tree Problem: Valid Inequalities and Branch-and-cut method."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Formulating and Solving the Minimum Dominating Cycle Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "A New Formulation and Computational Results for the Simple Cycle Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Polyhedral results and a Branch-and-cut algorithm for the $$k$$ -cardinality tree problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Formulations and Branch-and-Cut Algorithm for the K-rooted Mini-Max Spanning Forest Problem."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "The Minimum Connected Dominating Set Problem: Formulation, Valid Inequalities and a Branch-and-Cut Algorithm."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Reformulations and solution algorithms for the maximum leaf spanning tree problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      }
+    ],
+    "Felipe M. G. França": [
+      {
+        "title": [
+          "Minimum Concurrency for Assembling Computer Music."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      }
+    ],
+    "Marcia Helena Costa Fampa": [
+      {
+        "title": [
+          "Bilevel optimization applied to strategic pricing in competitive electricity markets."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      }
+    ],
+    "Nelson Maculan": [
+      {
+        "title": [
+          "A new formulation for the Safe Set problem on graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Reformulations and solution algorithms for the maximum leaf spanning tree problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      }
+    ]
+  },
+  "Luís Felipe M. de Moraes": {
+    "Felipe M. G. França": [
+      {
+        "title": [
+          "On the security aspects of Internet of Things: A systematic literature review."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      }
+    ],
+    "José Ferreira de Rezende": [
+      {
+        "title": [
+          "On the security aspects of Internet of Things: A systematic literature review."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Evaluating fairness in aggregated traffic marking."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ]
+  },
+  "Marcia Helena Costa Fampa": {
+    "Luidi Simonetti": [
+      {
+        "title": [
+          "Bilevel optimization applied to strategic pricing in competitive electricity markets."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      }
+    ],
+    "Nelson Maculan": [
+      {
+        "title": [
+          "An overview of exact algorithms for the Euclidean Steiner tree problem in ",
+          "-space."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Semidefinite relaxation for linear programs with equilibrium constraints."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Using a Conic Formulation for Finding Steiner Minimal Trees."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "A New Relaxation in Conic Form for the Euclidean Steiner Problem in ℜ."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2001"
+      }
+    ],
+    "Sulamita Klein": [
+      {
+        "title": [
+          "Optimal grid representations."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      }
+    ]
+  },
+  "Marta Mattoso": {
+    "Alexandre A. B. Lima": [
+      {
+        "title": [
+          "Spark Scalability Analysis in a Scientific Workflow."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "SGProv: Summarization Mechanism for Multiple Provenance Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "SGProv: Mecanismo de Sumarização para Múltiplos Grafos de Proveniência."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Many task computing for orthologous genes identification in protozoan genomes using Hydra."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Distributed Database Research at COPPE/UFRJ."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "SciPhy: A Cloud-Based Workflow for Phylogenetic Analysis of Drug Targets in Protozoan Genomes."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Adaptive Virtual Partitioning for OLAP Query Processing in a Database Cluster."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Adaptive Virtual Partitioning: Further Developments."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Data parallelism in bioinformatics workflows using Hydra."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Athena: Text Mining Based Discovery of Scientific Workflows in Disperse Repositories."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Parallel OLAP query processing in database clusters with data replication."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Processamento de Alto Desempenho em Consultas sobre Bases de Dados Geoestatísticas Usando Replicação Parcial."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Parallel query processing for OLAP in grids."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Adaptive hybrid partitioning for OLAP query processing in a database cluster."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "High-Performance Query Processing of a Real-World OLAP Database with ParGRES."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Apuama: Combining Intra-query and Inter-query Parallelism in a Database Cluster."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Physical and Virtual Partitioning in OLAP Database Clusters."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "OLAP Query Processing in a Database Cluster."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Adaptive Virtual Partitioning for OLAP Query Processing in a Database Cluster."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "A Parallel Spatial Join Framework Using PMR-Quadtrees."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ],
+    "Claudio Esperança": [
+      {
+        "title": [
+          "A Parallel Spatial Join Framework Using PMR-Quadtrees."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ],
+    "Claudio Luis de Amorim": [
+      {
+        "title": [
+          "Evaluating the DSMIO Cache-Coherence Algorithm in Cluster-Based Parallel ODBMS."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Avaliação de Sistemas de Coerência de Cache em Arquiteturas ODBMs Cliente-Servidor."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Avaliação do Algoritmo de Coerência de Cache de Disco DSMIO."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ],
+    "Cláudia Maria Lima Werner": [
+      {
+        "title": [
+          "ProvManager: a provenance management system for scientific workflows."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Challenges in Managing Implicit and Abstract Provenance Data: Experiences with ProvManager."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Towards supporting the life cycle of large scale scientific experiments."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Integrating Provenance Data from Distributed Workflow Systems with ProvManager."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "A Strategy for Provenance Gathering in Distributed Scientific Workflows."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Experiment Line: Software Reuse in Scientific Workflows."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Using Provenance to Improve Workflow Design."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Odyssey-Search: A multi-agent system for component information search and retrieval."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Ariane: An Awareness Mechanism for Shared Databases."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "OdysseyShare: An Environment for Collaborative Component-Based Development."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Software Components Retrieval Through Mediators and Web Search."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "The use of mediation and ontology technologies for software component information retrieval."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "Software Components Reuse Through Web Search and Retrieval."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "Using Ontologies for Domain Information Retrieval."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ],
+    "Geraldo Xexéo": [
+      {
+        "title": [
+          "Semi-Supervised Clustering of XML Documents: Getting the Most from Structural Information."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "XVI Simpósio Brasileiro de Banco de Dados, 1-3 Outubro 2001, Rio de Janeiro, Brasil, Anais/Proceedings."
+        ],
+        "type_of_publication": "entry editor toc",
+        "year": "2001"
+      }
+    ],
+    "Geraldo Zimbrão": [
+      {
+        "title": [
+          "Adaptive Normalization: A novel data normalization approach for non-stationary time series."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Neural networks cartridges for data mining on time series."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      }
+    ],
+    "Gerson Zaverucha": [
+      {
+        "title": [
+          "A Distribution Design Methodology for Object DBMS."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Applying Theory Revision to the Design of Distributed Databases."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2003"
+      },
+      {
+        "title": [
+          "Towards a Theory Revision Approach for the Vertical Fragmentation of Object Oriented Databases."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "A Framework for the Design of Distributed Databases."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Towards an Inductive Design of Distributed Object Oriented Databases."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      }
+    ],
+    "Guilherme Horta Travassos": [
+      {
+        "title": [
+          "Towards supporting the life cycle of large scale scientific experiments."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      }
+    ]
+  },
+  "Márcia R. Cerioli": {
+    "Celina M. H. de Figueiredo": [
+      {
+        "title": [
+          "Tree loop graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Non loop graphs with induced cycles."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Loop Graphs and Asteroidal Sets."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Tree Loop Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "The Homogeneous Set Sandwich Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1998"
+      }
+    ],
+    "Jayme Luiz Szwarcfiter": [
+      {
+        "title": [
+          "The interval count of interval graphs and orders: a short survey."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "On counting interval lengths of interval graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Extreme Cliques in Interval Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Linear-Interval Dimension and PI Orders."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Characterizing Intersection Graphs of Substars of a Star."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Edge clique graphs and some classes of chordal graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "A Characterization of Edge Clique Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2001"
+      }
+    ],
+    "Sulamita Klein": [
+      {
+        "title": [
+          "The Homogeneous Set Sandwich Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1998"
+      }
+    ]
+  },
+  "Nelson Maculan": {
+    "Abilio Lucena": [
+      {
+        "title": [
+          "Formulations for the Minimum 2-Connected Dominating Set Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Reformulations and solution algorithms for the maximum leaf spanning tree problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "A relax-and-cut algorithm for the prize-collecting Steiner problem in graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Preface."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Using Lagrangian dual information to generate degree constrained spanning trees."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Stronger K-tree relaxations for the vehicle routing problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      }
+    ],
+    "Adilson Elias Xavier": [
+      {
+        "title": [
+          "A geometric perspective of the Weiszfeld algorithm for solving the Fermat-Weber problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "An evaluation of the bihyperbolic function in the optimization of the backpropagation algorithm."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Hyperbolic smoothing and penalty techniques applied to molecular structure determination."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "NLPToolbox: an open-source nonlinear programming tool."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "The Euclidean Steiner tree problem in R",
+          ": A mathematical programming formulation."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2000"
+      }
+    ],
+    "Felipe M. G. França": [
+      {
+        "title": [
+          "A Distributed Dynamics for WebGraph Decontamination."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      }
+    ],
+    "Jayme Luiz Szwarcfiter": [
+      {
+        "title": [
+          "Distance geometry approach for special graph coloring problems."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Characterizing and Edge-colouring Split-indifference Graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1998"
+      }
+    ],
+    "Laura Bahiense": [
+      {
+        "title": [
+          "A Branch-and-Cut Algorithm for Equitable Coloring based on a Formulation by Representatives."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "The volume algorithm revisited: relation with bundle methods."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2002"
+      }
+    ],
+    "Luidi Simonetti": [
+      {
+        "title": [
+          "A new formulation for the Safe Set problem on graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Reformulations and solution algorithms for the maximum leaf spanning tree problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      }
+    ],
+    "Marcia Helena Costa Fampa": [
+      {
+        "title": [
+          "An overview of exact algorithms for the Euclidean Steiner tree problem in ",
+          "-space."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Semidefinite relaxation for linear programs with equilibrium constraints."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Using a Conic Formulation for Finding Steiner Minimal Trees."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "A New Relaxation in Conic Form for the Euclidean Steiner Problem in ℜ."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2001"
+      }
+    ],
+    "Priscila Machado Vieira Lima": [
+      {
+        "title": [
+          "A Distributed Dynamics for WebGraph Decontamination."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      }
+    ],
+    "Valmir Carneiro Barbosa": [
+      {
+        "title": [
+          "Acyclic Orientations with Path Constraints."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Acyclic orientations with path constraints."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2005"
+      }
+    ]
+  },
+  "P. Roberto Oliveira": {},
+  "Paulo A. S. Veloso": {},
+  "Priscila Machado Vieira Lima": {
+    "Adilson Elias Xavier": [
+      {
+        "title": [
+          "A hyperbolic smoothing approach to the Multisource Weber problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      }
+    ],
+    "Carlos Eduardo Pedreira": [
+      {
+        "title": [
+          "The Exact VC Dimension of the WiSARD n-Tuple Classifier."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "A universal multilingual weightless neural network tagger via quantitative linguistics."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Financial credit analysis via a clustering weightless neural classifier."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Credit analysis with a clustering RAM-based neural classifier."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      }
+    ],
+    "Claudio Luis de Amorim": [
+      {
+        "title": [
+          "Hardware Supported Synchronization Primitives for Clusters."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      }
+    ],
+    "Felipe M. G. França": [
+      {
+        "title": [
+          "The Exact VC Dimension of the WiSARD n-Tuple Classifier."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Action Units Classification Using ClusWiSARD."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Near-optimal facial emotion classification using a WiSARD-based weightless system."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "Prescription of rhythmic patterns for legged locomotion."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "A universal multilingual weightless neural network tagger via quantitative linguistics."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Financial credit analysis via a clustering weightless neural classifier."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Multilingual part-of-speech tagging with weightless neural networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Real-Time Music Tracking Based on a Weightless Neural Network."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "A WiSARD-based multi-term memory framework for online tracking of objects."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "A hyperbolic smoothing approach to the Multisource Weber problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Extracting Semantic Information from Patent Claims Using Phrasal Structure Annotations."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Spatio-temporal Pattern Classification with KernelCanvas and WiSARD."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Credit analysis with a clustering RAM-based neural classifier."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Online tracking of multiple objects using WiSARD."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Advances on Weightless Neural Systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "A legged central pattern generation model for autonomous gait transition."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "WIPS: the WiSARD Indoor Positioning System."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "B-bleaching: Agile Overtraining Avoidance in the WiSARD Weightless Neural Classifier."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Recognition of HIV-1 subtypes and antiretroviral drug resistance using weightless neural networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "The Effect of Intelligent Escape on Distributed SER-Based Search."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "A Weightless Neural Network-Based Approach for Stream Data Clustering."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Clustering data streams with weightless neural networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Producing pattern examples from \"mental\" images."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "WANN-Tagger - A Weightless Artificial Neural Network Tagger for the Portuguese Language."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "A Distributed Dynamics for WebGraph Decontamination."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "A brief introduction to Weightless Neural Systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Extracting fuzzy rules from \"mental\" images generated by a modified WISARD perceptron."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Logical Reasoning via Satisfiability Mapped into Energy Functions."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "The Influence of Order on a Large Bag of Words."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Logic as Energy: A SAT-Based Approach."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Mapping and Combining Combinatorial Problems into Energy Landscapes via Pseudo-Boolean Constraints."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "SATyrus: A SAT-based Neuro-Symbolic Architecture for Constraint Processing."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      }
+    ],
+    "Geraldo Xexéo": [
+      {
+        "title": [
+          "Playing with Robots Using Your Brain."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2018"
+      }
+    ],
+    "Gerson Zaverucha": [
+      {
+        "title": [
+          "Neural-Symbolic Learning and Reasoning: A Survey and Interpretation."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2017"
+      }
+    ],
+    "Nelson Maculan": [
+      {
+        "title": [
+          "A Distributed Dynamics for WebGraph Decontamination."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      }
+    ],
+    "Valmir Carneiro Barbosa": [
+      {
+        "title": [
+          "On the Distributed Parallel Simulation of Hopfield's Neural Networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1990"
+      }
+    ]
+  },
+  "Ricardo C. Farias": {
+    "Claudio Esperança": [
+      {
+        "title": [
+          "Volume and Isosurface Rendering with GPU-Accelerated Cell Projection*."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "GPU-based cell projection for large structured data sets."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "GPU-Based Cell Projection for Interactive Volume Rendering."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "3D Free-form Modeling with Variational Surfaces."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Loop Snakes: Snakes with Enhanced Topology Control."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      }
+    ],
+    "Jano Moreira de Souza": [
+      {
+        "title": [
+          "GCE: Knowledge Management Applied in a Design Reengineering Process."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2005"
+      }
+    ],
+    "Ricardo Marroquim": [
+      {
+        "title": [
+          "Parallel Image Segmentation Using Reduction-Sweeps on Multicore Processors and GPUs."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Hardware-Assisted Projected Tetrahedra."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Volume and Isosurface Rendering with GPU-Accelerated Cell Projection*."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "GPU-based cell projection for large structured data sets."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "GPU-Based Cell Projection for Interactive Volume Rendering."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      }
+    ]
+  },
+  "Ricardo Marroquim": {
+    "Claudio Esperança": [
+      {
+        "title": [
+          "OMiCroN - Oblique Multipass Hierarchy Creation while Navigating."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Image Space Rendering of Point Clouds Using the HPR Operator."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Lazy Work Stealing for Continuous Hierarchy Traversal on Deformable Bodies."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Forensic Facial Reconstruction Using Mesh Template Deformation with Detail Transfer over HRBF."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Enhanced Target Driven Smoke Morphing."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Volume and Isosurface Rendering with GPU-Accelerated Cell Projection*."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Point-based level-of-detail with object textures."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "GPU-based cell projection for large structured data sets."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "GPU-Based Cell Projection for Interactive Volume Rendering."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Multi-Resolution Triangulations with Adaptation to the Domain Based on Physical Compression."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      }
+    ],
+    "Ricardo C. Farias": [
+      {
+        "title": [
+          "Parallel Image Segmentation Using Reduction-Sweeps on Multicore Processors and GPUs."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Hardware-Assisted Projected Tetrahedra."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Volume and Isosurface Rendering with GPU-Accelerated Cell Projection*."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "GPU-based cell projection for large structured data sets."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "GPU-Based Cell Projection for Interactive Volume Rendering."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      }
+    ]
+  },
+  "Rosa Maria Meri Leão": {
+    "Daniel R. Figueiredo": [
+      {
+        "title": [
+          "The TANGRAMII integrated modeling environment for computer systems and networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      }
+    ],
+    "Edmundo de Souza e Silva": [
+      {
+        "title": [
+          "On the scalability of P2P swarming systems."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Enabling opportunistic search and placement in cache networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "An experimental reality check on the scaling laws of swarming systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Assessing survivability to support power grid investment decisions."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Search and Placement in Tiered Cache Networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "A Preliminary Performance Measurement Study of Residential Broadband Services in Brazil."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Search and Placement in Tiered Cache Networks."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Flexible Content Placement in Cache Networks using Reinforced Counters."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Assessing survivability of smart grid distribution network designs accounting for multiple failures."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "On the Service Capacity of P2P Systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Scalability Issues in P2P Systems."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Efficient Transient Analysis of Markovian Models Using a Block Reduction Approach."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Experience with model-based performance, reliability, and adaptability assessment of a complex industrial architecture."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "On the Interplay between Content Popularity and Performance in P2P Systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Survivability models for the assessment of smart grid distribution automation network designs."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Enabling Information Centric Networks through Opportunistic Search, Routing and Caching."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Survivability analysis of power distribution in smart grids with active and reactive power modeling."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Automated generation of test cases using a performability model."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Experience building non-functional requirement models of a complex industrial architecture (abstracts only)."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Implications of peer selection strategies by publishers on the performance of P2P swarming systems."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Experience building non-functional requirement models of a complex industrial architecture."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "Estimating self-sustainability in peer-to-peer swarming systems."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Effect of Varying the Intra-Frame Packet Burstiness on the Performance of Wireless Video Streaming."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Experience with a New Architecture Review Process Using a Globally Distributed Architecture Review Team."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Performance Evaluation with Hidden Markov Models."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Estimating Self-Sustainability in Peer-to-Peer Swarming Systems."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "The TANGRAMII integrated modeling environment for computer systems and networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Modeling chunk availability in P2P swarming systems."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2009"
+      },
+      {
+        "title": [
+          "Quality assessment of interactive voice applications."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "User Level Fairness of a Multirate 3G Technology (EVDO) With Application to Digital TV Return Channel Technology."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Reliability estimation for large distributed software systems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Modeling Resource Sharing Dynamics of VoIP Users over a WLAN Using a Game-Theoretic Approach."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "The Effect of Mobility on the User-Level Fairness of a 3G Wireless Technology (EV-DO)."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Extending model transformations in the performance domain with a node modeling library."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "An End-to-End Technique to Estimate the Transmission Rate of an IEEE 802.11 WLAN."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "A Non-cooperative Active Measurement Technique for Estimating the Average and Variance of the One-Way Delay."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "On the Use of Cellular Technology for Digital TV Bi-Directional Return Channel Services."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Modeling, analysis, measurement and experimentation with the Tangram-II integrated environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "An efficient approximate technique for solving fluid models."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "The required capacity distribution for the patching bandwidth sharing technique."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "Performance Issues of Multimedia Applications."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Transient analysis applied to traffic modeling."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "A Set of Tools for Traffic Modeling, Analysis and Experimentation."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      },
+      {
+        "title": [
+          "The TANGRAM-II Environment."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      }
+    ]
+  },
+  "Rubem P. Mondaini": {},
+  "Sulamita Klein": {
+    "Celina M. H. de Figueiredo": [
+      {
+        "title": [
+          "The chain graph sandwich problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2011"
+      },
+      {
+        "title": [
+          "2K",
+          " vertex-set partition into nonempty parts."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "Advances on the List Stubborn Problem."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2010"
+      },
+      {
+        "title": [
+          "2K",
+          " vertex-set partition into nonempty parts."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "On the complexity of the sandwich problems for strongly chordal graphs and chordal bipartite graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2007"
+      },
+      {
+        "title": [
+          "Extended skew partition problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2006"
+      },
+      {
+        "title": [
+          "Finding H-partitions efficiently."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "The perfection and recognition of bull-reducible Berge graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "Stable skew partition problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "The graph sandwich problem for 1-join composition is NP-complete."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2002"
+      },
+      {
+        "title": [
+          "Bull-Reducible Berge Graphs are Perfect."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "The graph sandwich problem for 1-join composition is NP-complete."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2000"
+      },
+      {
+        "title": [
+          "Finding Skew Partitions Efficiently."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2000"
+      },
+      {
+        "title": [
+          "Finding Skew Partitions Efficiently."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2000"
+      },
+      {
+        "title": [
+          "The Homogeneous Set Sandwich Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1998"
+      }
+    ],
+    "Jayme Luiz Szwarcfiter": [
+      {
+        "title": [
+          "The Arboreal Jump Number of an Order."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "A representation for the modular-pairs of a P",
+          "-reducible graph by modular decomposition."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2005"
+      },
+      {
+        "title": [
+          "A representation for the modular-pairs of a cograph by modular decomposition."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      },
+      {
+        "title": [
+          "A Representation for the Modules of a Graph and applications."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2003"
+      }
+    ],
+    "Marcia Helena Costa Fampa": [
+      {
+        "title": [
+          "Optimal grid representations."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2004"
+      }
+    ],
+    "Márcia R. Cerioli": [
+      {
+        "title": [
+          "The Homogeneous Set Sandwich Problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1998"
+      }
+    ]
+  },
+  "Susana Scheimberg": {},
+  "Toacy Cavalcante de Oliveira": {
+    "Cláudia Maria Lima Werner": [
+      {
+        "title": [
+          "Model-driven engineering ecosystems."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2019"
+      },
+      {
+        "title": [
+          "Building the foundations for 'MDE as Service'."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Revisiting Criteria for Description of MDE Artifacts."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Automated Approach for Asset Integration in Eclipse IDE."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "Towards facilities to introduce solutions for MDE in development environments with reusable assets."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "A Common Representation for Reuse Assistants."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "From applications to a software ecosystem platform: an exploratory study."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "How do You Execute Reuse Tasks Among Tools?"
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Towards Coupled Evolution of Metamodels, Models, Graph-Based Transformations and Traceability Links (S)."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Ensuring consistency of feature-based decisions with a business rule system."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "An analysis of change operations to achieve consistency in model-driven software product lines."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2011"
+      }
+    ],
+    "Jano Moreira de Souza": [
+      {
+        "title": [
+          "Investigating the collaborative support in CollabRDL: An analysis based on the 3C model."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "A survey of languages to represent collaboration as a means of designing CSCW facilities in RDL."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2013"
+      }
+    ]
+  },
+  "Valmir Carneiro Barbosa": {
+    "Daniel R. Figueiredo": [
+      {
+        "title": [
+          "Approximating the degree sequences of two random graphs."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2016"
+      }
+    ],
+    "Felipe M. G. França": [
+      {
+        "title": [
+          "Early detection of epilepsy seizures based on a weightless neural network."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Effectively addressing complex proteomic search spaces with peptide spectrum matching."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Sharing Resources at Nonuniform Access Rates."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2001"
+      }
+    ],
+    "Geraldo Xexéo": [
+      {
+        "title": [
+          "A Distributed System for SearchOnMath Based on the Microsoft BizSpark Program."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "A distributed system for SearchOnMath based on the Microsoft BizSpark program."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2017"
+      },
+      {
+        "title": [
+          "The network structure of mathematical knowledge according to the Wikipedia, MathWorld, and DLMF online libraries."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "The network structure of mathematical knowledge according to the Wikipedia, MathWorld, and DLMF online libraries."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2012"
+      }
+    ],
+    "Gerson Zaverucha": [
+      {
+        "title": [
+          "Learning Logic Programs with Neural Networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2001"
+      },
+      {
+        "title": [
+          "Towards a Hybrid Model of First-Order Theory Refinement."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      },
+      {
+        "title": [
+          "A Penalty-Function Approach to Rule Extraction from Knowledge-Based Neural Networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "1998"
+      }
+    ],
+    "Jayme Luiz Szwarcfiter": [
+      {
+        "title": [
+          "A computational study of f-reversible processes on graphs."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "Generating all the Acyclic Orientations of an Undirected Graph."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1999"
+      }
+    ],
+    "José Ferreira de Rezende": [
+      {
+        "title": [
+          "Scheduling wireless links in the physical interference model by fractional edge coloring."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2018"
+      },
+      {
+        "title": [
+          "Scheduling wireless links by vertex multicoloring in the physical interference model."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2016"
+      },
+      {
+        "title": [
+          "Scheduling wireless links by graph multicoloring in the physical interference model."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2015"
+      },
+      {
+        "title": [
+          "Cooperation in Cognitive Radio Networks."
+        ],
+        "type_of_publication": "entry inproceedings toc",
+        "year": "2014"
+      },
+      {
+        "title": [
+          "Local heuristic for the refinement of multi-path routing in wireless mesh networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2013"
+      },
+      {
+        "title": [
+          "Scheduling links for heavy traffic on interfering routes in wireless mesh networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Local heuristic for the refinement of multi-path routing in wireless mesh networks."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2012"
+      },
+      {
+        "title": [
+          "Scheduling links for heavy traffic on interfering routes in wireless mesh networks."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2011"
+      }
+    ],
+    "Nelson Maculan": [
+      {
+        "title": [
+          "Acyclic Orientations with Path Constraints."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2008"
+      },
+      {
+        "title": [
+          "Acyclic orientations with path constraints."
+        ],
+        "type_of_publication": "entry informal toc",
+        "year": "2005"
+      }
+    ],
+    "Priscila Machado Vieira Lima": [
+      {
+        "title": [
+          "On the Distributed Parallel Simulation of Hopfield's Neural Networks."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "1990"
+      }
+    ]
+  }
+}
