@@ -13,7 +13,7 @@ def crawl(url):
 
     # Checking Response Status Code (200 Means OK)
     # If we have an OK response, we can break and continue
-    if http_response.status_code == requests.codes.ok:
+    if http_response.status_code == 200:
       tree = html.fromstring(http_response.content)
       break
 
@@ -59,6 +59,7 @@ def get_coauthors(tree, researcher_name, researchers,graph):
       element["year"]= year
       element["title"] = title
       element["type_of_publication"]= type_of_publication
+      element["number_coauthors"] = len(authors);
       graph[researcher_name][author_normalized_name].append(element)
   return coauthors
   
@@ -89,5 +90,5 @@ for url in urls:
   coauthors = get_coauthors(html_trees[url], researcher_main_name[url], researcher_names,graph)
   for c in coauthors:
     write_file.write(researcher_main_name[url] + "-" + c + ":" + str(coauthors[c]) + "\n")
-with open('Files/test.json', 'w',encoding='utf8c') as json_file:
+with open('Files/test.json', 'w',encoding='utf-8') as json_file:
   json.dump(graph, json_file,indent=2,sort_keys=True,ensure_ascii=False)

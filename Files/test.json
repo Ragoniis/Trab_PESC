@@ -2,6 +2,7 @@
   "Abilio Lucena": {
     "Felipe M. G. França": [
       {
+        "number_coauthors": 4,
         "title": [
           "Minimum Concurrency for Assembling Computer Music."
         ],
@@ -9,8 +10,19 @@
         "year": "2019"
       }
     ],
+    "Jayme Luiz Szwarcfiter": [
+      {
+        "number_coauthors": 6,
+        "title": [
+          "Modelling and solving the perfect edge domination problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2020"
+      }
+    ],
     "Laura Bahiense": [
       {
+        "number_coauthors": 4,
         "title": [
           "A New Lagrangian Based Branch and Bound Algorithm for the 0-1 Knapsack Problem."
         ],
@@ -20,6 +32,7 @@
     ],
     "Luidi Simonetti": [
       {
+        "number_coauthors": 4,
         "title": [
           "Minimum Concurrency for Assembling Computer Music."
         ],
@@ -27,6 +40,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Lagrangian heuristics for the Quadratic Knapsack Problem."
         ],
@@ -34,6 +48,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A strong symmetric formulation for the Min-degree Constrained Minimum Spanning Tree Problem."
         ],
@@ -41,6 +56,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The Tree-Star Problem: A Formulation and a Branch-and-Cut Algorithm."
         ],
@@ -48,6 +64,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Optimality cuts and a branch-and-cut algorithm for the K-rooted mini-max spanning forest problem."
         ],
@@ -55,6 +72,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Formulations and exact solution approaches for the degree preserving spanning tree problem."
         ],
@@ -62,6 +80,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Benders Decomposition, Branch-and-Cut, and Hybrid Algorithms for the Minimum Connected Dominating Set Problem."
         ],
@@ -69,6 +88,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The Degree Preserving Spanning Tree Problem: Valid Inequalities and Branch-and-cut method."
         ],
@@ -76,6 +96,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Formulating and Solving the Minimum Dominating Cycle Problem."
         ],
@@ -83,6 +104,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A New Formulation and Computational Results for the Simple Cycle Problem."
         ],
@@ -90,6 +112,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Polyhedral results and a Branch-and-cut algorithm for the $$k$$ -cardinality tree problem."
         ],
@@ -97,6 +120,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Formulations and Branch-and-Cut Algorithm for the K-rooted Mini-Max Spanning Forest Problem."
         ],
@@ -104,6 +128,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The Minimum Connected Dominating Set Problem: Formulation, Valid Inequalities and a Branch-and-Cut Algorithm."
         ],
@@ -111,6 +136,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Reformulations and solution algorithms for the maximum leaf spanning tree problem."
         ],
@@ -120,6 +146,15 @@
     ],
     "Nelson Maculan": [
       {
+        "number_coauthors": 6,
+        "title": [
+          "Modelling and solving the perfect edge domination problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2020"
+      },
+      {
+        "number_coauthors": 3,
         "title": [
           "Formulations for the Minimum 2-Connected Dominating Set Problem."
         ],
@@ -127,6 +162,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Reformulations and solution algorithms for the maximum leaf spanning tree problem."
         ],
@@ -134,6 +170,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A relax-and-cut algorithm for the prize-collecting Steiner problem in graphs."
         ],
@@ -141,6 +178,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Preface."
         ],
@@ -148,6 +186,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Using Lagrangian dual information to generate degree constrained spanning trees."
         ],
@@ -155,6 +194,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Stronger K-tree relaxations for the vehicle routing problem."
         ],
@@ -166,6 +206,7 @@
   "Adilson Elias Xavier": {
     "Felipe M. G. França": [
       {
+        "number_coauthors": 4,
         "title": [
           "A hyperbolic smoothing approach to the Multisource Weber problem."
         ],
@@ -175,6 +216,7 @@
     ],
     "Nelson Maculan": [
       {
+        "number_coauthors": 4,
         "title": [
           "A geometric perspective of the Weiszfeld algorithm for solving the Fermat-Weber problem."
         ],
@@ -182,6 +224,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An evaluation of the bihyperbolic function in the optimization of the backpropagation algorithm."
         ],
@@ -189,6 +232,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Hyperbolic smoothing and penalty techniques applied to molecular structure determination."
         ],
@@ -196,6 +240,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "NLPToolbox: an open-source nonlinear programming tool."
         ],
@@ -203,6 +248,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The Euclidean Steiner tree problem in R",
           ": A mathematical programming formulation."
@@ -213,6 +259,7 @@
     ],
     "Priscila Machado Vieira Lima": [
       {
+        "number_coauthors": 4,
         "title": [
           "A hyperbolic smoothing approach to the Multisource Weber problem."
         ],
@@ -224,6 +271,7 @@
   "Alexandre A. B. Lima": {
     "Claudio Esperança": [
       {
+        "number_coauthors": 3,
         "title": [
           "A Parallel Spatial Join Framework Using PMR-Quadtrees."
         ],
@@ -233,6 +281,7 @@
     ],
     "Marta Mattoso": [
       {
+        "number_coauthors": 6,
         "title": [
           "Spark Scalability Analysis in a Scientific Workflow."
         ],
@@ -240,6 +289,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "SGProv: Summarization Mechanism for Multiple Provenance Graphs."
         ],
@@ -247,6 +297,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "SGProv: Mecanismo de Sumarização para Múltiplos Grafos de Proveniência."
         ],
@@ -254,6 +305,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Many task computing for orthologous genes identification in protozoan genomes using Hydra."
         ],
@@ -261,6 +313,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Distributed Database Research at COPPE/UFRJ."
         ],
@@ -268,6 +321,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "SciPhy: A Cloud-Based Workflow for Phylogenetic Analysis of Drug Targets in Protozoan Genomes."
         ],
@@ -275,6 +329,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Adaptive Virtual Partitioning for OLAP Query Processing in a Database Cluster."
         ],
@@ -282,6 +337,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Adaptive Virtual Partitioning: Further Developments."
         ],
@@ -289,6 +345,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Data parallelism in bioinformatics workflows using Hydra."
         ],
@@ -296,6 +353,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Athena: Text Mining Based Discovery of Scientific Workflows in Disperse Repositories."
         ],
@@ -303,6 +361,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Parallel OLAP query processing in database clusters with data replication."
         ],
@@ -310,6 +369,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Processamento de Alto Desempenho em Consultas sobre Bases de Dados Geoestatísticas Usando Replicação Parcial."
         ],
@@ -317,6 +377,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Parallel query processing for OLAP in grids."
         ],
@@ -324,6 +385,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Adaptive hybrid partitioning for OLAP query processing in a database cluster."
         ],
@@ -331,6 +393,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "High-Performance Query Processing of a Real-World OLAP Database with ParGRES."
         ],
@@ -338,6 +401,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Apuama: Combining Intra-query and Inter-query Parallelism in a Database Cluster."
         ],
@@ -345,6 +409,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Physical and Virtual Partitioning in OLAP Database Clusters."
         ],
@@ -352,6 +417,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "OLAP Query Processing in a Database Cluster."
         ],
@@ -359,6 +425,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Adaptive Virtual Partitioning for OLAP Query Processing in a Database Cluster."
         ],
@@ -366,6 +433,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Parallel Spatial Join Framework Using PMR-Quadtrees."
         ],
@@ -377,6 +445,7 @@
   "Ana Regina Cavalcanti da Rocha": {
     "Cláudia Maria Lima Werner": [
       {
+        "number_coauthors": 3,
         "title": [
           "An O.O. Software Engineering Training Experience within a Collaboration Project between Academia and Industry."
         ],
@@ -384,6 +453,7 @@
         "year": "1998"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Memphis: A Reuse Based O.O. Software Development Environment."
         ],
@@ -393,6 +463,7 @@
     ],
     "Geraldo Xexéo": [
       {
+        "number_coauthors": 3,
         "title": [
           "A Web Process Support System For Distributed Working Groups."
         ],
@@ -402,6 +473,7 @@
     ],
     "Guilherme Horta Travassos": [
       {
+        "number_coauthors": 7,
         "title": [
           "Towards Successful Software Process Improvement Initiatives: Experiences from the Battlefield."
         ],
@@ -409,6 +481,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "MPS.BR Program and MPS Model: Main Results, Benefits and Beneficiaries of Software Process Improvement in Brazil."
         ],
@@ -416,6 +489,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "MPS.BR: A Tale of Software Process Improvement and Performance Results in the Brazilian Software Industry."
         ],
@@ -423,6 +497,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Use of Ontologies in Software Development Environments."
         ],
@@ -430,6 +505,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "The Use of an Enterprise Ontology to Support Knowledge Management in Software Development Environments."
         ],
@@ -437,6 +513,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Enterprise-Oriented Software Development Environments to Support Software Products and Processes Quality Improvement."
         ],
@@ -444,6 +521,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "On the Importance Attributed to Different Knowledge in Software Development Environments."
         ],
@@ -451,6 +529,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 10,
         "title": [
           "Knowledge Management in a Software Development Environment to Support Software Processes Deployment."
         ],
@@ -458,6 +537,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Domain-oriented software development environment."
         ],
@@ -465,6 +545,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Building Ontology Based Tools for a Software Development Environment."
         ],
@@ -472,6 +553,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Knowledge Acquisition and Communities of Practice: An Approach to Convert Individual Knowledge into Multi-organizational Knowledge."
         ],
@@ -479,6 +561,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Knowledge Management in an Enterprise-Oriented Software Development Environment."
         ],
@@ -486,6 +569,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Managing Organizational Risk Knowledge."
         ],
@@ -493,6 +577,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "ACKNOWLEDGE: a Tool to Support Knowledge Capturing."
         ],
@@ -500,6 +585,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Cordis-FBC: An Enterprise-Oriented Software Development Environment."
         ],
@@ -507,6 +593,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Managing Organizational Risk Knowledge."
         ],
@@ -514,6 +601,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Gestão de Conhecimento em Ambientes de Desenvolvimento de Software."
         ],
@@ -521,6 +609,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Domain-Oriented Software Development Environment for Cardiology."
         ],
@@ -528,6 +617,7 @@
         "year": "1999"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An O.O. Software Engineering Training Experience within a Collaboration Project between Academia and Industry."
         ],
@@ -535,6 +625,7 @@
         "year": "1998"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Memphis: A Reuse Based O.O. Software Development Environment."
         ],
@@ -546,6 +637,7 @@
   "Carlos Eduardo Pedreira": {
     "Felipe M. G. França": [
       {
+        "number_coauthors": 4,
         "title": [
           "The Exact VC Dimension of the WiSARD n-Tuple Classifier."
         ],
@@ -553,6 +645,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A universal multilingual weightless neural network tagger via quantitative linguistics."
         ],
@@ -560,6 +653,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Financial credit analysis via a clustering weightless neural classifier."
         ],
@@ -567,6 +661,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Credit analysis with a clustering RAM-based neural classifier."
         ],
@@ -576,6 +671,7 @@
     ],
     "Priscila Machado Vieira Lima": [
       {
+        "number_coauthors": 4,
         "title": [
           "The Exact VC Dimension of the WiSARD n-Tuple Classifier."
         ],
@@ -583,6 +679,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A universal multilingual weightless neural network tagger via quantitative linguistics."
         ],
@@ -590,6 +687,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Financial credit analysis via a clustering weightless neural classifier."
         ],
@@ -597,6 +695,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Credit analysis with a clustering RAM-based neural classifier."
         ],
@@ -608,6 +707,7 @@
   "Celina M. H. de Figueiredo": {
     "Franklin L. Marquezino": [
       {
+        "number_coauthors": 7,
         "title": [
           "The graph tessellation cover number: Chromatic bounds, efficient algorithms and hardness."
         ],
@@ -615,6 +715,7 @@
         "year": "2020"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "The Tessellation Cover Number of Good Tessellable Graphs."
         ],
@@ -622,6 +723,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "The Graph Tessellation Cover Number: Extremal Bounds, Efficient Algorithms and Hardness."
         ],
@@ -629,6 +731,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "The tessellation problem of quantum walks."
         ],
@@ -636,6 +739,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "The graph tessellation cover number: extremal bounds, efficient algorithms and hardness."
         ],
@@ -643,6 +747,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A new reversible circuit synthesis algorithm based on cycle representations of permutations."
         ],
@@ -650,6 +755,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Cayley graphs and analysis of quantum cost for reversible circuit synthesis."
         ],
@@ -659,6 +765,7 @@
     ],
     "Jayme Luiz Szwarcfiter": [
       {
+        "number_coauthors": 6,
         "title": [
           "On probe co-bipartite and probe diamond-free graphs."
         ],
@@ -666,6 +773,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "Graph theory and algorithms - Fourth Latin-American Workshop on Cliques in Graphs."
         ],
@@ -673,6 +781,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "On the generation of bicliques of a graph."
         ],
@@ -680,6 +789,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Generating bicliques of a graph in lexicographic order."
         ],
@@ -687,6 +797,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "On the generation of bicliques of a graph."
         ],
@@ -694,6 +805,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "On the Generation of Bicliques of a Graph."
         ],
@@ -701,6 +813,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The stable marriage problem with restricted pairs."
         ],
@@ -708,6 +821,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A note on transitive orientations with maximum sets of sources and sinks."
         ],
@@ -715,6 +829,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Stable marriages with restricted pairs."
         ],
@@ -722,6 +837,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Even and Odd Pairs in Comparability and in P4-comparability Graphs."
         ],
@@ -729,6 +845,7 @@
         "year": "1999"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Linear-time Algorithms for Maximum Sets of Sources and sinks."
         ],
@@ -738,6 +855,7 @@
     ],
     "Márcia R. Cerioli": [
       {
+        "number_coauthors": 5,
         "title": [
           "Tree loop graphs."
         ],
@@ -745,6 +863,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Non loop graphs with induced cycles."
         ],
@@ -752,6 +871,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Loop Graphs and Asteroidal Sets."
         ],
@@ -759,6 +879,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Tree Loop Graphs."
         ],
@@ -766,6 +887,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The Homogeneous Set Sandwich Problem."
         ],
@@ -775,6 +897,7 @@
     ],
     "Sulamita Klein": [
       {
+        "number_coauthors": 5,
         "title": [
           "The chain graph sandwich problem."
         ],
@@ -782,6 +905,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "2K",
           " vertex-set partition into nonempty parts."
@@ -790,6 +914,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Advances on the List Stubborn Problem."
         ],
@@ -797,6 +922,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "2K",
           " vertex-set partition into nonempty parts."
@@ -805,6 +931,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "On the complexity of the sandwich problems for strongly chordal graphs and chordal bipartite graphs."
         ],
@@ -812,6 +939,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Extended skew partition problem."
         ],
@@ -819,6 +947,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Finding H-partitions efficiently."
         ],
@@ -826,6 +955,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The perfection and recognition of bull-reducible Berge graphs."
         ],
@@ -833,6 +963,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Stable skew partition problem."
         ],
@@ -840,6 +971,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The graph sandwich problem for 1-join composition is NP-complete."
         ],
@@ -847,6 +979,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Bull-Reducible Berge Graphs are Perfect."
         ],
@@ -854,6 +987,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The graph sandwich problem for 1-join composition is NP-complete."
         ],
@@ -861,6 +995,7 @@
         "year": "2000"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Finding Skew Partitions Efficiently."
         ],
@@ -868,6 +1003,7 @@
         "year": "2000"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Finding Skew Partitions Efficiently."
         ],
@@ -875,6 +1011,7 @@
         "year": "2000"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The Homogeneous Set Sandwich Problem."
         ],
@@ -886,6 +1023,7 @@
   "Claudio Esperança": {
     "Alexandre A. B. Lima": [
       {
+        "number_coauthors": 3,
         "title": [
           "A Parallel Spatial Join Framework Using PMR-Quadtrees."
         ],
@@ -895,6 +1033,7 @@
     ],
     "Marta Mattoso": [
       {
+        "number_coauthors": 3,
         "title": [
           "A Parallel Spatial Join Framework Using PMR-Quadtrees."
         ],
@@ -904,6 +1043,7 @@
     ],
     "Ricardo C. Farias": [
       {
+        "number_coauthors": 4,
         "title": [
           "Volume and Isosurface Rendering with GPU-Accelerated Cell Projection*."
         ],
@@ -911,6 +1051,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "GPU-based cell projection for large structured data sets."
         ],
@@ -918,6 +1059,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "GPU-Based Cell Projection for Interactive Volume Rendering."
         ],
@@ -925,6 +1067,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "3D Free-form Modeling with Variational Surfaces."
         ],
@@ -932,6 +1075,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Loop Snakes: Snakes with Enhanced Topology Control."
         ],
@@ -941,6 +1085,7 @@
     ],
     "Ricardo Marroquim": [
       {
+        "number_coauthors": 3,
         "title": [
           "OMiCroN - Oblique Multipass Hierarchy Creation while Navigating."
         ],
@@ -948,6 +1093,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Image Space Rendering of Point Clouds Using the HPR Operator."
         ],
@@ -955,6 +1101,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Lazy Work Stealing for Continuous Hierarchy Traversal on Deformable Bodies."
         ],
@@ -962,6 +1109,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Forensic Facial Reconstruction Using Mesh Template Deformation with Detail Transfer over HRBF."
         ],
@@ -969,6 +1117,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Enhanced Target Driven Smoke Morphing."
         ],
@@ -976,6 +1125,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Volume and Isosurface Rendering with GPU-Accelerated Cell Projection*."
         ],
@@ -983,6 +1133,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Point-based level-of-detail with object textures."
         ],
@@ -990,6 +1141,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "GPU-based cell projection for large structured data sets."
         ],
@@ -997,6 +1149,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "GPU-Based Cell Projection for Interactive Volume Rendering."
         ],
@@ -1004,6 +1157,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Multi-Resolution Triangulations with Adaptation to the Domain Based on Physical Compression."
         ],
@@ -1015,6 +1169,7 @@
   "Claudio Luis de Amorim": {
     "Felipe M. G. França": [
       {
+        "number_coauthors": 3,
         "title": [
           "Interest-centric vehicular ad hoc network."
         ],
@@ -1022,6 +1177,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "RAdNet-VE: An Interest-Centric Mobile Ad Hoc Network for Vehicular Environments."
         ],
@@ -1029,6 +1185,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "An FPGA-Based Fan Beam Image Reconstruction Module."
         ],
@@ -1036,6 +1193,7 @@
         "year": "1999"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Implementation of RNS Addition and RNS Multiplication into FPGAs."
         ],
@@ -1045,6 +1203,7 @@
     ],
     "Marta Mattoso": [
       {
+        "number_coauthors": 5,
         "title": [
           "Evaluating the DSMIO Cache-Coherence Algorithm in Cluster-Based Parallel ODBMS."
         ],
@@ -1052,6 +1211,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Avaliação de Sistemas de Coerência de Cache em Arquiteturas ODBMs Cliente-Servidor."
         ],
@@ -1059,6 +1219,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Avaliação do Algoritmo de Coerência de Cache de Disco DSMIO."
         ],
@@ -1068,6 +1229,7 @@
     ],
     "Priscila Machado Vieira Lima": [
       {
+        "number_coauthors": 5,
         "title": [
           "Hardware Supported Synchronization Primitives for Clusters."
         ],
@@ -1079,6 +1241,7 @@
   "Cláudia Maria Lima Werner": {
     "Ana Regina Cavalcanti da Rocha": [
       {
+        "number_coauthors": 3,
         "title": [
           "An O.O. Software Engineering Training Experience within a Collaboration Project between Academia and Industry."
         ],
@@ -1086,6 +1249,7 @@
         "year": "1998"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Memphis: A Reuse Based O.O. Software Development Environment."
         ],
@@ -1095,6 +1259,7 @@
     ],
     "Gerson Zaverucha": [
       {
+        "number_coauthors": 3,
         "title": [
           "Object Oriented Design Expertise Reuse: An Approach Based on Heuristics, Design Patterns and Anti-patterns."
         ],
@@ -1104,6 +1269,7 @@
     ],
     "Guilherme Horta Travassos": [
       {
+        "number_coauthors": 5,
         "title": [
           "Verification of Software Product Line Artefacts: A Checklist to Support Feature Model Inspections."
         ],
@@ -1111,6 +1277,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Checklist-Based Inspection Technique for Feature Models Review."
         ],
@@ -1118,6 +1285,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Towards supporting the life cycle of large scale scientific experiments."
         ],
@@ -1125,6 +1293,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Supporting risks in software project management."
         ],
@@ -1132,6 +1301,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A system dynamics metamodel for software process modeling."
         ],
@@ -1139,6 +1309,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Project Management Knowledge Reuse through Scenario Models."
         ],
@@ -1146,6 +1317,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Scenario Oriented Project Management Knowledge Reuse within a Risk Analysis Process."
         ],
@@ -1153,6 +1325,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An O.O. Software Engineering Training Experience within a Collaboration Project between Academia and Industry."
         ],
@@ -1160,6 +1333,7 @@
         "year": "1998"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Memphis: A Reuse Based O.O. Software Development Environment."
         ],
@@ -1169,6 +1343,7 @@
     ],
     "Jano Moreira de Souza": [
       {
+        "number_coauthors": 4,
         "title": [
           "Developing Digital Games through Software Reuse."
         ],
@@ -1178,6 +1353,7 @@
     ],
     "Marta Mattoso": [
       {
+        "number_coauthors": 7,
         "title": [
           "ProvManager: a provenance management system for scientific workflows."
         ],
@@ -1185,6 +1361,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Challenges in Managing Implicit and Abstract Provenance Data: Experiences with ProvManager."
         ],
@@ -1192,6 +1369,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Towards supporting the life cycle of large scale scientific experiments."
         ],
@@ -1199,6 +1377,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Integrating Provenance Data from Distributed Workflow Systems with ProvManager."
         ],
@@ -1206,6 +1385,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "A Strategy for Provenance Gathering in Distributed Scientific Workflows."
         ],
@@ -1213,6 +1393,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Experiment Line: Software Reuse in Scientific Workflows."
         ],
@@ -1220,6 +1401,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Using Provenance to Improve Workflow Design."
         ],
@@ -1227,6 +1409,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Odyssey-Search: A multi-agent system for component information search and retrieval."
         ],
@@ -1234,6 +1417,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Ariane: An Awareness Mechanism for Shared Databases."
         ],
@@ -1241,6 +1425,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "OdysseyShare: An Environment for Collaborative Component-Based Development."
         ],
@@ -1248,6 +1433,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Software Components Retrieval Through Mediators and Web Search."
         ],
@@ -1255,6 +1441,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The use of mediation and ontology technologies for software component information retrieval."
         ],
@@ -1262,6 +1449,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Software Components Reuse Through Web Search and Retrieval."
         ],
@@ -1269,6 +1457,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Using Ontologies for Domain Information Retrieval."
         ],
@@ -1278,6 +1467,7 @@
     ],
     "Toacy Cavalcante de Oliveira": [
       {
+        "number_coauthors": 8,
         "title": [
           "Model-driven engineering ecosystems."
         ],
@@ -1285,6 +1475,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Building the foundations for 'MDE as Service'."
         ],
@@ -1292,6 +1483,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Revisiting Criteria for Description of MDE Artifacts."
         ],
@@ -1299,6 +1491,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Automated Approach for Asset Integration in Eclipse IDE."
         ],
@@ -1306,6 +1499,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Towards facilities to introduce solutions for MDE in development environments with reusable assets."
         ],
@@ -1313,6 +1507,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A Common Representation for Reuse Assistants."
         ],
@@ -1320,6 +1515,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "From applications to a software ecosystem platform: an exploratory study."
         ],
@@ -1327,6 +1523,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "How do You Execute Reuse Tasks Among Tools?"
         ],
@@ -1334,6 +1531,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Towards Coupled Evolution of Metamodels, Models, Graph-Based Transformations and Traceability Links (S)."
         ],
@@ -1341,6 +1539,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Ensuring consistency of feature-based decisions with a business rule system."
         ],
@@ -1348,6 +1547,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An analysis of change operations to achieve consistency in model-driven software product lines."
         ],
@@ -1359,6 +1559,7 @@
   "Daniel R. Figueiredo": {
     "Edmundo de Souza e Silva": [
       {
+        "number_coauthors": 4,
         "title": [
           "Heterogeneous download times in a homogeneous BitTorrent swarm."
         ],
@@ -1366,6 +1567,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Characterizing continuous time random walks on time varying graphs."
         ],
@@ -1373,6 +1575,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Characterizing continuous-time random walks on dynamic networks."
         ],
@@ -1380,6 +1583,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Heterogeneous download times in a homogeneous BitTorrent swarm."
         ],
@@ -1387,6 +1591,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Characterizing Random Walks on Dynamic Graphs."
         ],
@@ -1394,6 +1599,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The TANGRAMII integrated modeling environment for computer systems and networks."
         ],
@@ -1401,6 +1607,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An evolutionary game-theoretic approach to congestion control."
         ],
@@ -1410,6 +1617,7 @@
     ],
     "Felipe M. G. França": [
       {
+        "number_coauthors": 3,
         "title": [
           "A robust gradient clock synchronization algorithm for wireless sensor networks."
         ],
@@ -1417,6 +1625,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Two ID-Free Distributed Distance-2 Edge Coloring Algorithms for WSNs."
         ],
@@ -1426,6 +1635,7 @@
     ],
     "Rosa Maria Meri Leão": [
       {
+        "number_coauthors": 3,
         "title": [
           "The TANGRAMII integrated modeling environment for computer systems and networks."
         ],
@@ -1435,6 +1645,7 @@
     ],
     "Valmir Carneiro Barbosa": [
       {
+        "number_coauthors": 3,
         "title": [
           "Approximating the degree sequences of two random graphs."
         ],
@@ -1446,6 +1657,7 @@
   "Edmundo de Souza e Silva": {
     "Daniel R. Figueiredo": [
       {
+        "number_coauthors": 4,
         "title": [
           "Heterogeneous download times in a homogeneous BitTorrent swarm."
         ],
@@ -1453,6 +1665,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Characterizing continuous time random walks on time varying graphs."
         ],
@@ -1460,6 +1673,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Characterizing continuous-time random walks on dynamic networks."
         ],
@@ -1467,6 +1681,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Heterogeneous download times in a homogeneous BitTorrent swarm."
         ],
@@ -1474,6 +1689,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Characterizing Random Walks on Dynamic Graphs."
         ],
@@ -1481,6 +1697,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The TANGRAMII integrated modeling environment for computer systems and networks."
         ],
@@ -1488,6 +1705,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An evolutionary game-theoretic approach to congestion control."
         ],
@@ -1497,6 +1715,7 @@
     ],
     "Rosa Maria Meri Leão": [
       {
+        "number_coauthors": 4,
         "title": [
           "On the scalability of P2P swarming systems."
         ],
@@ -1504,6 +1723,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Enabling opportunistic search and placement in cache networks."
         ],
@@ -1511,6 +1731,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "An experimental reality check on the scaling laws of swarming systems."
         ],
@@ -1518,6 +1739,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Assessing survivability to support power grid investment decisions."
         ],
@@ -1525,6 +1747,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Search and Placement in Tiered Cache Networks."
         ],
@@ -1532,6 +1755,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "A Preliminary Performance Measurement Study of Residential Broadband Services in Brazil."
         ],
@@ -1539,6 +1763,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Search and Placement in Tiered Cache Networks."
         ],
@@ -1546,6 +1771,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Flexible Content Placement in Cache Networks using Reinforced Counters."
         ],
@@ -1553,6 +1779,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Assessing survivability of smart grid distribution network designs accounting for multiple failures."
         ],
@@ -1560,6 +1787,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "On the Service Capacity of P2P Systems."
         ],
@@ -1567,6 +1795,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Scalability Issues in P2P Systems."
         ],
@@ -1574,6 +1803,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Efficient Transient Analysis of Markovian Models Using a Block Reduction Approach."
         ],
@@ -1581,6 +1811,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 15,
         "title": [
           "Experience with model-based performance, reliability, and adaptability assessment of a complex industrial architecture."
         ],
@@ -1588,6 +1819,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "On the Interplay between Content Popularity and Performance in P2P Systems."
         ],
@@ -1595,6 +1827,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Survivability models for the assessment of smart grid distribution automation network designs."
         ],
@@ -1602,6 +1835,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Enabling Information Centric Networks through Opportunistic Search, Routing and Caching."
         ],
@@ -1609,6 +1843,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Survivability analysis of power distribution in smart grids with active and reactive power modeling."
         ],
@@ -1616,6 +1851,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Automated generation of test cases using a performability model."
         ],
@@ -1623,6 +1859,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 14,
         "title": [
           "Experience building non-functional requirement models of a complex industrial architecture (abstracts only)."
         ],
@@ -1630,6 +1867,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Implications of peer selection strategies by publishers on the performance of P2P swarming systems."
         ],
@@ -1637,6 +1875,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 14,
         "title": [
           "Experience building non-functional requirement models of a complex industrial architecture."
         ],
@@ -1644,6 +1883,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Estimating self-sustainability in peer-to-peer swarming systems."
         ],
@@ -1651,6 +1891,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Effect of Varying the Intra-Frame Packet Burstiness on the Performance of Wireless Video Streaming."
         ],
@@ -1658,6 +1899,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 10,
         "title": [
           "Experience with a New Architecture Review Process Using a Globally Distributed Architecture Review Team."
         ],
@@ -1665,6 +1907,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Performance Evaluation with Hidden Markov Models."
         ],
@@ -1672,6 +1915,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Estimating Self-Sustainability in Peer-to-Peer Swarming Systems."
         ],
@@ -1679,6 +1923,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The TANGRAMII integrated modeling environment for computer systems and networks."
         ],
@@ -1686,6 +1931,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Modeling chunk availability in P2P swarming systems."
         ],
@@ -1693,6 +1939,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Quality assessment of interactive voice applications."
         ],
@@ -1700,6 +1947,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "User Level Fairness of a Multirate 3G Technology (EVDO) With Application to Digital TV Return Channel Technology."
         ],
@@ -1707,6 +1955,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Reliability estimation for large distributed software systems."
         ],
@@ -1714,6 +1963,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Modeling Resource Sharing Dynamics of VoIP Users over a WLAN Using a Game-Theoretic Approach."
         ],
@@ -1721,6 +1971,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The Effect of Mobility on the User-Level Fairness of a 3G Wireless Technology (EV-DO)."
         ],
@@ -1728,6 +1979,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Extending model transformations in the performance domain with a node modeling library."
         ],
@@ -1735,6 +1987,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An End-to-End Technique to Estimate the Transmission Rate of an IEEE 802.11 WLAN."
         ],
@@ -1742,6 +1995,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Non-cooperative Active Measurement Technique for Estimating the Average and Variance of the One-Way Delay."
         ],
@@ -1749,6 +2003,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "On the Use of Cellular Technology for Digital TV Bi-Directional Return Channel Services."
         ],
@@ -1756,6 +2011,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Modeling, analysis, measurement and experimentation with the Tangram-II integrated environment."
         ],
@@ -1763,6 +2019,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An efficient approximate technique for solving fluid models."
         ],
@@ -1770,6 +2027,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The required capacity distribution for the patching bandwidth sharing technique."
         ],
@@ -1777,6 +2035,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Performance Issues of Multimedia Applications."
         ],
@@ -1784,6 +2043,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Transient analysis applied to traffic modeling."
         ],
@@ -1791,6 +2051,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Set of Tools for Traffic Modeling, Analysis and Experimentation."
         ],
@@ -1798,6 +2059,7 @@
         "year": "2000"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "The TANGRAM-II Environment."
         ],
@@ -1809,6 +2071,7 @@
   "Felipe M. G. França": {
     "Abilio Lucena": [
       {
+        "number_coauthors": 4,
         "title": [
           "Minimum Concurrency for Assembling Computer Music."
         ],
@@ -1818,6 +2081,7 @@
     ],
     "Adilson Elias Xavier": [
       {
+        "number_coauthors": 4,
         "title": [
           "A hyperbolic smoothing approach to the Multisource Weber problem."
         ],
@@ -1827,6 +2091,7 @@
     ],
     "Carlos Eduardo Pedreira": [
       {
+        "number_coauthors": 4,
         "title": [
           "The Exact VC Dimension of the WiSARD n-Tuple Classifier."
         ],
@@ -1834,6 +2099,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A universal multilingual weightless neural network tagger via quantitative linguistics."
         ],
@@ -1841,6 +2107,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Financial credit analysis via a clustering weightless neural classifier."
         ],
@@ -1848,6 +2115,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Credit analysis with a clustering RAM-based neural classifier."
         ],
@@ -1857,6 +2125,7 @@
     ],
     "Claudio Luis de Amorim": [
       {
+        "number_coauthors": 3,
         "title": [
           "Interest-centric vehicular ad hoc network."
         ],
@@ -1864,6 +2133,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "RAdNet-VE: An Interest-Centric Mobile Ad Hoc Network for Vehicular Environments."
         ],
@@ -1871,6 +2141,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "An FPGA-Based Fan Beam Image Reconstruction Module."
         ],
@@ -1878,6 +2149,7 @@
         "year": "1999"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Implementation of RNS Addition and RNS Multiplication into FPGAs."
         ],
@@ -1887,6 +2159,7 @@
     ],
     "Daniel R. Figueiredo": [
       {
+        "number_coauthors": 3,
         "title": [
           "A robust gradient clock synchronization algorithm for wireless sensor networks."
         ],
@@ -1894,6 +2167,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Two ID-Free Distributed Distance-2 Edge Coloring Algorithms for WSNs."
         ],
@@ -1903,6 +2177,7 @@
     ],
     "Jayme Luiz Szwarcfiter": [
       {
+        "number_coauthors": 3,
         "title": [
           "On Computing All Maximal Cliques Distributedly."
         ],
@@ -1912,6 +2187,7 @@
     ],
     "José Ferreira de Rezende": [
       {
+        "number_coauthors": 8,
         "title": [
           "On the security aspects of Internet of Things: A systematic literature review."
         ],
@@ -1921,6 +2197,7 @@
     ],
     "Luidi Simonetti": [
       {
+        "number_coauthors": 4,
         "title": [
           "Minimum Concurrency for Assembling Computer Music."
         ],
@@ -1930,6 +2207,7 @@
     ],
     "Luís Felipe M. de Moraes": [
       {
+        "number_coauthors": 8,
         "title": [
           "On the security aspects of Internet of Things: A systematic literature review."
         ],
@@ -1939,6 +2217,7 @@
     ],
     "Nelson Maculan": [
       {
+        "number_coauthors": 4,
         "title": [
           "A Distributed Dynamics for WebGraph Decontamination."
         ],
@@ -1948,6 +2227,7 @@
     ],
     "Priscila Machado Vieira Lima": [
       {
+        "number_coauthors": 4,
         "title": [
           "The Exact VC Dimension of the WiSARD n-Tuple Classifier."
         ],
@@ -1955,6 +2235,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Action Units Classification Using ClusWiSARD."
         ],
@@ -1962,6 +2243,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Near-optimal facial emotion classification using a WiSARD-based weightless system."
         ],
@@ -1969,6 +2251,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Prescription of rhythmic patterns for legged locomotion."
         ],
@@ -1976,6 +2259,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A universal multilingual weightless neural network tagger via quantitative linguistics."
         ],
@@ -1983,6 +2267,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Financial credit analysis via a clustering weightless neural classifier."
         ],
@@ -1990,6 +2275,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Multilingual part-of-speech tagging with weightless neural networks."
         ],
@@ -1997,6 +2283,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Real-Time Music Tracking Based on a Weightless Neural Network."
         ],
@@ -2004,6 +2291,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "A WiSARD-based multi-term memory framework for online tracking of objects."
         ],
@@ -2011,6 +2299,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A hyperbolic smoothing approach to the Multisource Weber problem."
         ],
@@ -2018,6 +2307,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Extracting Semantic Information from Patent Claims Using Phrasal Structure Annotations."
         ],
@@ -2025,6 +2315,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Spatio-temporal Pattern Classification with KernelCanvas and WiSARD."
         ],
@@ -2032,6 +2323,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Credit analysis with a clustering RAM-based neural classifier."
         ],
@@ -2039,6 +2331,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Online tracking of multiple objects using WiSARD."
         ],
@@ -2046,6 +2339,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Advances on Weightless Neural Systems."
         ],
@@ -2053,6 +2347,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "A legged central pattern generation model for autonomous gait transition."
         ],
@@ -2060,6 +2355,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "WIPS: the WiSARD Indoor Positioning System."
         ],
@@ -2067,6 +2363,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "B-bleaching: Agile Overtraining Avoidance in the WiSARD Weightless Neural Classifier."
         ],
@@ -2074,6 +2371,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Recognition of HIV-1 subtypes and antiretroviral drug resistance using weightless neural networks."
         ],
@@ -2081,6 +2379,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "The Effect of Intelligent Escape on Distributed SER-Based Search."
         ],
@@ -2088,6 +2387,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "A Weightless Neural Network-Based Approach for Stream Data Clustering."
         ],
@@ -2095,6 +2395,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Clustering data streams with weightless neural networks."
         ],
@@ -2102,6 +2403,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Producing pattern examples from \"mental\" images."
         ],
@@ -2109,6 +2411,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "WANN-Tagger - A Weightless Artificial Neural Network Tagger for the Portuguese Language."
         ],
@@ -2116,6 +2419,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A Distributed Dynamics for WebGraph Decontamination."
         ],
@@ -2123,6 +2427,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "A brief introduction to Weightless Neural Systems."
         ],
@@ -2130,6 +2435,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Extracting fuzzy rules from \"mental\" images generated by a modified WISARD perceptron."
         ],
@@ -2137,6 +2443,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Logical Reasoning via Satisfiability Mapped into Energy Functions."
         ],
@@ -2144,6 +2451,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The Influence of Order on a Large Bag of Words."
         ],
@@ -2151,6 +2459,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Logic as Energy: A SAT-Based Approach."
         ],
@@ -2158,6 +2467,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Mapping and Combining Combinatorial Problems into Energy Landscapes via Pseudo-Boolean Constraints."
         ],
@@ -2165,6 +2475,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "SATyrus: A SAT-based Neuro-Symbolic Architecture for Constraint Processing."
         ],
@@ -2174,6 +2485,7 @@
     ],
     "Valmir Carneiro Barbosa": [
       {
+        "number_coauthors": 4,
         "title": [
           "Early detection of epilepsy seizures based on a weightless neural network."
         ],
@@ -2181,6 +2493,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 11,
         "title": [
           "Effectively addressing complex proteomic search spaces with peptide spectrum matching."
         ],
@@ -2188,6 +2501,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Sharing Resources at Nonuniform Access Rates."
         ],
@@ -2199,6 +2513,7 @@
   "Franklin L. Marquezino": {
     "Celina M. H. de Figueiredo": [
       {
+        "number_coauthors": 7,
         "title": [
           "The graph tessellation cover number: Chromatic bounds, efficient algorithms and hardness."
         ],
@@ -2206,6 +2521,7 @@
         "year": "2020"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "The Tessellation Cover Number of Good Tessellable Graphs."
         ],
@@ -2213,6 +2529,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "The Graph Tessellation Cover Number: Extremal Bounds, Efficient Algorithms and Hardness."
         ],
@@ -2220,6 +2537,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "The tessellation problem of quantum walks."
         ],
@@ -2227,6 +2545,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "The graph tessellation cover number: extremal bounds, efficient algorithms and hardness."
         ],
@@ -2234,6 +2553,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A new reversible circuit synthesis algorithm based on cycle representations of permutations."
         ],
@@ -2241,6 +2561,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Cayley graphs and analysis of quantum cost for reversible circuit synthesis."
         ],
@@ -2253,6 +2574,7 @@
   "Geraldo Xexéo": {
     "Ana Regina Cavalcanti da Rocha": [
       {
+        "number_coauthors": 3,
         "title": [
           "A Web Process Support System For Distributed Working Groups."
         ],
@@ -2262,6 +2584,7 @@
     ],
     "Geraldo Zimbrão": [
       {
+        "number_coauthors": 4,
         "title": [
           "Buzzword detection in the scientific scenario."
         ],
@@ -2269,6 +2592,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "A P2P Approach for Business Process Modelling and Reuse."
         ],
@@ -2278,6 +2602,7 @@
     ],
     "Jano Moreira de Souza": [
       {
+        "number_coauthors": 5,
         "title": [
           "Evaluation of a GWAP for Social Recruitment and Measurement of Musical Talent."
         ],
@@ -2285,6 +2610,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Analyzing Knowledge Codification for Planning Military Operations."
         ],
@@ -2292,6 +2618,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 10,
         "title": [
           "Multi-criteria Analysis Applied to the Inspection of Aedes Aegypti Mosquito Breeding Places."
         ],
@@ -2299,6 +2626,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Bringing knowledge into recommender systems."
         ],
@@ -2306,6 +2634,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Cassino musical: A game with a purpose for social recruitment and measurement of musical talent."
         ],
@@ -2313,6 +2642,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Towards a Framework for Crowdsourced Collection, Cleaning and Measurement of Digital Content."
         ],
@@ -2320,6 +2650,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A recommender system for metrics."
         ],
@@ -2327,6 +2658,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A collaborative approach to build evaluated web page datasets."
         ],
@@ -2334,6 +2666,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Bringing knowledge into recommendation systems."
         ],
@@ -2341,6 +2674,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Emotions in Business Game: Case Study in Desafio Sebrae."
         ],
@@ -2348,6 +2682,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "ARARA - A collaborative tool to requirement change awarenes."
         ],
@@ -2355,6 +2690,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Discarding Similar Data with Autonomic Data Killing Framework Based on High-Level Petri Net Rules: An RSS Implementation."
         ],
@@ -2362,6 +2698,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Community-supported collaborative navigation with FoxPeer."
         ],
@@ -2369,6 +2706,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Collaborative process modeling and reuse evaluation."
         ],
@@ -2376,6 +2714,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Autonomic collaborative RSS: An implementation of autonomic data using data killing patterns."
         ],
@@ -2383,6 +2722,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Does conference participation lead to increased collaboration? A quantitative investigation."
         ],
@@ -2390,6 +2730,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "A collaborative approach to building evaluated web pages datasets."
         ],
@@ -2397,6 +2738,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Requirement-Based Costing with MDA."
         ],
@@ -2404,6 +2746,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "A Fuzzy Tool for Substituting Researchers."
         ],
@@ -2411,6 +2754,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Autonomic RSS: Discarding Irrelevant News."
         ],
@@ -2418,6 +2762,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "TIGRAS: A Topology-Independent Gradient Search Approach for Peer-to-Peer Key Look Up."
         ],
@@ -2425,6 +2770,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Autonomic Patterns: Modelling Data Killing Patterns Using High-Level Petri Nets."
         ],
@@ -2432,6 +2778,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Using Wavelets to Classify Documents."
         ],
@@ -2439,6 +2786,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Framework to Collaborative and Incremental Development of Distributed Information Systems."
         ],
@@ -2446,6 +2794,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Coppeer Documents: An Agent Based Approach to Collaborative and Incremental Development of Document Oriented Peer-to-peer Systems."
         ],
@@ -2453,6 +2802,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 10,
         "title": [
           "Dynamic Workflow Management for P2P Environments Using Agents."
         ],
@@ -2460,6 +2810,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 11,
         "title": [
           "Dynaflow: Agent-Based Dynamic Workflow Management for P2P Environments."
         ],
@@ -2467,6 +2818,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "A P2P Approach for Business Process Modelling and Reuse."
         ],
@@ -2474,6 +2826,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Using Autonomic Computing and Click Stream Analysis for Problem Identification in Continuous Production."
         ],
@@ -2481,6 +2834,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Olympus: Personal Knowledge Recommendation Using Agents, Ontologies and Web Mining."
         ],
@@ -2488,6 +2842,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Building a Personal Knowledge Recommendation System using Agents, Learning Ontologies and Web Mining."
         ],
@@ -2495,6 +2850,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Supporting Student-Supervisor Scientific Collaboration."
         ],
@@ -2502,6 +2858,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Towards an Emergence Approach to Software Systems Design."
         ],
@@ -2509,6 +2866,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Building Tools for Emergent Design with COPPEER."
         ],
@@ -2516,6 +2874,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "COE: A collaborative ontology editor based on a peer-to-peer framework."
         ],
@@ -2523,6 +2882,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "CEJ - An Environment for Flexible Definition and Execution of Scientific Publication Processes."
         ],
@@ -2532,6 +2892,7 @@
     ],
     "Marta Mattoso": [
       {
+        "number_coauthors": 3,
         "title": [
           "Semi-Supervised Clustering of XML Documents: Getting the Most from Structural Information."
         ],
@@ -2539,6 +2900,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "XVI Simpósio Brasileiro de Banco de Dados, 1-3 Outubro 2001, Rio de Janeiro, Brasil, Anais/Proceedings."
         ],
@@ -2548,6 +2910,7 @@
     ],
     "Priscila Machado Vieira Lima": [
       {
+        "number_coauthors": 5,
         "title": [
           "Playing with Robots Using Your Brain."
         ],
@@ -2557,6 +2920,7 @@
     ],
     "Valmir Carneiro Barbosa": [
       {
+        "number_coauthors": 4,
         "title": [
           "A Distributed System for SearchOnMath Based on the Microsoft BizSpark Program."
         ],
@@ -2564,6 +2928,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A distributed system for SearchOnMath based on the Microsoft BizSpark program."
         ],
@@ -2571,6 +2936,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The network structure of mathematical knowledge according to the Wikipedia, MathWorld, and DLMF online libraries."
         ],
@@ -2578,6 +2944,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The network structure of mathematical knowledge according to the Wikipedia, MathWorld, and DLMF online libraries."
         ],
@@ -2589,6 +2956,7 @@
   "Geraldo Zimbrão": {
     "Geraldo Xexéo": [
       {
+        "number_coauthors": 4,
         "title": [
           "Buzzword detection in the scientific scenario."
         ],
@@ -2596,6 +2964,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "A P2P Approach for Business Process Modelling and Reuse."
         ],
@@ -2605,6 +2974,7 @@
     ],
     "Jano Moreira de Souza": [
       {
+        "number_coauthors": 7,
         "title": [
           "Rational Erdös number and maximum flow as measurement models for scientific social network analysis."
         ],
@@ -2612,6 +2982,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Data abstraction and centrality measures to scientific social network analysis."
         ],
@@ -2619,6 +2990,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Applying data mining techniques for spatial distribution analysis of plant species co-occurrences."
         ],
@@ -2626,6 +2998,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Information Extraction to improve Link Prediction in scientific social networks."
         ],
@@ -2633,6 +3006,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Exchanging Solutions for Information Systems Development using a Model Pattern Perspective - Diagram Templates in the Context of the Mdarte Collaborative Evolution Process."
         ],
@@ -2640,6 +3014,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "A crowdsourcing approach to the design of Virtual Research Environments."
         ],
@@ -2647,6 +3022,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Collaborative evolution process in MDArte: Exchanging solutions for information systems development among projects."
         ],
@@ -2654,6 +3030,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The MDArte Experience - Organizational Aspects Acquired from a Successful Partnership between Government and Academia using Model-Driven Development."
         ],
@@ -2661,6 +3038,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Group and link analysis of multi-relational scientific social networks."
         ],
@@ -2668,6 +3046,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Modeling, Mining and Analysis of Multi-Relational Scientific Social Network."
         ],
@@ -2675,6 +3054,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Collaborative support embedded in information system through automatic code generation."
         ],
@@ -2682,6 +3062,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Identifying Workgroups in Brazilian Scientific Social Networks."
         ],
@@ -2689,6 +3070,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Evaluating knowledge flow in multirelational scientific social networks."
         ],
@@ -2696,6 +3078,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Model-Driven Architecture Approach for Data Warehouse."
         ],
@@ -2703,6 +3086,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Exploring Calendar-Based Pattern Mining in Data Streams."
         ],
@@ -2710,6 +3094,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Analysis and visualization of the geographical distribution of atlantic forest bromeliads species."
         ],
@@ -2717,6 +3102,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Mining and analyzing organizational social networks for collaborative design."
         ],
@@ -2724,6 +3110,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Mining and Analyzing Multirelational Social Networks."
         ],
@@ -2731,6 +3118,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Mining and Analyzing Organizational Social Networks Using Minimum Spanning Tree."
         ],
@@ -2738,6 +3126,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "An MDA Approach for Database Profiling and Performance Assessment."
         ],
@@ -2745,6 +3134,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Autonomic Business Processes Scalable Architecture."
         ],
@@ -2752,6 +3142,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "DWFIST: Leveraging Calendar-Based Pattern Mining in Data Streams."
         ],
@@ -2759,6 +3150,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Desenvolvimento de SIG para Web utilizando MDA."
         ],
@@ -2766,6 +3158,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Extensão do WEKA para Métodos de Agrupamento com Restrição de Contigüidade do Rio de Janeiro."
         ],
@@ -2773,6 +3166,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "A P2P Approach for Business Process Modelling and Reuse."
         ],
@@ -2780,6 +3174,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Approximate Query Processing in Spatial Databases Using Raster Signatures."
         ],
@@ -2787,6 +3182,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Filtering with raster signatures."
         ],
@@ -2794,6 +3190,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Building the Data Warehouse of Frequent Itemsets in the DWFIST Approach."
         ],
@@ -2801,6 +3198,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Estimating the Overlapping Area of Polygon Join."
         ],
@@ -2808,6 +3206,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Efficient Processing of Spatiotemporal Joins."
         ],
@@ -2815,6 +3214,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Polygon and Polyline Join Using Raster Filters."
         ],
@@ -2822,6 +3222,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Approximate Spatial Query Processing using Raster Signatures."
         ],
@@ -2829,6 +3230,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Polyline Spatial Join Evaluation Using Raster Approximation."
         ],
@@ -2836,6 +3238,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Enforcement of Business Rules in Relational Databases Using Constraints."
         ],
@@ -2843,6 +3246,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Processamento Eficiente de Junções Espaçotemporais."
         ],
@@ -2850,6 +3254,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A Raster Approximation for Processing of Polyline Joins."
         ],
@@ -2857,6 +3262,7 @@
         "year": "2000"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "A Raster Approximation For Processing of Spatial Joins."
         ],
@@ -2866,6 +3272,7 @@
     ],
     "Marta Mattoso": [
       {
+        "number_coauthors": 6,
         "title": [
           "Adaptive Normalization: A novel data normalization approach for non-stationary time series."
         ],
@@ -2873,6 +3280,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Neural networks cartridges for data mining on time series."
         ],
@@ -2884,6 +3292,7 @@
   "Gerson Zaverucha": {
     "Cláudia Maria Lima Werner": [
       {
+        "number_coauthors": 3,
         "title": [
           "Object Oriented Design Expertise Reuse: An Approach Based on Heuristics, Design Patterns and Anti-patterns."
         ],
@@ -2893,6 +3302,7 @@
     ],
     "Marta Mattoso": [
       {
+        "number_coauthors": 3,
         "title": [
           "A Distribution Design Methodology for Object DBMS."
         ],
@@ -2900,6 +3310,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Applying Theory Revision to the Design of Distributed Databases."
         ],
@@ -2907,6 +3318,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Towards a Theory Revision Approach for the Vertical Fragmentation of Object Oriented Databases."
         ],
@@ -2914,6 +3326,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Framework for the Design of Distributed Databases."
         ],
@@ -2921,6 +3334,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Towards an Inductive Design of Distributed Object Oriented Databases."
         ],
@@ -2930,6 +3344,7 @@
     ],
     "Priscila Machado Vieira Lima": [
       {
+        "number_coauthors": 14,
         "title": [
           "Neural-Symbolic Learning and Reasoning: A Survey and Interpretation."
         ],
@@ -2939,6 +3354,7 @@
     ],
     "Valmir Carneiro Barbosa": [
       {
+        "number_coauthors": 3,
         "title": [
           "Learning Logic Programs with Neural Networks."
         ],
@@ -2946,6 +3362,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Towards a Hybrid Model of First-Order Theory Refinement."
         ],
@@ -2953,6 +3370,7 @@
         "year": "1998"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Penalty-Function Approach to Rule Extraction from Knowledge-Based Neural Networks."
         ],
@@ -2964,6 +3382,7 @@
   "Guilherme Horta Travassos": {
     "Ana Regina Cavalcanti da Rocha": [
       {
+        "number_coauthors": 7,
         "title": [
           "Towards Successful Software Process Improvement Initiatives: Experiences from the Battlefield."
         ],
@@ -2971,6 +3390,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "MPS.BR Program and MPS Model: Main Results, Benefits and Beneficiaries of Software Process Improvement in Brazil."
         ],
@@ -2978,6 +3398,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "MPS.BR: A Tale of Software Process Improvement and Performance Results in the Brazilian Software Industry."
         ],
@@ -2985,6 +3406,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Use of Ontologies in Software Development Environments."
         ],
@@ -2992,6 +3414,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "The Use of an Enterprise Ontology to Support Knowledge Management in Software Development Environments."
         ],
@@ -2999,6 +3422,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Enterprise-Oriented Software Development Environments to Support Software Products and Processes Quality Improvement."
         ],
@@ -3006,6 +3430,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "On the Importance Attributed to Different Knowledge in Software Development Environments."
         ],
@@ -3013,6 +3438,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 10,
         "title": [
           "Knowledge Management in a Software Development Environment to Support Software Processes Deployment."
         ],
@@ -3020,6 +3446,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Domain-oriented software development environment."
         ],
@@ -3027,6 +3454,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Building Ontology Based Tools for a Software Development Environment."
         ],
@@ -3034,6 +3462,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Knowledge Acquisition and Communities of Practice: An Approach to Convert Individual Knowledge into Multi-organizational Knowledge."
         ],
@@ -3041,6 +3470,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Knowledge Management in an Enterprise-Oriented Software Development Environment."
         ],
@@ -3048,6 +3478,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Managing Organizational Risk Knowledge."
         ],
@@ -3055,6 +3486,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "ACKNOWLEDGE: a Tool to Support Knowledge Capturing."
         ],
@@ -3062,6 +3494,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Cordis-FBC: An Enterprise-Oriented Software Development Environment."
         ],
@@ -3069,6 +3502,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Managing Organizational Risk Knowledge."
         ],
@@ -3076,6 +3510,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Gestão de Conhecimento em Ambientes de Desenvolvimento de Software."
         ],
@@ -3083,6 +3518,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Domain-Oriented Software Development Environment for Cardiology."
         ],
@@ -3090,6 +3526,7 @@
         "year": "1999"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An O.O. Software Engineering Training Experience within a Collaboration Project between Academia and Industry."
         ],
@@ -3097,6 +3534,7 @@
         "year": "1998"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Memphis: A Reuse Based O.O. Software Development Environment."
         ],
@@ -3106,6 +3544,7 @@
     ],
     "Cláudia Maria Lima Werner": [
       {
+        "number_coauthors": 5,
         "title": [
           "Verification of Software Product Line Artefacts: A Checklist to Support Feature Model Inspections."
         ],
@@ -3113,6 +3552,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Checklist-Based Inspection Technique for Feature Models Review."
         ],
@@ -3120,6 +3560,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Towards supporting the life cycle of large scale scientific experiments."
         ],
@@ -3127,6 +3568,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Supporting risks in software project management."
         ],
@@ -3134,6 +3576,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A system dynamics metamodel for software process modeling."
         ],
@@ -3141,6 +3584,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Project Management Knowledge Reuse through Scenario Models."
         ],
@@ -3148,6 +3592,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Scenario Oriented Project Management Knowledge Reuse within a Risk Analysis Process."
         ],
@@ -3155,6 +3600,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An O.O. Software Engineering Training Experience within a Collaboration Project between Academia and Industry."
         ],
@@ -3162,6 +3608,7 @@
         "year": "1998"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Memphis: A Reuse Based O.O. Software Development Environment."
         ],
@@ -3171,6 +3618,7 @@
     ],
     "Marta Mattoso": [
       {
+        "number_coauthors": 9,
         "title": [
           "Towards supporting the life cycle of large scale scientific experiments."
         ],
@@ -3182,6 +3630,7 @@
   "Henrique Luiz Cukierman": {
     "Jano Moreira de Souza": [
       {
+        "number_coauthors": 5,
         "title": [
           "Perspectives on Creativity in Web learning."
         ],
@@ -3193,6 +3642,7 @@
   "Jano Moreira de Souza": {
     "Cláudia Maria Lima Werner": [
       {
+        "number_coauthors": 4,
         "title": [
           "Developing Digital Games through Software Reuse."
         ],
@@ -3202,6 +3652,7 @@
     ],
     "Geraldo Xexéo": [
       {
+        "number_coauthors": 5,
         "title": [
           "Evaluation of a GWAP for Social Recruitment and Measurement of Musical Talent."
         ],
@@ -3209,6 +3660,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Analyzing Knowledge Codification for Planning Military Operations."
         ],
@@ -3216,6 +3668,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 10,
         "title": [
           "Multi-criteria Analysis Applied to the Inspection of Aedes Aegypti Mosquito Breeding Places."
         ],
@@ -3223,6 +3676,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Bringing knowledge into recommender systems."
         ],
@@ -3230,6 +3684,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Cassino musical: A game with a purpose for social recruitment and measurement of musical talent."
         ],
@@ -3237,6 +3692,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Towards a Framework for Crowdsourced Collection, Cleaning and Measurement of Digital Content."
         ],
@@ -3244,6 +3700,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A recommender system for metrics."
         ],
@@ -3251,6 +3708,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A collaborative approach to build evaluated web page datasets."
         ],
@@ -3258,6 +3716,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Bringing knowledge into recommendation systems."
         ],
@@ -3265,6 +3724,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Emotions in Business Game: Case Study in Desafio Sebrae."
         ],
@@ -3272,6 +3732,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "ARARA - A collaborative tool to requirement change awarenes."
         ],
@@ -3279,6 +3740,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Discarding Similar Data with Autonomic Data Killing Framework Based on High-Level Petri Net Rules: An RSS Implementation."
         ],
@@ -3286,6 +3748,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Community-supported collaborative navigation with FoxPeer."
         ],
@@ -3293,6 +3756,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Collaborative process modeling and reuse evaluation."
         ],
@@ -3300,6 +3764,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Autonomic collaborative RSS: An implementation of autonomic data using data killing patterns."
         ],
@@ -3307,6 +3772,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Does conference participation lead to increased collaboration? A quantitative investigation."
         ],
@@ -3314,6 +3780,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "A collaborative approach to building evaluated web pages datasets."
         ],
@@ -3321,6 +3788,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Requirement-Based Costing with MDA."
         ],
@@ -3328,6 +3796,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "A Fuzzy Tool for Substituting Researchers."
         ],
@@ -3335,6 +3804,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Autonomic RSS: Discarding Irrelevant News."
         ],
@@ -3342,6 +3812,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "TIGRAS: A Topology-Independent Gradient Search Approach for Peer-to-Peer Key Look Up."
         ],
@@ -3349,6 +3820,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Autonomic Patterns: Modelling Data Killing Patterns Using High-Level Petri Nets."
         ],
@@ -3356,6 +3828,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Using Wavelets to Classify Documents."
         ],
@@ -3363,6 +3836,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Framework to Collaborative and Incremental Development of Distributed Information Systems."
         ],
@@ -3370,6 +3844,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Coppeer Documents: An Agent Based Approach to Collaborative and Incremental Development of Document Oriented Peer-to-peer Systems."
         ],
@@ -3377,6 +3852,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 10,
         "title": [
           "Dynamic Workflow Management for P2P Environments Using Agents."
         ],
@@ -3384,6 +3860,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 11,
         "title": [
           "Dynaflow: Agent-Based Dynamic Workflow Management for P2P Environments."
         ],
@@ -3391,6 +3868,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "A P2P Approach for Business Process Modelling and Reuse."
         ],
@@ -3398,6 +3876,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Using Autonomic Computing and Click Stream Analysis for Problem Identification in Continuous Production."
         ],
@@ -3405,6 +3884,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Olympus: Personal Knowledge Recommendation Using Agents, Ontologies and Web Mining."
         ],
@@ -3412,6 +3892,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Building a Personal Knowledge Recommendation System using Agents, Learning Ontologies and Web Mining."
         ],
@@ -3419,6 +3900,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Supporting Student-Supervisor Scientific Collaboration."
         ],
@@ -3426,6 +3908,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Towards an Emergence Approach to Software Systems Design."
         ],
@@ -3433,6 +3916,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Building Tools for Emergent Design with COPPEER."
         ],
@@ -3440,6 +3924,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "COE: A collaborative ontology editor based on a peer-to-peer framework."
         ],
@@ -3447,6 +3932,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "CEJ - An Environment for Flexible Definition and Execution of Scientific Publication Processes."
         ],
@@ -3456,6 +3942,7 @@
     ],
     "Geraldo Zimbrão": [
       {
+        "number_coauthors": 7,
         "title": [
           "Rational Erdös number and maximum flow as measurement models for scientific social network analysis."
         ],
@@ -3463,6 +3950,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Data abstraction and centrality measures to scientific social network analysis."
         ],
@@ -3470,6 +3958,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Applying data mining techniques for spatial distribution analysis of plant species co-occurrences."
         ],
@@ -3477,6 +3966,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Information Extraction to improve Link Prediction in scientific social networks."
         ],
@@ -3484,6 +3974,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Exchanging Solutions for Information Systems Development using a Model Pattern Perspective - Diagram Templates in the Context of the Mdarte Collaborative Evolution Process."
         ],
@@ -3491,6 +3982,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "A crowdsourcing approach to the design of Virtual Research Environments."
         ],
@@ -3498,6 +3990,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Collaborative evolution process in MDArte: Exchanging solutions for information systems development among projects."
         ],
@@ -3505,6 +3998,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The MDArte Experience - Organizational Aspects Acquired from a Successful Partnership between Government and Academia using Model-Driven Development."
         ],
@@ -3512,6 +4006,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Group and link analysis of multi-relational scientific social networks."
         ],
@@ -3519,6 +4014,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Modeling, Mining and Analysis of Multi-Relational Scientific Social Network."
         ],
@@ -3526,6 +4022,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Collaborative support embedded in information system through automatic code generation."
         ],
@@ -3533,6 +4030,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Identifying Workgroups in Brazilian Scientific Social Networks."
         ],
@@ -3540,6 +4038,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Evaluating knowledge flow in multirelational scientific social networks."
         ],
@@ -3547,6 +4046,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Model-Driven Architecture Approach for Data Warehouse."
         ],
@@ -3554,6 +4054,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Exploring Calendar-Based Pattern Mining in Data Streams."
         ],
@@ -3561,6 +4062,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Analysis and visualization of the geographical distribution of atlantic forest bromeliads species."
         ],
@@ -3568,6 +4070,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Mining and analyzing organizational social networks for collaborative design."
         ],
@@ -3575,6 +4078,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Mining and Analyzing Multirelational Social Networks."
         ],
@@ -3582,6 +4086,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Mining and Analyzing Organizational Social Networks Using Minimum Spanning Tree."
         ],
@@ -3589,6 +4094,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "An MDA Approach for Database Profiling and Performance Assessment."
         ],
@@ -3596,6 +4102,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Autonomic Business Processes Scalable Architecture."
         ],
@@ -3603,6 +4110,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "DWFIST: Leveraging Calendar-Based Pattern Mining in Data Streams."
         ],
@@ -3610,6 +4118,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Desenvolvimento de SIG para Web utilizando MDA."
         ],
@@ -3617,6 +4126,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Extensão do WEKA para Métodos de Agrupamento com Restrição de Contigüidade do Rio de Janeiro."
         ],
@@ -3624,6 +4134,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "A P2P Approach for Business Process Modelling and Reuse."
         ],
@@ -3631,6 +4142,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Approximate Query Processing in Spatial Databases Using Raster Signatures."
         ],
@@ -3638,6 +4150,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Filtering with raster signatures."
         ],
@@ -3645,6 +4158,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Building the Data Warehouse of Frequent Itemsets in the DWFIST Approach."
         ],
@@ -3652,6 +4166,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Estimating the Overlapping Area of Polygon Join."
         ],
@@ -3659,6 +4174,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Efficient Processing of Spatiotemporal Joins."
         ],
@@ -3666,6 +4182,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Polygon and Polyline Join Using Raster Filters."
         ],
@@ -3673,6 +4190,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Approximate Spatial Query Processing using Raster Signatures."
         ],
@@ -3680,6 +4198,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Polyline Spatial Join Evaluation Using Raster Approximation."
         ],
@@ -3687,6 +4206,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Enforcement of Business Rules in Relational Databases Using Constraints."
         ],
@@ -3694,6 +4214,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Processamento Eficiente de Junções Espaçotemporais."
         ],
@@ -3701,6 +4222,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A Raster Approximation for Processing of Polyline Joins."
         ],
@@ -3708,6 +4230,7 @@
         "year": "2000"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "A Raster Approximation For Processing of Spatial Joins."
         ],
@@ -3717,6 +4240,7 @@
     ],
     "Henrique Luiz Cukierman": [
       {
+        "number_coauthors": 5,
         "title": [
           "Perspectives on Creativity in Web learning."
         ],
@@ -3726,6 +4250,7 @@
     ],
     "Ricardo C. Farias": [
       {
+        "number_coauthors": 4,
         "title": [
           "GCE: Knowledge Management Applied in a Design Reengineering Process."
         ],
@@ -3735,6 +4260,7 @@
     ],
     "Toacy Cavalcante de Oliveira": [
       {
+        "number_coauthors": 4,
         "title": [
           "Investigating the collaborative support in CollabRDL: An analysis based on the 3C model."
         ],
@@ -3742,6 +4268,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A survey of languages to represent collaboration as a means of designing CSCW facilities in RDL."
         ],
@@ -3751,8 +4278,19 @@
     ]
   },
   "Jayme Luiz Szwarcfiter": {
+    "Abilio Lucena": [
+      {
+        "number_coauthors": 6,
+        "title": [
+          "Modelling and solving the perfect edge domination problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2020"
+      }
+    ],
     "Celina M. H. de Figueiredo": [
       {
+        "number_coauthors": 6,
         "title": [
           "On probe co-bipartite and probe diamond-free graphs."
         ],
@@ -3760,6 +4298,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "Graph theory and algorithms - Fourth Latin-American Workshop on Cliques in Graphs."
         ],
@@ -3767,6 +4306,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "On the generation of bicliques of a graph."
         ],
@@ -3774,6 +4314,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Generating bicliques of a graph in lexicographic order."
         ],
@@ -3781,6 +4322,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "On the generation of bicliques of a graph."
         ],
@@ -3788,6 +4330,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "On the Generation of Bicliques of a Graph."
         ],
@@ -3795,6 +4338,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The stable marriage problem with restricted pairs."
         ],
@@ -3802,6 +4346,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A note on transitive orientations with maximum sets of sources and sinks."
         ],
@@ -3809,6 +4354,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Stable marriages with restricted pairs."
         ],
@@ -3816,6 +4362,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Even and Odd Pairs in Comparability and in P4-comparability Graphs."
         ],
@@ -3823,6 +4370,7 @@
         "year": "1999"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Linear-time Algorithms for Maximum Sets of Sources and sinks."
         ],
@@ -3832,6 +4380,7 @@
     ],
     "Felipe M. G. França": [
       {
+        "number_coauthors": 3,
         "title": [
           "On Computing All Maximal Cliques Distributedly."
         ],
@@ -3841,6 +4390,7 @@
     ],
     "Márcia R. Cerioli": [
       {
+        "number_coauthors": 3,
         "title": [
           "The interval count of interval graphs and orders: a short survey."
         ],
@@ -3848,6 +4398,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "On counting interval lengths of interval graphs."
         ],
@@ -3855,6 +4406,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Extreme Cliques in Interval Graphs."
         ],
@@ -3862,6 +4414,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Linear-Interval Dimension and PI Orders."
         ],
@@ -3869,6 +4422,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "Characterizing Intersection Graphs of Substars of a Star."
         ],
@@ -3876,6 +4430,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "Edge clique graphs and some classes of chordal graphs."
         ],
@@ -3883,6 +4438,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "A Characterization of Edge Clique Graphs."
         ],
@@ -3892,6 +4448,15 @@
     ],
     "Nelson Maculan": [
       {
+        "number_coauthors": 6,
+        "title": [
+          "Modelling and solving the perfect edge domination problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2020"
+      },
+      {
+        "number_coauthors": 4,
         "title": [
           "Distance geometry approach for special graph coloring problems."
         ],
@@ -3899,6 +4464,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Characterizing and Edge-colouring Split-indifference Graphs."
         ],
@@ -3908,6 +4474,7 @@
     ],
     "Sulamita Klein": [
       {
+        "number_coauthors": 4,
         "title": [
           "The Arboreal Jump Number of an Order."
         ],
@@ -3915,6 +4482,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A representation for the modular-pairs of a P",
           "-reducible graph by modular decomposition."
@@ -3923,6 +4491,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A representation for the modular-pairs of a cograph by modular decomposition."
         ],
@@ -3930,6 +4499,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "A Representation for the Modules of a Graph and applications."
         ],
@@ -3939,6 +4509,7 @@
     ],
     "Valmir Carneiro Barbosa": [
       {
+        "number_coauthors": 6,
         "title": [
           "A computational study of f-reversible processes on graphs."
         ],
@@ -3946,6 +4517,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "Generating all the Acyclic Orientations of an Undirected Graph."
         ],
@@ -3957,6 +4529,7 @@
   "José Ferreira de Rezende": {
     "Felipe M. G. França": [
       {
+        "number_coauthors": 8,
         "title": [
           "On the security aspects of Internet of Things: A systematic literature review."
         ],
@@ -3966,6 +4539,7 @@
     ],
     "Luís Felipe M. de Moraes": [
       {
+        "number_coauthors": 8,
         "title": [
           "On the security aspects of Internet of Things: A systematic literature review."
         ],
@@ -3973,6 +4547,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Evaluating fairness in aggregated traffic marking."
         ],
@@ -3982,6 +4557,7 @@
     ],
     "Valmir Carneiro Barbosa": [
       {
+        "number_coauthors": 3,
         "title": [
           "Scheduling wireless links in the physical interference model by fractional edge coloring."
         ],
@@ -3989,6 +4565,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Scheduling wireless links by vertex multicoloring in the physical interference model."
         ],
@@ -3996,6 +4573,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Scheduling wireless links by graph multicoloring in the physical interference model."
         ],
@@ -4003,6 +4581,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Cooperation in Cognitive Radio Networks."
         ],
@@ -4010,6 +4589,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Local heuristic for the refinement of multi-path routing in wireless mesh networks."
         ],
@@ -4017,6 +4597,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Scheduling links for heavy traffic on interfering routes in wireless mesh networks."
         ],
@@ -4024,6 +4605,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Local heuristic for the refinement of multi-path routing in wireless mesh networks."
         ],
@@ -4031,6 +4613,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Scheduling links for heavy traffic on interfering routes in wireless mesh networks."
         ],
@@ -4042,6 +4625,7 @@
   "Laura Bahiense": {
     "Abilio Lucena": [
       {
+        "number_coauthors": 4,
         "title": [
           "A New Lagrangian Based Branch and Bound Algorithm for the 0-1 Knapsack Problem."
         ],
@@ -4051,6 +4635,7 @@
     ],
     "Nelson Maculan": [
       {
+        "number_coauthors": 5,
         "title": [
           "A Branch-and-Cut Algorithm for Equitable Coloring based on a Formulation by Representatives."
         ],
@@ -4058,6 +4643,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The volume algorithm revisited: relation with bundle methods."
         ],
@@ -4069,6 +4655,7 @@
   "Luidi Simonetti": {
     "Abilio Lucena": [
       {
+        "number_coauthors": 4,
         "title": [
           "Minimum Concurrency for Assembling Computer Music."
         ],
@@ -4076,6 +4663,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Lagrangian heuristics for the Quadratic Knapsack Problem."
         ],
@@ -4083,6 +4671,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A strong symmetric formulation for the Min-degree Constrained Minimum Spanning Tree Problem."
         ],
@@ -4090,6 +4679,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The Tree-Star Problem: A Formulation and a Branch-and-Cut Algorithm."
         ],
@@ -4097,6 +4687,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Optimality cuts and a branch-and-cut algorithm for the K-rooted mini-max spanning forest problem."
         ],
@@ -4104,6 +4695,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Formulations and exact solution approaches for the degree preserving spanning tree problem."
         ],
@@ -4111,6 +4703,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Benders Decomposition, Branch-and-Cut, and Hybrid Algorithms for the Minimum Connected Dominating Set Problem."
         ],
@@ -4118,6 +4711,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The Degree Preserving Spanning Tree Problem: Valid Inequalities and Branch-and-cut method."
         ],
@@ -4125,6 +4719,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Formulating and Solving the Minimum Dominating Cycle Problem."
         ],
@@ -4132,6 +4727,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A New Formulation and Computational Results for the Simple Cycle Problem."
         ],
@@ -4139,6 +4735,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Polyhedral results and a Branch-and-cut algorithm for the $$k$$ -cardinality tree problem."
         ],
@@ -4146,6 +4743,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Formulations and Branch-and-Cut Algorithm for the K-rooted Mini-Max Spanning Forest Problem."
         ],
@@ -4153,6 +4751,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The Minimum Connected Dominating Set Problem: Formulation, Valid Inequalities and a Branch-and-Cut Algorithm."
         ],
@@ -4160,6 +4759,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Reformulations and solution algorithms for the maximum leaf spanning tree problem."
         ],
@@ -4169,6 +4769,7 @@
     ],
     "Felipe M. G. França": [
       {
+        "number_coauthors": 4,
         "title": [
           "Minimum Concurrency for Assembling Computer Music."
         ],
@@ -4178,6 +4779,7 @@
     ],
     "Marcia Helena Costa Fampa": [
       {
+        "number_coauthors": 4,
         "title": [
           "Bilevel optimization applied to strategic pricing in competitive electricity markets."
         ],
@@ -4187,6 +4789,7 @@
     ],
     "Nelson Maculan": [
       {
+        "number_coauthors": 5,
         "title": [
           "A new formulation for the Safe Set problem on graphs."
         ],
@@ -4194,6 +4797,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Reformulations and solution algorithms for the maximum leaf spanning tree problem."
         ],
@@ -4205,6 +4809,7 @@
   "Luís Felipe M. de Moraes": {
     "Felipe M. G. França": [
       {
+        "number_coauthors": 8,
         "title": [
           "On the security aspects of Internet of Things: A systematic literature review."
         ],
@@ -4214,6 +4819,7 @@
     ],
     "José Ferreira de Rezende": [
       {
+        "number_coauthors": 8,
         "title": [
           "On the security aspects of Internet of Things: A systematic literature review."
         ],
@@ -4221,6 +4827,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Evaluating fairness in aggregated traffic marking."
         ],
@@ -4232,6 +4839,7 @@
   "Marcia Helena Costa Fampa": {
     "Luidi Simonetti": [
       {
+        "number_coauthors": 4,
         "title": [
           "Bilevel optimization applied to strategic pricing in competitive electricity markets."
         ],
@@ -4241,6 +4849,7 @@
     ],
     "Nelson Maculan": [
       {
+        "number_coauthors": 3,
         "title": [
           "An overview of exact algorithms for the Euclidean Steiner tree problem in ",
           "-space."
@@ -4249,6 +4858,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Semidefinite relaxation for linear programs with equilibrium constraints."
         ],
@@ -4256,6 +4866,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "Using a Conic Formulation for Finding Steiner Minimal Trees."
         ],
@@ -4263,6 +4874,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "A New Relaxation in Conic Form for the Euclidean Steiner Problem in ℜ."
         ],
@@ -4272,6 +4884,7 @@
     ],
     "Sulamita Klein": [
       {
+        "number_coauthors": 4,
         "title": [
           "Optimal grid representations."
         ],
@@ -4283,6 +4896,7 @@
   "Marta Mattoso": {
     "Alexandre A. B. Lima": [
       {
+        "number_coauthors": 6,
         "title": [
           "Spark Scalability Analysis in a Scientific Workflow."
         ],
@@ -4290,6 +4904,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "SGProv: Summarization Mechanism for Multiple Provenance Graphs."
         ],
@@ -4297,6 +4912,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "SGProv: Mecanismo de Sumarização para Múltiplos Grafos de Proveniência."
         ],
@@ -4304,6 +4920,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Many task computing for orthologous genes identification in protozoan genomes using Hydra."
         ],
@@ -4311,6 +4928,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Distributed Database Research at COPPE/UFRJ."
         ],
@@ -4318,6 +4936,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "SciPhy: A Cloud-Based Workflow for Phylogenetic Analysis of Drug Targets in Protozoan Genomes."
         ],
@@ -4325,6 +4944,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Adaptive Virtual Partitioning for OLAP Query Processing in a Database Cluster."
         ],
@@ -4332,6 +4952,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Adaptive Virtual Partitioning: Further Developments."
         ],
@@ -4339,6 +4960,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Data parallelism in bioinformatics workflows using Hydra."
         ],
@@ -4346,6 +4968,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Athena: Text Mining Based Discovery of Scientific Workflows in Disperse Repositories."
         ],
@@ -4353,6 +4976,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Parallel OLAP query processing in database clusters with data replication."
         ],
@@ -4360,6 +4984,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Processamento de Alto Desempenho em Consultas sobre Bases de Dados Geoestatísticas Usando Replicação Parcial."
         ],
@@ -4367,6 +4992,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Parallel query processing for OLAP in grids."
         ],
@@ -4374,6 +5000,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Adaptive hybrid partitioning for OLAP query processing in a database cluster."
         ],
@@ -4381,6 +5008,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "High-Performance Query Processing of a Real-World OLAP Database with ParGRES."
         ],
@@ -4388,6 +5016,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Apuama: Combining Intra-query and Inter-query Parallelism in a Database Cluster."
         ],
@@ -4395,6 +5024,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Physical and Virtual Partitioning in OLAP Database Clusters."
         ],
@@ -4402,6 +5032,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "OLAP Query Processing in a Database Cluster."
         ],
@@ -4409,6 +5040,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Adaptive Virtual Partitioning for OLAP Query Processing in a Database Cluster."
         ],
@@ -4416,6 +5048,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Parallel Spatial Join Framework Using PMR-Quadtrees."
         ],
@@ -4425,6 +5058,7 @@
     ],
     "Claudio Esperança": [
       {
+        "number_coauthors": 3,
         "title": [
           "A Parallel Spatial Join Framework Using PMR-Quadtrees."
         ],
@@ -4434,6 +5068,7 @@
     ],
     "Claudio Luis de Amorim": [
       {
+        "number_coauthors": 5,
         "title": [
           "Evaluating the DSMIO Cache-Coherence Algorithm in Cluster-Based Parallel ODBMS."
         ],
@@ -4441,6 +5076,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Avaliação de Sistemas de Coerência de Cache em Arquiteturas ODBMs Cliente-Servidor."
         ],
@@ -4448,6 +5084,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Avaliação do Algoritmo de Coerência de Cache de Disco DSMIO."
         ],
@@ -4457,6 +5094,7 @@
     ],
     "Cláudia Maria Lima Werner": [
       {
+        "number_coauthors": 7,
         "title": [
           "ProvManager: a provenance management system for scientific workflows."
         ],
@@ -4464,6 +5102,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Challenges in Managing Implicit and Abstract Provenance Data: Experiences with ProvManager."
         ],
@@ -4471,6 +5110,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Towards supporting the life cycle of large scale scientific experiments."
         ],
@@ -4478,6 +5118,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Integrating Provenance Data from Distributed Workflow Systems with ProvManager."
         ],
@@ -4485,6 +5126,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "A Strategy for Provenance Gathering in Distributed Scientific Workflows."
         ],
@@ -4492,6 +5134,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Experiment Line: Software Reuse in Scientific Workflows."
         ],
@@ -4499,6 +5142,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Using Provenance to Improve Workflow Design."
         ],
@@ -4506,6 +5150,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Odyssey-Search: A multi-agent system for component information search and retrieval."
         ],
@@ -4513,6 +5158,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Ariane: An Awareness Mechanism for Shared Databases."
         ],
@@ -4520,6 +5166,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "OdysseyShare: An Environment for Collaborative Component-Based Development."
         ],
@@ -4527,6 +5174,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Software Components Retrieval Through Mediators and Web Search."
         ],
@@ -4534,6 +5182,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The use of mediation and ontology technologies for software component information retrieval."
         ],
@@ -4541,6 +5190,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Software Components Reuse Through Web Search and Retrieval."
         ],
@@ -4548,6 +5198,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Using Ontologies for Domain Information Retrieval."
         ],
@@ -4557,6 +5208,7 @@
     ],
     "Geraldo Xexéo": [
       {
+        "number_coauthors": 3,
         "title": [
           "Semi-Supervised Clustering of XML Documents: Getting the Most from Structural Information."
         ],
@@ -4564,6 +5216,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "XVI Simpósio Brasileiro de Banco de Dados, 1-3 Outubro 2001, Rio de Janeiro, Brasil, Anais/Proceedings."
         ],
@@ -4573,6 +5226,7 @@
     ],
     "Geraldo Zimbrão": [
       {
+        "number_coauthors": 6,
         "title": [
           "Adaptive Normalization: A novel data normalization approach for non-stationary time series."
         ],
@@ -4580,6 +5234,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Neural networks cartridges for data mining on time series."
         ],
@@ -4589,6 +5244,7 @@
     ],
     "Gerson Zaverucha": [
       {
+        "number_coauthors": 3,
         "title": [
           "A Distribution Design Methodology for Object DBMS."
         ],
@@ -4596,6 +5252,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Applying Theory Revision to the Design of Distributed Databases."
         ],
@@ -4603,6 +5260,7 @@
         "year": "2003"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Towards a Theory Revision Approach for the Vertical Fragmentation of Object Oriented Databases."
         ],
@@ -4610,6 +5268,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Framework for the Design of Distributed Databases."
         ],
@@ -4617,6 +5276,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Towards an Inductive Design of Distributed Object Oriented Databases."
         ],
@@ -4626,6 +5286,7 @@
     ],
     "Guilherme Horta Travassos": [
       {
+        "number_coauthors": 9,
         "title": [
           "Towards supporting the life cycle of large scale scientific experiments."
         ],
@@ -4637,6 +5298,7 @@
   "Márcia R. Cerioli": {
     "Celina M. H. de Figueiredo": [
       {
+        "number_coauthors": 5,
         "title": [
           "Tree loop graphs."
         ],
@@ -4644,6 +5306,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Non loop graphs with induced cycles."
         ],
@@ -4651,6 +5314,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Loop Graphs and Asteroidal Sets."
         ],
@@ -4658,6 +5322,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Tree Loop Graphs."
         ],
@@ -4665,6 +5330,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The Homogeneous Set Sandwich Problem."
         ],
@@ -4674,6 +5340,7 @@
     ],
     "Jayme Luiz Szwarcfiter": [
       {
+        "number_coauthors": 3,
         "title": [
           "The interval count of interval graphs and orders: a short survey."
         ],
@@ -4681,6 +5348,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "On counting interval lengths of interval graphs."
         ],
@@ -4688,6 +5356,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Extreme Cliques in Interval Graphs."
         ],
@@ -4695,6 +5364,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Linear-Interval Dimension and PI Orders."
         ],
@@ -4702,6 +5372,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "Characterizing Intersection Graphs of Substars of a Star."
         ],
@@ -4709,6 +5380,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "Edge clique graphs and some classes of chordal graphs."
         ],
@@ -4716,6 +5388,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "A Characterization of Edge Clique Graphs."
         ],
@@ -4725,6 +5398,7 @@
     ],
     "Sulamita Klein": [
       {
+        "number_coauthors": 4,
         "title": [
           "The Homogeneous Set Sandwich Problem."
         ],
@@ -4736,6 +5410,15 @@
   "Nelson Maculan": {
     "Abilio Lucena": [
       {
+        "number_coauthors": 6,
+        "title": [
+          "Modelling and solving the perfect edge domination problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2020"
+      },
+      {
+        "number_coauthors": 3,
         "title": [
           "Formulations for the Minimum 2-Connected Dominating Set Problem."
         ],
@@ -4743,6 +5426,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Reformulations and solution algorithms for the maximum leaf spanning tree problem."
         ],
@@ -4750,6 +5434,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A relax-and-cut algorithm for the prize-collecting Steiner problem in graphs."
         ],
@@ -4757,6 +5442,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Preface."
         ],
@@ -4764,6 +5450,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Using Lagrangian dual information to generate degree constrained spanning trees."
         ],
@@ -4771,6 +5458,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Stronger K-tree relaxations for the vehicle routing problem."
         ],
@@ -4780,6 +5468,7 @@
     ],
     "Adilson Elias Xavier": [
       {
+        "number_coauthors": 4,
         "title": [
           "A geometric perspective of the Weiszfeld algorithm for solving the Fermat-Weber problem."
         ],
@@ -4787,6 +5476,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An evaluation of the bihyperbolic function in the optimization of the backpropagation algorithm."
         ],
@@ -4794,6 +5484,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Hyperbolic smoothing and penalty techniques applied to molecular structure determination."
         ],
@@ -4801,6 +5492,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "NLPToolbox: an open-source nonlinear programming tool."
         ],
@@ -4808,6 +5500,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The Euclidean Steiner tree problem in R",
           ": A mathematical programming formulation."
@@ -4818,6 +5511,7 @@
     ],
     "Felipe M. G. França": [
       {
+        "number_coauthors": 4,
         "title": [
           "A Distributed Dynamics for WebGraph Decontamination."
         ],
@@ -4827,6 +5521,15 @@
     ],
     "Jayme Luiz Szwarcfiter": [
       {
+        "number_coauthors": 6,
+        "title": [
+          "Modelling and solving the perfect edge domination problem."
+        ],
+        "type_of_publication": "entry article toc",
+        "year": "2020"
+      },
+      {
+        "number_coauthors": 4,
         "title": [
           "Distance geometry approach for special graph coloring problems."
         ],
@@ -4834,6 +5537,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Characterizing and Edge-colouring Split-indifference Graphs."
         ],
@@ -4843,6 +5547,7 @@
     ],
     "Laura Bahiense": [
       {
+        "number_coauthors": 5,
         "title": [
           "A Branch-and-Cut Algorithm for Equitable Coloring based on a Formulation by Representatives."
         ],
@@ -4850,6 +5555,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The volume algorithm revisited: relation with bundle methods."
         ],
@@ -4859,6 +5565,7 @@
     ],
     "Luidi Simonetti": [
       {
+        "number_coauthors": 5,
         "title": [
           "A new formulation for the Safe Set problem on graphs."
         ],
@@ -4866,6 +5573,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Reformulations and solution algorithms for the maximum leaf spanning tree problem."
         ],
@@ -4875,6 +5583,7 @@
     ],
     "Marcia Helena Costa Fampa": [
       {
+        "number_coauthors": 3,
         "title": [
           "An overview of exact algorithms for the Euclidean Steiner tree problem in ",
           "-space."
@@ -4883,6 +5592,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Semidefinite relaxation for linear programs with equilibrium constraints."
         ],
@@ -4890,6 +5600,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "Using a Conic Formulation for Finding Steiner Minimal Trees."
         ],
@@ -4897,6 +5608,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "A New Relaxation in Conic Form for the Euclidean Steiner Problem in ℜ."
         ],
@@ -4906,6 +5618,7 @@
     ],
     "Priscila Machado Vieira Lima": [
       {
+        "number_coauthors": 4,
         "title": [
           "A Distributed Dynamics for WebGraph Decontamination."
         ],
@@ -4915,6 +5628,7 @@
     ],
     "Valmir Carneiro Barbosa": [
       {
+        "number_coauthors": 4,
         "title": [
           "Acyclic Orientations with Path Constraints."
         ],
@@ -4922,6 +5636,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Acyclic orientations with path constraints."
         ],
@@ -4935,6 +5650,7 @@
   "Priscila Machado Vieira Lima": {
     "Adilson Elias Xavier": [
       {
+        "number_coauthors": 4,
         "title": [
           "A hyperbolic smoothing approach to the Multisource Weber problem."
         ],
@@ -4944,6 +5660,7 @@
     ],
     "Carlos Eduardo Pedreira": [
       {
+        "number_coauthors": 4,
         "title": [
           "The Exact VC Dimension of the WiSARD n-Tuple Classifier."
         ],
@@ -4951,6 +5668,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A universal multilingual weightless neural network tagger via quantitative linguistics."
         ],
@@ -4958,6 +5676,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Financial credit analysis via a clustering weightless neural classifier."
         ],
@@ -4965,6 +5684,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Credit analysis with a clustering RAM-based neural classifier."
         ],
@@ -4974,6 +5694,7 @@
     ],
     "Claudio Luis de Amorim": [
       {
+        "number_coauthors": 5,
         "title": [
           "Hardware Supported Synchronization Primitives for Clusters."
         ],
@@ -4983,6 +5704,7 @@
     ],
     "Felipe M. G. França": [
       {
+        "number_coauthors": 4,
         "title": [
           "The Exact VC Dimension of the WiSARD n-Tuple Classifier."
         ],
@@ -4990,6 +5712,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Action Units Classification Using ClusWiSARD."
         ],
@@ -4997,6 +5720,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Near-optimal facial emotion classification using a WiSARD-based weightless system."
         ],
@@ -5004,6 +5728,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Prescription of rhythmic patterns for legged locomotion."
         ],
@@ -5011,6 +5736,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A universal multilingual weightless neural network tagger via quantitative linguistics."
         ],
@@ -5018,6 +5744,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Financial credit analysis via a clustering weightless neural classifier."
         ],
@@ -5025,6 +5752,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Multilingual part-of-speech tagging with weightless neural networks."
         ],
@@ -5032,6 +5760,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Real-Time Music Tracking Based on a Weightless Neural Network."
         ],
@@ -5039,6 +5768,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "A WiSARD-based multi-term memory framework for online tracking of objects."
         ],
@@ -5046,6 +5776,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A hyperbolic smoothing approach to the Multisource Weber problem."
         ],
@@ -5053,6 +5784,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Extracting Semantic Information from Patent Claims Using Phrasal Structure Annotations."
         ],
@@ -5060,6 +5792,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Spatio-temporal Pattern Classification with KernelCanvas and WiSARD."
         ],
@@ -5067,6 +5800,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Credit analysis with a clustering RAM-based neural classifier."
         ],
@@ -5074,6 +5808,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Online tracking of multiple objects using WiSARD."
         ],
@@ -5081,6 +5816,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Advances on Weightless Neural Systems."
         ],
@@ -5088,6 +5824,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "A legged central pattern generation model for autonomous gait transition."
         ],
@@ -5095,6 +5832,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "WIPS: the WiSARD Indoor Positioning System."
         ],
@@ -5102,6 +5840,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "B-bleaching: Agile Overtraining Avoidance in the WiSARD Weightless Neural Classifier."
         ],
@@ -5109,6 +5848,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Recognition of HIV-1 subtypes and antiretroviral drug resistance using weightless neural networks."
         ],
@@ -5116,6 +5856,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "The Effect of Intelligent Escape on Distributed SER-Based Search."
         ],
@@ -5123,6 +5864,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "A Weightless Neural Network-Based Approach for Stream Data Clustering."
         ],
@@ -5130,6 +5872,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Clustering data streams with weightless neural networks."
         ],
@@ -5137,6 +5880,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Producing pattern examples from \"mental\" images."
         ],
@@ -5144,6 +5888,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "WANN-Tagger - A Weightless Artificial Neural Network Tagger for the Portuguese Language."
         ],
@@ -5151,6 +5896,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A Distributed Dynamics for WebGraph Decontamination."
         ],
@@ -5158,6 +5904,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "A brief introduction to Weightless Neural Systems."
         ],
@@ -5165,6 +5912,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Extracting fuzzy rules from \"mental\" images generated by a modified WISARD perceptron."
         ],
@@ -5172,6 +5920,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Logical Reasoning via Satisfiability Mapped into Energy Functions."
         ],
@@ -5179,6 +5928,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The Influence of Order on a Large Bag of Words."
         ],
@@ -5186,6 +5936,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Logic as Energy: A SAT-Based Approach."
         ],
@@ -5193,6 +5944,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Mapping and Combining Combinatorial Problems into Energy Landscapes via Pseudo-Boolean Constraints."
         ],
@@ -5200,6 +5952,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "SATyrus: A SAT-based Neuro-Symbolic Architecture for Constraint Processing."
         ],
@@ -5209,6 +5962,7 @@
     ],
     "Geraldo Xexéo": [
       {
+        "number_coauthors": 5,
         "title": [
           "Playing with Robots Using Your Brain."
         ],
@@ -5218,6 +5972,7 @@
     ],
     "Gerson Zaverucha": [
       {
+        "number_coauthors": 14,
         "title": [
           "Neural-Symbolic Learning and Reasoning: A Survey and Interpretation."
         ],
@@ -5227,6 +5982,7 @@
     ],
     "Nelson Maculan": [
       {
+        "number_coauthors": 4,
         "title": [
           "A Distributed Dynamics for WebGraph Decontamination."
         ],
@@ -5236,6 +5992,7 @@
     ],
     "Valmir Carneiro Barbosa": [
       {
+        "number_coauthors": 2,
         "title": [
           "On the Distributed Parallel Simulation of Hopfield's Neural Networks."
         ],
@@ -5247,6 +6004,7 @@
   "Ricardo C. Farias": {
     "Claudio Esperança": [
       {
+        "number_coauthors": 4,
         "title": [
           "Volume and Isosurface Rendering with GPU-Accelerated Cell Projection*."
         ],
@@ -5254,6 +6012,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "GPU-based cell projection for large structured data sets."
         ],
@@ -5261,6 +6020,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "GPU-Based Cell Projection for Interactive Volume Rendering."
         ],
@@ -5268,6 +6028,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "3D Free-form Modeling with Variational Surfaces."
         ],
@@ -5275,6 +6036,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Loop Snakes: Snakes with Enhanced Topology Control."
         ],
@@ -5284,6 +6046,7 @@
     ],
     "Jano Moreira de Souza": [
       {
+        "number_coauthors": 4,
         "title": [
           "GCE: Knowledge Management Applied in a Design Reengineering Process."
         ],
@@ -5293,6 +6056,7 @@
     ],
     "Ricardo Marroquim": [
       {
+        "number_coauthors": 4,
         "title": [
           "Parallel Image Segmentation Using Reduction-Sweeps on Multicore Processors and GPUs."
         ],
@@ -5300,6 +6064,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Hardware-Assisted Projected Tetrahedra."
         ],
@@ -5307,6 +6072,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Volume and Isosurface Rendering with GPU-Accelerated Cell Projection*."
         ],
@@ -5314,6 +6080,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "GPU-based cell projection for large structured data sets."
         ],
@@ -5321,6 +6088,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "GPU-Based Cell Projection for Interactive Volume Rendering."
         ],
@@ -5332,6 +6100,7 @@
   "Ricardo Marroquim": {
     "Claudio Esperança": [
       {
+        "number_coauthors": 3,
         "title": [
           "OMiCroN - Oblique Multipass Hierarchy Creation while Navigating."
         ],
@@ -5339,6 +6108,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Image Space Rendering of Point Clouds Using the HPR Operator."
         ],
@@ -5346,6 +6116,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Lazy Work Stealing for Continuous Hierarchy Traversal on Deformable Bodies."
         ],
@@ -5353,6 +6124,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Forensic Facial Reconstruction Using Mesh Template Deformation with Detail Transfer over HRBF."
         ],
@@ -5360,6 +6132,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Enhanced Target Driven Smoke Morphing."
         ],
@@ -5367,6 +6140,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Volume and Isosurface Rendering with GPU-Accelerated Cell Projection*."
         ],
@@ -5374,6 +6148,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Point-based level-of-detail with object textures."
         ],
@@ -5381,6 +6156,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "GPU-based cell projection for large structured data sets."
         ],
@@ -5388,6 +6164,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "GPU-Based Cell Projection for Interactive Volume Rendering."
         ],
@@ -5395,6 +6172,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Multi-Resolution Triangulations with Adaptation to the Domain Based on Physical Compression."
         ],
@@ -5404,6 +6182,7 @@
     ],
     "Ricardo C. Farias": [
       {
+        "number_coauthors": 4,
         "title": [
           "Parallel Image Segmentation Using Reduction-Sweeps on Multicore Processors and GPUs."
         ],
@@ -5411,6 +6190,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Hardware-Assisted Projected Tetrahedra."
         ],
@@ -5418,6 +6198,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Volume and Isosurface Rendering with GPU-Accelerated Cell Projection*."
         ],
@@ -5425,6 +6206,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "GPU-based cell projection for large structured data sets."
         ],
@@ -5432,6 +6214,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "GPU-Based Cell Projection for Interactive Volume Rendering."
         ],
@@ -5443,6 +6226,7 @@
   "Rosa Maria Meri Leão": {
     "Daniel R. Figueiredo": [
       {
+        "number_coauthors": 3,
         "title": [
           "The TANGRAMII integrated modeling environment for computer systems and networks."
         ],
@@ -5452,6 +6236,7 @@
     ],
     "Edmundo de Souza e Silva": [
       {
+        "number_coauthors": 4,
         "title": [
           "On the scalability of P2P swarming systems."
         ],
@@ -5459,6 +6244,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Enabling opportunistic search and placement in cache networks."
         ],
@@ -5466,6 +6252,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "An experimental reality check on the scaling laws of swarming systems."
         ],
@@ -5473,6 +6260,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Assessing survivability to support power grid investment decisions."
         ],
@@ -5480,6 +6268,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Search and Placement in Tiered Cache Networks."
         ],
@@ -5487,6 +6276,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "A Preliminary Performance Measurement Study of Residential Broadband Services in Brazil."
         ],
@@ -5494,6 +6284,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Search and Placement in Tiered Cache Networks."
         ],
@@ -5501,6 +6292,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Flexible Content Placement in Cache Networks using Reinforced Counters."
         ],
@@ -5508,6 +6300,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Assessing survivability of smart grid distribution network designs accounting for multiple failures."
         ],
@@ -5515,6 +6308,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "On the Service Capacity of P2P Systems."
         ],
@@ -5522,6 +6316,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Scalability Issues in P2P Systems."
         ],
@@ -5529,6 +6324,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Efficient Transient Analysis of Markovian Models Using a Block Reduction Approach."
         ],
@@ -5536,6 +6332,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 15,
         "title": [
           "Experience with model-based performance, reliability, and adaptability assessment of a complex industrial architecture."
         ],
@@ -5543,6 +6340,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "On the Interplay between Content Popularity and Performance in P2P Systems."
         ],
@@ -5550,6 +6348,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Survivability models for the assessment of smart grid distribution automation network designs."
         ],
@@ -5557,6 +6356,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Enabling Information Centric Networks through Opportunistic Search, Routing and Caching."
         ],
@@ -5564,6 +6364,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 9,
         "title": [
           "Survivability analysis of power distribution in smart grids with active and reactive power modeling."
         ],
@@ -5571,6 +6372,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Automated generation of test cases using a performability model."
         ],
@@ -5578,6 +6380,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 14,
         "title": [
           "Experience building non-functional requirement models of a complex industrial architecture (abstracts only)."
         ],
@@ -5585,6 +6388,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Implications of peer selection strategies by publishers on the performance of P2P swarming systems."
         ],
@@ -5592,6 +6396,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 14,
         "title": [
           "Experience building non-functional requirement models of a complex industrial architecture."
         ],
@@ -5599,6 +6404,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Estimating self-sustainability in peer-to-peer swarming systems."
         ],
@@ -5606,6 +6412,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Effect of Varying the Intra-Frame Packet Burstiness on the Performance of Wireless Video Streaming."
         ],
@@ -5613,6 +6420,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 10,
         "title": [
           "Experience with a New Architecture Review Process Using a Globally Distributed Architecture Review Team."
         ],
@@ -5620,6 +6428,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Performance Evaluation with Hidden Markov Models."
         ],
@@ -5627,6 +6436,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Estimating Self-Sustainability in Peer-to-Peer Swarming Systems."
         ],
@@ -5634,6 +6444,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The TANGRAMII integrated modeling environment for computer systems and networks."
         ],
@@ -5641,6 +6452,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Modeling chunk availability in P2P swarming systems."
         ],
@@ -5648,6 +6460,7 @@
         "year": "2009"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Quality assessment of interactive voice applications."
         ],
@@ -5655,6 +6468,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "User Level Fairness of a Multirate 3G Technology (EVDO) With Application to Digital TV Return Channel Technology."
         ],
@@ -5662,6 +6476,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Reliability estimation for large distributed software systems."
         ],
@@ -5669,6 +6484,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Modeling Resource Sharing Dynamics of VoIP Users over a WLAN Using a Game-Theoretic Approach."
         ],
@@ -5676,6 +6492,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The Effect of Mobility on the User-Level Fairness of a 3G Wireless Technology (EV-DO)."
         ],
@@ -5683,6 +6500,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 7,
         "title": [
           "Extending model transformations in the performance domain with a node modeling library."
         ],
@@ -5690,6 +6508,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An End-to-End Technique to Estimate the Transmission Rate of an IEEE 802.11 WLAN."
         ],
@@ -5697,6 +6516,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Non-cooperative Active Measurement Technique for Estimating the Average and Variance of the One-Way Delay."
         ],
@@ -5704,6 +6524,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "On the Use of Cellular Technology for Digital TV Bi-Directional Return Channel Services."
         ],
@@ -5711,6 +6532,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 8,
         "title": [
           "Modeling, analysis, measurement and experimentation with the Tangram-II integrated environment."
         ],
@@ -5718,6 +6540,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An efficient approximate technique for solving fluid models."
         ],
@@ -5725,6 +6548,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The required capacity distribution for the patching bandwidth sharing technique."
         ],
@@ -5732,6 +6556,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Performance Issues of Multimedia Applications."
         ],
@@ -5739,6 +6564,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Transient analysis applied to traffic modeling."
         ],
@@ -5746,6 +6572,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Set of Tools for Traffic Modeling, Analysis and Experimentation."
         ],
@@ -5753,6 +6580,7 @@
         "year": "2000"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "The TANGRAM-II Environment."
         ],
@@ -5765,6 +6593,7 @@
   "Sulamita Klein": {
     "Celina M. H. de Figueiredo": [
       {
+        "number_coauthors": 5,
         "title": [
           "The chain graph sandwich problem."
         ],
@@ -5772,6 +6601,7 @@
         "year": "2011"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "2K",
           " vertex-set partition into nonempty parts."
@@ -5780,6 +6610,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 6,
         "title": [
           "Advances on the List Stubborn Problem."
         ],
@@ -5787,6 +6618,7 @@
         "year": "2010"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "2K",
           " vertex-set partition into nonempty parts."
@@ -5795,6 +6627,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "On the complexity of the sandwich problems for strongly chordal graphs and chordal bipartite graphs."
         ],
@@ -5802,6 +6635,7 @@
         "year": "2007"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Extended skew partition problem."
         ],
@@ -5809,6 +6643,7 @@
         "year": "2006"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Finding H-partitions efficiently."
         ],
@@ -5816,6 +6651,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The perfection and recognition of bull-reducible Berge graphs."
         ],
@@ -5823,6 +6659,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "Stable skew partition problem."
         ],
@@ -5830,6 +6667,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The graph sandwich problem for 1-join composition is NP-complete."
         ],
@@ -5837,6 +6675,7 @@
         "year": "2002"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Bull-Reducible Berge Graphs are Perfect."
         ],
@@ -5844,6 +6683,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The graph sandwich problem for 1-join composition is NP-complete."
         ],
@@ -5851,6 +6691,7 @@
         "year": "2000"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Finding Skew Partitions Efficiently."
         ],
@@ -5858,6 +6699,7 @@
         "year": "2000"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Finding Skew Partitions Efficiently."
         ],
@@ -5865,6 +6707,7 @@
         "year": "2000"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "The Homogeneous Set Sandwich Problem."
         ],
@@ -5874,6 +6717,7 @@
     ],
     "Jayme Luiz Szwarcfiter": [
       {
+        "number_coauthors": 4,
         "title": [
           "The Arboreal Jump Number of an Order."
         ],
@@ -5881,6 +6725,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A representation for the modular-pairs of a P",
           "-reducible graph by modular decomposition."
@@ -5889,6 +6734,7 @@
         "year": "2005"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A representation for the modular-pairs of a cograph by modular decomposition."
         ],
@@ -5896,6 +6742,7 @@
         "year": "2004"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "A Representation for the Modules of a Graph and applications."
         ],
@@ -5905,6 +6752,7 @@
     ],
     "Marcia Helena Costa Fampa": [
       {
+        "number_coauthors": 4,
         "title": [
           "Optimal grid representations."
         ],
@@ -5914,6 +6762,7 @@
     ],
     "Márcia R. Cerioli": [
       {
+        "number_coauthors": 4,
         "title": [
           "The Homogeneous Set Sandwich Problem."
         ],
@@ -5926,6 +6775,7 @@
   "Toacy Cavalcante de Oliveira": {
     "Cláudia Maria Lima Werner": [
       {
+        "number_coauthors": 8,
         "title": [
           "Model-driven engineering ecosystems."
         ],
@@ -5933,6 +6783,7 @@
         "year": "2019"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Building the foundations for 'MDE as Service'."
         ],
@@ -5940,6 +6791,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Revisiting Criteria for Description of MDE Artifacts."
         ],
@@ -5947,6 +6799,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Automated Approach for Asset Integration in Eclipse IDE."
         ],
@@ -5954,6 +6807,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Towards facilities to introduce solutions for MDE in development environments with reusable assets."
         ],
@@ -5961,6 +6815,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A Common Representation for Reuse Assistants."
         ],
@@ -5968,6 +6823,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 5,
         "title": [
           "From applications to a software ecosystem platform: an exploratory study."
         ],
@@ -5975,6 +6831,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "How do You Execute Reuse Tasks Among Tools?"
         ],
@@ -5982,6 +6839,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Towards Coupled Evolution of Metamodels, Models, Graph-Based Transformations and Traceability Links (S)."
         ],
@@ -5989,6 +6847,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Ensuring consistency of feature-based decisions with a business rule system."
         ],
@@ -5996,6 +6855,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "An analysis of change operations to achieve consistency in model-driven software product lines."
         ],
@@ -6005,6 +6865,7 @@
     ],
     "Jano Moreira de Souza": [
       {
+        "number_coauthors": 4,
         "title": [
           "Investigating the collaborative support in CollabRDL: An analysis based on the 3C model."
         ],
@@ -6012,6 +6873,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A survey of languages to represent collaboration as a means of designing CSCW facilities in RDL."
         ],
@@ -6023,6 +6885,7 @@
   "Valmir Carneiro Barbosa": {
     "Daniel R. Figueiredo": [
       {
+        "number_coauthors": 3,
         "title": [
           "Approximating the degree sequences of two random graphs."
         ],
@@ -6032,6 +6895,7 @@
     ],
     "Felipe M. G. França": [
       {
+        "number_coauthors": 4,
         "title": [
           "Early detection of epilepsy seizures based on a weightless neural network."
         ],
@@ -6039,6 +6903,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 11,
         "title": [
           "Effectively addressing complex proteomic search spaces with peptide spectrum matching."
         ],
@@ -6046,6 +6911,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Sharing Resources at Nonuniform Access Rates."
         ],
@@ -6055,6 +6921,7 @@
     ],
     "Geraldo Xexéo": [
       {
+        "number_coauthors": 4,
         "title": [
           "A Distributed System for SearchOnMath Based on the Microsoft BizSpark Program."
         ],
@@ -6062,6 +6929,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "A distributed system for SearchOnMath based on the Microsoft BizSpark program."
         ],
@@ -6069,6 +6937,7 @@
         "year": "2017"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The network structure of mathematical knowledge according to the Wikipedia, MathWorld, and DLMF online libraries."
         ],
@@ -6076,6 +6945,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "The network structure of mathematical knowledge according to the Wikipedia, MathWorld, and DLMF online libraries."
         ],
@@ -6085,6 +6955,7 @@
     ],
     "Gerson Zaverucha": [
       {
+        "number_coauthors": 3,
         "title": [
           "Learning Logic Programs with Neural Networks."
         ],
@@ -6092,6 +6963,7 @@
         "year": "2001"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Towards a Hybrid Model of First-Order Theory Refinement."
         ],
@@ -6099,6 +6971,7 @@
         "year": "1998"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "A Penalty-Function Approach to Rule Extraction from Knowledge-Based Neural Networks."
         ],
@@ -6108,6 +6981,7 @@
     ],
     "Jayme Luiz Szwarcfiter": [
       {
+        "number_coauthors": 6,
         "title": [
           "A computational study of f-reversible processes on graphs."
         ],
@@ -6115,6 +6989,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 2,
         "title": [
           "Generating all the Acyclic Orientations of an Undirected Graph."
         ],
@@ -6124,6 +6999,7 @@
     ],
     "José Ferreira de Rezende": [
       {
+        "number_coauthors": 3,
         "title": [
           "Scheduling wireless links in the physical interference model by fractional edge coloring."
         ],
@@ -6131,6 +7007,7 @@
         "year": "2018"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Scheduling wireless links by vertex multicoloring in the physical interference model."
         ],
@@ -6138,6 +7015,7 @@
         "year": "2016"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Scheduling wireless links by graph multicoloring in the physical interference model."
         ],
@@ -6145,6 +7023,7 @@
         "year": "2015"
       },
       {
+        "number_coauthors": 3,
         "title": [
           "Cooperation in Cognitive Radio Networks."
         ],
@@ -6152,6 +7031,7 @@
         "year": "2014"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Local heuristic for the refinement of multi-path routing in wireless mesh networks."
         ],
@@ -6159,6 +7039,7 @@
         "year": "2013"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Scheduling links for heavy traffic on interfering routes in wireless mesh networks."
         ],
@@ -6166,6 +7047,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Local heuristic for the refinement of multi-path routing in wireless mesh networks."
         ],
@@ -6173,6 +7055,7 @@
         "year": "2012"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Scheduling links for heavy traffic on interfering routes in wireless mesh networks."
         ],
@@ -6182,6 +7065,7 @@
     ],
     "Nelson Maculan": [
       {
+        "number_coauthors": 4,
         "title": [
           "Acyclic Orientations with Path Constraints."
         ],
@@ -6189,6 +7073,7 @@
         "year": "2008"
       },
       {
+        "number_coauthors": 4,
         "title": [
           "Acyclic orientations with path constraints."
         ],
@@ -6198,6 +7083,7 @@
     ],
     "Priscila Machado Vieira Lima": [
       {
+        "number_coauthors": 2,
         "title": [
           "On the Distributed Parallel Simulation of Hopfield's Neural Networks."
         ],
