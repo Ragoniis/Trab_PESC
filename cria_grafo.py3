@@ -14,26 +14,33 @@ def cria_grafo(ano, dicionario):
 
 lista_grafos = []
 
-with open('test.json', 'r') as f:
+#abre arquivo
+with open('Files/test.json', 'r') as f:
 	professores_dict = json.load(f)
 
-#G1 = nx.Graph()
+G1 = nx.Graph()
+
+#cria um grafo por ano
 
 ano = 1990
 while ano <= 2020:
-	'''
+	G1 = nx.Graph(G1) #cria uma copia do proprio grafo, necessario para que alteracoes ocorram so em um grafo
 	for professor in professores_dict:
 		G1.add_node(professor)
-		for colaborador in [*professores_dict[professor]]:
+		for colaborador in [*professores_dict[professor]]: #retorna as chaves dentro do dicionario do professor. No caso, os colaboradores
 			for i in range(len(professores_dict[professor][colaborador])):
 				if (professores_dict[professor][colaborador][i]['year'] == str(ano)):
 					G1.add_edge(professor, colaborador)
-		'''
-	lista_grafos.append(cria_grafo(ano, professores_dict))
+		
+	lista_grafos.append(G1)
 	ano += 1 
 
-print (lista_grafos)
+print (len(lista_grafos))
 
-nx.draw(lista_grafos[20], with_labels=True)
-plt.draw()
-plt.show()
+i=0
+while i<=30:
+	print (i)
+	nx.draw(lista_grafos[i], with_labels=True)
+	plt.draw()
+	plt.show()
+	i+=1
