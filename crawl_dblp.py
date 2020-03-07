@@ -44,7 +44,10 @@ def get_coauthors(tree, researcher_name, researchers,graph):
     authors = node.xpath('.//span[contains(@itemprop,\'author\')]//span/text()')
     title = node.xpath('.//span[contains(@class,\'title\')]/text()')
     type_of_publication = node.get('class')
+    real_type_of_publication = node.xpath('./div/img')[0].get('title')
     element = {}
+    if(real_type_of_publication not in ["Books and Theses","Journal Articles","Conference and Workshop Papers"]):
+    	continue
     for author in authors:  
       if (author not in researchers):
         #this researcher it not from PESC
@@ -59,6 +62,7 @@ def get_coauthors(tree, researcher_name, researchers,graph):
       element["year"]= year
       element["title"] = title
       element["type_of_publication"]= type_of_publication
+      element["real_type_of_publication"] = real_type_of_publication
       element["number_coauthors"] = len(authors);
       graph[researcher_name][author_normalized_name].append(element)
   return coauthors
