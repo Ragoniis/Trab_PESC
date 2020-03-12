@@ -129,11 +129,16 @@ while i<=30:
 	graph_colors = [colors[x] for x in nx.subgraph_view(real_graph_list[i],filter_node=cfunction).nodes()]
 	sub_graph= nx.subgraph_view(real_graph_list[i],filter_node=cfunction)
 	edges = sub_graph.edges()
-	weights = [sub_graph[u][v]['weight'] for u,v in edges]
-	nx.draw_spring(nx.subgraph_view(real_graph_list[i],filter_node=cfunction),node_color=graph_colors,with_labels=True,node_size=500,font_size=10,width=weights)
+
+	if (list_number>0):
+		weights = [sub_graph[u][v]['weight'] for u,v in edges]
+		nx.draw_spring(nx.subgraph_view(real_graph_list[i],filter_node=cfunction),node_color=graph_colors,with_labels=True,node_size=500,font_size=10,width=weights)
+	else:
+		nx.draw_spring(nx.subgraph_view(real_graph_list[i],filter_node=cfunction),node_color=graph_colors,with_labels=True,node_size=500,font_size=10)
+		
 	plt.draw()
 	figManager = plt.get_current_fig_manager()
-	figManager.window.showMaximized()
+	#figManager.window.showMaximized() #erro no linux
 	l,r = plt.xlim()
 	print(l,r)
 	plt.xlim(l-2,r+2)
