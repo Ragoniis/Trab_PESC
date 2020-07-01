@@ -101,7 +101,10 @@ while ano <= 2020:
 	weights = [G2[u][v]['weight']*10 for u,v in edges]
 	ano += 1 
 
-print (len(lista_grafos_1))
+print(len(lista_grafos_1))
+print("Excentridade Ratton: "+ str(nx.eccentricity(G1, "Daniel R. Figueiredo")))
+print("Diametro do grafo: "+str(nx.diameter(G1)))
+
 def closureBecauseNX(G):
 	Graph = G
 	def filterNoNeighbours(V):
