@@ -1,0 +1,1306 @@
+{
+  "Alberto H. F. Laender": [
+    {
+      "ano": "2012",
+      "article": "Time-Aware Ranking in Sport Social Networks"
+    }
+  ],
+  "Alejandra Klachquin": [
+    {
+      "ano": "2011",
+      "article": "Um Mecanismo Orientado a ISP para Escolha Tendenciosa de Pares no BitTorrent"
+    }
+  ],
+  "Alexandre Santos": [
+    {
+      "ano": "2009",
+      "article": "Two ID-free Distributed Distance-2 Edge Coloring Algorithms for WSNs"
+    }
+  ],
+  "André Pinho": [
+    {
+      "ano": "2009",
+      "article": "Two ID-free Distributed Distance-2 Edge Coloring Algorithms for WSNs"
+    }
+  ],
+  "Antonio Augusto Aragão Rocha": [
+    {
+      "ano": "2010",
+      "article": "Can identical BitTorrent peers experience different download times"
+    },
+    {
+      "ano": "2012",
+      "article": "Modelagem e Caracterização do Processo de Amostragem de Vértices em Redes"
+    },
+    {
+      "ano": "2014",
+      "article": "Evaluation of Epidemic Seeding Strategies under Variable Node Costs"
+    }
+  ],
+  "Antonio Augusto de Aragao Rocha": [
+    {
+      "ano": "2020",
+      "article": "Efficient network seeding under variable node cost and limited budget for social networks"
+    }
+  ],
+  "Artur Ziviani": [
+    {
+      "ano": "2014",
+      "article": "Evaluation of Epidemic Seeding Strategies under Variable Node Costs"
+    },
+    {
+      "ano": "2020",
+      "article": "Efficient network seeding under variable node cost and limited budget for social networks"
+    }
+  ],
+  "B. R. BRANDI": [
+    {
+      "ano": "1997",
+      "article": "Caracterização do Processo de Perda de Pacotes de Voz Na Internet"
+    },
+    {
+      "ano": "1998",
+      "article": "Mecanismos Para Recuperação de Pacotes de Voz Na Internet"
+    }
+  ],
+  "BARBOSA, VALMIR C.": [
+    {
+      "ano": "2017",
+      "article": "Power-law decay of the degree-sequence probabilities of multiple random graphs with application to graph isomorphism"
+    },
+    {
+      "ano": "2019",
+      "article": "Counting trees with random walks"
+    }
+  ],
+  "BURSZTYN, VICTOR S": [
+    {
+      "ano": "2020",
+      "article": "How Brazilian congressmen connect: homophily and cohesion in voting and donation networks"
+    }
+  ],
+  "Benyuan Liu": [
+    {
+      "ano": "2001",
+      "article": "A Study of Networks Simulation Efficiency: Fluid Simulation vs. Packetlevel Simulation"
+    },
+    {
+      "ano": "2002",
+      "article": "On the Autocorrelation Structure of TCP Traffic"
+    },
+    {
+      "ano": "2011",
+      "article": "Introdução a Redes Complexas"
+    }
+  ],
+  "Bo Jiang": [
+    {
+      "ano": "2014",
+      "article": "Cumulative Advantage Competitions and the Struggle of the Fittest"
+    }
+  ],
+  "Bruno Ribeiro": [
+    {
+      "ano": "2011",
+      "article": "Characterizing continuous-time random walks on dynamic networks"
+    },
+    {
+      "ano": "2014",
+      "article": "Cumulative Advantage Competitions and the Struggle of the Fittest"
+    }
+  ],
+  "CARDOSO LEITE, GABRIEL MATOS": [
+    {
+      "ano": "2019",
+      "article": "A Contextual Hierarchical Graph Model for Generating Random Sequences of Objects with Application to Music Playlists"
+    }
+  ],
+  "Carlos Eduardo Fisch Brito": [
+    {
+      "ano": "2012",
+      "article": "Characterizing Long-Term Behavior of Markovian Models with Multiple Timescales"
+    }
+  ],
+  "D. A. CIPRIANO": [
+    {
+      "ano": "1994",
+      "article": "Aplicativos Para Sistemas de Voz (Sintvoz)"
+    }
+  ],
+  "DE OLIVEIRA NUNES, IGOR": [
+    {
+      "ano": "2019",
+      "article": "A Contextual Hierarchical Graph Model for Generating Random Sequences of Objects with Application to Music Playlists"
+    }
+  ],
+  "DE SOUZA, R.C.": [
+    {
+      "ano": "2020",
+      "article": "Efficient network seeding under variable node cost and limited budget for social networks"
+    }
+  ],
+  "Daniel Ratton Figueiredo": [
+    {
+      "ano": "1994",
+      "article": "Oscilações Harmônicas de Sistemas Massa/Mola e de Pêndulos"
+    },
+    {
+      "ano": "1994",
+      "article": "Aplicativos Para Sistemas de Voz (Sintvoz)"
+    },
+    {
+      "ano": "1996",
+      "article": "Implementação de Um Aplicativo de Voz Para Redes Tcp/Ip e Análise e Controle de Jitter"
+    },
+    {
+      "ano": "1997",
+      "article": "Implementação de Um Aplicativo de Voz Com Análise e Caracterização de Seu Tráfego"
+    },
+    {
+      "ano": "1997",
+      "article": "Caracterização do Processo de Perda de Pacotes de Voz Na Internet"
+    },
+    {
+      "ano": "1998",
+      "article": "Mecanismos Para Recuperação de Pacotes de Voz Na Internet"
+    },
+    {
+      "ano": "2006",
+      "article": "Characterizing and detecting relayed traffic: A case study using Skype"
+    },
+    {
+      "ano": "2005",
+      "article": "Incentives to Promote Availability in Peer-to-Peer Anonymity Systems"
+    },
+    {
+      "ano": "2003",
+      "article": "Modeling Peer-to-Peer File Sharing Systems"
+    },
+    {
+      "ano": "2001",
+      "article": "On the Hierarchical Structure of the Logical Internet Graph"
+    },
+    {
+      "ano": "2001",
+      "article": "A Study of Networks Simulation Efficiency: Fluid Simulation vs. Packetlevel Simulation"
+    },
+    {
+      "ano": "1999",
+      "article": "Efficient Mechanisms for Recovering Voice Packets in the Internet"
+    },
+    {
+      "ano": "2005",
+      "article": "An Evolutionary Game-Theoretic Approach to Congestion Control"
+    },
+    {
+      "ano": "1993",
+      "article": "Estudando Retas e Sistemas Lineares no Plano"
+    },
+    {
+      "ano": "2008",
+      "article": "Balanced Relay Allocation on Heterogeneous Unstructured Overlays"
+    },
+    {
+      "ano": "2008",
+      "article": "Avaliação de um mecanismo de previsão adaptativa de perdas de pacotes com aplicação à transmissão de Voz sobre IP"
+    },
+    {
+      "ano": "2009",
+      "article": "Two ID-free Distributed Distance-2 Edge Coloring Algorithms for WSNs"
+    },
+    {
+      "ano": "2009",
+      "article": "Formação de clusters em redes P2P por similaridade entre os nós"
+    },
+    {
+      "ano": "2009",
+      "article": "A Preferential Attachment Model for Tree Construction in P2P Video Streaming"
+    },
+    {
+      "ano": "2009",
+      "article": "Assortative Mixing in BitTorrent-Like Networks"
+    },
+    {
+      "ano": "2010",
+      "article": "Optimal Multi-Tree Peer-to-Peer Video Streaming"
+    },
+    {
+      "ano": "2010",
+      "article": "Implementação e Avaliação de um Mecanismo Adaptativo para Redução de Jitter para o Sistema RIO"
+    },
+    {
+      "ano": "2010",
+      "article": "Caracterização e re-identificação de papéis em Redes de Conexão"
+    },
+    {
+      "ano": "2010",
+      "article": "Ranqueamento em Redes de Colaboração Utilizando uma Métrica Baseada em Intensidade do Relacionamento"
+    },
+    {
+      "ano": "2010",
+      "article": "A Simple Public Good Model for Peer-to-Peer Applications"
+    },
+    {
+      "ano": "2010",
+      "article": "Characterization and Identification of Roles in TCP Connection Networks"
+    },
+    {
+      "ano": "2010",
+      "article": "Can identical BitTorrent peers experience different download times"
+    },
+    {
+      "ano": "2011",
+      "article": "Characterizing continuous-time random walks on dynamic networks"
+    },
+    {
+      "ano": "2011",
+      "article": "Measuring Hyperlink Distances: Wikipedia Case Study"
+    },
+    {
+      "ano": "2011",
+      "article": "Um Mecanismo Orientado a ISP para Escolha Tendenciosa de Pares no BitTorrent"
+    },
+    {
+      "ano": "2012",
+      "article": "Model and Analysis of SIS Epidemics based on Random Walks in Networks"
+    },
+    {
+      "ano": "2012",
+      "article": "Modelagem e Caracterização do Processo de Amostragem de Vértices em Redes"
+    },
+    {
+      "ano": "2012",
+      "article": "Characterizing Long-Term Behavior of Markovian Models with Multiple Timescales"
+    },
+    {
+      "ano": "2012",
+      "article": "Walking around in a changing world: Understanding random walks over dynamic graphs"
+    },
+    {
+      "ano": "2012",
+      "article": "A robust gradient clock synchronization algorithm for wireless sensor networks"
+    },
+    {
+      "ano": "2014",
+      "article": "Evaluation of Epidemic Seeding Strategies under Variable Node Costs"
+    },
+    {
+      "ano": "2013",
+      "article": "A Bayesian method for matching two similar graphs without seeds"
+    },
+    {
+      "ano": "2014",
+      "article": "Cumulative Advantage Competitions and the Struggle of the Fittest"
+    },
+    {
+      "ano": "2014",
+      "article": "From Random Walks to Short Walks: Emergence of Shortest Paths in Networks"
+    },
+    {
+      "ano": "2014",
+      "article": "Emergence of Local Asymmetry in Random Networks"
+    },
+    {
+      "ano": "2012",
+      "article": "Ranqueamento Supervisionado de Autores em Redes de Colaboração Científica"
+    },
+    {
+      "ano": "2015",
+      "article": "A model for ambiguation and an algorithm for disambiguation in social net works"
+    },
+    {
+      "ano": "2015",
+      "article": "A simple label-free algorithm for removing ambiguities in collaboration networks"
+    },
+    {
+      "ano": "2016",
+      "article": "Growing Networks Through Random Walks Without Restarts"
+    },
+    {
+      "ano": "2016",
+      "article": "An Empirical Study of the Diversity of Athletes' Followers on Twitter"
+    },
+    {
+      "ano": "2016",
+      "article": "Análise e Ranqueamento da Rede de Advogados induzida por Processos Judiciais Trabalhistas"
+    },
+    {
+      "ano": "2016",
+      "article": "How Congressmen Connect: Analyzing Voting and Donation Networks in the Brazilian Congress"
+    },
+    {
+      "ano": "2016",
+      "article": "Análise da Estabilidade de Ranqueamento de Grau na Rede de Sistemas Autônomos da Internet"
+    },
+    {
+      "ano": "2017",
+      "article": "Desenvolvimento de um Algoritmo de Busca por Vértices Específicos em Redes"
+    },
+    {
+      "ano": "2017",
+      "article": "struc2vec: Learning Node Representations from Structural Identity"
+    },
+    {
+      "ano": "2017",
+      "article": "Consolidating Identities of Authors through Egonet Structure"
+    },
+    {
+      "ano": "2018",
+      "article": "Ranking Influential and Influenced Shares Based on the Transfer Entropy Network"
+    },
+    {
+      "ano": "2018",
+      "article": "Simulação escalável de epidemias em redes baseadas em passeios aleatórios com caracterização de transições de fase"
+    },
+    {
+      "ano": "2018",
+      "article": "Algoritmo Eficiente para Quebra de Privacidade em Redes Sociais Anonimizadas"
+    },
+    {
+      "ano": "2018",
+      "article": "Performance of Monte Carlo Tree Search Algorithms when Playing the Game Ataxx"
+    },
+    {
+      "ano": "2018",
+      "article": "Avaliação da Quantidade e Posicionamento de Pontos de Referência no Problema Localização de Robôs"
+    },
+    {
+      "ano": "2019",
+      "article": "Caracterização e Classificação de Bots Utilizando a Rede de Comentários do Reddit"
+    },
+    {
+      "ano": "2019",
+      "article": "Homofilia e Assimetria na Rede de Coautoria de Proposições de Lei do Congresso Brasileiro"
+    },
+    {
+      "ano": "2019",
+      "article": "Optimal Pricing for Serverless Computing"
+    },
+    {
+      "ano": "2019",
+      "article": "A Contextual Hierarchical Graph Model for Generating Random Sequences of Objects with Application to Music Playlists"
+    },
+    {
+      "ano": "2020",
+      "article": "Improving Monte Carlo Localization Performance Using Strategic Navigation Policies"
+    },
+    {
+      "ano": "2017",
+      "article": "A Control-based Load Balancing Algorithm with Flow Control for Dynamic and Heterogeneous Servers"
+    },
+    {
+      "ano": "2006",
+      "article": "On the efficiency of fluid simulation of networks?"
+    },
+    {
+      "ano": "2005",
+      "article": "An evolutionary game-theoretic approach to congestion control"
+    },
+    {
+      "ano": "2005",
+      "article": "On TCP and self-similar traffic"
+    },
+    {
+      "ano": "2002",
+      "article": "On the Autocorrelation Structure of TCP Traffic"
+    },
+    {
+      "ano": "2007",
+      "article": "A modeling framework to understand the tussle between ISPs and peer-to-peer file-sharing users"
+    },
+    {
+      "ano": "2009",
+      "article": "The TANGRAMII integrated modeling environment for computer systems and networks"
+    },
+    {
+      "ano": "2012",
+      "article": "Heterogeneous download times in a homogeneous BitTorrent swarm"
+    },
+    {
+      "ano": "2012",
+      "article": "Time-Aware Ranking in Sport Social Networks"
+    },
+    {
+      "ano": "2015",
+      "article": "On the duration and intensity of cumulative advantage competitions"
+    },
+    {
+      "ano": "2012",
+      "article": "Characterizing continuous time random walks on time varying graphs"
+    },
+    {
+      "ano": "2008",
+      "article": "Densification arising from sampling fixed graphs"
+    },
+    {
+      "ano": "2016",
+      "article": "On the Duration and Intensity of Competitions in Nonlinear Pólya Urn Processes with Fitness"
+    },
+    {
+      "ano": "2017",
+      "article": "On the Emergence of Shortest Paths by Reinforced Random Walks"
+    },
+    {
+      "ano": "2017",
+      "article": "Name usage pattern in the synonym ambiguity problem in bibliographic data"
+    },
+    {
+      "ano": "2017",
+      "article": "Ranking lawyers using a social network induced by legal cases"
+    },
+    {
+      "ano": "2017",
+      "article": "Power-law decay of the degree-sequence probabilities of multiple random graphs with application to graph isomorphism"
+    },
+    {
+      "ano": "2019",
+      "article": "Counting trees with random walks"
+    },
+    {
+      "ano": "2019",
+      "article": "Transient and slim versus recurrent and fat: Random walks and the trees they grow"
+    },
+    {
+      "ano": "2020",
+      "article": "Efficient network seeding under variable node cost and limited budget for social networks"
+    },
+    {
+      "ano": "2020",
+      "article": "How Brazilian congressmen connect: homophily and cohesion in voting and donation networks"
+    },
+    {
+      "ano": "2016",
+      "article": "Edge-attractor random walks on dynamic networks"
+    },
+    {
+      "ano": "2011",
+      "article": "Ranking in collaboration networks using a group based metric"
+    },
+    {
+      "ano": "2007",
+      "article": "Uma breve introdução à Teoria de Jogos com aplicações a Redes de Computadores"
+    },
+    {
+      "ano": "2011",
+      "article": "Introdução a Redes Complexas"
+    },
+    {
+      "ano": "2011",
+      "article": "Introdução a Redes Complexas"
+    },
+    {
+      "ano": "2011",
+      "article": "Introdução a Redes Complexas"
+    },
+    {
+      "ano": "2011",
+      "article": "Introdução a Redes Complexas"
+    }
+  ],
+  "Daniel Sadoc Menasché": [
+    {
+      "ano": "2005",
+      "article": "An Evolutionary Game-Theoretic Approach to Congestion Control"
+    },
+    {
+      "ano": "2005",
+      "article": "An evolutionary game-theoretic approach to congestion control"
+    }
+  ],
+  "Don Towsley": [
+    {
+      "ano": "2006",
+      "article": "Characterizing and detecting relayed traffic: A case study using Skype"
+    },
+    {
+      "ano": "2005",
+      "article": "Incentives to Promote Availability in Peer-to-Peer Anonymity Systems"
+    },
+    {
+      "ano": "2003",
+      "article": "Modeling Peer-to-Peer File Sharing Systems"
+    },
+    {
+      "ano": "2001",
+      "article": "A Study of Networks Simulation Efficiency: Fluid Simulation vs. Packetlevel Simulation"
+    },
+    {
+      "ano": "2010",
+      "article": "A Simple Public Good Model for Peer-to-Peer Applications"
+    },
+    {
+      "ano": "2011",
+      "article": "Characterizing continuous-time random walks on dynamic networks"
+    },
+    {
+      "ano": "2014",
+      "article": "Cumulative Advantage Competitions and the Struggle of the Fittest"
+    },
+    {
+      "ano": "2002",
+      "article": "On the Autocorrelation Structure of TCP Traffic"
+    },
+    {
+      "ano": "2011",
+      "article": "Introdução a Redes Complexas"
+    },
+    {
+      "ano": "2011",
+      "article": "Introdução a Redes Complexas"
+    }
+  ],
+  "E. SOUZA SILVA": [
+    {
+      "ano": "1998",
+      "article": "Mecanismos Para Recuperação de Pacotes de Voz Na Internet"
+    }
+  ],
+  "Edmundo Albuquerque de Souza e Silva": [
+    {
+      "ano": "1997",
+      "article": "Implementação de Um Aplicativo de Voz Com Análise e Caracterização de Seu Tráfego"
+    },
+    {
+      "ano": "1999",
+      "article": "Efficient Mechanisms for Recovering Voice Packets in the Internet"
+    },
+    {
+      "ano": "2005",
+      "article": "An Evolutionary Game-Theoretic Approach to Congestion Control"
+    },
+    {
+      "ano": "2008",
+      "article": "Avaliação de um mecanismo de previsão adaptativa de perdas de pacotes com aplicação à transmissão de Voz sobre IP"
+    },
+    {
+      "ano": "2010",
+      "article": "Can identical BitTorrent peers experience different download times"
+    },
+    {
+      "ano": "2011",
+      "article": "Characterizing continuous-time random walks on dynamic networks"
+    },
+    {
+      "ano": "2005",
+      "article": "An evolutionary game-theoretic approach to congestion control"
+    },
+    {
+      "ano": "2007",
+      "article": "Uma breve introdução à Teoria de Jogos com aplicações a Redes de Computadores"
+    }
+  ],
+  "F. P. DUARTE": [
+    {
+      "ano": "1996",
+      "article": "Implementação de Um Aplicativo de Voz Para Redes Tcp/Ip e Análise e Controle de Jitter"
+    },
+    {
+      "ano": "1997",
+      "article": "Implementação de Um Aplicativo de Voz Com Análise e Caracterização de Seu Tráfego"
+    }
+  ],
+  "FELDMANN, A": [
+    {
+      "ano": "2005",
+      "article": "On TCP and self-similar traffic"
+    }
+  ],
+  "Fabricio Murai": [
+    {
+      "ano": "2008",
+      "article": "Avaliação de um mecanismo de previsão adaptativa de perdas de pacotes com aplicação à transmissão de Voz sobre IP"
+    },
+    {
+      "ano": "2009",
+      "article": "Formação de clusters em redes P2P por similaridade entre os nós"
+    },
+    {
+      "ano": "2009",
+      "article": "Assortative Mixing in BitTorrent-Like Networks"
+    },
+    {
+      "ano": "2010",
+      "article": "Can identical BitTorrent peers experience different download times"
+    }
+  ],
+  "Felipe Maia Galvão França": [
+    {
+      "ano": "2009",
+      "article": "Two ID-free Distributed Distance-2 Edge Coloring Algorithms for WSNs"
+    }
+  ],
+  "Fernando F. Machado": [
+    {
+      "ano": "2016",
+      "article": "Análise da Estabilidade de Ranqueamento de Grau na Rede de Sistemas Autônomos da Internet"
+    }
+  ],
+  "Franca, Felipe M. G.": [
+    {
+      "ano": "2012",
+      "article": "A robust gradient clock synchronization algorithm for wireless sensor networks"
+    }
+  ],
+  "Freire, VinÃ­cius P.": [
+    {
+      "ano": "2011",
+      "article": "Ranking in collaboration networks using a group based metric"
+    }
+  ],
+  "GARETTO, MICHELE": [
+    {
+      "ano": "2017",
+      "article": "On the Emergence of Shortest Paths by Reinforced Random Walks"
+    }
+  ],
+  "GOMIDE, JANAÍNA": [
+    {
+      "ano": "2017",
+      "article": "Consolidating Identities of Authors through Egonet Structure"
+    },
+    {
+      "ano": "2017",
+      "article": "Name usage pattern in the synonym ambiguity problem in bibliographic data"
+    }
+  ],
+  "GROSSGLAUSER, MATTHIAS": [
+    {
+      "ano": "2013",
+      "article": "A Bayesian method for matching two similar graphs without seeds"
+    },
+    {
+      "ano": "2008",
+      "article": "Densification arising from sampling fixed graphs"
+    }
+  ],
+  "Gaspare Bruno": [
+    {
+      "ano": "2010",
+      "article": "Optimal Multi-Tree Peer-to-Peer Video Streaming"
+    }
+  ],
+  "Giovanni Neglia": [
+    {
+      "ano": "2016",
+      "article": "Growing Networks Through Random Walks Without Restarts"
+    },
+    {
+      "ano": "2019",
+      "article": "Transient and slim versus recurrent and fat: Random walks and the trees they grow"
+    }
+  ],
+  "Giulio Iacobelli": [
+    {
+      "ano": "2016",
+      "article": "Growing Networks Through Random Walks Without Restarts"
+    },
+    {
+      "ano": "2016",
+      "article": "An Empirical Study of the Diversity of Athletes' Followers on Twitter"
+    },
+    {
+      "ano": "2017",
+      "article": "Desenvolvimento de um Algoritmo de Busca por Vértices Específicos em Redes"
+    },
+    {
+      "ano": "2018",
+      "article": "Simulação escalável de epidemias em redes baseadas em passeios aleatórios com caracterização de transições de fase"
+    },
+    {
+      "ano": "2019",
+      "article": "Transient and slim versus recurrent and fat: Random walks and the trees they grow"
+    }
+  ],
+  "Guo, Yang": [
+    {
+      "ano": "2006",
+      "article": "On the efficiency of fluid simulation of networks?"
+    }
+  ],
+  "Henrique José Ferreira Júnior": [
+    {
+      "ano": "2018",
+      "article": "Avaliação da Quantidade e Posicionamento de Pontos de Referência no Problema Localização de Robôs"
+    }
+  ],
+  "Hugo Kling": [
+    {
+      "ano": "2015",
+      "article": "A model for ambiguation and an algorithm for disambiguation in social net works"
+    },
+    {
+      "ano": "2015",
+      "article": "A simple label-free algorithm for removing ambiguities in collaboration networks"
+    }
+  ],
+  "Hugo Sato": [
+    {
+      "ano": "2008",
+      "article": "Avaliação de um mecanismo de previsão adaptativa de perdas de pacotes com aplicação à transmissão de Voz sobre IP"
+    }
+  ],
+  "IACOBELLI, GIULIO": [
+    {
+      "ano": "2019",
+      "article": "Counting trees with random walks"
+    },
+    {
+      "ano": "2016",
+      "article": "Edge-attractor random walks on dynamic networks"
+    }
+  ],
+  "JIANG, BO": [
+    {
+      "ano": "2015",
+      "article": "On the duration and intensity of cumulative advantage competitions"
+    },
+    {
+      "ano": "2016",
+      "article": "On the Duration and Intensity of Competitions in Nonlinear Pólya Urn Processes with Fitness"
+    }
+  ],
+  "Janaína Gomide": [
+    {
+      "ano": "2015",
+      "article": "A model for ambiguation and an algorithm for disambiguation in social net works"
+    },
+    {
+      "ano": "2015",
+      "article": "A simple label-free algorithm for removing ambiguities in collaboration networks"
+    }
+  ],
+  "Jefferson Elbert Simões": [
+    {
+      "ano": "2010",
+      "article": "Implementação e Avaliação de um Mecanismo Adaptativo para Redução de Jitter para o Sistema RIO"
+    },
+    {
+      "ano": "2012",
+      "article": "Characterizing Long-Term Behavior of Markovian Models with Multiple Timescales"
+    },
+    {
+      "ano": "2014",
+      "article": "Emergence of Local Asymmetry in Random Networks"
+    }
+  ],
+  "Jim Kurose": [
+    {
+      "ano": "2006",
+      "article": "Characterizing and detecting relayed traffic: A case study using Skype"
+    },
+    {
+      "ano": "2003",
+      "article": "Modeling Peer-to-Peer File Sharing Systems"
+    },
+    {
+      "ano": "2001",
+      "article": "A Study of Networks Simulation Efficiency: Fluid Simulation vs. Packetlevel Simulation"
+    }
+  ],
+  "Jonathan Shapiro": [
+    {
+      "ano": "2005",
+      "article": "Incentives to Promote Availability in Peer-to-Peer Anonymity Systems"
+    }
+  ],
+  "José de Paula Neves Neto": [
+    {
+      "ano": "2018",
+      "article": "Ranking Influential and Influenced Shares Based on the Transfer Entropy Network"
+    }
+  ],
+  "João Vitor Barbosa Tavares": [
+    {
+      "ano": "2018",
+      "article": "Simulação escalável de epidemias em redes baseadas em passeios aleatórios com caracterização de transições de fase"
+    }
+  ],
+  "JÚNIOR, HENRIQUE": [
+    {
+      "ano": "2020",
+      "article": "Improving Monte Carlo Localization Performance Using Strategic Navigation Policies"
+    }
+  ],
+  "KLING, HUGO": [
+    {
+      "ano": "2017",
+      "article": "Consolidating Identities of Authors through Egonet Structure"
+    },
+    {
+      "ano": "2017",
+      "article": "Name usage pattern in the synonym ambiguity problem in bibliographic data"
+    }
+  ],
+  "Kurose, Jim": [
+    {
+      "ano": "2006",
+      "article": "On the efficiency of fluid simulation of networks?"
+    }
+  ],
+  "Kyoungwon Suh": [
+    {
+      "ano": "2006",
+      "article": "Characterizing and detecting relayed traffic: A case study using Skype"
+    }
+  ],
+  "LIU, B": [
+    {
+      "ano": "2005",
+      "article": "On TCP and self-similar traffic"
+    }
+  ],
+  "Larissa Spinelli": [
+    {
+      "ano": "2010",
+      "article": "Caracterização e re-identificação de papéis em Redes de Conexão"
+    },
+    {
+      "ano": "2010",
+      "article": "Characterization and Identification of Roles in TCP Connection Networks"
+    }
+  ],
+  "Leonardo F. Rodrigues Ribeiro": [
+    {
+      "ano": "2016",
+      "article": "Análise e Ranqueamento da Rede de Advogados induzida por Processos Judiciais Trabalhistas"
+    }
+  ],
+  "Leonardo Filipe Rodrigues Ribeiro": [
+    {
+      "ano": "2018",
+      "article": "Performance of Monte Carlo Tree Search Algorithms when Playing the Game Ataxx"
+    }
+  ],
+  "Leão, Rosa M.M.": [
+    {
+      "ano": "2009",
+      "article": "The TANGRAMII integrated modeling environment for computer systems and networks"
+    }
+  ],
+  "Liu, Benyuan": [
+    {
+      "ano": "2006",
+      "article": "On the efficiency of fluid simulation of networks?"
+    }
+  ],
+  "Lixin Gao": [
+    {
+      "ano": "2001",
+      "article": "On the Hierarchical Structure of the Logical Internet Graph"
+    }
+  ],
+  "Liyuan Sun": [
+    {
+      "ano": "2014",
+      "article": "Cumulative Advantage Competitions and the Struggle of the Fittest"
+    }
+  ],
+  "Lucas Lopes Rolim": [
+    {
+      "ano": "2019",
+      "article": "Homofilia e Assimetria na Rede de Coautoria de Proposições de Lei do Congresso Brasileiro"
+    }
+  ],
+  "M. A. MORAES": [
+    {
+      "ano": "1994",
+      "article": "Oscilações Harmônicas de Sistemas Massa/Mola e de Pêndulos"
+    }
+  ],
+  "M. PIMENTEL": [
+    {
+      "ano": "1994",
+      "article": "Aplicativos Para Sistemas de Voz (Sintvoz)"
+    }
+  ],
+  "MAHAJAN, KUNAL": [
+    {
+      "ano": "2019",
+      "article": "Optimal Pricing for Serverless Computing"
+    }
+  ],
+  "MISRA, V": [
+    {
+      "ano": "2005",
+      "article": "On TCP and self-similar traffic"
+    }
+  ],
+  "MISRA, VISHAL": [
+    {
+      "ano": "2019",
+      "article": "Optimal Pricing for Serverless Computing"
+    }
+  ],
+  "Macrio Miranda": [
+    {
+      "ano": "2009",
+      "article": "A Preferential Attachment Model for Tree Construction in P2P Video Streaming"
+    }
+  ],
+  "Marcelo Almeida Moraes": [
+    {
+      "ano": "1993",
+      "article": "Estudando Retas e Sistemas Lineares no Plano"
+    }
+  ],
+  "Marcelo Granja Nunes": [
+    {
+      "ano": "2016",
+      "article": "How Congressmen Connect: Analyzing Voting and Donation Networks in the Brazilian Congress"
+    }
+  ],
+  "Marcos André Gonçalves": [
+    {
+      "ano": "2012",
+      "article": "Ranqueamento Supervisionado de Autores em Redes de Colaboração Científica"
+    },
+    {
+      "ano": "2012",
+      "article": "Time-Aware Ranking in Sport Social Networks"
+    }
+  ],
+  "Matteo Sereno": [
+    {
+      "ano": "2007",
+      "article": "A modeling framework to understand the tussle between ISPs and peer-to-peer file-sharing users"
+    }
+  ],
+  "Matthias Grossglauser": [
+    {
+      "ano": "2008",
+      "article": "Balanced Relay Allocation on Heterogeneous Unstructured Overlays"
+    }
+  ],
+  "Michele Garetto": [
+    {
+      "ano": "2014",
+      "article": "From Random Walks to Short Walks: Emergence of Shortest Paths in Networks"
+    },
+    {
+      "ano": "2007",
+      "article": "A modeling framework to understand the tussle between ISPs and peer-to-peer file-sharing users"
+    },
+    {
+      "ano": "2011",
+      "article": "Introdução a Redes Complexas"
+    }
+  ],
+  "Miguel Elias M. Campista": [
+    {
+      "ano": "2016",
+      "article": "Análise da Estabilidade de Ranqueamento de Grau na Rede de Sistemas Autônomos da Internet"
+    }
+  ],
+  "Murai, Fabricio": [
+    {
+      "ano": "2012",
+      "article": "Heterogeneous download times in a homogeneous BitTorrent swarm"
+    }
+  ],
+  "NUNES, MARCELO G": [
+    {
+      "ano": "2020",
+      "article": "How Brazilian congressmen connect: homophily and cohesion in voting and donation networks"
+    }
+  ],
+  "Nain, Philippe": [
+    {
+      "ano": "2012",
+      "article": "Characterizing continuous time random walks on time varying graphs"
+    }
+  ],
+  "PEDARSANI, PEDRAM": [
+    {
+      "ano": "2013",
+      "article": "A Bayesian method for matching two similar graphs without seeds"
+    },
+    {
+      "ano": "2008",
+      "article": "Densification arising from sampling fixed graphs"
+    }
+  ],
+  "Pamela Tabak": [
+    {
+      "ano": "2018",
+      "article": "Algoritmo Eficiente para Quebra de Privacidade em Redes Sociais Anonimizadas"
+    }
+  ],
+  "Patrick": [
+    {
+      "ano": "2008",
+      "article": "Balanced Relay Allocation on Heterogeneous Unstructured Overlays"
+    }
+  ],
+  "Paulo J. L. Alvarenga": [
+    {
+      "ano": "2012",
+      "article": "Ranqueamento Supervisionado de Autores em Redes de Colaboração Científica"
+    }
+  ],
+  "Paulo Roberto Nascimento": [
+    {
+      "ano": "2016",
+      "article": "Análise e Ranqueamento da Rede de Advogados induzida por Processos Judiciais Trabalhistas"
+    }
+  ],
+  "Pedro Vitor Pedroza Freitas": [
+    {
+      "ano": "2017",
+      "article": "Desenvolvimento de um Algoritmo de Busca por Vértices Específicos em Redes"
+    }
+  ],
+  "Pedro Younes": [
+    {
+      "ano": "2012",
+      "article": "Model and Analysis of SIS Epidemics based on Random Walks in Networks"
+    }
+  ],
+  "Phillipe Nain": [
+    {
+      "ano": "2011",
+      "article": "Introdução a Redes Complexas"
+    }
+  ],
+  "Pinho, Andre C.": [
+    {
+      "ano": "2012",
+      "article": "A robust gradient clock synchronization algorithm for wireless sensor networks"
+    }
+  ],
+  "Péterson Sampaio Procópio Júnior": [
+    {
+      "ano": "2012",
+      "article": "Time-Aware Ranking in Sport Social Networks"
+    }
+  ],
+  "RIBEIRO, LEONARDO F.R.": [
+    {
+      "ano": "2017",
+      "article": "struc2vec: Learning Node Representations from Structural Identity"
+    }
+  ],
+  "RODRIGUES RIBEIRO, LEONARDO FILIPE": [
+    {
+      "ano": "2017",
+      "article": "Ranking lawyers using a social network induced by legal cases"
+    }
+  ],
+  "RUBENSTEIN, DAN": [
+    {
+      "ano": "2019",
+      "article": "Optimal Pricing for Serverless Computing"
+    }
+  ],
+  "Rafael G Damasceno": [
+    {
+      "ano": "2019",
+      "article": "Caracterização e Classificação de Bots Utilizando a Rede de Comentários do Reddit"
+    }
+  ],
+  "Ribeiro, Bruno": [
+    {
+      "ano": "2015",
+      "article": "On the duration and intensity of cumulative advantage competitions"
+    },
+    {
+      "ano": "2012",
+      "article": "Characterizing continuous time random walks on time varying graphs"
+    },
+    {
+      "ano": "2016",
+      "article": "On the Duration and Intensity of Competitions in Nonlinear Pólya Urn Processes with Fitness"
+    }
+  ],
+  "Ricardo Coelho Silveira": [
+    {
+      "ano": "2016",
+      "article": "An Empirical Study of the Diversity of Athletes' Followers on Twitter"
+    }
+  ],
+  "Rocha, Antonio A. de A.": [
+    {
+      "ano": "2012",
+      "article": "Heterogeneous download times in a homogeneous BitTorrent swarm"
+    }
+  ],
+  "Rodolpho Guedino de Siqueira": [
+    {
+      "ano": "2017",
+      "article": "A Control-based Load Balancing Algorithm with Flow Control for Dynamic and Heterogeneous Servers"
+    }
+  ],
+  "Rodrigo Paim": [
+    {
+      "ano": "2011",
+      "article": "Measuring Hyperlink Distances: Wikipedia Case Study"
+    }
+  ],
+  "Ronald Chiesse": [
+    {
+      "ano": "2014",
+      "article": "Evaluation of Epidemic Seeding Strategies under Variable Node Costs"
+    }
+  ],
+  "Rosa Maria Meri Leão": [
+    {
+      "ano": "2010",
+      "article": "Implementação e Avaliação de um Mecanismo Adaptativo para Redução de Jitter para o Sistema RIO"
+    }
+  ],
+  "Rossano Gaeta": [
+    {
+      "ano": "2007",
+      "article": "A modeling framework to understand the tussle between ISPs and peer-to-peer file-sharing users"
+    }
+  ],
+  "SAVERESE, PEDRO H.P.": [
+    {
+      "ano": "2017",
+      "article": "struc2vec: Learning Node Representations from Structural Identity"
+    }
+  ],
+  "SIMÕES, JEFFERSON ELBERT": [
+    {
+      "ano": "2017",
+      "article": "Power-law decay of the degree-sequence probabilities of multiple random graphs with application to graph isomorphism"
+    }
+  ],
+  "SUN, LIYUAN": [
+    {
+      "ano": "2015",
+      "article": "On the duration and intensity of cumulative advantage competitions"
+    }
+  ],
+  "Sharad Jaiswal": [
+    {
+      "ano": "2003",
+      "article": "Modeling Peer-to-Peer File Sharing Systems"
+    },
+    {
+      "ano": "2001",
+      "article": "On the Hierarchical Structure of the Logical Internet Graph"
+    }
+  ],
+  "Stefanella Boatto": [
+    {
+      "ano": "2012",
+      "article": "Model and Analysis of SIS Epidemics based on Random Walks in Networks"
+    }
+  ],
+  "TOWSLEY, D": [
+    {
+      "ano": "2005",
+      "article": "On TCP and self-similar traffic"
+    }
+  ],
+  "Thiago Salles": [
+    {
+      "ano": "2012",
+      "article": "Time-Aware Ranking in Sport Social Networks"
+    }
+  ],
+  "Towsley, Don": [
+    {
+      "ano": "2006",
+      "article": "On the efficiency of fluid simulation of networks?"
+    },
+    {
+      "ano": "2015",
+      "article": "On the duration and intensity of cumulative advantage competitions"
+    },
+    {
+      "ano": "2012",
+      "article": "Characterizing continuous time random walks on time varying graphs"
+    },
+    {
+      "ano": "2016",
+      "article": "On the Duration and Intensity of Competitions in Nonlinear Pólya Urn Processes with Fitness"
+    }
+  ],
+  "Valmir Barbosa": [
+    {
+      "ano": "2014",
+      "article": "Emergence of Local Asymmetry in Random Networks"
+    }
+  ],
+  "Vicente Pinheiro": [
+    {
+      "ano": "2012",
+      "article": "Modelagem e Caracterização do Processo de Amostragem de Vértices em Redes"
+    }
+  ],
+  "Victor S. Bursztyn": [
+    {
+      "ano": "2016",
+      "article": "How Congressmen Connect: Analyzing Voting and Donation Networks in the Brazilian Congress"
+    }
+  ],
+  "Victor de Oliveira Cardoso": [
+    {
+      "ano": "2017",
+      "article": "Desenvolvimento de um Algoritmo de Busca por Vértices Específicos em Redes"
+    }
+  ],
+  "Vinicius Pires de Moura Freire": [
+    {
+      "ano": "2010",
+      "article": "Ranqueamento em Redes de Colaboração Utilizando uma Métrica Baseada em Intensidade do Relacionamento"
+    }
+  ],
+  "Vishal Misra": [
+    {
+      "ano": "2002",
+      "article": "On the Autocorrelation Structure of TCP Traffic"
+    }
+  ],
+  "WILLINGER, W": [
+    {
+      "ano": "2005",
+      "article": "On TCP and self-similar traffic"
+    }
+  ],
+  "Yang Guo": [
+    {
+      "ano": "2001",
+      "article": "A Study of Networks Simulation Efficiency: Fluid Simulation vs. Packetlevel Simulation"
+    }
+  ],
+  "Zihui Ge": [
+    {
+      "ano": "2003",
+      "article": "Modeling Peer-to-Peer File Sharing Systems"
+    },
+    {
+      "ano": "2001",
+      "article": "On the Hierarchical Structure of the Logical Internet Graph"
+    }
+  ],
+  "bernardo amorim": [
+    {
+      "ano": "2016",
+      "article": "Growing Networks Through Random Walks Without Restarts"
+    }
+  ],
+  "de Souza e Silva, Edmundo": [
+    {
+      "ano": "2009",
+      "article": "The TANGRAMII integrated modeling environment for computer systems and networks"
+    },
+    {
+      "ano": "2012",
+      "article": "Characterizing continuous time random walks on time varying graphs"
+    }
+  ],
+  "de Souza e Silva, Edmundo A.": [
+    {
+      "ano": "2012",
+      "article": "Heterogeneous download times in a homogeneous BitTorrent swarm"
+    }
+  ],
+  "hung": [
+    {
+      "ano": "2008",
+      "article": "Balanced Relay Allocation on Heterogeneous Unstructured Overlays"
+    }
+  ]
+}
