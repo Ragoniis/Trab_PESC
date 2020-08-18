@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import os
 import json
 arr = os.listdir('curriculos')
-print(arr)
+#print(arr)
 pesc_professors = {}
 
 for x in arr:
@@ -13,9 +13,9 @@ for x in arr:
     qname = dados.attrib["NOME-EM-CITACOES-BIBLIOGRAFICAS"].split(",")
     pesc_professor = {name:qname}
     pesc_professors[name] = qname
-    print(pesc_professor)
+    #print(pesc_professor)
 
-print(pesc_professors)
+#print(pesc_professors)
 
-with open('Files/professors.json', 'w',encoding='utf-8') as json_file:
-  json.dump(pesc_professors, json_file,indent=2,sort_keys=True,ensure_ascii=False)
+#with open('Files/professors.json', 'w',encoding='utf-8') as json_file:
+#  json.dump(pesc_professors, json_file,indent=2,sort_keys=True,ensure_ascii=False)
