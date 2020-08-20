@@ -4,6 +4,7 @@ from fastdtw import fastdtw
 from get_names_lattes import pesc_professors
 import math
 from unicodedata import normalize
+from pyjarowinkler import distance
 import json
 lattes ={}
 
@@ -21,21 +22,38 @@ def dwt(s1,s2):
     distance,path = fastdtw(x, y, dist=euclidean)
     return distance
 
+def jaroWinkler(s1,s2):
+    x= ''.join(list(map(lambda x: x if x!=";" else " ",list(remover_acentos(s1.lower())))))
+    y = ''.join(list(map(lambda x: x if x!=";" else " ",list(remover_acentos(s2.lower())))))
+    return distance.get_jaro_distance(x,y)
+
+#print(jaroWinkler("Claudia;Werner","Claudia;Werner"))
+
+pesc_names ={}
+for x in lattes.keys(): 
+    all_names = pesc_professors[x]
+    all_names.append(x)
+    pesc_names[x] = all_names
+
 
 for x in lattes.keys():
     edges = lattes[x]["edges"] 
-    all_names = pesc_professors[x]
-    all_names.append(x)
+    #print("\n\n Professor",x,"\n\n")
     for y in edges.keys():
-        minv=infinite
-        best=''
-        for z in all_names:
-            value = dwt(z,y);
-            if(value<minv):
-                minv = value
-                best=z
-        if(minv<30):
-            print("\n",y,best,minv,"\n")
+        #print("\n Comparando ",y,"\n");
+        for z in pesc_names.keys():
+            maxv=0
+            best=''
+            for w in pesc_names[z]:
+                #print(w,",",end='')
+                value = jaroWinkler(y,w);
+                if(value>maxv):
+                    maxv = value
+                    best=w
+            #print("\n")
+            if(maxv>0.9):
+                print("\n",y,"======",best,maxv,"\n")
+
 
         
         

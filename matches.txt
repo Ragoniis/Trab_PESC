@@ -1,0 +1,326 @@
+
+ BAHIENSE, LAURA ====== BAHIENSE 0.91 
+ Claudio T. Bornstein ====== Claudio Thomas Bornstein 0.92 
+ Felipe M. G. França ======  FELIPE M.G.;FRANCA 0.91 
+ Jayme Szwarcfiter ====== Jayme Luiz Szwarcfiter 0.92 
+ Luidi Simonetti ======  Luidi;Simonetti 0.91 
+ Nelson Maculan ====== Nelson Maculan Filho 0.94 
+ Simonetti, Luidi ====== SIMONETTI 0.91 
+ Antônio Alberto Fernandes de Oliveira ====== Antonio Alberto Fernandes de Oliveira 1.0 
+ Felipe Maia Galvão França ====== Felipe Maia Galvão França 1.0 
+ Nelson Maculan ====== Nelson Maculan Filho 0.94 
+ Priscila Machado Vieira Lima ====== Priscila Machado Vieira Lima 1.0 
+ Ricardo Farias ====== Ricardo Farias 1.0 
+ SOUZA, M. ====== SOUZA 0.91 
+ XAVIER ====== XAVIER 1.0 
+ Claudio Esperança ====== Claudio Esperança 1.0 
+ Coutinho, Fábio ====== COUTINHO 0.91 
+ Geraldo Xexéo ======  Geraldo;Xexeo 0.98 
+ Geraldo Zimbrão da Silva ====== Geraldo Zimbrao da Silva 1.0 
+ Jano Moreira de Souza ====== Jano Moreira de Souza 1.0 
+ Marta Lima de Queirós Mattoso ====== Marta Lima de Queiros Mattoso 1.0 
+ G. H. Travassos ======  G. H.;Travassos 0.91 
+ Geraldo Xexeo ======  Geraldo;Xexeo 0.98 
+ Guilherme horta travassos ====== Guilherme Horta Travassos 1.0 
+ K. Oliveira ====== OLIVEIRA 0.91 
+ K. Oliveira ====== OLIVEIRA 0.91 
+ K. Oliveira ====== OLIVEIRA 0.91 
+ Adílson Elias Xavier ====== Adilson Elias Xavier 1.0 
+ COUTINHO, B. ====== COUTINHO 0.93 
+ Claudio Esperança ====== Claudio Esperança 1.0 
+ Cláudio Bornstein ====== Claudio Thomas Bornstein 0.92 
+ Cláudio Esperança ====== Claudio Esperança 1.0 
+ Jayme Szwarcfiter ====== Jayme Luiz Szwarcfiter 0.92 
+ MARROQUIM, R. ====== MARROQUIM 0.94 
+ Nelson Maculan ====== Nelson Maculan Filho 0.94 
+ Nelson Maculan Filho ====== Nelson Maculan Filho 1.0 
+ Paulo Roma Cavalcanti ====== Paulo Roma Cavalcanti 1.0 
+ Ricardo Farias ====== Ricardo Farias 1.0 
+ Ricardo Guerra Marroquim ====== Ricardo Guerra Marroquim 1.0 
+ Ricardo Marroquim ====== Ricardo Guerra Marroquim 0.91 
+ FERNANDEZ, P ====== FERNANDES 0.91 
+ fernadez ====== FERNANDES 0.93 
+ Franklin Marquezino ======  FRANKLIN;Marquezino 0.91 
+ JAYME LUIZ SZWARCFITER ====== Jayme Luiz Szwarcfiter 1.0 
+ Márcia R Cerioli ====== Márcia Rosana Cerioli 0.91 
+ Sulamita Klein ====== Sulamita Klein 1.0 
+ FERNANDES, FILIPE ====== FERNANDES 0.91 
+ Gerson Zaverucha ====== Gerson Zaverucha 1.0 
+ Guilherme Travassos ====== Guilherme Horta Travassos 0.93 
+ Henrique Cukierman ====== Henrique Luiz Cukierman 0.93 
+ Jano Moreira de Souza ====== Jano Moreira de Souza 1.0 
+ Marta Lima de Queiros Mattoso ====== Marta Lima de Queiros Mattoso 1.0 
+ OLIVEIRA, TOACY ====== OLIVEIRA 0.91 
+ OLIVEIRA, TOACY ====== OLIVEIRA 0.91 
+ OLIVEIRA, TOACY ====== OLIVEIRA 0.91 
+ Alexandre Assis Bento Lima ====== Alexandre de Assis Bento Lima 0.94 
+ Alexandre de Assis Bento Lima ====== Alexandre de Assis Bento Lima 1.0 
+ Antonio Alberto Fernandes de Oliveira ====== Antonio Alberto Fernandes de Oliveira 1.0 
+ CAVALCANTI, P.R. ====== CAVALCANTI 0.92 
+ Marroquim, R. ====== MARROQUIM 0.94 
+ Paulo Roma Cavalcanti ====== Paulo Roma Cavalcanti 1.0 
+ Ricardo Farias ====== Ricardo Farias 1.0 
+ Ricardo Guerra Marroquim ====== Ricardo Guerra Marroquim 1.0 
+ A Veloso ====== VELOSO 0.92 
+ A Veloso ====== VELOSO 0.92 
+ B Coutinho ====== COUTINHO 0.93 
+ F França ====== FRANÇA 0.92 
+ Felipe Maia Galvão França ====== Felipe Maia Galvão França 1.0 
+ Flavia Coimbra Delicato ====== Flávia Coimbra Delicato 1.0 
+ Ines de Castro Dutra ====== Ines de Castro Dutra 1.0 
+ Luis Felipe Magalhães de Moraes ====== Luis Felipe Magalhães de Moraes 1.0 
+ M Carvalho ====== CARVALHO 0.93 
+ Mattoso MLQ ====== MATTOSO 0.93 
+ Priscila Machado Vieira Lima ====== Priscila Machado Vieira Lima 1.0 
+ V Barbosa ====== BARBOSA 0.93 
+ V.C.Barbosa ======  V. C.;BARBOSA 0.93 
+ A. Lucena ======  A.;Lucena 0.93 
+ Henrique Luiz Cukierman ====== Henrique Luiz Cukierman 1.0 
+ Luis Alfredo Vidal de Carvalho ====== Luis Alfredo Vidal de Carvalho 1.0 
+ Nelson Maculan Filho ====== Nelson Maculan Filho 1.0 
+ E. SOUZA SILVA ====== de Souza e Silva 0.91 
+ Edmundo Albuquerque de Souza e Silva ====== Edmundo Albuquerque de Souza e Silva 1.0 
+ Felipe Maia Galvão França ====== Felipe Maia Galvão França 1.0 
+ Rosa Maria Meri Leão ====== Rosa Maria Meri Leão 1.0 
+ de Souza e Silva, Edmundo ====== de Souza e Silva 0.93 
+ de Souza e Silva, Edmundo A. ====== de Souza e Silva 0.91 
+ Claudia Márcia D Pereira ====== Claudia Maria Lima Werner 0.91 
+ Claudio Luís de Amorim ====== Claudio Luis de Amorim 1.0 
+ Eliseu Monteiro Chaves Filho ====== Eliseu Monteiro Chaves Filho 1.0 
+ Felipe Maia Galvão Franca ====== Felipe Maia Galvão França 1.0 
+ Felipe Maia Galvão França ====== Felipe Maia Galvão França 1.0 
+ Valmir Carneiro Barbosa ====== Valmir Carneiro Barbosa 1.0 
+ D R Figueiredo ======  D;Figueiredo 0.95 
+ Daniel Ratton ====== Daniel Ratton Figueiredo 0.91 
+ Daniel Ratton Figueiredo ====== Daniel Ratton Figueiredo 1.0 
+ FIGUEIREDO, D.R. ====== FIGUEIREDO 0.92 
+ FIGUEIREDO, D.R. ====== FIGUEIREDO 0.92 
+ FIGUEIREDO, DANIEL ====== FIGUEIREDO 0.91 
+ FIGUEIREDO, DANIEL ====== FIGUEIREDO 0.91 
+ Rosa Maria Meri Leão ====== Rosa Maria Meri Leão 1.0 
+ Susana Scheimberg de Makler ====== Susana Scheimberg de Makler 1.0 
+ de Souza e Silva, Edmundo A. ====== de Souza e Silva 0.91 
+ de Souza e Silva, Edmundo G. ====== de Souza e Silva 0.91 
+ Edil Severiano Tavares Fernandes ====== Edil Severiano Tavares Fernandes 1.0 
+ Valmir Carneiro Barbosa ====== Valmir Carneiro Barbosa 1.0 
+ Abílio Pereira de Lucena Filho ====== Abilio Pereira de Lucena Filho 1.0 
+ Adilson Elias Xavier ====== Adilson Elias Xavier 1.0 
+ BARBOSA, RAUL ====== BARBOSA 0.91 
+ C E T Oliveira ======  T. C.;OLIVEIRA 0.91 
+ CARVALHO, DIEGO ====== CARVALHO 0.91 
+ Carlos Eduardo Pedreira ====== Carlos Eduardo Pedreira 1.0 
+ Carlos Eduardo Pereira ====== Carlos Eduardo Pedreira 0.99 
+ Carvalho, Paulo ====== CARVALHO 0.91 
+ DE REZENDE, JOSE F. ====== de REZENDE 0.91 
+ Daniel Ratton Figueiredo ====== Daniel Ratton Figueiredo 1.0 
+ Eliseu Monteiro Chaves Filho ====== Eliseu Monteiro Chaves Filho 1.0 
+ Inês de Castro Dutra ====== Ines de Castro Dutra 1.0 
+ Jayme L Szwarcfiter ====== Jayme Luiz Szwarcfiter 0.93 
+ Luidi Gelabert Simonetti ====== Luidi Gelabert Simonetti 1.0 
+ Luís Alfredo Vidal de Carvalho ====== Luis Alfredo Vidal de Carvalho 1.0 
+ Mario Roberto Folhadela Benevides ====== Mario Roberto Folhadela Benevides 1.0 
+ Nelson Maculan Filho ====== Nelson Maculan Filho 1.0 
+ Priscila Machado Vieira Lima ====== Priscila Machado Vieira Lima 1.0 
+ Valmir Carneiro Barbosa ====== Valmir Carneiro Barbosa 1.0 
+ Vítor Manuel de Morais Santos Costa ====== Vítor Manuel de Morais Santos Costa 1.0 
+ priscila machado vieira lima ====== Priscila Machado Vieira Lima 1.0 
+ Felipe M. G. França ======  FELIPE M.G.;FRANCA 0.91 
+ José Ferreira de Rezende ====== José Ferreira de Rezende 1.0 
+ Paulo de Figueiredo Pires ====== Paulo de Figueiredo Pires 1.0 
+ Alexandre de Assis Bento Lima ====== Alexandre de Assis Bento Lima 1.0 
+ Celina Miraglia Herrera de Figueiredo ====== Celina Miraglia Herrera de Figueiredo 1.0 
+ Fernandes, Tharso ====== FERNANDES 0.91 
+ Luidi Gelabert Simonetti ====== Luidi Gelabert Simonetti 1.0 
+ Ana Regina Cavalcanti da Rocha ====== Ana Regina Cavalcanti da Rocha 1.0 
+ Carlos Eduardo P. Silva ====== Carlos Eduardo Pedreira 0.91 
+ Claudia Maria Lima Werner ====== Claudia Maria Lima Werner 1.0 
+ Edmundo A. de Souza e Silva ====== Edmundo Albuquerque de Souza e Silva 0.91 
+ Geraldo Zimbrão da Silva ====== Geraldo Zimbrao da Silva 1.0 
+ Guilherme Horta Travassos ====== Guilherme Horta Travassos 1.0 
+ JANO MOREIRA DE SOUZA ====== Jano Moreira de Souza 1.0 
+ Jano Moreira de Souza ====== Jano Moreira de Souza 1.0 
+ Luis Alfredo Vidal de Carvalho ====== Luis Alfredo Vidal de Carvalho 1.0 
+ Marta Lima de Queirós Mattoso ====== Marta Lima de Queiros Mattoso 1.0 
+ Nelson Maculan ====== Nelson Maculan Filho 0.94 
+ ROCHA, A ====== ROCHA 0.92 
+ Alexandre A Lima ======  Alexandre A.B.;LIMA 0.93 
+ Geraldo Bonorino Xexéo ====== Geraldo Bonorino Xexéo 1.0 
+ Jano Moreira de Souza ====== Jano Moreira de Souza 1.0 
+ Marta Lima Queiroz Mattoso ====== Marta Lima de Queiros Mattoso 0.92 
+ Oliveira ====== OLIVEIRA 1.0 
+ Oliveira ====== OLIVEIRA 1.0 
+ Oliveira ====== OLIVEIRA 1.0 
+ Ricardo Barros ====== Ricardo Farias 0.91 
+ Ricardo Silva ====== Ricardo Farias 0.91 
+ Severino Collier Coutinho ====== Severino Collier Coutinho 1.0 
+ Luis Alfredo Carvalho ====== Luis Alfredo Vidal de Carvalho 0.92 
+ Valmir Carneiro Barbosa ====== Valmir Carneiro Barbosa 1.0 
+ Claudia Maria Lima Werner ====== Claudia Maria Lima Werner 1.0 
+ Geraldo Xexeo ======  Geraldo;Xexeo 0.98 
+ Claudio Thomas Bornstein ====== Claudio Thomas Bornstein 1.0 
+ Jano Moreira de Souza ====== Jano Moreira de Souza 1.0 
+ claudia maria lima werner ====== Claudia Maria Lima Werner 1.0 
+ Felipe Maia Galvao Franca ====== Felipe Maia Galvão França 1.0 
+ Marta Lima de Queirós Mattoso ====== Marta Lima de Queiros Mattoso 1.0 
+ Barbosa, E. ====== BARBOSA 0.93 
+ CLAUDIA MARIA LIMA WERNER ====== Claudia Maria Lima Werner 1.0 
+ Fernandes R.Q.A. ====== FERNANDES 0.91 
+ Fernandes, Lucia ====== FERNANDES 0.91 
+ G Carvalho ====== CARVALHO 0.93 
+ G.H. TRAVASSOS ======  G. H.;Travassos 0.91 
+ GERALDO BONORINO XEXEO ====== Geraldo Bonorino Xexéo 1.0 
+ Geraldo Bonorino Xexeo ====== Geraldo Bonorino Xexéo 1.0 
+ Geraldo Zimbrao da Silva ====== Geraldo Zimbrao da Silva 1.0 
+ Guilherme Horta Travassos ====== Guilherme Horta Travassos 1.0 
+ Henrique Cukierman ====== Henrique Luiz Cukierman 0.93 
+ MARTA LIMA DE QUEIROS MATTOSO ====== Marta Lima de Queiros Mattoso 1.0 
+ OLIVEIRA, LUIZ ====== OLIVEIRA 0.91 
+ OLIVEIRA, LUIZ ====== OLIVEIRA 0.91 
+ OLIVEIRA, LUIZ ====== OLIVEIRA 0.91 
+ Oliveira, J. ====== OLIVEIRA 0.93 
+ Oliveira, J. ====== OLIVEIRA 0.93 
+ Oliveira, J. ====== OLIVEIRA 0.93 
+ Ricardo Farias ====== Ricardo Farias 1.0 
+ Toacy Cavalcante de Oliveira ====== Toacy Cavalcante de Oliveira 1.0 
+ Celina Miraglia Herrera de Figueiredo ====== Celina Miraglia Herrera de Figueiredo 1.0 
+ Jayme L Szwarcfiter ====== Jayme Luiz Szwarcfiter 0.93 
+ Marcia Rosana Cerioli ====== Márcia Rosana Cerioli 1.0 
+ Márcia R Cerioli ====== Márcia Rosana Cerioli 0.91 
+ Nelson Maculan ====== Nelson Maculan Filho 0.94 
+ Sulamita Klein ====== Sulamita Klein 1.0 
+ DELICATO, F ====== DELICATO 0.95 
+ Flávia Coimbra Delicato ====== Flávia Coimbra Delicato 1.0 
+ JOSE FERREIRA DE REZENDE ====== José Ferreira de Rezende 1.0 
+ Luis Felipe Magalhães de Moraes ====== Luis Felipe Magalhães de Moraes 1.0 
+ Valmir Carneiro Barbosa ====== Valmir Carneiro Barbosa 1.0 
+ Carlos Eduardo Infante ====== Carlos Eduardo Pedreira 0.91 
+ FERNANDES, ELTON ====== FERNANDES 0.91 
+ Nelson Maculan ====== Nelson Maculan Filho 0.94 
+ Ana Regina Cavalcante da Rocha ====== Ana Regina Cavalcanti da Rocha 0.99 
+ Abilio Pereira de Lucena Filho ====== Abilio Pereira de Lucena Filho 1.0 
+ Felipe Galvão Maia França ====== Felipe Maia Galvão França 0.96 
+ Marcia Helena Costa Fampa ====== Marcia Helena Costa Fampa 1.0 
+ Nelson Maculan Filho ====== Nelson Maculan Filho 1.0 
+ CELINA MIRAGLIA HERRERA FIGUEIREDO ====== Celina Miraglia Herrera de Figueiredo 0.96 
+ G. ZAVERUCHA ====== ZAVERUCHA 0.92 
+ GERALDO BONORINO XEXEO ====== Geraldo Bonorino Xexéo 1.0 
+ GERSON ZAVERUCHA ====== Gerson Zaverucha 1.0 
+ MATTOS P ====== MATTOSO 0.92 
+ NELSON MACULAN ====== Nelson Maculan Filho 0.94 
+ VALMIR CARNEIRO BARBOSA ====== Valmir Carneiro Barbosa 1.0 
+ vitor manuel de moraes santos ====== Vítor Manuel de Morais Santos Costa 0.95 
+ DELICATO, F. C. ====== DELICATO 0.91 
+ Edmundo Albuquerque de Souza e Silva ====== Edmundo Albuquerque de Souza e Silva 1.0 
+ Felipe M. G. França ======  FELIPE M.G.;FRANCA 0.91 
+ José F. de Rezende ======  José;de Rezende 0.92 
+ José Ferreira de Rezende ====== José Ferreira de Rezende 1.0 
+ Luidi Simonetti ======  Luidi;Simonetti 0.91 
+ N. Maculan ======  N.;Maculan 0.94 
+ Nelson Maculan ====== Nelson Maculan Filho 0.94 
+ Sulamita Klein ====== Sulamita Klein 1.0 
+ LOPES, L ====== LOPES 0.92 
+ Alexandre Assis B. Lima ====== Alexandre de Assis Bento Lima 0.92 
+ Alexandre de Assis Bento Lima ====== Alexandre de Assis Bento Lima 1.0 
+ Ana Regina Cavalcanti da Rocha ====== Ana Regina Cavalcanti da Rocha 1.0 
+ CAVALCANTI, MARIA C ====== CAVALCANTI 0.91 
+ Carlos Eduardo Paulino ====== Carlos Eduardo Pedreira 0.91 
+ Claudia Maria Lima Werner ====== Claudia Maria Lima Werner 1.0 
+ Claudio Esperanca ====== Claudio Esperança 1.0 
+ Coutinho, Fábio ====== COUTINHO 0.91 
+ G. Zaverucha ====== ZAVERUCHA 0.92 
+ Geraldo Zimbrão ====== Geraldo Zimbrao da Silva 0.92 
+ Guilherme Horta Travassos ====== Guilherme Horta Travassos 1.0 
+ Jano Moreira de Souza ====== Jano Moreira de Souza 1.0 
+ Mario Benevides ======  Mario;Benevides 0.91 
+ P.Pires ====== PIRES 0.91 
+ Paulo Roberto Barreto ====== Paulo Roberto Oliveira 0.91 
+ Celina M H de Figueiredo ======  CELINA M.H.;DE FIGUEIREDO 0.92 
+ Jayme Luiz Szwarcfiter ====== Jayme Luiz Szwarcfiter 1.0 
+ Sulamita Klein ====== Sulamita Klein 1.0 
+ Abílio Pereira de Lucena Filho ====== Abilio Pereira de Lucena Filho 1.0 
+ Adilson Elias Xavier ====== Adilson Elias Xavier 1.0 
+ Claudio Thomas Bornstein ====== Claudio Thomas Bornstein 1.0 
+ Jayme Luiz Szwarcfiter ====== Jayme Luiz Szwarcfiter 1.0 
+ Laura Sílvia Bahiense da Silva Leite ====== Laura Silvia Bahiense da Silva Leite 1.0 
+ Luidi Gelabert Simonetti ====== Luidi Gelabert Simonetti 1.0 
+ Luis Alfredo Vidal de Carvalho ====== Luis Alfredo Vidal de Carvalho 1.0 
+ Marcia Helena Costa Fampa ====== Marcia Helena Costa Fampa 1.0 
+ Priscila Machado Vieira Lima ====== Priscila Machado Vieira Lima 1.0 
+ Rubem P Mondaini ====== Rubem P Mondaini 1.0 
+ Susana Scheimberg de Makler ====== Susana Scheimberg de Makler 1.0 
+ Valmir Carneiro Barbosa ====== Valmir Carneiro Barbosa 1.0 
+ MARIO ROBERTO FOLHADELA BENEVIDES ====== Mario Roberto Folhadela Benevides 1.0 
+ Mario Roberto Folhadela Benevides ====== Mario Roberto Folhadela Benevides 1.0 
+ SHEILA REGINA MURGEL VELOSO ====== Sheila Regina Murgel Veloso 1.0 
+ Sheila R. Murgel VELOSO ====== Sheila Regina Murgel Veloso 0.91 
+ Sheila Regina Murgel Veloso ====== Sheila Regina Murgel Veloso 1.0 
+ Moraes ====== MORAES 1.0 
+ Susana Sceimberg de Makler ====== Susana Scheimberg de Makler 0.99 
+ Antonio Alberto Fernandes Oliveira ====== Antonio Alberto Fernandes de Oliveira 0.97 
+ Antônio Alberto Fernandes de Oliveira ====== Antonio Alberto Fernandes de Oliveira 1.0 
+ Cláudio Esperança ====== Claudio Esperança 1.0 
+ Ricardo Marroquim ====== Ricardo Guerra Marroquim 0.91 
+ Flavia Coimbra Delicato ====== Flávia Coimbra Delicato 1.0 
+ Flávia Coimbra Delicato ====== Flávia Coimbra Delicato 1.0 
+ José Ferreira de Rezende ====== José Ferreira de Rezende 1.0 
+ Adilson Elias Xavier ====== Adilson Elias Xavier 1.0 
+ Carlos Eduardo Pedreira ====== Carlos Eduardo Pedreira 1.0 
+ Claudio Luis de Amorim ====== Claudio Luis de Amorim 1.0 
+ Felipe Maia Galvão França ====== Felipe Maia Galvão França 1.0 
+ Gerson Zaverucha ====== Gerson Zaverucha 1.0 
+ Ines de Castro Dutra ====== Ines de Castro Dutra 1.0 
+ Nelson Maculan ====== Nelson Maculan Filho 0.94 
+ Valmir Carneiro Barbosa ====== Valmir Carneiro Barbosa 1.0 
+ Susana Scheimberg ====== Susana Scheimberg de Makler 0.93 
+ Adilson Xavier ====== Adilson Elias Xavier 0.91 
+ Claudio Esperança ====== Claudio Esperança 1.0 
+ Cláudio Esperança ====== Claudio Esperança 1.0 
+ Jano Moreira Souza ====== Jano Moreira de Souza 0.97 
+ Ricardo Marroquim ====== Ricardo Guerra Marroquim 0.91 
+ Antonio Alberto Fernandes de Oliveira ====== Antonio Alberto Fernandes de Oliveira 1.0 
+ Claudio Esperança ====== Claudio Esperança 1.0 
+ Paulo Roma Cavalcanti ====== Paulo Roma Cavalcanti 1.0 
+ Ricardo Farias ====== Ricardo Farias 1.0 
+ Ricardo Marroquim ====== Ricardo Guerra Marroquim 0.91 
+ Daniel Ratton Figueiredo ====== Daniel Ratton Figueiredo 1.0 
+ Edmundo A de Souza e Silva ====== Edmundo Albuquerque de Souza e Silva 0.91 
+ Edmundo Albuquerque de Souza e Silva ====== Edmundo Albuquerque de Souza e Silva 1.0 
+ de Souza e Silva, Edmundo ====== de Souza e Silva 0.93 
+ de Souza e Silva, Edmundo A. ====== de Souza e Silva 0.91 
+ Oliveira, N.V. ====== OLIVEIRA 0.91 
+ Oliveira, N.V. ====== OLIVEIRA 0.91 
+ Oliveira, N.V. ====== OLIVEIRA 0.91 
+ Oliveira, R. M. ====== OLIVEIRA 0.91 
+ Oliveira, R. M. ====== OLIVEIRA 0.91 
+ Oliveira, R. M. ====== OLIVEIRA 0.91 
+ Gerson Zaverucha ====== Gerson Zaverucha 1.0 
+ MARIO ROBERTO FOLHADELA BENEVIDES ====== Mario Roberto Folhadela Benevides 1.0 
+ Mario Roberto Folhadela Benevides ====== Mario Roberto Folhadela Benevides 1.0 
+ PAULO AUGUSTO SILVA VELOSO ====== Paulo Augusto Silva Veloso 1.0 
+ Paulo Augusto Silva Veloso ====== Paulo Augusto Silva Veloso 1.0 
+ Celina M H de Figueiredo ======  CELINA M.H.;DE FIGUEIREDO 0.92 
+ Jayme L Szwarcfiter ====== Jayme Luiz Szwarcfiter 0.93 
+ Jayme Luiz Szwarcfiter ====== Jayme Luiz Szwarcfiter 1.0 
+ Marcia Helena da Costa Fampa ====== Marcia Helena Costa Fampa 0.94 
+ Marcia R Cerioli ====== Márcia Rosana Cerioli 0.91 
+ Edmundo Alburquerque de Souza e Silva ====== Edmundo Albuquerque de Souza e Silva 0.98 
+ Nelson Maculan ====== Nelson Maculan Filho 0.94 
+ Paulo Roberto Oliveira ====== Paulo Roberto Oliveira 1.0 
+ Regina Burachik ====== Regina Sandra Burachik 0.91 
+ Regina S Burachik ====== Regina Sandra Burachik 0.93 
+ Cláudio Luís de Amorim ====== Claudio Luis de Amorim 1.0 
+ Daniel Ratton Figueiredo ====== Daniel Ratton Figueiredo 1.0 
+ Edil Severiano Tavares Fernandes ====== Edil Severiano Tavares Fernandes 1.0 
+ Eliseu Monteiro Chaves Filho ====== Eliseu Monteiro Chaves Filho 1.0 
+ Felipe Maia Galvão França ====== Felipe Maia Galvão França 1.0 
+ Geraldo Bonorino Xexéo ====== Geraldo Bonorino Xexéo 1.0 
+ Gerson Zaverucha ====== Gerson Zaverucha 1.0 
+ Jayme Luiz Szwarcfiter ====== Jayme Luiz Szwarcfiter 1.0 
+ José Ferreira de Rezende ====== José Ferreira de Rezende 1.0 
+ Luís Alfredo Vidal de Carvalho ====== Luis Alfredo Vidal de Carvalho 1.0 
+ Mario Roberto Folhadela Benevides ====== Mario Roberto Folhadela Benevides 1.0 
+ Nelson Maculan Filho ====== Nelson Maculan Filho 1.0 
+ Priscila Machado Vieira Lima ====== Priscila Machado Vieira Lima 1.0 
+ Vítor Manuel de Morais Santos Costa ====== Vítor Manuel de Morais Santos Costa 1.0 
+ Gerson Zaverucha ====== Gerson Zaverucha 1.0 
+ Inês de Castro Dutra ====== Ines de Castro Dutra 1.0 
