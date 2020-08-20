@@ -25,9 +25,8 @@ def dwt(s1,s2):
 def jaroWinkler(s1,s2):
     x= ''.join(list(map(lambda x: x if x!=";" else " ",list(remover_acentos(s1.lower())))))
     y = ''.join(list(map(lambda x: x if x!=";" else " ",list(remover_acentos(s2.lower())))))
-    return distance.get_jaro_distance(x,y)
-
-#print(jaroWinkler("Claudia;Werner","Claudia;Werner"))
+    result= distance.get_jaro_distance(x.strip(),y.strip())
+    return result
 
 pesc_names ={}
 for x in lattes.keys(): 

@@ -1,33 +1,39 @@
 
  BAHIENSE, LAURA ====== BAHIENSE 0.91 
  Claudio T. Bornstein ====== Claudio Thomas Bornstein 0.92 
- Felipe M. G. França ======  FELIPE M.G.;FRANCA 0.91 
+ Geraldo Veiga ======  GERALDO;Silva 0.92 
  Jayme Szwarcfiter ====== Jayme Luiz Szwarcfiter 0.92 
- Luidi Simonetti ======  Luidi;Simonetti 0.91 
  Nelson Maculan ====== Nelson Maculan Filho 0.94 
  Simonetti, Luidi ====== SIMONETTI 0.91 
  Nelson Maculan ====== Nelson Maculan Filho 0.94 
  SOUZA, M. ====== SOUZA 0.91 
  Coutinho, Fábio ====== COUTINHO 0.91 
- Geraldo Xexéo ======  Geraldo;Xexeo 0.98 
- G. H. Travassos ======  G. H.;Travassos 0.91 
- Geraldo Xexeo ======  Geraldo;Xexeo 0.98 
- K. Oliveira ====== OLIVEIRA 0.91 
- K. Oliveira ====== OLIVEIRA 0.91 
+ C. M. Werner ======  C. M. L.;Werner 0.96 
+ C. Werner ======  C.;L. WERNER 0.94 
+ G. Xexeo ======  G;Xexéo 0.96 
+ K. Oliveira ======  A.;OLIVEIRA 0.94 
+ K. Oliveira ======  P.;OLIVEIRA 0.94 
  K. Oliveira ====== OLIVEIRA 0.91 
  COUTINHO, B. ====== COUTINHO 0.93 
  Cláudio Bornstein ====== Claudio Thomas Bornstein 0.92 
  Jayme Szwarcfiter ====== Jayme Luiz Szwarcfiter 0.92 
  MARROQUIM, R. ====== MARROQUIM 0.94 
  Nelson Maculan ====== Nelson Maculan Filho 0.94 
- Ricardo Marroquim ====== Ricardo Guerra Marroquim 0.91 
+ Alexandre Zanini ======  ALEXANDRE 0.91 
  FERNANDEZ, P ====== FERNANDES 0.91 
+ Henrique Hipper ======  HENRIQUE 0.91 
  fernadez ====== FERNANDES 0.93 
- Franklin Marquezino ======  FRANKLIN;Marquezino 0.91 
- Márcia R Cerioli ====== Márcia Rosana Cerioli 0.91 
+ Alexandre Abreu ======  ALEXANDRE 0.92 
+ E. F. Xavier ======  A. E.;XAVIER 0.91 
+ Márcia R Cerioli ======  Marcia R.;Cerioli 0.99 
+ Márcia R. Capelle ======  Marcia R.;Cerioli 0.91 
+ ANA REGINA C.DA ROCHA ======  Ana Regina;Rocha 0.93 
+ Alexandre Dantas ======  ALEXANDRE 0.91 
+ Carlos Melo Jr ======  Carlos E 0.91 
+ Carlos Simões ======  Carlos E 0.92 
  FERNANDES, FILIPE ====== FERNANDES 0.91 
- Guilherme Travassos ====== Guilherme Horta Travassos 0.93 
- Henrique Cukierman ====== Henrique Luiz Cukierman 0.93 
+ Guilherme Kummel ======  GUILHERME 0.91 
+ Henrique Cukierman ======  HENRIQUE LUIZ;CUKIERMAN 0.93 
  OLIVEIRA, TOACY ====== OLIVEIRA 0.91 
  OLIVEIRA, TOACY ====== OLIVEIRA 0.91 
  OLIVEIRA, TOACY ====== OLIVEIRA 0.91 
@@ -36,111 +42,212 @@
  Marroquim, R. ====== MARROQUIM 0.94 
  A Veloso ====== VELOSO 0.92 
  A Veloso ====== VELOSO 0.92 
+ Alexandre Coser ======  ALEXANDRE 0.92 
  B Coutinho ====== COUTINHO 0.93 
  F França ====== FRANÇA 0.92 
+ F M G França ======  F .M. G.;FRANCA 0.95 
+ FG França ======  F.M.G.;FRANCA 0.91 
+ Felipe GM França ======  FELIPE M.G.;FRANCA 0.97 
+ J M de Souza ======  J. M.;de Souza 0.96 
  M Carvalho ====== CARVALHO 0.93 
+ M L Q Mattoso ======  M. L. Q.;Mattoso 0.94 
  Mattoso MLQ ====== MATTOSO 0.93 
+ Ricardo Guerra Vianna ======  RICARDO GUERRA 0.93 
  V Barbosa ====== BARBOSA 0.93 
- V.C.Barbosa ======  V. C.;BARBOSA 0.93 
- A. Lucena ======  A.;Lucena 0.93 
+ V C Barbosa ======  V. C.;BARBOSA 0.95 
+ V.C.Barbosa ======  V. C.;BARBOSA 0.96 
+ Antonio A.F. de Oliveira ======  ANTONIO A. F.;OLIVEIRA 0.95 
+ Claudio Costa ======  CLÁUDIO 0.91 
+ Claudio Costa ======  Cláudio T. 0.92 
+ Alexandre Santos ======  ALEXANDRE 0.91 
  E. SOUZA SILVA ====== de Souza e Silva 0.91 
+ Valmir Barbosa ======  VALMIR C;BARBOSA 0.98 
  de Souza e Silva, Edmundo ====== de Souza e Silva 0.93 
  de Souza e Silva, Edmundo A. ====== de Souza e Silva 0.91 
- Claudia Márcia D Pereira ====== Claudia Maria Lima Werner 0.91 
- D R Figueiredo ======  D;Figueiredo 0.95 
- Daniel Ratton ====== Daniel Ratton Figueiredo 0.91 
+ Alexandre C Dias ======  ALEXANDRE 0.91 
+ Claudia M D Pereira ======  CLAUDIA M. L.;WERNER 0.91 
+ Claudia Márcia D Pereira ======  Cláudia Maria Lima;WERNER 0.91 
+ D R Figueiredo ======  D. R.;Figueiredo 0.96 
  FIGUEIREDO, D.R. ====== FIGUEIREDO 0.92 
  FIGUEIREDO, D.R. ====== FIGUEIREDO 0.92 
  FIGUEIREDO, DANIEL ====== FIGUEIREDO 0.91 
  FIGUEIREDO, DANIEL ====== FIGUEIREDO 0.91 
+ Guilherme Senges ======  GUILHERME 0.91 
+ L F M de Moraes ======  L. F. M.;de Moraes 0.95 
+ R M M Leão ======  R. M. M.;LEÃO 0.93 
+ Rosa M M Leão ======  Rosa M. M.;LEAO 0.97 
  de Souza e Silva, Edmundo A. ====== de Souza e Silva 0.91 
  de Souza e Silva, Edmundo G. ====== de Souza e Silva 0.91 
+ Claudio Amorim ======  CLAUDIO L.;L. AMORIM 0.94 
+ Alexandre C. Sena ======  ALEXANDRE 0.91 
+ Alexandre Duarte ======  ALEXANDRE 0.91 
  BARBOSA, RAUL ====== BARBOSA 0.91 
- C E T Oliveira ======  T. C.;OLIVEIRA 0.91 
+ C L Amorim ======  C. L.;AMORIM 0.95 
  CARVALHO, DIEGO ====== CARVALHO 0.91 
- Carlos Eduardo Pereira ====== Carlos Eduardo Pedreira 0.99 
+ Carlos Eduardo Pereira ======  Carlos Eduardo;Pedreira 0.99 
  Carvalho, Paulo ====== CARVALHO 0.91 
  DE REZENDE, JOSE F. ====== de REZENDE 0.91 
  Jayme L Szwarcfiter ====== Jayme Luiz Szwarcfiter 0.93 
- Felipe M. G. França ======  FELIPE M.G.;FRANCA 0.91 
+ V C Barbosa ======  V. C.;BARBOSA 0.95 
+ Alexandre Lages ======  ALEXANDRE 0.92 
+ Ana Oliveira ======  A.;OLIVEIRA 0.92 
+ Carlos Lucena ======  Carlos E 0.92 
+ Claudio L. Amorim ======  CLAUDIO L.;L. AMORIM 0.97 
+ Henrique Soares ======  HENRIQUE 0.91 
+ Paulo Borba ======  Paulo Roma 0.92 
+ Paulo Masiero ======  Paulo Roma 0.91 
+ Paulo Merson ======  Paulo Roma 0.91 
  Fernandes, Tharso ====== FERNANDES 0.91 
- Carlos Eduardo P. Silva ====== Carlos Eduardo Pedreira 0.91 
- Edmundo A. de Souza e Silva ====== Edmundo Albuquerque de Souza e Silva 0.91 
+ Alexandre Talon ======  ALEXANDRE 0.92 
+ Carlos Eduardo P. Silva ======  Carlos Eduardo;Pedreira 0.91 
+ Carlos Gomes ======  Carlos E 0.93 
+ Edmundo A. de Souza e Silva ======  Edmundo de S.;Souza e Silva 0.95 
+ J.M. de Souza ======  J. M.;de Souza 0.92 
  Nelson Maculan ====== Nelson Maculan Filho 0.94 
  ROCHA, A ====== ROCHA 0.92 
- Alexandre A Lima ======  Alexandre A.B.;LIMA 0.93 
+ Alexandre A Lima ======  Alexandre A.B.;LIMA 0.97 
  Marta Lima Queiroz Mattoso ====== Marta Lima de Queiros Mattoso 0.92 
- Ricardo Barros ====== Ricardo Farias 0.91 
- Ricardo Silva ====== Ricardo Farias 0.91 
- Luis Alfredo Carvalho ====== Luis Alfredo Vidal de Carvalho 0.92 
- Geraldo Xexeo ======  Geraldo;Xexeo 0.98 
+ Ricardo Barros ======  RICARDO;Farias 0.91 
+ Ricardo Barros ======  Ricardo;Marroquim 0.91 
+ Ricardo Silva ======  RICARDO;Farias 0.91 
+ Claudia M L Werner ======  CLAUDIA M. L.;WERNER 0.98 
+ Sheila Veloso ======  SHEILA R.;Veloso 0.96 
+ Ana Regina C da Rocha ======  Ana Regina;Rocha 0.93 
+ Carlos Melo Jr ======  Carlos E 0.91 
+ Claudia M L Werner ======  CLAUDIA M. L.;WERNER 0.98 
+ Alexandre Porto ======  ALEXANDRE 0.92 
+ Claudio Baeza ======  Cláudia 0.91 
+ Claudio Baeza ======  CLÁUDIO 0.91 
+ Edmundo Silva ======  Edmundo A.;SILVA 0.93 
+ Ricardo Correa ======  RICARDO GUERRA 0.93 
+ Alexandre Fonseca ======  ALEXANDRE 0.91 
+ Alexandre Vassalo ======  ALEXANDRE 0.91 
+ Ana Regina C. da Rocha ======  Ana Regina;Rocha 0.92 
  Barbosa, E. ====== BARBOSA 0.93 
+ C.L. AMORIM ======  C. L.;AMORIM 0.95 
+ C.L. WERNER ======  C.;L. WERNER 0.95 
+ Carlos Gomes ======  Carlos E 0.93 
+ Carlos Mello ======  Carlos E 0.93 
+ Carlos Oliveira ======  Carlos E 0.91 
+ Claudia Hazan ======  Cláudia 0.91 
+ Claudia Motta ======  Cláudia 0.91 
+ Claudia Motta ======  CLÁUDIO 0.91 
+ Felipe Fonseca ======  FELIPE;FRANÇA 0.91 
  Fernandes R.Q.A. ====== FERNANDES 0.91 
  Fernandes, Lucia ====== FERNANDES 0.91 
  G Carvalho ====== CARVALHO 0.93 
- G.H. TRAVASSOS ======  G. H.;Travassos 0.91 
- Henrique Cukierman ====== Henrique Luiz Cukierman 0.93 
+ G.H. TRAVASSOS ======  G. H.;Travassos 0.96 
+ Guilherme Fogaça ======  GUILHERME 0.91 
+ Henrique Burd ======  HENRIQUE 0.92 
+ Henrique Cukierman ======  HENRIQUE LUIZ;CUKIERMAN 0.93 
+ M.L.Q. Mattoso ======  M. L. Q.;Mattoso 0.93 
  OLIVEIRA, LUIZ ====== OLIVEIRA 0.91 
  OLIVEIRA, LUIZ ====== OLIVEIRA 0.91 
  OLIVEIRA, LUIZ ====== OLIVEIRA 0.91 
  Oliveira, J. ====== OLIVEIRA 0.93 
  Oliveira, J. ====== OLIVEIRA 0.93 
  Oliveira, J. ====== OLIVEIRA 0.93 
+ Antônio A F Oliveira ======  ANTONIO A. F.;OLIVEIRA 0.98 
+ Carlos E Ferreira ======  Carlos E.;Pedreira 0.93 
+ Celina M H Figueiredo ======  CELINA M. H.;FIGUEIREDO 0.98 
  Jayme L Szwarcfiter ====== Jayme Luiz Szwarcfiter 0.93 
- Márcia R Cerioli ====== Márcia Rosana Cerioli 0.91 
+ Márcia R Cerioli ======  Marcia R.;Cerioli 0.99 
  Nelson Maculan ====== Nelson Maculan Filho 0.94 
+ Ricardo Correa ======  RICARDO GUERRA 0.93 
+ Alexandre Lages ======  ALEXANDRE 0.92 
+ Carlos Cordeiro ======  Carlos E 0.91 
  DELICATO, F ====== DELICATO 0.95 
- Carlos Eduardo Infante ====== Carlos Eduardo Pedreira 0.91 
+ Carlos Eduardo Infante ======  Carlos Eduardo;Pedreira 0.91 
+ Daniel Gartner ======  DANIEL RATTON 0.91 
  FERNANDES, ELTON ====== FERNANDES 0.91 
+ Marcia Fampa ======  MARCIA H.C.;Fampa 0.94 
  Nelson Maculan ====== Nelson Maculan Filho 0.94 
- Ana Regina Cavalcante da Rocha ====== Ana Regina Cavalcanti da Rocha 0.99 
- Felipe Galvão Maia França ====== Felipe Maia Galvão França 0.96 
- CELINA MIRAGLIA HERRERA FIGUEIREDO ====== Celina Miraglia Herrera de Figueiredo 0.96 
+ ALEXANDRE WERNER ======  ALEXANDRE 0.91 
+ Ana Regina Cavalcante da Rocha ======  ANA REGINA CAVALCANTI;DA ROCHA 0.99 
+ Magno de Souza ======  JANO DE;SOUZA 0.93 
+ Felipe Galvão Maia França ======  FELIPE;MAIA GALVAO FRANCA 0.96 
+ Geraldo Veiga ======  GERALDO;Silva 0.92 
+ CELINA MIRAGLIA HERRERA FIGUEIREDO ======  CELINA MIRAGLIA HERRERA;DE FIGUEIREDO 0.96 
+ CLAUDIA FERLIN ======  Claudia;Werner 0.91 
  G. ZAVERUCHA ====== ZAVERUCHA 0.92 
+ LUIS FLORES ======  LUIS ALFREDO 0.91 
  MATTOS P ====== MATTOSO 0.92 
  NELSON MACULAN ====== Nelson Maculan Filho 0.94 
+ RICARDO WAGNER ======  RICARDO GUERRA 0.91 
+ paulo mattos ======  Paulo Roma 0.91 
  vitor manuel de moraes santos ====== Vítor Manuel de Morais Santos Costa 0.95 
  DELICATO, F. C. ====== DELICATO 0.91 
- Felipe M. G. França ======  FELIPE M.G.;FRANCA 0.91 
- José F. de Rezende ======  José;de Rezende 0.92 
- Luidi Simonetti ======  Luidi;Simonetti 0.91 
- N. Maculan ======  N.;Maculan 0.94 
+ Guilherme Dhein ======  GUILHERME 0.92 
  Nelson Maculan ====== Nelson Maculan Filho 0.94 
+ Priscila Lino ======  PRISCILA;LIMA 0.94 
+ Alexandre Madeira ======  ALEXANDRE 0.91 
+ Felipe G. França ======  FELIPE M.G.;FRANCA 0.97 
  LOPES, L ====== LOPES 0.92 
- Alexandre Assis B. Lima ====== Alexandre de Assis Bento Lima 0.92 
+ Sheila M. Veloso ======  SHEILA R.;Veloso 0.98 
+ Valmir Barbosa ======  VALMIR C;BARBOSA 0.98 
+ Alexandre Andrade ======  ALEXANDRE 0.91 
+ Alexandre Assis B. Lima ======  Alexandre A. B.;Lima 0.93 
+ Alexandre Dantas ======  ALEXANDRE 0.91 
  CAVALCANTI, MARIA C ====== CAVALCANTI 0.91 
- Carlos Eduardo Paulino ====== Carlos Eduardo Pedreira 0.91 
+ Carlos Eduardo Paulino ======  Carlos Eduardo;Pedreira 0.91 
+ Claudio Amorim ======  CLAUDIO L.;L. AMORIM 0.94 
+ Claudio T. Silva ======  Cláudio T. 0.92 
  Coutinho, Fábio ====== COUTINHO 0.91 
+ G. Xexéo ======  G;Xexéo 0.96 
  G. Zaverucha ====== ZAVERUCHA 0.92 
- Geraldo Zimbrão ====== Geraldo Zimbrao da Silva 0.92 
- Mario Benevides ======  Mario;Benevides 0.91 
+ Guilherme Guerra ======  GUILHERME 0.91 
+ Guilherme Loss ======  GUILHERME 0.93 
+ J. M. Souza ======  J. M.;de Souza 0.96 
  P.Pires ====== PIRES 0.91 
  Paulo Roberto Barreto ====== Paulo Roberto Oliveira 0.91 
- Celina M H de Figueiredo ======  CELINA M.H.;DE FIGUEIREDO 0.92 
- Sheila R. Murgel VELOSO ====== Sheila Regina Murgel Veloso 0.91 
+ Celina M H de Figueiredo ======  CELINA M. H. DE;FIGUEIREDO 0.98 
+ Guilherme O. Mota ======  GUILHERME 0.91 
+ Carlos Tomei ======  Carlos E 0.93 
+ Cláudia Pirim ======  Cláudia 0.91 
+ Felipe M G França ======  FELIPE M. G.;França 0.98 
+ Mario R F Benevides ======  Mario;Benevides 0.96 
+ Sheila R M Veloso ======  Sheila R. M.;VELOSO 0.98 
+ Sheila R. Murgel VELOSO ======  SHEILA R.;Veloso 0.93 
  Susana Sceimberg de Makler ====== Susana Scheimberg de Makler 0.99 
  Antonio Alberto Fernandes Oliveira ====== Antonio Alberto Fernandes de Oliveira 0.97 
- Ricardo Marroquim ====== Ricardo Guerra Marroquim 0.91 
+ Claudio Silva ======  CLÁUDIO 0.91 
+ Alexandre Lages ======  ALEXANDRE 0.92 
+ Ana Oliveira ======  A.;OLIVEIRA 0.92 
+ Carlos Lucena ======  Carlos E 0.92 
+ Mário R F Benevides ======  Mario;Benevides 0.96 
+ Paulo Borba ======  Paulo Roma 0.92 
+ Paulo Masiero ======  Paulo Roma 0.91 
+ Alexandre Correa ======  ALEXANDRE 0.91 
+ Guilherme C. Strachan ======  Guilherme H.;TRAVASSOS 0.91 
  Nelson Maculan ====== Nelson Maculan Filho 0.94 
  Susana Scheimberg ====== Susana Scheimberg de Makler 0.93 
- Adilson Xavier ====== Adilson Elias Xavier 0.91 
- Jano Moreira Souza ====== Jano Moreira de Souza 0.97 
- Ricardo Marroquim ====== Ricardo Guerra Marroquim 0.91 
- Ricardo Marroquim ====== Ricardo Guerra Marroquim 0.91 
- Edmundo A de Souza e Silva ====== Edmundo Albuquerque de Souza e Silva 0.91 
+ Adilson Xavier ======  ADILSON E.;XAVIER 0.94 
+ Alexandre Coelho ======  ALEXANDRE 0.91 
+ Antonio Lopes ======  ANTONIO 0.91 
+ Claudio Silva ======  CLÁUDIO 0.91 
+ Guilherme Cox ======  GUILHERME 0.94 
+ Marco Callieri ======  Marcia;CERIOLI 0.91 
+ Edmundo A de Souza e Silva ======  Edmundo de S.;Souza e Silva 0.95 
+ Guilherme Senges ======  GUILHERME 0.91 
  de Souza e Silva, Edmundo ====== de Souza e Silva 0.93 
  de Souza e Silva, Edmundo A. ====== de Souza e Silva 0.91 
+ Luis F. Lopes ======  LUÍS F. 0.91 
+ N. Maculan Filho ======  N.;Maculan 0.92 
  Oliveira, N.V. ====== OLIVEIRA 0.91 
  Oliveira, N.V. ====== OLIVEIRA 0.91 
  Oliveira, N.V. ====== OLIVEIRA 0.91 
  Oliveira, R. M. ====== OLIVEIRA 0.91 
  Oliveira, R. M. ====== OLIVEIRA 0.91 
  Oliveira, R. M. ====== OLIVEIRA 0.91 
- Celina M H de Figueiredo ======  CELINA M.H.;DE FIGUEIREDO 0.92 
+ Mario R F Benevides ======  Mario;Benevides 0.96 
+ Celina M H de Figueiredo ======  CELINA M. H. DE;FIGUEIREDO 0.98 
  Jayme L Szwarcfiter ====== Jayme Luiz Szwarcfiter 0.93 
- Marcia Helena da Costa Fampa ====== Marcia Helena Costa Fampa 0.94 
- Marcia R Cerioli ====== Márcia Rosana Cerioli 0.91 
+ Marcia Helena da Costa Fampa ======  MARCIA HELENA COSTA;Fampa 0.94 
+ Marcia R Cerioli ======  Marcia R.;Cerioli 0.99 
  Edmundo Alburquerque de Souza e Silva ====== Edmundo Albuquerque de Souza e Silva 0.98 
  Nelson Maculan ====== Nelson Maculan Filho 0.94 
+ Paulo J. S. Silva ======  Paulo A. S.;VELOSO 0.91 
  Regina Burachik ====== Regina Sandra Burachik 0.91 
  Regina S Burachik ====== Regina Sandra Burachik 0.93 
+ Cláudia Ferlin ======  Claudia;Werner 0.91 
+ Claudio Amorim ======  CLAUDIO L.;L. AMORIM 0.94 
