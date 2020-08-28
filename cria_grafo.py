@@ -16,10 +16,6 @@ lista_grafos_1 = []
 lista_grafos_2 = []
 lista_grafos_3 = []
 
-#abre arquivo
-with open('Files/test.json', 'r') as f:
-    professores_dict = json.load(f)
-
 with open('Files/jarowinkler.json', 'r') as f:
     jw = json.load(f)
 
@@ -82,21 +78,17 @@ translation = {
     "Valmir Carneiro Barbosa": "Valmir Carneiro Barbosa",
     "Vítor Manuel de Morais Santos Costa":False
 }
-
-
+professores_dict ={}
 for p in jw:
     if(translation[p]):
-        current = professores_dict[translation[p]]
+        professores_dict[translation[p]] = {}
+        #current = professores_dict[translation[p]]
         for colab in jw[p]:
             #print(colab)
             if(translation[colab]):
-                if(translation[colab] in current):
-                    current[translation[colab]]+= jw[p][colab]
-                else:
-                    current[translation[colab]] = jw[p][colab] 
+                professores_dict[translation[p]][translation[colab]] = jw[p][colab]
             else:
-                print(colab)
-                current[colab] = jw[p][colab]
+                professores_dict[translation[p]][colab] = jw[p][colab]
     else:
         #print(p,jw[p])
         temp = {}
@@ -105,7 +97,6 @@ for p in jw:
                 temp[translation[i]] = jw[p][i]
             else:
                 temp[i] = jw[p][i]
-        print(temp)
         professores_dict[p] = temp
 
 #professores_dict = {**professores_dict,**jw}
@@ -234,13 +225,10 @@ while i<=50:
     graph_colors = [colors[x] for x in nx.subgraph_view(real_graph_list[i],filter_node=cfunction).nodes()]
     sub_graph= nx.subgraph_view(real_graph_list[i],filter_node=cfunction)
     edges = sub_graph.edges()
-    print("Urgente")
     if (list_number>1):
-        print("Papi")
         weights = [sub_graph[u][v]['weight'] for u,v in edges]
         nx.draw_spring(nx.subgraph_view(real_graph_list[i],filter_node=cfunction),node_color=graph_colors,with_labels=True,node_size=500,font_size=10,width=weights)
     else:
-        print("Papa")
         nx.draw_spring(nx.subgraph_view(real_graph_list[i],filter_node=cfunction),node_color=graph_colors,with_labels=True,node_size=500,font_size=10)
     plt.draw()
     #figManager = plt.get_current_fig_manager()
