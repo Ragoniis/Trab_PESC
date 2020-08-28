@@ -29,10 +29,12 @@ def jaroWinkler(s1,s2):
     return result
 
 pesc_names ={}
+graph ={}
 for x in lattes.keys(): 
     all_names = pesc_professors[x]
     all_names.append(x)
     pesc_names[x] = all_names
+    graph[x] = {}
 
 
 for x in lattes.keys():
@@ -42,18 +44,43 @@ for x in lattes.keys():
         #print("\n Comparando ",y,"\n");
         for z in pesc_names.keys():
             maxv=0
-            best=''
+            ele={}
+            best= []
             for w in pesc_names[z]:
                 #print(w,",",end='')
                 value = jaroWinkler(y,w);
                 if(value>maxv):
+                    best=[y,w]
                     maxv = value
-                    best=w
-            #print("\n")
-            if(maxv>0.9):
-                print("\n",y,"======",best,maxv,"\n")
+                    ele=edges[y]
+            if(maxv==1.0):
+                if(len(y.split(" ")) ==1):
+                    print(best)
+                #print(ele)
+                for ar in ele:
+                    #print(ar)
+                    new_edge ={
+                        "title": [(ar["article"])],
+                        "year":ar["ano"],
+                        "number_coauthors":ar["number_coauthors"]
+                    }
+                    #print(graph)
+                    if(z in graph[x].keys()):
+                        graph[x][z].append(new_edge)
+                    else:
+                        graph[x][z]= [new_edge]
+                    if(x in graph[z].keys()):
+                        graph[z][x].append(new_edge)
+                    else:
+                        graph[z][x]= [new_edge]
 
 
+
+
+                 
+
+with open('Files/jarowinkler.json', 'w',encoding='utf-8') as json_file:
+  json.dump(graph, json_file,indent=2,sort_keys=True,ensure_ascii=False)
         
         
 
