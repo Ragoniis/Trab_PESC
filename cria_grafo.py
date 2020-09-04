@@ -167,8 +167,8 @@ colors ={
 }
 
 
-with open('Files/test1234.json', 'w',encoding='utf-8') as json_file:
-  json.dump(professores_dict, json_file,indent=2,ensure_ascii=False)
+#with open('Files/test1234.json', 'w',encoding='utf-8') as json_file:
+#  json.dump(professores_dict, json_file,indent=2,ensure_ascii=False)
 
 ano = 1970
 while ano <= 2020:

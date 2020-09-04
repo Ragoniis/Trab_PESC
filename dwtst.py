@@ -1,6 +1,6 @@
 import numpy as np
 from scipy.spatial.distance import euclidean
-from fastdtw import fastdtw
+#from fastdtw import fastdtw
 from get_names_lattes import pesc_professors
 import math
 from unicodedata import normalize
