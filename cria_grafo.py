@@ -237,4 +237,10 @@ while i<=50:
     print(l,r)
     plt.xlim(l-2,r+2)
     plt.show()
+
+    nx.write_graphml(lista_grafos_1[i], 'Grafos/SemPeso/grafo'+str(i+1970)+'.graphml', encoding='utf-8', prettyprint=True)
+    nx.write_graphml(lista_grafos_2[i], 'Grafos/PesoSimples/grafo'+str(i+1970)+'.graphml', encoding='utf-8', prettyprint=True)
+    nx.write_graphml(lista_grafos_3[i], 'Grafos/PesoDinamico/grafo'+str(i+1970)+'.graphml', encoding='utf-8', prettyprint=True)
+
+
     i+=1

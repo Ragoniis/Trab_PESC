@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Antonio Alberto Fernandes de Oliveira"/>
+<node id="Nelson Maculan"/>
+<node id="P. Roberto Oliveira"/>
+<node id="Susana Scheimberg"/>
+<node id="Paulo A. S. Veloso"/>
+<node id="Sheila Regina Murgel Veloso"/>
+<node id="Edil Severiano Tavares Fernandes"/>
+<node id="Felipe M. G. França"/>
+<edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan">
+  <data key="d0">1</data>
+</edge>
+<edge source="P. Roberto Oliveira" target="Susana Scheimberg">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso">
+  <data key="d0">1</data>
+</edge>
+<edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Antonio Alberto Fernandes de Oliveira"/>
+<node id="Nelson Maculan"/>
+<node id="P. Roberto Oliveira"/>
+<node id="Susana Scheimberg"/>
+<node id="Paulo A. S. Veloso"/>
+<node id="Sheila Regina Murgel Veloso"/>
+<node id="Edil Severiano Tavares Fernandes"/>
+<node id="Felipe M. G. França"/>
+<node id="Adilson Elias Xavier"/>
+<node id="Claudio Luis de Amorim"/>
+<node id="Valmir Carneiro Barbosa"/>
+<node id="Jano Moreira de Souza"/>
+<node id="Marta Mattoso"/>
+<node id="Ines de Castro Dutra"/>
+<node id="Priscila Machado Vieira Lima"/>
+<edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan"/>
+<edge source="Nelson Maculan" target="Adilson Elias Xavier"/>
+<edge source="P. Roberto Oliveira" target="Susana Scheimberg"/>
+<edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso"/>
+<edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França"/>
+<edge source="Edil Severiano Tavares Fernandes" target="Claudio Luis de Amorim"/>
+<edge source="Edil Severiano Tavares Fernandes" target="Valmir Carneiro Barbosa"/>
+<edge source="Felipe M. G. França" target="Valmir Carneiro Barbosa"/>
+<edge source="Claudio Luis de Amorim" target="Valmir Carneiro Barbosa"/>
+<edge source="Claudio Luis de Amorim" target="Ines de Castro Dutra"/>
+<edge source="Claudio Luis de Amorim" target="Priscila Machado Vieira Lima"/>
+<edge source="Valmir Carneiro Barbosa" target="Priscila Machado Vieira Lima"/>
+<edge source="Jano Moreira de Souza" target="Marta Mattoso"/>
+<edge source="Ines de Castro Dutra" target="Priscila Machado Vieira Lima"/>
+</graph></graphml>
