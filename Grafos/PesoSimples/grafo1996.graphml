@@ -17,14 +17,14 @@
 <node id="Priscila Machado Vieira Lima"/>
 <node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Cláudia Maria Lima Werner"/>
-<node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Guilherme Horta Travassos"/>
 <node id="Luis Alfredo Vidal de Carvalho"/>
 <node id="Geraldo Xexéo"/>
 <node id="Celina M. H. de Figueiredo"/>
 <node id="Jayme Luiz Szwarcfiter"/>
-<node id="Sulamita Klein"/>
 <node id="Claudio Thomas Bornstein"/>
+<node id="Sulamita Klein"/>
+<node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Geraldo Zimbrão"/>
 <node id="Severino Collier Coutinho"/>
 <node id="Vítor Manuel de Morais Santos Costa"/>
@@ -40,43 +40,43 @@
   <data key="d0">1</data>
 </edge>
 <edge source="P. Roberto Oliveira" target="Susana Scheimberg">
-  <data key="d0">1</data>
-</edge>
-<edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso">
-  <data key="d0">1</data>
-</edge>
-<edge source="Sheila Regina Murgel Veloso" target="Gerson Zaverucha">
-  <data key="d0">1</data>
-</edge>
-<edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França">
   <data key="d0">2</data>
 </edge>
+<edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso">
+  <data key="d0">9</data>
+</edge>
+<edge source="Sheila Regina Murgel Veloso" target="Gerson Zaverucha">
+  <data key="d0">4</data>
+</edge>
+<edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França">
+  <data key="d0">8</data>
+</edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Claudio Luis de Amorim">
-  <data key="d0">1</data>
+  <data key="d0">6</data>
 </edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Valmir Carneiro Barbosa">
   <data key="d0">1</data>
 </edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Eliseu Monteiro Chaves Filho">
-  <data key="d0">4</data>
+  <data key="d0">20</data>
 </edge>
 <edge source="Felipe M. G. França" target="Valmir Carneiro Barbosa">
   <data key="d0">1</data>
 </edge>
 <edge source="Claudio Luis de Amorim" target="Valmir Carneiro Barbosa">
-  <data key="d0">2</data>
-</edge>
-<edge source="Claudio Luis de Amorim" target="Ines de Castro Dutra">
-  <data key="d0">2</data>
-</edge>
-<edge source="Claudio Luis de Amorim" target="Priscila Machado Vieira Lima">
   <data key="d0">4</data>
 </edge>
+<edge source="Claudio Luis de Amorim" target="Ines de Castro Dutra">
+  <data key="d0">3</data>
+</edge>
+<edge source="Claudio Luis de Amorim" target="Priscila Machado Vieira Lima">
+  <data key="d0">3</data>
+</edge>
 <edge source="Valmir Carneiro Barbosa" target="Priscila Machado Vieira Lima">
-  <data key="d0">1</data>
+  <data key="d0">2</data>
 </edge>
 <edge source="Valmir Carneiro Barbosa" target="Luis Alfredo Vidal de Carvalho">
-  <data key="d0">3</data>
+  <data key="d0">16</data>
 </edge>
 <edge source="Valmir Carneiro Barbosa" target="Eliseu Monteiro Chaves Filho">
   <data key="d0">1</data>
@@ -85,58 +85,55 @@
   <data key="d0">1</data>
 </edge>
 <edge source="Jano Moreira de Souza" target="Marta Mattoso">
-  <data key="d0">1</data>
+  <data key="d0">14</data>
 </edge>
 <edge source="Jano Moreira de Souza" target="Cláudia Maria Lima Werner">
-  <data key="d0">1</data>
+  <data key="d0">5</data>
 </edge>
 <edge source="Jano Moreira de Souza" target="Guilherme Horta Travassos">
-  <data key="d0">1</data>
-</edge>
-<edge source="Jano Moreira de Souza" target="Geraldo Xexéo">
-  <data key="d0">1</data>
-</edge>
-<edge source="Jano Moreira de Souza" target="Geraldo Zimbrão">
   <data key="d0">2</data>
 </edge>
+<edge source="Jano Moreira de Souza" target="Geraldo Xexéo">
+  <data key="d0">2</data>
+</edge>
+<edge source="Jano Moreira de Souza" target="Geraldo Zimbrão">
+  <data key="d0">6</data>
+</edge>
 <edge source="Marta Mattoso" target="Ana Regina Cavalcanti da Rocha">
-  <data key="d0">1</data>
+  <data key="d0">2</data>
 </edge>
 <edge source="Marta Mattoso" target="Geraldo Zimbrão">
   <data key="d0">1</data>
 </edge>
 <edge source="Marta Mattoso" target="Paulo de Figueiredo Pires">
-  <data key="d0">2</data>
-</edge>
-<edge source="Ines de Castro Dutra" target="Priscila Machado Vieira Lima">
-  <data key="d0">2</data>
+  <data key="d0">3</data>
 </edge>
 <edge source="Ines de Castro Dutra" target="Vítor Manuel de Morais Santos Costa">
   <data key="d0">1</data>
 </edge>
 <edge source="Ana Regina Cavalcanti da Rocha" target="Geraldo Xexéo">
-  <data key="d0">2</data>
+  <data key="d0">6</data>
 </edge>
 <edge source="Ana Regina Cavalcanti da Rocha" target="Guilherme Horta Travassos">
   <data key="d0">1</data>
 </edge>
 <edge source="Cláudia Maria Lima Werner" target="Guilherme Horta Travassos">
-  <data key="d0">4</data>
+  <data key="d0">13</data>
 </edge>
 <edge source="Luis Alfredo Vidal de Carvalho" target="Claudio Thomas Bornstein">
   <data key="d0">1</data>
 </edge>
 <edge source="Luis Alfredo Vidal de Carvalho" target="Gerson Zaverucha">
-  <data key="d0">1</data>
+  <data key="d0">3</data>
 </edge>
 <edge source="Celina M. H. de Figueiredo" target="Jayme Luiz Szwarcfiter">
-  <data key="d0">1</data>
+  <data key="d0">2</data>
 </edge>
 <edge source="Celina M. H. de Figueiredo" target="Sulamita Klein">
   <data key="d0">1</data>
 </edge>
 <edge source="Jayme Luiz Szwarcfiter" target="Sulamita Klein">
-  <data key="d0">1</data>
+  <data key="d0">5</data>
 </edge>
 <edge source="Sulamita Klein" target="Márcia R. Cerioli">
   <data key="d0">1</data>

@@ -17,7 +17,6 @@
 <node id="Priscila Machado Vieira Lima"/>
 <node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Cláudia Maria Lima Werner"/>
-<node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Guilherme Horta Travassos"/>
 <node id="Luis Alfredo Vidal de Carvalho"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan">
@@ -30,31 +29,25 @@
   <data key="d0">0.3333333333333333</data>
 </edge>
 <edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">0.8333333333333333</data>
 </edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França">
-  <data key="d0">0.7</data>
+  <data key="d0">2.916666666666666</data>
 </edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Claudio Luis de Amorim">
-  <data key="d0">0.7</data>
-</edge>
-<edge source="Edil Severiano Tavares Fernandes" target="Valmir Carneiro Barbosa">
-  <data key="d0">0.8999999999999999</data>
-</edge>
-<edge source="Edil Severiano Tavares Fernandes" target="Eliseu Monteiro Chaves Filho">
-  <data key="d0">0.5</data>
+  <data key="d0">1.5666666666666667</data>
 </edge>
 <edge source="Felipe M. G. França" target="Valmir Carneiro Barbosa">
-  <data key="d0">0.2</data>
+  <data key="d0">0.5</data>
 </edge>
 <edge source="Claudio Luis de Amorim" target="Valmir Carneiro Barbosa">
-  <data key="d0">0.5333333333333333</data>
+  <data key="d0">1.2</data>
 </edge>
 <edge source="Claudio Luis de Amorim" target="Ines de Castro Dutra">
-  <data key="d0">0.4</data>
+  <data key="d0">0.6000000000000001</data>
 </edge>
 <edge source="Claudio Luis de Amorim" target="Priscila Machado Vieira Lima">
-  <data key="d0">0.8</data>
+  <data key="d0">0.6000000000000001</data>
 </edge>
 <edge source="Valmir Carneiro Barbosa" target="Priscila Machado Vieira Lima">
   <data key="d0">0.5</data>
@@ -63,18 +56,15 @@
   <data key="d0">0.5</data>
 </edge>
 <edge source="Jano Moreira de Souza" target="Marta Mattoso">
-  <data key="d0">0.8333333333333333</data>
+  <data key="d0">3.0</data>
 </edge>
 <edge source="Jano Moreira de Souza" target="Cláudia Maria Lima Werner">
-  <data key="d0">0.3055555555555556</data>
+  <data key="d0">0.5555555555555556</data>
 </edge>
 <edge source="Jano Moreira de Souza" target="Guilherme Horta Travassos">
-  <data key="d0">0.16666666666666666</data>
+  <data key="d0">0.1111111111111111</data>
 </edge>
 <edge source="Marta Mattoso" target="Ana Regina Cavalcanti da Rocha">
   <data key="d0">0.3333333333333333</data>
-</edge>
-<edge source="Ines de Castro Dutra" target="Priscila Machado Vieira Lima">
-  <data key="d0">0.4</data>
 </edge>
 </graph></graphml>

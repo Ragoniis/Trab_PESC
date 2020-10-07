@@ -16,14 +16,14 @@
 <node id="Priscila Machado Vieira Lima"/>
 <node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Cláudia Maria Lima Werner"/>
-<node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Guilherme Horta Travassos"/>
 <node id="Luis Alfredo Vidal de Carvalho"/>
 <node id="Geraldo Xexéo"/>
 <node id="Celina M. H. de Figueiredo"/>
 <node id="Jayme Luiz Szwarcfiter"/>
-<node id="Sulamita Klein"/>
 <node id="Claudio Thomas Bornstein"/>
+<node id="Sulamita Klein"/>
+<node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Geraldo Zimbrão"/>
 <node id="Severino Collier Coutinho"/>
 <node id="Vítor Manuel de Morais Santos Costa"/>
@@ -44,7 +44,6 @@
 <node id="José Ferreira de Rezende"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Claudio Esperança"/>
-<edge source="Antonio Alberto Fernandes de Oliveira" target="Paulo Roma Cavalcanti"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Ricardo C. Farias"/>
 <edge source="Nelson Maculan" target="Adilson Elias Xavier"/>
 <edge source="Nelson Maculan" target="Jayme Luiz Szwarcfiter"/>
@@ -81,13 +80,11 @@
 <edge source="Marta Mattoso" target="Ana Regina Cavalcanti da Rocha"/>
 <edge source="Marta Mattoso" target="Geraldo Zimbrão"/>
 <edge source="Marta Mattoso" target="Paulo de Figueiredo Pires"/>
-<edge source="Marta Mattoso" target="Alexandre A. B. Lima"/>
 <edge source="Marta Mattoso" target="Cláudia Maria Lima Werner"/>
-<edge source="Marta Mattoso" target="Claudio Esperança"/>
 <edge source="Marta Mattoso" target="Geraldo Xexéo"/>
 <edge source="Marta Mattoso" target="Mario Roberto Folhadela Benevides"/>
-<edge source="Ines de Castro Dutra" target="Priscila Machado Vieira Lima"/>
 <edge source="Ines de Castro Dutra" target="Vítor Manuel de Morais Santos Costa"/>
+<edge source="Ines de Castro Dutra" target="Priscila Machado Vieira Lima"/>
 <edge source="Ana Regina Cavalcanti da Rocha" target="Geraldo Xexéo"/>
 <edge source="Ana Regina Cavalcanti da Rocha" target="Guilherme Horta Travassos"/>
 <edge source="Ana Regina Cavalcanti da Rocha" target="Cláudia Maria Lima Werner"/>
@@ -102,7 +99,6 @@
 <edge source="Jayme Luiz Szwarcfiter" target="Márcia R. Cerioli"/>
 <edge source="Sulamita Klein" target="Márcia R. Cerioli"/>
 <edge source="Geraldo Zimbrão" target="Severino Collier Coutinho"/>
-<edge source="Geraldo Zimbrão" target="Alexandre A. B. Lima"/>
 <edge source="Edmundo de Souza e Silva" target="Rosa Maria Meri Leão"/>
 <edge source="Edmundo de Souza e Silva" target="Daniel R. Figueiredo"/>
 <edge source="Alexandre A. B. Lima" target="Claudio Esperança"/>

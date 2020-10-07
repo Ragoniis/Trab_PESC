@@ -17,14 +17,14 @@
 <node id="Priscila Machado Vieira Lima"/>
 <node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Cláudia Maria Lima Werner"/>
-<node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Guilherme Horta Travassos"/>
 <node id="Luis Alfredo Vidal de Carvalho"/>
 <node id="Geraldo Xexéo"/>
 <node id="Celina M. H. de Figueiredo"/>
 <node id="Jayme Luiz Szwarcfiter"/>
-<node id="Sulamita Klein"/>
 <node id="Claudio Thomas Bornstein"/>
+<node id="Sulamita Klein"/>
+<node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Geraldo Zimbrão"/>
 <node id="Severino Collier Coutinho"/>
 <node id="Vítor Manuel de Morais Santos Costa"/>
@@ -55,37 +55,37 @@
   <data key="d0">0.3333333333333333</data>
 </edge>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Claudio Esperança">
-  <data key="d0">0.5833333333333333</data>
-</edge>
-<edge source="Antonio Alberto Fernandes de Oliveira" target="Paulo Roma Cavalcanti">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">16.042857142857144</data>
 </edge>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Ricardo C. Farias">
-  <data key="d0">0.2</data>
+  <data key="d0">0.65</data>
 </edge>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Adilson Elias Xavier">
-  <data key="d0">0.5</data>
+  <data key="d0">29.25</data>
+</edge>
+<edge source="Antonio Alberto Fernandes de Oliveira" target="Paulo Roma Cavalcanti">
+  <data key="d0">1.7499999999999998</data>
 </edge>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Geraldo Zimbrão">
-  <data key="d0">0.2</data>
+  <data key="d0">0.8</data>
 </edge>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Ricardo Marroquim">
-  <data key="d0">0.45</data>
+  <data key="d0">1.2333333333333332</data>
 </edge>
 <edge source="Nelson Maculan" target="Adilson Elias Xavier">
-  <data key="d0">0.25</data>
+  <data key="d0">1.45</data>
 </edge>
 <edge source="Nelson Maculan" target="Jayme Luiz Szwarcfiter">
   <data key="d0">0.3333333333333333</data>
 </edge>
 <edge source="Nelson Maculan" target="Marcia Helena Costa Fampa">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">6.333333333333332</data>
 </edge>
 <edge source="Nelson Maculan" target="Rubem P. Mondaini">
   <data key="d0">0.3333333333333333</data>
 </edge>
 <edge source="Nelson Maculan" target="Claudio Thomas Bornstein">
-  <data key="d0">0.25</data>
+  <data key="d0">4.166666666666666</data>
 </edge>
 <edge source="Nelson Maculan" target="Luis Alfredo Vidal de Carvalho">
   <data key="d0">0.2</data>
@@ -94,79 +94,73 @@
   <data key="d0">0.3333333333333333</data>
 </edge>
 <edge source="Nelson Maculan" target="Valmir Carneiro Barbosa">
-  <data key="d0">0.25</data>
+  <data key="d0">0.8333333333333333</data>
 </edge>
 <edge source="Nelson Maculan" target="Abilio Lucena">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">1.4999999999999998</data>
 </edge>
 <edge source="Nelson Maculan" target="Laura Bahiense">
-  <data key="d0">0.2</data>
+  <data key="d0">0.5333333333333333</data>
 </edge>
 <edge source="Nelson Maculan" target="Felipe M. G. França">
-  <data key="d0">0.16666666666666666</data>
+  <data key="d0">0.8166666666666667</data>
 </edge>
 <edge source="Nelson Maculan" target="Susana Scheimberg">
   <data key="d0">0.3333333333333333</data>
 </edge>
-<edge source="Nelson Maculan" target="Priscila Machado Vieira Lima">
-  <data key="d0">0.25</data>
-</edge>
 <edge source="P. Roberto Oliveira" target="Susana Scheimberg">
-  <data key="d0">0.5</data>
+  <data key="d0">0.8333333333333333</data>
 </edge>
 <edge source="P. Roberto Oliveira" target="Luís Felipe M. de Moraes">
-  <data key="d0">0.6666666666666666</data>
-</edge>
-<edge source="P. Roberto Oliveira" target="Geraldo Zimbrão">
-  <data key="d0">0.2</data>
+  <data key="d0">1.0</data>
 </edge>
 <edge source="Susana Scheimberg" target="Edmundo de Souza e Silva">
   <data key="d0">0.3333333333333333</data>
 </edge>
 <edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso">
-  <data key="d0">0.6666666666666666</data>
+  <data key="d0">38.75</data>
 </edge>
 <edge source="Sheila Regina Murgel Veloso" target="Gerson Zaverucha">
-  <data key="d0">0.5</data>
+  <data key="d0">1.8333333333333333</data>
 </edge>
 <edge source="Sheila Regina Murgel Veloso" target="Mario Roberto Folhadela Benevides">
-  <data key="d0">0.16666666666666666</data>
+  <data key="d0">1.9666666666666668</data>
 </edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França">
-  <data key="d0">0.7</data>
+  <data key="d0">2.916666666666666</data>
 </edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Claudio Luis de Amorim">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">1.9</data>
 </edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Valmir Carneiro Barbosa">
-  <data key="d0">0.6666666666666666</data>
+  <data key="d0">2.9166666666666665</data>
 </edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Eliseu Monteiro Chaves Filho">
-  <data key="d0">2.0</data>
+  <data key="d0">12.666666666666666</data>
 </edge>
 <edge source="Felipe M. G. França" target="Valmir Carneiro Barbosa">
-  <data key="d0">0.09090909090909091</data>
+  <data key="d0">1.8686868686868687</data>
 </edge>
 <edge source="Felipe M. G. França" target="Jayme Luiz Szwarcfiter">
   <data key="d0">0.3333333333333333</data>
 </edge>
 <edge source="Felipe M. G. França" target="Ines de Castro Dutra">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">1.4666666666666666</data>
 </edge>
 <edge source="Felipe M. G. França" target="Eliseu Monteiro Chaves Filho">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">1.3333333333333333</data>
 </edge>
 <edge source="Felipe M. G. França" target="Mario Roberto Folhadela Benevides">
   <data key="d0">0.3333333333333333</data>
 </edge>
 <edge source="Felipe M. G. França" target="Priscila Machado Vieira Lima">
-  <data key="d0">0.8666666666666667</data>
+  <data key="d0">10.649999999999999</data>
 </edge>
 <edge source="Felipe M. G. França" target="Vítor Manuel de Morais Santos Costa">
-  <data key="d0">0.16666666666666666</data>
+  <data key="d0">1.0</data>
 </edge>
 <edge source="Felipe M. G. França" target="Daniel R. Figueiredo">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">0.5833333333333333</data>
 </edge>
 <edge source="Felipe M. G. França" target="Luis Alfredo Vidal de Carvalho">
   <data key="d0">0.5</data>
@@ -175,67 +169,55 @@
   <data key="d0">0.3333333333333333</data>
 </edge>
 <edge source="Felipe M. G. França" target="Adilson Elias Xavier">
-  <data key="d0">1.0</data>
-</edge>
-<edge source="Adilson Elias Xavier" target="Adilson Elias Xavier">
-  <data key="d0">0.2</data>
+  <data key="d0">2.75</data>
 </edge>
 <edge source="Adilson Elias Xavier" target="Ricardo C. Farias">
-  <data key="d0">0.5</data>
-</edge>
-<edge source="Adilson Elias Xavier" target="Priscila Machado Vieira Lima">
-  <data key="d0">1.0</data>
+  <data key="d0">0.75</data>
 </edge>
 <edge source="Claudio Luis de Amorim" target="Valmir Carneiro Barbosa">
-  <data key="d0">0.5333333333333333</data>
+  <data key="d0">1.2</data>
 </edge>
 <edge source="Claudio Luis de Amorim" target="Ines de Castro Dutra">
-  <data key="d0">0.4</data>
+  <data key="d0">0.6000000000000001</data>
 </edge>
 <edge source="Claudio Luis de Amorim" target="Priscila Machado Vieira Lima">
-  <data key="d0">0.4</data>
+  <data key="d0">1.2000000000000002</data>
 </edge>
 <edge source="Valmir Carneiro Barbosa" target="Priscila Machado Vieira Lima">
-  <data key="d0">0.5</data>
+  <data key="d0">1.0</data>
 </edge>
 <edge source="Valmir Carneiro Barbosa" target="Luis Alfredo Vidal de Carvalho">
-  <data key="d0">1.0</data>
+  <data key="d0">7.416666666666666</data>
 </edge>
 <edge source="Valmir Carneiro Barbosa" target="Eliseu Monteiro Chaves Filho">
   <data key="d0">0.5</data>
 </edge>
 <edge source="Valmir Carneiro Barbosa" target="Jayme Luiz Szwarcfiter">
-  <data key="d0">0.5</data>
+  <data key="d0">1.0</data>
 </edge>
 <edge source="Valmir Carneiro Barbosa" target="Gerson Zaverucha">
-  <data key="d0">1.3333333333333333</data>
+  <data key="d0">4.0</data>
 </edge>
 <edge source="Valmir Carneiro Barbosa" target="Mario Roberto Folhadela Benevides">
   <data key="d0">0.6666666666666666</data>
 </edge>
-<edge source="Valmir Carneiro Barbosa" target="Celina M. H. de Figueiredo">
-  <data key="d0">0.3333333333333333</data>
-</edge>
 <edge source="Valmir Carneiro Barbosa" target="José Ferreira de Rezende">
-  <data key="d0">0.25</data>
-</edge>
-<edge source="Valmir Carneiro Barbosa" target="Vítor Manuel de Morais Santos Costa">
-  <data key="d0">0.16666666666666666</data>
-</edge>
-<edge source="Jano Moreira de Souza" target="Marta Mattoso">
-  <data key="d0">1.2499999999999998</data>
-</edge>
-<edge source="Jano Moreira de Souza" target="Cláudia Maria Lima Werner">
-  <data key="d0">0.25</data>
-</edge>
-<edge source="Jano Moreira de Souza" target="Guilherme Horta Travassos">
-  <data key="d0">0.3333333333333333</data>
-</edge>
-<edge source="Jano Moreira de Souza" target="Geraldo Xexéo">
   <data key="d0">0.5</data>
 </edge>
+<edge source="Jano Moreira de Souza" target="Marta Mattoso">
+  <data key="d0">9.749999999999998</data>
+</edge>
+<edge source="Jano Moreira de Souza" target="Cláudia Maria Lima Werner">
+  <data key="d0">2.5555555555555554</data>
+</edge>
+<edge source="Jano Moreira de Souza" target="Guilherme Horta Travassos">
+  <data key="d0">0.4444444444444444</data>
+</edge>
+<edge source="Jano Moreira de Souza" target="Geraldo Xexéo">
+  <data key="d0">67.3309523809524</data>
+</edge>
 <edge source="Jano Moreira de Souza" target="Geraldo Zimbrão">
-  <data key="d0">0.5833333333333333</data>
+  <data key="d0">37.79246031746033</data>
 </edge>
 <edge source="Jano Moreira de Souza" target="Henrique Luiz Cukierman">
   <data key="d0">0.2</data>
@@ -247,49 +229,43 @@
   <data key="d0">0.25</data>
 </edge>
 <edge source="Marta Mattoso" target="Ana Regina Cavalcanti da Rocha">
-  <data key="d0">0.25</data>
+  <data key="d0">0.5833333333333333</data>
 </edge>
 <edge source="Marta Mattoso" target="Geraldo Zimbrão">
-  <data key="d0">0.16666666666666666</data>
+  <data key="d0">0.9166666666666666</data>
 </edge>
 <edge source="Marta Mattoso" target="Paulo de Figueiredo Pires">
-  <data key="d0">0.125</data>
-</edge>
-<edge source="Marta Mattoso" target="Alexandre A. B. Lima">
-  <data key="d0">0.8095238095238095</data>
+  <data key="d0">4.125</data>
 </edge>
 <edge source="Marta Mattoso" target="Cláudia Maria Lima Werner">
-  <data key="d0">0.14285714285714285</data>
-</edge>
-<edge source="Marta Mattoso" target="Claudio Esperança">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">15.588492063492064</data>
 </edge>
 <edge source="Marta Mattoso" target="Geraldo Xexéo">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">1.0</data>
 </edge>
 <edge source="Marta Mattoso" target="Mario Roberto Folhadela Benevides">
-  <data key="d0">0.2</data>
+  <data key="d0">3.8666666666666663</data>
+</edge>
+<edge source="Marta Mattoso" target="Alexandre A. B. Lima">
+  <data key="d0">3.911904761904762</data>
+</edge>
+<edge source="Marta Mattoso" target="Ines de Castro Dutra">
+  <data key="d0">1.0</data>
 </edge>
 <edge source="Marta Mattoso" target="Guilherme Horta Travassos">
   <data key="d0">0.125</data>
 </edge>
-<edge source="Marta Mattoso" target="Ines de Castro Dutra">
-  <data key="d0">0.6666666666666666</data>
+<edge source="Ines de Castro Dutra" target="Vítor Manuel de Morais Santos Costa">
+  <data key="d0">12.992857142857142</data>
 </edge>
 <edge source="Ines de Castro Dutra" target="Priscila Machado Vieira Lima">
   <data key="d0">0.5</data>
 </edge>
-<edge source="Ines de Castro Dutra" target="Vítor Manuel de Morais Santos Costa">
-  <data key="d0">0.14285714285714285</data>
-</edge>
-<edge source="Priscila Machado Vieira Lima" target="Gerson Zaverucha">
-  <data key="d0">0.2</data>
-</edge>
 <edge source="Ana Regina Cavalcanti da Rocha" target="Geraldo Xexéo">
-  <data key="d0">0.2</data>
+  <data key="d0">10.733333333333333</data>
 </edge>
 <edge source="Ana Regina Cavalcanti da Rocha" target="Guilherme Horta Travassos">
-  <data key="d0">0.47619047619047616</data>
+  <data key="d0">43.33333333333333</data>
 </edge>
 <edge source="Ana Regina Cavalcanti da Rocha" target="Cláudia Maria Lima Werner">
   <data key="d0">0.16666666666666666</data>
@@ -298,16 +274,13 @@
   <data key="d0">0.25</data>
 </edge>
 <edge source="Cláudia Maria Lima Werner" target="Guilherme Horta Travassos">
-  <data key="d0">0.7678571428571428</data>
+  <data key="d0">23.01785714285714</data>
 </edge>
 <edge source="Cláudia Maria Lima Werner" target="Gerson Zaverucha">
-  <data key="d0">0.6666666666666666</data>
-</edge>
-<edge source="Cláudia Maria Lima Werner" target="Geraldo Xexéo">
-  <data key="d0">0.2</data>
+  <data key="d0">1.0</data>
 </edge>
 <edge source="Cláudia Maria Lima Werner" target="Toacy Cavalcante de Oliveira">
-  <data key="d0">1.0833333333333333</data>
+  <data key="d0">3.75</data>
 </edge>
 <edge source="Cláudia Maria Lima Werner" target="Henrique Luiz Cukierman">
   <data key="d0">0.14285714285714285</data>
@@ -319,31 +292,37 @@
   <data key="d0">0.3333333333333333</data>
 </edge>
 <edge source="Luis Alfredo Vidal de Carvalho" target="Gerson Zaverucha">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">2.6666666666666665</data>
 </edge>
 <edge source="Luis Alfredo Vidal de Carvalho" target="Geraldo Xexéo">
-  <data key="d0">0.6666666666666666</data>
+  <data key="d0">1.0</data>
 </edge>
 <edge source="Geraldo Xexéo" target="Alexandre A. B. Lima">
   <data key="d0">0.08333333333333333</data>
 </edge>
 <edge source="Geraldo Xexéo" target="Geraldo Zimbrão">
-  <data key="d0">0.6000000000000001</data>
+  <data key="d0">1.85</data>
 </edge>
 <edge source="Celina M. H. de Figueiredo" target="Jayme Luiz Szwarcfiter">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">6.999999999999998</data>
 </edge>
 <edge source="Celina M. H. de Figueiredo" target="Sulamita Klein">
-  <data key="d0">0.2</data>
+  <data key="d0">4.55</data>
 </edge>
 <edge source="Celina M. H. de Figueiredo" target="Franklin L. Marquezino">
   <data key="d0">0.25</data>
 </edge>
 <edge source="Jayme Luiz Szwarcfiter" target="Sulamita Klein">
-  <data key="d0">0.25</data>
+  <data key="d0">6.0</data>
 </edge>
 <edge source="Jayme Luiz Szwarcfiter" target="Márcia R. Cerioli">
-  <data key="d0">1.0</data>
+  <data key="d0">19.83333333333333</data>
+</edge>
+<edge source="Claudio Thomas Bornstein" target="Abilio Lucena">
+  <data key="d0">0.5</data>
+</edge>
+<edge source="Claudio Thomas Bornstein" target="Henrique Luiz Cukierman">
+  <data key="d0">1.583333333333333</data>
 </edge>
 <edge source="Sulamita Klein" target="Márcia R. Cerioli">
   <data key="d0">0.45</data>
@@ -351,76 +330,61 @@
 <edge source="Sulamita Klein" target="Marcia Helena Costa Fampa">
   <data key="d0">0.25</data>
 </edge>
-<edge source="Claudio Thomas Bornstein" target="Abilio Lucena">
-  <data key="d0">0.5</data>
-</edge>
-<edge source="Claudio Thomas Bornstein" target="Henrique Luiz Cukierman">
-  <data key="d0">0.3333333333333333</data>
-</edge>
 <edge source="Geraldo Zimbrão" target="Severino Collier Coutinho">
   <data key="d0">0.5</data>
 </edge>
 <edge source="Geraldo Zimbrão" target="Alexandre A. B. Lima">
-  <data key="d0">0.2222222222222222</data>
-</edge>
-<edge source="Geraldo Zimbrão" target="Toacy Cavalcante de Oliveira">
-  <data key="d0">0.2</data>
+  <data key="d0">0.3333333333333333</data>
 </edge>
 <edge source="Vítor Manuel de Morais Santos Costa" target="Gerson Zaverucha">
-  <data key="d0">0.8333333333333333</data>
+  <data key="d0">4.75</data>
 </edge>
 <edge source="Edmundo de Souza e Silva" target="Rosa Maria Meri Leão">
-  <data key="d0">0.3125</data>
+  <data key="d0">61.46071428571429</data>
 </edge>
 <edge source="Edmundo de Souza e Silva" target="Daniel R. Figueiredo">
-  <data key="d0">0.25</data>
+  <data key="d0">3.5595238095238093</data>
 </edge>
 <edge source="Rosa Maria Meri Leão" target="Daniel R. Figueiredo">
   <data key="d0">0.3333333333333333</data>
 </edge>
 <edge source="Paulo de Figueiredo Pires" target="Flávia Coimbra Delicato">
-  <data key="d0">2.210714285714286</data>
-</edge>
-<edge source="Paulo de Figueiredo Pires" target="José Ferreira de Rezende">
-  <data key="d0">0.25</data>
+  <data key="d0">77.94748029748031</data>
 </edge>
 <edge source="Alexandre A. B. Lima" target="Claudio Esperança">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">1.3333333333333333</data>
 </edge>
 <edge source="Claudio Esperança" target="Paulo Roma Cavalcanti">
-  <data key="d0">0.5</data>
-</edge>
-<edge source="Claudio Esperança" target="Ricardo C. Farias">
-  <data key="d0">0.25</data>
+  <data key="d0">3.7499999999999996</data>
 </edge>
 <edge source="Claudio Esperança" target="Ricardo Marroquim">
-  <data key="d0">0.9166666666666665</data>
+  <data key="d0">3.9999999999999996</data>
 </edge>
-<edge source="Paulo Roma Cavalcanti" target="Ricardo Marroquim">
-  <data key="d0">0.6666666666666666</data>
+<edge source="Claudio Esperança" target="Ricardo C. Farias">
+  <data key="d0">1.1666666666666665</data>
 </edge>
 <edge source="Paulo Roma Cavalcanti" target="Ricardo C. Farias">
   <data key="d0">0.2</data>
 </edge>
+<edge source="Paulo Roma Cavalcanti" target="Ricardo Marroquim">
+  <data key="d0">1.1666666666666665</data>
+</edge>
 <edge source="Marcia Helena Costa Fampa" target="Luidi Simonetti">
-  <data key="d0">0.5</data>
+  <data key="d0">2.1666666666666665</data>
 </edge>
 <edge source="Luís Felipe M. de Moraes" target="José Ferreira de Rezende">
-  <data key="d0">1.0</data>
+  <data key="d0">2.0</data>
 </edge>
 <edge source="Ricardo C. Farias" target="Ricardo Marroquim">
-  <data key="d0">0.25</data>
+  <data key="d0">0.5833333333333333</data>
 </edge>
 <edge source="José Ferreira de Rezende" target="Flávia Coimbra Delicato">
-  <data key="d0">0.8333333333333333</data>
+  <data key="d0">5.166666666666666</data>
 </edge>
 <edge source="José Ferreira de Rezende" target="José Ferreira de Rezende">
-  <data key="d0">1.0769230769230769</data>
+  <data key="d0">41.01025641025641</data>
 </edge>
 <edge source="Abilio Lucena" target="Luidi Simonetti">
-  <data key="d0">1.2499999999999998</data>
-</edge>
-<edge source="Ricardo Marroquim" target="Ricardo Marroquim">
-  <data key="d0">0.45</data>
+  <data key="d0">8.533333333333333</data>
 </edge>
 </graph></graphml>

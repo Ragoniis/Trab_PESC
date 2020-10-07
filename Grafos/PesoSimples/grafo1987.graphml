@@ -26,13 +26,10 @@
   <data key="d0">1</data>
 </edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França">
-  <data key="d0">3</data>
+  <data key="d0">8</data>
 </edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Claudio Luis de Amorim">
   <data key="d0">1</data>
-</edge>
-<edge source="Edil Severiano Tavares Fernandes" target="Valmir Carneiro Barbosa">
-  <data key="d0">2</data>
 </edge>
 <edge source="Claudio Luis de Amorim" target="Valmir Carneiro Barbosa">
   <data key="d0">1</data>

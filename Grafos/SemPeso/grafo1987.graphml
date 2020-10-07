@@ -18,7 +18,6 @@
 <edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso"/>
 <edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França"/>
 <edge source="Edil Severiano Tavares Fernandes" target="Claudio Luis de Amorim"/>
-<edge source="Edil Severiano Tavares Fernandes" target="Valmir Carneiro Barbosa"/>
 <edge source="Claudio Luis de Amorim" target="Valmir Carneiro Barbosa"/>
 <edge source="Jano Moreira de Souza" target="Marta Mattoso"/>
 </graph></graphml>

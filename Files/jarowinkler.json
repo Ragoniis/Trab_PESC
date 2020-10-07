@@ -241,22 +241,6 @@
     ]
   },
   "Adilson Elias Xavier": {
-    "Adilson Elias Xavier": [
-      {
-        "number_coauthors": 5,
-        "title": [
-          "a study on the universal access to vaccines in brazil"
-        ],
-        "year": "2008"
-      },
-      {
-        "number_coauthors": 5,
-        "title": [
-          "a study on the universal access to vaccines in brazil"
-        ],
-        "year": "2009"
-      }
-    ],
     "Antonio Alberto Fernandes de Oliveira": [
       {
         "number_coauthors": 2,
@@ -17209,113 +17193,6 @@
           "hardware-assisted projected tetrahedra"
         ],
         "year": "2010"
-      }
-    ],
-    "Ricardo Guerra Marroquim": [
-      {
-        "number_coauthors": 4,
-        "title": [
-          "texturing 3d models with low geometric features"
-        ],
-        "year": "2011"
-      },
-      {
-        "number_coauthors": 4,
-        "title": [
-          "3d digitalization of scientific instruments ? the case of the bamberg meridian circle"
-        ],
-        "year": "2012"
-      },
-      {
-        "number_coauthors": 3,
-        "title": [
-          "lazy work stealing for continuous hierarchy traversal on deformable bodies"
-        ],
-        "year": "2014"
-      },
-      {
-        "number_coauthors": 5,
-        "title": [
-          "digitising ivory artefacts at the national history museum in brazil"
-        ],
-        "year": "2017"
-      },
-      {
-        "number_coauthors": 5,
-        "title": [
-          "a practical and efficient approach for correct z-pass stencil shadow volumes"
-        ],
-        "year": "2019"
-      },
-      {
-        "number_coauthors": 4,
-        "title": [
-          "what is the reddening effect and does it really exist?"
-        ],
-        "year": "2019"
-      },
-      {
-        "number_coauthors": 5,
-        "title": [
-          "flow-based local optimization for image-to-geometry projection"
-        ],
-        "year": "2012"
-      },
-      {
-        "number_coauthors": 7,
-        "title": [
-          "generation of 3d ultrasound biomicroscopic images: technique validation and in vivo volumetric imaging of rat lateral gastrocnemius"
-        ],
-        "year": "2015"
-      },
-      {
-        "number_coauthors": 5,
-        "title": [
-          "interactive cutaways of oil reservoirs"
-        ],
-        "year": "2016"
-      },
-      {
-        "number_coauthors": 3,
-        "title": [
-          "graph-based interactive volume exploration"
-        ],
-        "year": "2016"
-      },
-      {
-        "number_coauthors": 3,
-        "title": [
-          "dilight: digital light table &#45; inbetweening for 2d animations using guidelines"
-        ],
-        "year": "2017"
-      },
-      {
-        "number_coauthors": 4,
-        "title": [
-          "assisted color acquisition for 3d models"
-        ],
-        "year": "2017"
-      },
-      {
-        "number_coauthors": 3,
-        "title": [
-          "acquisition and validation of spectral ground truth data for predictive rendering of rough surfaces"
-        ],
-        "year": "2018"
-      },
-      {
-        "number_coauthors": 3,
-        "title": [
-          "digitizing 3d historical scientific instruments with laser and photographic technologies"
-        ],
-        "year": "2016"
-      },
-      {
-        "number_coauthors": 3,
-        "title": [
-          "omicron - oblique multipass hierarchy creation while navigating"
-        ],
-        "year": "2019"
       }
     ]
   },

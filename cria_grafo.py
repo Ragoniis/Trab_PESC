@@ -169,9 +169,13 @@ colors ={
 
 #with open('Files/test1234.json', 'w',encoding='utf-8') as json_file:
 #  json.dump(professores_dict, json_file,indent=2,ensure_ascii=False)
-
+n_artigos=[0]*51
+n_vertices = [0]*51
 ano = 1970
 while ano <= 2020:
+    if (ano > 1970):
+        n_artigos[ano-1970] = n_artigos[ano-1970-1]
+    artigos = []
     G1 = nx.Graph(G1) #cria uma copia do proprio grafo, necessario para que alteracoes ocorram so em um grafo
     G2 = nx.Graph(G2) #Peso 1 para cada artigo
     G3 = nx.Graph(G3) #Proporcional à afinidade
@@ -181,25 +185,42 @@ while ano <= 2020:
             dinamic_count = 0
             for i in range(len(professores_dict[professor][colaborador])):
                 if (professores_dict[professor][colaborador][i]['year'] == str(ano)):
-                    G1.add_edge(professor, colaborador)
-                #elif(int(professores_dict[professor][colaborador][i]['year']) <= ano):
-                    count+=1
-                    dinamic_count+= 1/professores_dict[professor][colaborador][i]['number_coauthors']
+                    if (professores_dict[professor][colaborador][i]['title']) not in artigos:
+
+                        artigos.append(professores_dict[professor][colaborador][i]['title'])
+                        n_artigos[ano-1970] += 1 
+
+                        count+=1
+                        dinamic_count+= 1/professores_dict[professor][colaborador][i]['number_coauthors']
+                        if(G2.has_edge(professor, colaborador)):
+                            G2[professor][colaborador]['weight'] = G2[professor][colaborador]['weight'] + count
+                            G3[professor][colaborador]['weight'] = G3[professor][colaborador]['weight'] + dinamic_count
+                        else:
+                            G2.add_edge(professor, colaborador,weight=count)
+                            G3.add_edge(professor, colaborador,weight=dinamic_count)
+
+                        G1.add_edge(professor, colaborador)
+
+
                     
-            if(count>0):
-                G2.add_edge(professor, colaborador,weight=count)
-                G3.add_edge(professor, colaborador,weight=dinamic_count)
+                #elif(int(professores_dict[professor][colaborador][i]['year']) <= ano):
+                    
+
+
+
     lista_grafos_1.append(G1)
     lista_grafos_2.append(G2)
     lista_grafos_3.append(G3)
-    edges = G2.edges()
-    print([G2[u][v]['weight'] for u,v in edges])
-    weights = [G2[u][v]['weight']*10 for u,v in edges]
+
+    n_vertices[ano-1970] = G1.number_of_nodes()
+    #n_artigos[ano-1970] = sum([G2[u][v]['weight'] for u,v in edges]) / 2
+    #weights = [G2[u][v]['weight']*10 for u,v in edges]
+    print(ano)
     ano += 1 
 
-print(len(lista_grafos_1))
-print("Excentridade Ratton: "+ str(nx.eccentricity(G1, "Daniel R. Figueiredo")))
-print("Diametro do grafo: "+str(nx.diameter(G1)))
+print(n_artigos)
+#print("Excentridade Ratton: "+ str(nx.eccentricity(G1, "Daniel R. Figueiredo")))
+#print("Diametro do grafo: "+str(nx.diameter(G1)))
 
 def closureBecauseNX(G):
     Graph = G
@@ -217,6 +238,25 @@ elif(list_number == 2):
     real_graph_list = lista_grafos_2	
 else:
     real_graph_list = lista_grafos_3
+
+
+anos=range(1970, 2021)
+fig, ax1 = plt.subplots()
+
+color='tab:blue'
+ax1.set_xlabel('Ano')
+ax1.set_ylabel('Vértices')
+ax1.plot (anos, n_vertices, color=color)
+ax1.tick_params(axis='y', labelcolor=color)
+
+ax2 = ax1.twinx()  
+color='tab:red'
+ax2.set_ylabel('Artigos')
+ax2.plot (anos, n_artigos, color=color)
+ax2.tick_params(axis='y', labelcolor=color)
+
+fig.tight_layout
+plt.show()
 
 i=0
 while i<=50:
