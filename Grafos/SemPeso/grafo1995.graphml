@@ -16,14 +16,14 @@
 <node id="Priscila Machado Vieira Lima"/>
 <node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Cláudia Maria Lima Werner"/>
+<node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Guilherme Horta Travassos"/>
 <node id="Luis Alfredo Vidal de Carvalho"/>
 <node id="Geraldo Xexéo"/>
 <node id="Celina M. H. de Figueiredo"/>
 <node id="Jayme Luiz Szwarcfiter"/>
-<node id="Claudio Thomas Bornstein"/>
 <node id="Sulamita Klein"/>
-<node id="Eliseu Monteiro Chaves Filho"/>
+<node id="Claudio Thomas Bornstein"/>
 <node id="Geraldo Zimbrão"/>
 <node id="Severino Collier Coutinho"/>
 <node id="Vítor Manuel de Morais Santos Costa"/>
@@ -52,12 +52,14 @@
 <edge source="Jano Moreira de Souza" target="Geraldo Zimbrão"/>
 <edge source="Marta Mattoso" target="Ana Regina Cavalcanti da Rocha"/>
 <edge source="Marta Mattoso" target="Geraldo Zimbrão"/>
+<edge source="Ines de Castro Dutra" target="Priscila Machado Vieira Lima"/>
 <edge source="Ines de Castro Dutra" target="Vítor Manuel de Morais Santos Costa"/>
 <edge source="Ana Regina Cavalcanti da Rocha" target="Geraldo Xexéo"/>
 <edge source="Cláudia Maria Lima Werner" target="Guilherme Horta Travassos"/>
 <edge source="Luis Alfredo Vidal de Carvalho" target="Claudio Thomas Bornstein"/>
 <edge source="Luis Alfredo Vidal de Carvalho" target="Gerson Zaverucha"/>
 <edge source="Celina M. H. de Figueiredo" target="Jayme Luiz Szwarcfiter"/>
+<edge source="Celina M. H. de Figueiredo" target="Sulamita Klein"/>
 <edge source="Jayme Luiz Szwarcfiter" target="Sulamita Klein"/>
 <edge source="Sulamita Klein" target="Márcia R. Cerioli"/>
 <edge source="Geraldo Zimbrão" target="Severino Collier Coutinho"/>

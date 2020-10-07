@@ -20,10 +20,12 @@
 <edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso"/>
 <edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França"/>
 <edge source="Edil Severiano Tavares Fernandes" target="Claudio Luis de Amorim"/>
+<edge source="Edil Severiano Tavares Fernandes" target="Valmir Carneiro Barbosa"/>
 <edge source="Felipe M. G. França" target="Valmir Carneiro Barbosa"/>
 <edge source="Claudio Luis de Amorim" target="Valmir Carneiro Barbosa"/>
 <edge source="Claudio Luis de Amorim" target="Ines de Castro Dutra"/>
 <edge source="Claudio Luis de Amorim" target="Priscila Machado Vieira Lima"/>
 <edge source="Valmir Carneiro Barbosa" target="Priscila Machado Vieira Lima"/>
 <edge source="Jano Moreira de Souza" target="Marta Mattoso"/>
+<edge source="Ines de Castro Dutra" target="Priscila Machado Vieira Lima"/>
 </graph></graphml>

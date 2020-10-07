@@ -188,18 +188,19 @@ while ano <= 2020:
                     if (professores_dict[professor][colaborador][i]['title']) not in artigos:
 
                         artigos.append(professores_dict[professor][colaborador][i]['title'])
+
                         n_artigos[ano-1970] += 1 
 
-                        count+=1
-                        dinamic_count+= 1/professores_dict[professor][colaborador][i]['number_coauthors']
-                        if(G2.has_edge(professor, colaborador)):
-                            G2[professor][colaborador]['weight'] = G2[professor][colaborador]['weight'] + count
-                            G3[professor][colaborador]['weight'] = G3[professor][colaborador]['weight'] + dinamic_count
-                        else:
-                            G2.add_edge(professor, colaborador,weight=count)
-                            G3.add_edge(professor, colaborador,weight=dinamic_count)
+                    count+=1
+                    dinamic_count+= 1/professores_dict[professor][colaborador][i]['number_coauthors']
+                    if(G2.has_edge(professor, colaborador)):
+                        G2[professor][colaborador]['weight'] = G2[professor][colaborador]['weight'] + count
+                        G3[professor][colaborador]['weight'] = G3[professor][colaborador]['weight'] + dinamic_count
+                    else:
+                        G2.add_edge(professor, colaborador,weight=count)
+                        G3.add_edge(professor, colaborador,weight=dinamic_count)
 
-                        G1.add_edge(professor, colaborador)
+                    G1.add_edge(professor, colaborador)
 
 
                     

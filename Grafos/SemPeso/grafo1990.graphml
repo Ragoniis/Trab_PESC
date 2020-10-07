@@ -16,6 +16,7 @@
 <node id="Priscila Machado Vieira Lima"/>
 <node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Cláudia Maria Lima Werner"/>
+<node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Guilherme Horta Travassos"/>
 <node id="Luis Alfredo Vidal de Carvalho"/>
 <node id="Geraldo Xexéo"/>
@@ -25,6 +26,8 @@
 <edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso"/>
 <edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França"/>
 <edge source="Edil Severiano Tavares Fernandes" target="Claudio Luis de Amorim"/>
+<edge source="Edil Severiano Tavares Fernandes" target="Valmir Carneiro Barbosa"/>
+<edge source="Edil Severiano Tavares Fernandes" target="Eliseu Monteiro Chaves Filho"/>
 <edge source="Felipe M. G. França" target="Valmir Carneiro Barbosa"/>
 <edge source="Claudio Luis de Amorim" target="Valmir Carneiro Barbosa"/>
 <edge source="Claudio Luis de Amorim" target="Ines de Castro Dutra"/>
@@ -36,5 +39,6 @@
 <edge source="Jano Moreira de Souza" target="Guilherme Horta Travassos"/>
 <edge source="Jano Moreira de Souza" target="Geraldo Xexéo"/>
 <edge source="Marta Mattoso" target="Ana Regina Cavalcanti da Rocha"/>
+<edge source="Ines de Castro Dutra" target="Priscila Machado Vieira Lima"/>
 <edge source="Ana Regina Cavalcanti da Rocha" target="Geraldo Xexéo"/>
 </graph></graphml>

@@ -5,9 +5,9 @@
 <node id="P. Roberto Oliveira"/>
 <node id="Susana Scheimberg"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">0.6666666666666666</data>
 </edge>
 <edge source="P. Roberto Oliveira" target="Susana Scheimberg">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">0.6666666666666666</data>
 </edge>
 </graph></graphml>

@@ -7,12 +7,12 @@
 <node id="Paulo A. S. Veloso"/>
 <node id="Sheila Regina Murgel Veloso"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan">
-  <data key="d0">1</data>
+  <data key="d0">2</data>
 </edge>
 <edge source="P. Roberto Oliveira" target="Susana Scheimberg">
-  <data key="d0">1</data>
+  <data key="d0">2</data>
 </edge>
 <edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso">
-  <data key="d0">1</data>
+  <data key="d0">2</data>
 </edge>
 </graph></graphml>

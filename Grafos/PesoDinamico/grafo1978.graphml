@@ -3,6 +3,6 @@
 <graph edgedefault="undirected"><node id="Antonio Alberto Fernandes de Oliveira"/>
 <node id="Nelson Maculan"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan">
-  <data key="d0">0.3333333333333333</data>
+  <data key="d0">0.6666666666666666</data>
 </edge>
 </graph></graphml>

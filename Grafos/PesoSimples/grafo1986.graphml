@@ -10,18 +10,18 @@
 <node id="Felipe M. G. França"/>
 <node id="Adilson Elias Xavier"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan">
-  <data key="d0">1</data>
+  <data key="d0">2</data>
 </edge>
 <edge source="Nelson Maculan" target="Adilson Elias Xavier">
-  <data key="d0">1</data>
+  <data key="d0">2</data>
 </edge>
 <edge source="P. Roberto Oliveira" target="Susana Scheimberg">
-  <data key="d0">1</data>
+  <data key="d0">2</data>
 </edge>
 <edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso">
-  <data key="d0">1</data>
+  <data key="d0">2</data>
 </edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França">
-  <data key="d0">2</data>
+  <data key="d0">4</data>
 </edge>
 </graph></graphml>
