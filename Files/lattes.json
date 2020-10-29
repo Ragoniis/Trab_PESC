@@ -15807,7 +15807,6 @@
     },
     "qnames": [
       "FIGUEIREDO",
-      "Celina M H de Figueiredo",
       " C. M. H.;DE FIGUEIREDO",
       " CELINA M.H.;DE FIGUEIREDO",
       " C.M.H.;DE FIGUEIREDO",
@@ -15826,6 +15825,457 @@
       " CELINA M.H.;DE FIGUEIREDO",
       " C. M. H.;De Figueiredo",
       " C."
+    ]
+  },
+  "Celso de Renna e Souza": {
+    "edges": {
+      "A Feliciano Neto": [
+        {
+          "ano": "1982",
+          "article": "UM SISTEMA INTERATIVO PARA GERÊNCIA DE PROJETOS ",
+          "number_coauthors": 3
+        }
+      ],
+      "C A Oliveira": [
+        {
+          "ano": "1990",
+          "article": "IDEAL - UMA INTERFACE DIALÓGICA EM LINGUAGM NATURAL PARA SISTEMAS ESPECIALISTAS ",
+          "number_coauthors": 2
+        }
+      ],
+      "C Castro Cesar": [
+        {
+          "ano": "1999",
+          "article": "AN EXPERT SYSTEM FOR PRO-ACTIVE COMPUTER NETWORK MANAGEMENT ",
+          "number_coauthors": 2
+        }
+      ],
+      "C L SANTOS": [
+        {
+          "ano": "2001",
+          "article": "THREE CASE STUDIES OF THE GASNET MODEL IN DISCRETE DOMAINS ",
+          "number_coauthors": 4
+        }
+      ],
+      "C T Fernandes": [
+        {
+          "ano": "1997",
+          "article": "TUTORES INTELIGENTES: UMA PROPOSTA DE ARQUITETURA COOPERATIVA",
+          "number_coauthors": 4
+        }
+      ],
+      "Cinthyan Renata Sachs Camerlengo de Barbosa": [
+        {
+          "ano": "2001",
+          "article": "Defining a Grammar for Natural Language Interfaces to Radiological Databases",
+          "number_coauthors": 3
+        }
+      ],
+      "D Dal Bianco": [
+        {
+          "ano": "1982",
+          "article": "MODELLING UBAN SPATIAL STRUCTURE IN DELOPING COUNTRIES ",
+          "number_coauthors": 4
+        }
+      ],
+      "F A Correia": [
+        {
+          "ano": "1990",
+          "article": "SIMULADOR DE BAIXO CUSTO PARA CONTROLE LOCAL DE AERODROMO APOIADO POR MICROCOMPUTADOR",
+          "number_coauthors": 2
+        }
+      ],
+      "F B C VIOLA": [
+        {
+          "ano": "1980",
+          "article": "APLICAÇÃO DE UMA LINGUAGEM DE ALTO NÍVEL PARA PROGRAMAÇÃO DE PROCESSOS CONCORRENTES EM MICROCOMPUTADORES ",
+          "number_coauthors": 2
+        }
+      ],
+      "F D VELASCO": [
+        {
+          "ano": "1978",
+          "article": "ALGORITMOS RAPIDOS DE CLASSIFICAÇÃO DE IMAGENS MULTIESPECTRAIS ",
+          "number_coauthors": 2
+        }
+      ],
+      "F E C Viola": [
+        {
+          "ano": "1981",
+          "article": "LANAC-UMA LINGUAGEM DE ALTO NIVEL PARA AQUISIÇÃO DE DADOS E CONTROLE DE PROCESSOS ",
+          "number_coauthors": 3
+        }
+      ],
+      "F R D Velasco": [
+        {
+          "ano": "1973",
+          "article": "SEQUENTIAL SYNTATICAL DECODING ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1970",
+          "article": "Modelling ",
+          "number_coauthors": 1
+        }
+      ],
+      "F Velasco": [
+        {
+          "ano": "1981",
+          "article": "BANCO DE DADOS RELACIONAL PARA COMPUTADORES BURROGHS ",
+          "number_coauthors": 5
+        }
+      ],
+      "G J Erthal": [
+        {
+          "ano": "1982",
+          "article": "FORMATAÇÃO, COMPRESSÃO E PROCESSAMENTO DE IMAGENS LANDSAT NO COMPUTDOR BURROUGHS B 6800 ",
+          "number_coauthors": 3
+        }
+      ],
+      "GUERRA P C P": [
+        {
+          "ano": "1980",
+          "article": "BANCO DE DADOS RELACIONAL PARA COMPUTADORES B-6000",
+          "number_coauthors": 2
+        }
+      ],
+      "H G V Santos": [
+        {
+          "ano": "1980",
+          "article": "UMA LINGUAGEM DE SIMULAÇÃO DE SISTEMAS DINÂMICAS ",
+          "number_coauthors": 3
+        }
+      ],
+      "H G V Santos Borges": [
+        {
+          "ano": "1982",
+          "article": "UM SISTEMA INTERATIVO PARA GERÊNCIA DE PROJETOS ",
+          "number_coauthors": 3
+        }
+      ],
+      "I Vitorello": [
+        {
+          "ano": "1982",
+          "article": "POTENCIAL DO INPE/CNPq EM AQUISIÇAO E TRATAMENTO DE DADOS GEOLÓGICOS E GEOGRÁFICOS",
+          "number_coauthors": 2
+        }
+      ],
+      "J L Oliveira": [
+        {
+          "ano": "1981",
+          "article": "UMA APLICAÇÃO DO PROCEDIMENTO ALFA-BETA E JOGOS DIFERENCIAIS ",
+          "number_coauthors": 3
+        }
+      ],
+      "J M V de Castilho": [
+        {
+          "ano": "2001",
+          "article": "Defining a Grammar for Natural Language Interfaces to Radiological Databases",
+          "number_coauthors": 3
+        }
+      ],
+      "J O N Oliveira": [
+        {
+          "ano": "1981",
+          "article": "BANCO DE DADOS RELACIONAL PARA COMPUTADORES BURROGHS ",
+          "number_coauthors": 5
+        }
+      ],
+      "L A Vieira Dias": [
+        {
+          "ano": "1984",
+          "article": "A Simbiose entr Pós-Graduação e Projetos de Pesquisa: Uma Experiência bem Sucedida",
+          "number_coauthors": 2
+        }
+      ],
+      "L J Nave da Silva": [
+        {
+          "ano": "1982",
+          "article": "LANAC - UMA EXPERIENCIA NO DESENVOLVIMENTO DE UMA LINGUAGEM PARA CONTROLE DE PROCESSOS",
+          "number_coauthors": 3
+        }
+      ],
+      "M D CILLETTI": [
+        {
+          "ano": "1966",
+          "article": "LOCALLY OPTIMUM DIFFERENTIAL GAMES ",
+          "number_coauthors": 2
+        }
+      ],
+      "M G B MARIETTO": [
+        {
+          "ano": "1999",
+          "article": "SISTEMAS MULTI-AGENTES REATIVOS E COOPERAÇÃO: UM ESTUDO DE CASOS",
+          "number_coauthors": 4
+        }
+      ],
+      "M K SAIN": [
+        {
+          "ano": "1966",
+          "article": "A PROJECTION PRINCIPLE FOR MINIMUM VARIANCE",
+          "number_coauthors": 2
+        }
+      ],
+      "M S S  Barros": [
+        {
+          "ano": "1980",
+          "article": "UMA LINGUAGEM DE SIMULAÇÃO DE SISTEMAS DINÂMICAS ",
+          "number_coauthors": 3
+        }
+      ],
+      "M S Santiago Barros": [
+        {
+          "ano": "1982",
+          "article": "MODELLING UBAN SPATIAL STRUCTURE IN DELOPING COUNTRIES ",
+          "number_coauthors": 4
+        }
+      ],
+      "N Omar": [
+        {
+          "ano": "1997",
+          "article": "TUTORES INTELIGENTES: UMA PROPOSTA DE ARQUITETURA COOPERATIVA",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "1997",
+          "article": "UM MODELO PARA O MÓDULO DE DOMÍNIO EM SISTEMAS TUTORES INTELIGENTES",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1999",
+          "article": "SISTEMAS MULTI-AGENTES REATIVOS E COOPERAÇÃO: UM ESTUDO DE CASOS",
+          "number_coauthors": 4
+        }
+      ],
+      "N R Dias": [
+        {
+          "ano": "1970",
+          "article": "Modelling ",
+          "number_coauthors": 1
+        }
+      ],
+      "O Bueno Netto Jr": [
+        {
+          "ano": "1982",
+          "article": "MODELLING UBAN SPATIAL STRUCTURE IN DELOPING COUNTRIES ",
+          "number_coauthors": 4
+        }
+      ],
+      "O N Oliveira": [
+        {
+          "ano": "1981",
+          "article": "BANCO DE DADOS RELACIONAL PARA COMPUTADORES BURROGHS ",
+          "number_coauthors": 5
+        }
+      ],
+      "O O Silva": [
+        {
+          "ano": "1981",
+          "article": "INFERENCI NEBULOSA APPLICADA A PREVISÃO DE SAFIRAS ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1981",
+          "article": "INFERÊNCIA NEBULOSA USANDO-SE O MODUS PONENS MODIFICADO",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1982",
+          "article": "FORMATAÇÃO, COMPRESSÃO E PROCESSAMENTO DE IMAGENS LANDSAT NO COMPUTDOR BURROUGHS B 6800 ",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1982",
+          "article": "CHANGING THE FUZZY RULE OF DATACHMENT ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1983",
+          "article": "TUTORIAL: CONJUNTOS NEBULOSOS E APLICAÇÕES ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1984",
+          "article": "INDUÇÃO DE REGRAS DE DECISÃO NEBULOSAS",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1990",
+          "article": "INDUCTION OF FUZZY PRODUCTION RULES ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1990",
+          "article": "INFERENCIA NEBULOSA USANDO REGRESSAO LINEAR E MODUS PONENS NEBULOSO",
+          "number_coauthors": 2
+        }
+      ],
+      "P C P Guerra": [
+        {
+          "ano": "1981",
+          "article": "BANCO DE DADOS RELACIONAL PARA COMPUTADORES BURROGHS ",
+          "number_coauthors": 5
+        }
+      ],
+      "P HUSBANDS": [
+        {
+          "ano": "2001",
+          "article": "THREE CASE STUDIES OF THE GASNET MODEL IN DISCRETE DOMAINS ",
+          "number_coauthors": 4
+        }
+      ],
+      "P O SIMONI": [
+        {
+          "ano": "1983",
+          "article": "ANÁLISE DE CENAS ATRAVÉS DE CONHECIMENTO ARMAZENADO EM REDES ASSOCIATIVAS",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1983",
+          "article": "A LINGUAGEM LANAC II PARA PROGRAMAÇÃO CONCORRENTE E SEU SUPORTE OPERACIONAL ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1984",
+          "article": "PESQUISA SOBRE ANÁLISE DE CENAS E REPRESENTÇÕES DE CONHECIMENTO ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1985",
+          "article": "ENCADEAMENTO RETROATIVO E PROGRESSIVO DE REGRAS DE DECISÃO NUM SISTEMA DE REPRESENTAÇÃO POR REDES ASSOCIATIVAS ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1986",
+          "article": "EMPREGO DE UM MODELO DE REDE ASSOCIATIVA NA ANÁLISE DE CENAS",
+          "number_coauthors": 2
+        }
+      ],
+      "P P OLIVEIRA": [
+        {
+          "ano": "2001",
+          "article": "THREE CASE STUDIES OF THE GASNET MODEL IN DISCRETE DOMAINS ",
+          "number_coauthors": 4
+        }
+      ],
+      "P Simoni": [
+        {
+          "ano": "1981",
+          "article": "UMA APLICAÇÃO DO PROCEDIMENTO ALFA-BETA E JOGOS DIFERENCIAIS ",
+          "number_coauthors": 3
+        }
+      ],
+      "Pedro Paulo de Oliveira Balbi": [
+        {
+          "ano": "1988",
+          "article": "GERAÇÃO DE MODELOS DE REGRAS DE DECISÃO: UMA ABORDAGEM CENTRADA NA APRENDIZAGEM INDUTIVA",
+          "number_coauthors": 2
+        }
+      ],
+      "R J LEAKE": [
+        {
+          "ano": "1967",
+          "article": "STOCHASTIC FINITE-STATE SYSTEM: FOUR MODELS AND THEIR RELATIONSHIPS",
+          "number_coauthors": 2
+        }
+      ],
+      "R O Alves": [
+        {
+          "ano": "1997",
+          "article": "TUTORES INTELIGENTES: UMA PROPOSTA DE ARQUITETURA COOPERATIVA",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "1997",
+          "article": "UM MODELO PARA O MÓDULO DE DOMÍNIO EM SISTEMAS TUTORES INTELIGENTES",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1999",
+          "article": "A METHOD FOR CONSTRUCTION AND DOCUMENTATION OF EXPERT SYSTEMS",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1999",
+          "article": "A PROTOTYPE OF AN EXPERT SYSTEM FOR SUPPORT TO THE OPERATION AND MAINTENANCE OF OILI S 1000 BALLAST MONISTORS FOR OIL TANKERS",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1996",
+          "article": "Um Protótipo de Sistema Especialista para Suporte à Operação e Manutenção do Monitor de Lastro OILI S 1000 de Navios Petroleiros ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1997",
+          "article": "Tutores Inteligentes: Uma Proposta de Arquitetura Cooperativa",
+          "number_coauthors": 2
+        }
+      ],
+      "R Saeks": [
+        {
+          "ano": "1971",
+          "article": "ON ASYMPTOTIC SYSTEM THEORY: AN APPROACH TO SOME LARGE-SCALE SYSTEMS",
+          "number_coauthors": 2
+        }
+      ],
+      "R Scholtz": [
+        {
+          "ano": "1970",
+          "article": "PROBABILISTIC GENERATION, TRANSMISSION AND SYNTACTICAL DECODING OF CONTEXT-FREE POROGRAMMED LANGUAGES",
+          "number_coauthors": 2
+        }
+      ],
+      "S D Fischer": [
+        {
+          "ano": "1981",
+          "article": "LANAC-UMA LINGUAGEM DE ALTO NIVEL PARA AQUISIÇÃO DE DADOS E CONTROLE DE PROCESSOS ",
+          "number_coauthors": 3
+        }
+      ],
+      "S D Fisher": [
+        {
+          "ano": "1982",
+          "article": "LANAC - UMA EXPERIENCIA NO DESENVOLVIMENTO DE UMA LINGUAGEM PARA CONTROLE DE PROCESSOS",
+          "number_coauthors": 3
+        }
+      ],
+      "S P Toledo": [
+        {
+          "ano": "1994",
+          "article": "SISTEMA ESPECIALISTA PARA AUXILIO AO GERANCIAMENTO DE SUBESTAÇÃO DERIVADORAS ",
+          "number_coauthors": 2
+        }
+      ],
+      "V Lima": [
+        {
+          "ano": "1970",
+          "article": "Modelling ",
+          "number_coauthors": 1
+        }
+      ],
+      "V l Silva": [
+        {
+          "ano": "1999",
+          "article": "SISTEMAS MULTI-AGENTES REATIVOS E COOPERAÇÃO: UM ESTUDO DE CASOS",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "1999",
+          "article": "A METHOD FOR CONSTRUCTION AND DOCUMENTATION OF EXPERT SYSTEMS",
+          "number_coauthors": 3
+        }
+      ],
+      "Vera Lucia da Silva": [
+        {
+          "ano": "2000",
+          "article": "Sistemas Especialistas Hierárquicos e Distribuídos",
+          "number_coauthors": 2
+        }
+      ]
+    },
+    "qnames": [
+      "SOUZA",
+      " C. R."
     ]
   },
   "Claudia Maria Lima Werner": {
@@ -24910,6 +25360,1569 @@
       " C."
     ]
   },
+  "Claudio Miceli de Farias": {
+    "edges": {
+      "A. A. da Silveira Ramos": [
+        {
+          "ano": "2019",
+          "article": "Modeling Sparse Data as Input for Weightless Neural Network",
+          "number_coauthors": 5
+        }
+      ],
+      "A. Rodrigues, Paulo Henrique": [
+        {
+          "ano": "2012",
+          "article": "Intrusion Detection System for Wireless Sensor Networks Using Danger Theory Immune-Inspired Techniques",
+          "number_coauthors": 9
+        }
+      ],
+      "ALVES, MAICON MELO": [
+        {
+          "ano": "2017",
+          "article": "Damage prediction for wind turbines using wireless sensor and actuator networks",
+          "number_coauthors": 8
+        }
+      ],
+      "Anderson Alves de Albuquerque": [
+        {
+          "ano": "2007",
+          "article": "Balanceamento de Chamadas E.164 VoIP com Controles Centralizado e Distribuído",
+          "number_coauthors": 4
+        }
+      ],
+      "Aquino, Gabriel": [
+        {
+          "ano": "2019",
+          "article": "A Data Fusion Algorithm for Multiple Applications in Wireless Sensor Networks",
+          "number_coauthors": 5
+        }
+      ],
+      "Augusto Santos": [
+        {
+          "ano": "2014",
+          "article": "Web2Compile: Uma Web IDE para Redes de Sensores sem Fio",
+          "number_coauthors": 7
+        }
+      ],
+      "BATISTA, THAIS": [
+        {
+          "ano": "2011",
+          "article": "Model-Driven Development of Wireless Sensor Network Applications",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2017",
+          "article": "COMFIT: A development environment for the Internet of Things",
+          "number_coauthors": 9
+        }
+      ],
+      "BAYONA, CRISTIHIAN": [
+        {
+          "ano": "2019",
+          "article": "Using agrometeorological data to assist irrigation management in oil palm crops: A decision support method and results from crop model simulation",
+          "number_coauthors": 4
+        }
+      ],
+      "BOCCARDO, DAVIDSON": [
+        {
+          "ano": "2014",
+          "article": "TinyWatermark: A Code Obfuscation-based Software Watermarking Framework for Wireless Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2015",
+          "article": "DYSSS: A Dynamic and Context-Aware Security System for Shared Sensor Networks",
+          "number_coauthors": 8
+        }
+      ],
+      "BOCCARDO, DAVIDSON R.": [
+        {
+          "ano": "2015",
+          "article": "SensorWatermark: a scheme of software watermark using code obfuscation and tamperproofing for WSN",
+          "number_coauthors": 6
+        }
+      ],
+      "BRITO, ITALO C.": [
+        {
+          "ano": "2017",
+          "article": "COMFIT: A development environment for the Internet of Things",
+          "number_coauthors": 9
+        },
+        {
+          "ano": "2015",
+          "article": "Web2Compile-CoT: A Web IDE for the Cloud of Things",
+          "number_coauthors": 8
+        }
+      ],
+      "Beatriz Andrade Campos": [
+        {
+          "ano": "2019",
+          "article": "Using Trusted Networks to Detect Anomaly Nodes in Internet of Things",
+          "number_coauthors": 3
+        }
+      ],
+      "CABRERA CRUZ, JOSÉ DANIEL": [
+        {
+          "ano": "2019",
+          "article": "Using agrometeorological data to assist irrigation management in oil palm crops: A decision support method and results from crop model simulation",
+          "number_coauthors": 4
+        }
+      ],
+      "CARMO, LUIZ F. R. C.": [
+        {
+          "ano": "2016",
+          "article": "Encouraging Renewable Energy Consumption Through Dynamic Pricing.",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "2014",
+          "article": "TinyWatermark: A Code Obfuscation-based Software Watermarking Framework for Wireless Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2014",
+          "article": "Multisensor Data Fusion in Shared Sensor and Actuator Networks",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2019",
+          "article": "Using Trusted Networks to Detect Anomaly Nodes in Internet of Things",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2015",
+          "article": "DYSSS: A Dynamic and Context-Aware Security System for Shared Sensor Networks",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2015",
+          "article": "Web2Compile-CoT: A Web IDE for the Cloud of Things",
+          "number_coauthors": 8
+        }
+      ],
+      "CARMO, LUIZ F. R. DA C.": [
+        {
+          "ano": "2015",
+          "article": "SensorWatermark: a scheme of software watermark using code obfuscation and tamperproofing for WSN",
+          "number_coauthors": 6
+        }
+      ],
+      "CARMO, LUIZ F.R.C.": [
+        {
+          "ano": "2013",
+          "article": "A Control and Decision System for Smart Buildings",
+          "number_coauthors": 6
+        }
+      ],
+      "CARMO, LUIZ FERNANDO": [
+        {
+          "ano": "2014",
+          "article": "A control and decision system for smart buildings using wireless sensor and actuator networks",
+          "number_coauthors": 9
+        }
+      ],
+      "CAUTERUCCIO, FRANCESCO": [
+        {
+          "ano": "2017",
+          "article": "A multisensor data fusion algorithm using the hidden correlations in Multiapplication Wireless Sensor data streams",
+          "number_coauthors": 8
+        }
+      ],
+      "COIMBRA DELICATO, FLAVIA": [
+        {
+          "ano": "2018",
+          "article": "Density Based Multisensor Data Fusion for Multiapplication Wireless Sensor Networks",
+          "number_coauthors": 3
+        }
+      ],
+      "COSTA, RAFAEL DE O.": [
+        {
+          "ano": "2015",
+          "article": "SensorWatermark: a scheme of software watermark using code obfuscation and tamperproofing for WSN",
+          "number_coauthors": 6
+        }
+      ],
+      "CULMAN, MARÍA": [
+        {
+          "ano": "2019",
+          "article": "Using agrometeorological data to assist irrigation management in oil palm crops: A decision support method and results from crop model simulation",
+          "number_coauthors": 4
+        }
+      ],
+      "Carmo, Luiz F.R.C.": [
+        {
+          "ano": "2017",
+          "article": "COMFIT: A development environment for the Internet of Things",
+          "number_coauthors": 9
+        }
+      ],
+      "Costa Carmo, Luiz Fernando R.": [
+        {
+          "ano": "2012",
+          "article": "Intrusion Detection System for Wireless Sensor Networks Using Danger Theory Immune-Inspired Techniques",
+          "number_coauthors": 9
+        }
+      ],
+      "Costa, Rafael O.": [
+        {
+          "ano": "2014",
+          "article": "DISSN: A Dynamic Intrusion Detection System for Shared Sensor Networks",
+          "number_coauthors": 4
+        }
+      ],
+      "Cristovao F. Iglesias Junior": [
+        {
+          "ano": "2019",
+          "article": "A Domain Model for Personalized Monitoring System Based on Context-Aware Data Fusion",
+          "number_coauthors": 3
+        }
+      ],
+      "D P S Silva": [
+        {
+          "ano": "2019",
+          "article": "A Domain Model for Personalized Monitoring System Based on Context-Aware Data Fusion",
+          "number_coauthors": 3
+        }
+      ],
+      "DANTAS, PRISCILLA": [
+        {
+          "ano": "2011",
+          "article": "Model-Driven Development of Wireless Sensor Network Applications",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2012",
+          "article": "A Model-Based Approach for Building Ubiquitous Applications Based on Wireless Sensor Network",
+          "number_coauthors": 8
+        }
+      ],
+      "DE ANDRADE CAMPOS, B.": [
+        {
+          "ano": "2018",
+          "article": "Utilização de Redes de Confiança para Detecção de Anomalias em RSSF",
+          "number_coauthors": 3
+        }
+      ],
+      "DE L. F. JORGE, EMANUELE N.": [
+        {
+          "ano": "2017",
+          "article": "GROWN",
+          "number_coauthors": 8
+        }
+      ],
+      "DE SOUZA, JOSE N": [
+        {
+          "ano": "2013",
+          "article": "A scheduling algorithm for shared sensor and actuator networks",
+          "number_coauthors": 6
+        }
+      ],
+      "DE SOUZA, JOSÉ": [
+        {
+          "ano": "2014",
+          "article": "A control and decision system for smart buildings using wireless sensor and actuator networks",
+          "number_coauthors": 9
+        }
+      ],
+      "DELICATO, FLAVIA C.": [
+        {
+          "ano": "2013",
+          "article": "A scheduling algorithm for shared sensor and actuator networks",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2013",
+          "article": "A Control and Decision System for Smart Buildings",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2015",
+          "article": "THESEUS: A Routing System for Shared Sensor Networks",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2017",
+          "article": "A multisensor data fusion algorithm using the hidden correlations in Multiapplication Wireless Sensor data streams",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2017",
+          "article": "Damage prediction for wind turbines using wireless sensor and actuator networks",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2019",
+          "article": "Zeus: A resource allocation algorithm for the cloud of sensors",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2013",
+          "article": "Challenges in the use of wireless sensor networks for monitoring the health of civil structures",
+          "number_coauthors": 4
+        }
+      ],
+      "DELICATO, FLAVIA COIMBRA": [
+        {
+          "ano": "2012",
+          "article": "Information fusion techniques applied to Shared Sensor and Actuator Networks",
+          "number_coauthors": 5
+        }
+      ],
+      "DELICATO, FL´VIA C.": [
+        {
+          "ano": "2011",
+          "article": "Model-Driven Development of Wireless Sensor Network Applications",
+          "number_coauthors": 8
+        }
+      ],
+      "DELICATO, FLÁVIA": [
+        {
+          "ano": "2014",
+          "article": "Multisensor Data Fusion in Shared Sensor and Actuator Networks",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2016",
+          "article": "HEPHAESTUS: A Multisensor Data Fusion Algorithm for Multiple Applications on Wireless Sensor Networks",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "2014",
+          "article": "A control and decision system for smart buildings using wireless sensor and actuator networks",
+          "number_coauthors": 9
+        }
+      ],
+      "DELICATO, FLÁVIA C.": [
+        {
+          "ano": "2017",
+          "article": "GROWN",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2015",
+          "article": "DYSSS: A Dynamic and Context-Aware Security System for Shared Sensor Networks",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2019",
+          "article": "A Data Fusion Algorithm for Multiple Applications in Wireless Sensor Networks",
+          "number_coauthors": 5
+        }
+      ],
+      "DOHLER, MISCHA": [
+        {
+          "ano": "2014",
+          "article": "A control and decision system for smart buildings using wireless sensor and actuator networks",
+          "number_coauthors": 9
+        }
+      ],
+      "DOS SANTOS, IGOR L.": [
+        {
+          "ano": "2012",
+          "article": "Information fusion techniques applied to Shared Sensor and Actuator Networks",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "2015",
+          "article": "DYSSS: A Dynamic and Context-Aware Security System for Shared Sensor Networks",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2017",
+          "article": "COMFIT: A development environment for the Internet of Things",
+          "number_coauthors": 9
+        },
+        {
+          "ano": "2017",
+          "article": "Damage prediction for wind turbines using wireless sensor and actuator networks",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2015",
+          "article": "Web2Compile-CoT: A Web IDE for the Cloud of Things",
+          "number_coauthors": 8
+        }
+      ],
+      "Daniel Carvalho": [
+        {
+          "ano": "2018",
+          "article": "A holistic approach to challenges in Industry 4.0",
+          "number_coauthors": 6
+        }
+      ],
+      "Daniel Sadoc Menasché": [
+        {
+          "ano": "2019",
+          "article": "Gatos virtuais: detectando e avaliando os impactos da mineração de criptomoedas em infraestrutura pública",
+          "number_coauthors": 4
+        }
+      ],
+      "Delicato, Flávia C.": [
+        {
+          "ano": "2013",
+          "article": "DSL e Metodologia para Construção de Aplicações Ubíquas",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2012",
+          "article": "Intrusion Detection System for Wireless Sensor Networks Using Danger Theory Immune-Inspired Techniques",
+          "number_coauthors": 9
+        },
+        {
+          "ano": "2014",
+          "article": "Efficient allocation of resources in multiple heterogeneous Wireless Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2016",
+          "article": "A Systematic Review of Shared Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2017",
+          "article": "COMFIT: A development environment for the Internet of Things",
+          "number_coauthors": 9
+        },
+        {
+          "ano": "2012",
+          "article": "A Model-Based Approach for Building Ubiquitous Applications Based on Wireless Sensor Network",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2016",
+          "article": "SERAPH: Service Allocation Algorithm for the Execution of Multiple Applications in Heterogeneous Shared Sensor and Actuator Networks",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2015",
+          "article": "Web2Compile-CoT: A Web IDE for the Cloud of Things",
+          "number_coauthors": 8
+        }
+      ],
+      "Elton Alves Costa": [
+        {
+          "ano": "2015",
+          "article": "CAMAW: A Clustering Algorithm for Multiple Applications in Wireless Sensor and Actuator Networks",
+          "number_coauthors": 4
+        }
+      ],
+      "Emanuele Nunes de Lima Figueiredo Jorge": [
+        {
+          "ano": "2014",
+          "article": "TinyWatermark: A Code Obfuscation-based Software Watermarking Framework for Wireless Sensor Networks",
+          "number_coauthors": 7
+        }
+      ],
+      "Esther Pacitti": [
+        {
+          "ano": "2019",
+          "article": "Zeus: A resource allocation algorithm for the cloud of sensors",
+          "number_coauthors": 7
+        }
+      ],
+      "FAICAL, BRUNO S.": [
+        {
+          "ano": "2015",
+          "article": "An Energy-Aware System for Decision-Making in a Residential Infrastructure Using Wireless Sensors and Actuators",
+          "number_coauthors": 8
+        }
+      ],
+      "FILHO, GERALDO P.R.": [
+        {
+          "ano": "2015",
+          "article": "An Energy-Aware System for Decision-Making in a Residential Infrastructure Using Wireless Sensors and Actuators",
+          "number_coauthors": 8
+        }
+      ],
+      "FORTINO, GIANCARLO": [
+        {
+          "ano": "2017",
+          "article": "A multisensor data fusion algorithm using the hidden correlations in Multiapplication Wireless Sensor data streams",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2019",
+          "article": "A Density-based Decision-making Data Fusion Method for Multiapplication Wireless Sensor Networks",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2019",
+          "article": "A multi-sensor data fusion technique using data correlations among multiple applications",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2019",
+          "article": "Zeus: A resource allocation algorithm for the cloud of sensors",
+          "number_coauthors": 7
+        }
+      ],
+      "Fabrício Firmino de Faria": [
+        {
+          "ano": "2014",
+          "article": "Big Social Data: Princípios sobre Coleta, Tratamento e Análise de Dados Sociais",
+          "number_coauthors": 5
+        }
+      ],
+      "Felipe Coutinho": [
+        {
+          "ano": "2019",
+          "article": "Gatos virtuais: detectando e avaliando os impactos da mineração de criptomoedas em infraestrutura pública",
+          "number_coauthors": 4
+        }
+      ],
+      "Flavia Coimbra Delicato": [
+        {
+          "ano": "2010",
+          "article": "Sistema de Detecção de Intrusão Imuno-inspirado customizado para Redes de Sensores Sem Fio",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2010",
+          "article": "Using MDA for Building Wireless Sensor Network Applications",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2012",
+          "article": "CONDE: Um Sistema de Controle e Decisão para Ediifíios Inteligentes usando Redes de Sensores e Atuadores Sem Fio",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2015",
+          "article": "CAMAW: A Clustering Algorithm for Multiple Applications in Wireless Sensor and Actuator Networks",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2019",
+          "article": "A Density-based Decision-making Data Fusion Method for Multiapplication Wireless Sensor Networks",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2011",
+          "article": "Web das Coisas: Conectando Dispositivos Físicos ao Mundo Digital.",
+          "number_coauthors": 5
+        }
+      ],
+      "Flavia Delicato": [
+        {
+          "ano": "2015",
+          "article": "S-LEACH: A LEACH extension for Shared Sensor Networks",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2018",
+          "article": "A holistic approach to challenges in Industry 4.0",
+          "number_coauthors": 6
+        }
+      ],
+      "Fábio Medeiros Rangel": [
+        {
+          "ano": "2014",
+          "article": "Big Social Data: Princípios sobre Coleta, Tratamento e Análise de Dados Sociais",
+          "number_coauthors": 5
+        }
+      ],
+      "GUERRIERI, ANTONIO": [
+        {
+          "ano": "2017",
+          "article": "A multisensor data fusion algorithm using the hidden correlations in Multiapplication Wireless Sensor data streams",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2019",
+          "article": "A multi-sensor data fusion technique using data correlations among multiple applications",
+          "number_coauthors": 4
+        }
+      ],
+      "GUIDONI, DANIEL L.": [
+        {
+          "ano": "2015",
+          "article": "An Energy-Aware System for Decision-Making in a Residential Infrastructure Using Wireless Sensors and Actuators",
+          "number_coauthors": 8
+        }
+      ],
+      "Gabriel Caldas": [
+        {
+          "ano": "2015",
+          "article": "S-LEACH: A LEACH extension for Shared Sensor Networks",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2016",
+          "article": "HEPHAESTUS: A Multisensor Data Fusion Algorithm for Multiple Applications on Wireless Sensor Networks",
+          "number_coauthors": 5
+        }
+      ],
+      "Gabriel Costa": [
+        {
+          "ano": "2018",
+          "article": "A holistic approach to challenges in Industry 4.0",
+          "number_coauthors": 6
+        }
+      ],
+      "Gabriel Pereira da Silva": [
+        {
+          "ano": "2015",
+          "article": "Compressão e Otimização de Chaves Públicas usando Algoritmo Genético em Criptografia Completamente Homomórfica",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2016",
+          "article": "A Public Key compression method for fully homomorphic encryption using Genetic Algorithms",
+          "number_coauthors": 3
+        }
+      ],
+      "Gabriel Rocha": [
+        {
+          "ano": "2014",
+          "article": "Web2Compile: Uma Web IDE para Redes de Sensores sem Fio",
+          "number_coauthors": 7
+        }
+      ],
+      "Henrique Ribeiro dos Santos Soares": [
+        {
+          "ano": "2012",
+          "article": "CONDE: Um Sistema de Controle e Decisão para Ediifíios Inteligentes usando Redes de Sensores e Atuadores Sem Fio",
+          "number_coauthors": 4
+        }
+      ],
+      "Huang, Ge": [
+        {
+          "ano": "2012",
+          "article": "A Model-Based Approach for Building Ubiquitous Applications Based on Wireless Sensor Network",
+          "number_coauthors": 8
+        }
+      ],
+      "Hélio Mendes Salmon": [
+        {
+          "ano": "2010",
+          "article": "Sistema de Detecção de Intrusão Imuno-inspirado customizado para Redes de Sensores Sem Fio",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2011",
+          "article": "EWIDS: An Extended Wireless IDS for Metropolitan Wireless Networks Based on Kinematical Analysis",
+          "number_coauthors": 6
+        }
+      ],
+      "IMAN, MOHAMMADREZA": [
+        {
+          "ano": "2015",
+          "article": "THESEUS: A Routing System for Shared Sensor Networks",
+          "number_coauthors": 6
+        }
+      ],
+      "Igor Leão dos Santos": [
+        {
+          "ano": "2018",
+          "article": "A holistic approach to challenges in Industry 4.0",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2013",
+          "article": "Challenges in the use of wireless sensor networks for monitoring the health of civil structures",
+          "number_coauthors": 4
+        }
+      ],
+      "Italo Cruz de Brito": [
+        {
+          "ano": "2016",
+          "article": "Encouraging Renewable Energy Consumption Through Dynamic Pricing.",
+          "number_coauthors": 5
+        }
+      ],
+      "JORGE, EMANUELE N. DE L. F.": [
+        {
+          "ano": "2015",
+          "article": "SensorWatermark: a scheme of software watermark using code obfuscation and tamperproofing for WSN",
+          "number_coauthors": 6
+        }
+      ],
+      "JUAREZ-RAMIREZ, REYES": [
+        {
+          "ano": "2017",
+          "article": "GROWN",
+          "number_coauthors": 8
+        }
+      ],
+      "Jofrre Gavinho Filho": [
+        {
+          "ano": "2015",
+          "article": "Compressão e Otimização de Chaves Públicas usando Algoritmo Genético em Criptografia Completamente Homomórfica",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2016",
+          "article": "A Public Key compression method for fully homomorphic encryption using Genetic Algorithms",
+          "number_coauthors": 3
+        }
+      ],
+      "Jonice Oliveira": [
+        {
+          "ano": "2019",
+          "article": "Zeus: A resource allocation algorithm for the cloud of sensors",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2014",
+          "article": "Big Social Data: Princípios sobre Coleta, Tratamento e Análise de Dados Sociais",
+          "number_coauthors": 5
+        }
+      ],
+      "José Barbosa da Silva Filho": [
+        {
+          "ano": "2019",
+          "article": "Modeling Sparse Data as Input for Weightless Neural Network",
+          "number_coauthors": 5
+        }
+      ],
+      "Júnior, Paulo G. S. M.": [
+        {
+          "ano": "2015",
+          "article": "Web2Compile-CoT: A Web IDE for the Cloud of Things",
+          "number_coauthors": 8
+        }
+      ],
+      "KHAN, SAMEE U.": [
+        {
+          "ano": "2019",
+          "article": "Zeus: A resource allocation algorithm for the cloud of sensors",
+          "number_coauthors": 7
+        }
+      ],
+      "LEE, YOUNG CHOON": [
+        {
+          "ano": "2014",
+          "article": "Efficient allocation of resources in multiple heterogeneous Wireless Sensor Networks",
+          "number_coauthors": 7
+        }
+      ],
+      "LI, WEI": [
+        {
+          "ano": "2013",
+          "article": "A scheduling algorithm for shared sensor and actuator networks",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2017",
+          "article": "GROWN",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2014",
+          "article": "Efficient allocation of resources in multiple heterogeneous Wireless Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2016",
+          "article": "A Systematic Review of Shared Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2016",
+          "article": "SERAPH: Service Allocation Algorithm for the Execution of Multiple Applications in Heterogeneous Shared Sensor and Actuator Networks",
+          "number_coauthors": 6
+        }
+      ],
+      "Leandro Caetano Gonçalves Lustosa": [
+        {
+          "ano": "2008",
+          "article": "Combinação de pilhas de protocolo para a construção de um softphone SIP",
+          "number_coauthors": 4
+        }
+      ],
+      "Leonardo Costa Ribeiro": [
+        {
+          "ano": "2016",
+          "article": "Encouraging Renewable Energy Consumption Through Dynamic Pricing.",
+          "number_coauthors": 5
+        }
+      ],
+      "Leoncio da Silva Gomes": [
+        {
+          "ano": "2015",
+          "article": "ITE- 07/CET 11 - DESENVOLVIMENTO DE UM ARC ABOUÇO DE SOFTWARE ABERTO PARA REDES DE SENSORES SEM FIO USANDO ARDUÍNO",
+          "number_coauthors": 5
+        }
+      ],
+      "Loureiro, Paula": [
+        {
+          "ano": "2012",
+          "article": "Intrusion Detection System for Wireless Sensor Networks Using Danger Theory Immune-Inspired Techniques",
+          "number_coauthors": 9
+        }
+      ],
+      "Luci Pirmez": [
+        {
+          "ano": "2010",
+          "article": "Sistema de Detecção de Intrusão Imuno-inspirado customizado para Redes de Sensores Sem Fio",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2010",
+          "article": "Using MDA for Building Wireless Sensor Network Applications",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2012",
+          "article": "CONDE: Um Sistema de Controle e Decisão para Ediifíios Inteligentes usando Redes de Sensores e Atuadores Sem Fio",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2013",
+          "article": "A scheduling algorithm for shared sensor and actuator networks",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2011",
+          "article": "Model-Driven Development of Wireless Sensor Network Applications",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2012",
+          "article": "Information fusion techniques applied to Shared Sensor and Actuator Networks",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "2013",
+          "article": "DSL e Metodologia para Construção de Aplicações Ubíquas",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2013",
+          "article": "A Control and Decision System for Smart Buildings",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2016",
+          "article": "Encouraging Renewable Energy Consumption Through Dynamic Pricing.",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "2015",
+          "article": "S-LEACH: A LEACH extension for Shared Sensor Networks",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2015",
+          "article": "CAMAW: A Clustering Algorithm for Multiple Applications in Wireless Sensor and Actuator Networks",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2018",
+          "article": "A holistic approach to challenges in Industry 4.0",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2011",
+          "article": "EWIDS: An Extended Wireless IDS for Metropolitan Wireless Networks Based on Kinematical Analysis",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2014",
+          "article": "A control and decision system for smart buildings using wireless sensor and actuator networks",
+          "number_coauthors": 9
+        },
+        {
+          "ano": "2014",
+          "article": "Efficient allocation of resources in multiple heterogeneous Wireless Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2017",
+          "article": "COMFIT: A development environment for the Internet of Things",
+          "number_coauthors": 9
+        },
+        {
+          "ano": "2017",
+          "article": "Damage prediction for wind turbines using wireless sensor and actuator networks",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2019",
+          "article": "A multi-sensor data fusion technique using data correlations among multiple applications",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2011",
+          "article": "Web das Coisas: Conectando Dispositivos Físicos ao Mundo Digital.",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "2012",
+          "article": "A Model-Based Approach for Building Ubiquitous Applications Based on Wireless Sensor Network",
+          "number_coauthors": 8
+        }
+      ],
+      "Luis Filipe de Paula Kopp": [
+        {
+          "ano": "2019",
+          "article": "Modeling Sparse Data as Input for Weightless Neural Network",
+          "number_coauthors": 5
+        }
+      ],
+      "Luiz Fernando Rust da Costa Carmo": [
+        {
+          "ano": "2010",
+          "article": "Sistema de Detecção de Intrusão Imuno-inspirado customizado para Redes de Sensores Sem Fio",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2011",
+          "article": "EWIDS: An Extended Wireless IDS for Metropolitan Wireless Networks Based on Kinematical Analysis",
+          "number_coauthors": 6
+        }
+      ],
+      "MARTINS, GABRIEL": [
+        {
+          "ano": "2018",
+          "article": "Athena",
+          "number_coauthors": 3
+        }
+      ],
+      "Maria Inês Teixeira": [
+        {
+          "ano": "2015",
+          "article": "ITE- 06/CET 12 - UM JOGO EDUCACIONAL DE BIOLOGIA COMO FERRAMENTA DE ENSINO PARA OS ALUNOS DO PROEJA",
+          "number_coauthors": 6
+        }
+      ],
+      "Marina Vianna Pereira": [
+        {
+          "ano": "2014",
+          "article": "Web2Compile: Uma Web IDE para Redes de Sensores sem Fio",
+          "number_coauthors": 7
+        }
+      ],
+      "Mario Sergio de Souza Pereira": [
+        {
+          "ano": "2015",
+          "article": "ITE- 07/CET 11 - DESENVOLVIMENTO DE UM ARC ABOUÇO DE SOFTWARE ABERTO PARA REDES DE SENSORES SEM FIO USANDO ARDUÍNO",
+          "number_coauthors": 5
+        }
+      ],
+      "Márcio Farias": [
+        {
+          "ano": "2014",
+          "article": "Web2Compile: Uma Web IDE para Redes de Sensores sem Fio",
+          "number_coauthors": 7
+        }
+      ],
+      "Nilson Rocha Vianna": [
+        {
+          "ano": "2011",
+          "article": "EWIDS: An Extended Wireless IDS for Metropolitan Wireless Networks Based on Kinematical Analysis",
+          "number_coauthors": 6
+        }
+      ],
+      "OLIVEIRA, GABRIEL M.": [
+        {
+          "ano": "2019",
+          "article": "Zeus: A resource allocation algorithm for the cloud of sensors",
+          "number_coauthors": 7
+        }
+      ],
+      "P V Dantas": [
+        {
+          "ano": "2010",
+          "article": "Using MDA for Building Wireless Sensor Network Applications",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2013",
+          "article": "DSL e Metodologia para Construção de Aplicações Ubíquas",
+          "number_coauthors": 7
+        }
+      ],
+      "PAZZI, RICHARD W.": [
+        {
+          "ano": "2015",
+          "article": "An Energy-Aware System for Decision-Making in a Residential Infrastructure Using Wireless Sensors and Actuators",
+          "number_coauthors": 8
+        }
+      ],
+      "PESSIN, GUSTAVO": [
+        {
+          "ano": "2015",
+          "article": "An Energy-Aware System for Decision-Making in a Residential Infrastructure Using Wireless Sensors and Actuators",
+          "number_coauthors": 8
+        }
+      ],
+      "PIRES, PAULO F.": [
+        {
+          "ano": "2011",
+          "article": "Model-Driven Development of Wireless Sensor Network Applications",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2015",
+          "article": "THESEUS: A Routing System for Shared Sensor Networks",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2016",
+          "article": "HEPHAESTUS: A Multisensor Data Fusion Algorithm for Multiple Applications on Wireless Sensor Networks",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "2014",
+          "article": "Efficient allocation of resources in multiple heterogeneous Wireless Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2016",
+          "article": "A Systematic Review of Shared Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2012",
+          "article": "A Model-Based Approach for Building Ubiquitous Applications Based on Wireless Sensor Network",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2016",
+          "article": "SERAPH: Service Allocation Algorithm for the Execution of Multiple Applications in Heterogeneous Shared Sensor and Actuator Networks",
+          "number_coauthors": 6
+        }
+      ],
+      "PIRMEZ, LUCI": [
+        {
+          "ano": "2014",
+          "article": "TinyWatermark: A Code Obfuscation-based Software Watermarking Framework for Wireless Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2014",
+          "article": "Multisensor Data Fusion in Shared Sensor and Actuator Networks",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2016",
+          "article": "HEPHAESTUS: A Multisensor Data Fusion Algorithm for Multiple Applications on Wireless Sensor Networks",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "2017",
+          "article": "A multisensor data fusion algorithm using the hidden correlations in Multiapplication Wireless Sensor data streams",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2017",
+          "article": "GROWN",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2017",
+          "article": "A Multisensor Data Fusion Technique for Multiapplication Wireless Sensor Networks Based on Overlapping Intervals",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2018",
+          "article": "Density Based Multisensor Data Fusion for Multiapplication Wireless Sensor Networks",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2018",
+          "article": "Athena",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2015",
+          "article": "DYSSS: A Dynamic and Context-Aware Security System for Shared Sensor Networks",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2019",
+          "article": "Zeus: A resource allocation algorithm for the cloud of sensors",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2019",
+          "article": "A Data Fusion Algorithm for Multiple Applications in Wireless Sensor Networks",
+          "number_coauthors": 5
+        }
+      ],
+      "Paulo F. Pires": [
+        {
+          "ano": "2010",
+          "article": "Using MDA for Building Wireless Sensor Network Applications",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2013",
+          "article": "DSL e Metodologia para Construção de Aplicações Ubíquas",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2011",
+          "article": "Web das Coisas: Conectando Dispositivos Físicos ao Mundo Digital.",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "2013",
+          "article": "Challenges in the use of wireless sensor networks for monitoring the health of civil structures",
+          "number_coauthors": 4
+        }
+      ],
+      "Paulo Henrique de Aguiar Rodrigues": [
+        {
+          "ano": "2010",
+          "article": "Métricas objetivas para avaliação da qualidade de vídeo percebida",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2010",
+          "article": "Objective metrics for measuring perceptual video quality",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2008",
+          "article": "Combinação de pilhas de protocolo para a construção de um softphone SIP",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2007",
+          "article": "Balanceamento de Chamadas E.164 VoIP com Controles Centralizado e Distribuído",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2008",
+          "article": "Combinação de pilhas de protocolo para a construção de um softphone SIP",
+          "number_coauthors": 2
+        }
+      ],
+      "Pedro Rozas Moreira": [
+        {
+          "ano": "2008",
+          "article": "Combinação de pilhas de protocolo para a construção de um softphone SIP",
+          "number_coauthors": 4
+        }
+      ],
+      "Pereira, Marina V.": [
+        {
+          "ano": "2015",
+          "article": "Web2Compile-CoT: A Web IDE for the Cloud of Things",
+          "number_coauthors": 8
+        }
+      ],
+      "Pinheiro, Renato": [
+        {
+          "ano": "2015",
+          "article": "DYSSS: A Dynamic and Context-Aware Security System for Shared Sensor Networks",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2014",
+          "article": "DISSN: A Dynamic Intrusion Detection System for Shared Sensor Networks",
+          "number_coauthors": 4
+        }
+      ],
+      "Pires, Paulo F.": [
+        {
+          "ano": "2017",
+          "article": "A multisensor data fusion algorithm using the hidden correlations in Multiapplication Wireless Sensor data streams",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2017",
+          "article": "GROWN",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2017",
+          "article": "COMFIT: A development environment for the Internet of Things",
+          "number_coauthors": 9
+        },
+        {
+          "ano": "2017",
+          "article": "Damage prediction for wind turbines using wireless sensor and actuator networks",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2019",
+          "article": "A Data Fusion Algorithm for Multiple Applications in Wireless Sensor Networks",
+          "number_coauthors": 5
+        }
+      ],
+      "Pirmez, Luci": [
+        {
+          "ano": "2015",
+          "article": "SensorWatermark: a scheme of software watermark using code obfuscation and tamperproofing for WSN",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2015",
+          "article": "THESEUS: A Routing System for Shared Sensor Networks",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2012",
+          "article": "Intrusion Detection System for Wireless Sensor Networks Using Danger Theory Immune-Inspired Techniques",
+          "number_coauthors": 9
+        },
+        {
+          "ano": "2016",
+          "article": "A Systematic Review of Shared Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2016",
+          "article": "SERAPH: Service Allocation Algorithm for the Execution of Multiple Applications in Heterogeneous Shared Sensor and Actuator Networks",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2015",
+          "article": "Web2Compile-CoT: A Web IDE for the Cloud of Things",
+          "number_coauthors": 8
+        }
+      ],
+      "Pirmez, Rodrigo": [
+        {
+          "ano": "2012",
+          "article": "Intrusion Detection System for Wireless Sensor Networks Using Danger Theory Immune-Inspired Techniques",
+          "number_coauthors": 9
+        }
+      ],
+      "Priscila Machado Vieira Lima": [
+        {
+          "ano": "2019",
+          "article": "Modeling Sparse Data as Input for Weightless Neural Network",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "2019",
+          "article": "Zeus: A resource allocation algorithm for the cloud of sensors",
+          "number_coauthors": 7
+        }
+      ],
+      "RODRIGUES, TANIRO": [
+        {
+          "ano": "2011",
+          "article": "Model-Driven Development of Wireless Sensor Network Applications",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2012",
+          "article": "A Model-Based Approach for Building Ubiquitous Applications Based on Wireless Sensor Network",
+          "number_coauthors": 8
+        }
+      ],
+      "RODRIGUES, TANIRO C.": [
+        {
+          "ano": "2017",
+          "article": "COMFIT: A development environment for the Internet of Things",
+          "number_coauthors": 9
+        }
+      ],
+      "RUST DA COSTA CARMO, L. F.": [
+        {
+          "ano": "2018",
+          "article": "Utilização de Redes de Confiança para Detecção de Anomalias em RSSF",
+          "number_coauthors": 3
+        }
+      ],
+      "Rafael Nogueira Paixão": [
+        {
+          "ano": "2015",
+          "article": "ITE- 06/CET 12 - UM JOGO EDUCACIONAL DE BIOLOGIA COMO FERRAMENTA DE ENSINO PARA OS ALUNOS DO PROEJA",
+          "number_coauthors": 6
+        }
+      ],
+      "Rafael de Oliveira Costa": [
+        {
+          "ano": "2014",
+          "article": "Web2Compile: Uma Web IDE para Redes de Sensores sem Fio",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2014",
+          "article": "TinyWatermark: A Code Obfuscation-based Software Watermarking Framework for Wireless Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2015",
+          "article": "DYSSS: A Dynamic and Context-Aware Security System for Shared Sensor Networks",
+          "number_coauthors": 8
+        }
+      ],
+      "Reinaldo de Barros Correia": [
+        {
+          "ano": "2011",
+          "article": "EWIDS: An Extended Wireless IDS for Metropolitan Wireless Networks Based on Kinematical Analysis",
+          "number_coauthors": 6
+        }
+      ],
+      "Rodrigo Pirmez": [
+        {
+          "ano": "2010",
+          "article": "Sistema de Detecção de Intrusão Imuno-inspirado customizado para Redes de Sensores Sem Fio",
+          "number_coauthors": 7
+        }
+      ],
+      "Rossetto, Silvana": [
+        {
+          "ano": "2012",
+          "article": "Intrusion Detection System for Wireless Sensor Networks Using Danger Theory Immune-Inspired Techniques",
+          "number_coauthors": 9
+        },
+        {
+          "ano": "2017",
+          "article": "Damage prediction for wind turbines using wireless sensor and actuator networks",
+          "number_coauthors": 8
+        }
+      ],
+      "SANTOS, IGOR": [
+        {
+          "ano": "2014",
+          "article": "TinyWatermark: A Code Obfuscation-based Software Watermarking Framework for Wireless Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2014",
+          "article": "A control and decision system for smart buildings using wireless sensor and actuator networks",
+          "number_coauthors": 9
+        }
+      ],
+      "SANTOS, IGOR L.": [
+        {
+          "ano": "2019",
+          "article": "Zeus: A resource allocation algorithm for the cloud of sensors",
+          "number_coauthors": 7
+        }
+      ],
+      "SANTOS, IGOR L. DOS": [
+        {
+          "ano": "2013",
+          "article": "A Control and Decision System for Smart Buildings",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2015",
+          "article": "THESEUS: A Routing System for Shared Sensor Networks",
+          "number_coauthors": 6
+        }
+      ],
+      "SOARES, HENRIQUE": [
+        {
+          "ano": "2013",
+          "article": "A Control and Decision System for Smart Buildings",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2014",
+          "article": "A control and decision system for smart buildings using wireless sensor and actuator networks",
+          "number_coauthors": 9
+        }
+      ],
+      "SOUZA, JOSÉ N. DE": [
+        {
+          "ano": "2016",
+          "article": "A Systematic Review of Shared Sensor Networks",
+          "number_coauthors": 7
+        }
+      ],
+      "Salmon, Helio Mendes": [
+        {
+          "ano": "2012",
+          "article": "Intrusion Detection System for Wireless Sensor Networks Using Danger Theory Immune-Inspired Techniques",
+          "number_coauthors": 9
+        }
+      ],
+      "Silvana Rossetto": [
+        {
+          "ano": "2010",
+          "article": "Sistema de Detecção de Intrusão Imuno-inspirado customizado para Redes de Sensores Sem Fio",
+          "number_coauthors": 7
+        }
+      ],
+      "TERRACINA, GIORGIO": [
+        {
+          "ano": "2017",
+          "article": "A multisensor data fusion algorithm using the hidden correlations in Multiapplication Wireless Sensor data streams",
+          "number_coauthors": 8
+        }
+      ],
+      "Taniro C Rodrigues": [
+        {
+          "ano": "2010",
+          "article": "Using MDA for Building Wireless Sensor Network Applications",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2013",
+          "article": "DSL e Metodologia para Construção de Aplicações Ubíquas",
+          "number_coauthors": 7
+        }
+      ],
+      "Thaís Vasconcelos Batista": [
+        {
+          "ano": "2013",
+          "article": "DSL e Metodologia para Construção de Aplicações Ubíquas",
+          "number_coauthors": 7
+        }
+      ],
+      "Thiago Maluf Resende": [
+        {
+          "ano": "2007",
+          "article": "Balanceamento de Chamadas E.164 VoIP com Controles Centralizado e Distribuído",
+          "number_coauthors": 4
+        }
+      ],
+      "Tiago Cruz de França": [
+        {
+          "ano": "2014",
+          "article": "Web2Compile: Uma Web IDE para Redes de Sensores sem Fio",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2011",
+          "article": "Web das Coisas: Conectando Dispositivos Físicos ao Mundo Digital.",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "2014",
+          "article": "Big Social Data: Princípios sobre Coleta, Tratamento e Análise de Dados Sociais",
+          "number_coauthors": 5
+        }
+      ],
+      "UEYAMA, JO": [
+        {
+          "ano": "2015",
+          "article": "An Energy-Aware System for Decision-Making in a Residential Infrastructure Using Wireless Sensors and Actuators",
+          "number_coauthors": 8
+        }
+      ],
+      "VILLAS, LEANDRO A.": [
+        {
+          "ano": "2015",
+          "article": "An Energy-Aware System for Decision-Making in a Residential Infrastructure Using Wireless Sensors and Actuators",
+          "number_coauthors": 8
+        }
+      ],
+      "Vinicius Felipe Oliveira do Nascimento": [
+        {
+          "ano": "2015",
+          "article": "ITE- 06/CET 12 - UM JOGO EDUCACIONAL DE BIOLOGIA COMO FERRAMENTA DE ENSINO PARA OS ALUNOS DO PROEJA",
+          "number_coauthors": 6
+        }
+      ],
+      "Welsing Moreira Pereira": [
+        {
+          "ano": "2015",
+          "article": "ITE- 06/CET 12 - UM JOGO EDUCACIONAL DE BIOLOGIA COMO FERRAMENTA DE ENSINO PARA OS ALUNOS DO PROEJA",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2015",
+          "article": "ITE- 07/CET 11 - DESENVOLVIMENTO DE UM ARC ABOUÇO DE SOFTWARE ABERTO PARA REDES DE SENSORES SEM FIO USANDO ARDUÍNO",
+          "number_coauthors": 5
+        }
+      ],
+      "ZOMAYA, ALBERT": [
+        {
+          "ano": "2011",
+          "article": "Model-Driven Development of Wireless Sensor Network Applications",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2014",
+          "article": "A control and decision system for smart buildings using wireless sensor and actuator networks",
+          "number_coauthors": 9
+        }
+      ],
+      "ZOMAYA, ALBERT Y.": [
+        {
+          "ano": "2013",
+          "article": "A scheduling algorithm for shared sensor and actuator networks",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2012",
+          "article": "Information fusion techniques applied to Shared Sensor and Actuator Networks",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "2014",
+          "article": "Efficient allocation of resources in multiple heterogeneous Wireless Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2016",
+          "article": "A Systematic Review of Shared Sensor Networks",
+          "number_coauthors": 7
+        },
+        {
+          "ano": "2012",
+          "article": "A Model-Based Approach for Building Ubiquitous Applications Based on Wireless Sensor Network",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2016",
+          "article": "SERAPH: Service Allocation Algorithm for the Execution of Multiple Applications in Heterogeneous Shared Sensor and Actuator Networks",
+          "number_coauthors": 6
+        }
+      ],
+      "Zomaya, Albert Y.": [
+        {
+          "ano": "2017",
+          "article": "GROWN",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2017",
+          "article": "Damage prediction for wind turbines using wireless sensor and actuator networks",
+          "number_coauthors": 8
+        },
+        {
+          "ano": "2019",
+          "article": "Zeus: A resource allocation algorithm for the cloud of sensors",
+          "number_coauthors": 7
+        }
+      ],
+      "dos Santos, Igor Leão": [
+        {
+          "ano": "2014",
+          "article": "DISSN: A Dynamic Intrusion Detection System for Shared Sensor Networks",
+          "number_coauthors": 4
+        }
+      ],
+      "emanuele nunes de lima figueiredo jorge": [
+        {
+          "ano": "2015",
+          "article": "ITE- 06/CET 12 - UM JOGO EDUCACIONAL DE BIOLOGIA COMO FERRAMENTA DE ENSINO PARA OS ALUNOS DO PROEJA",
+          "number_coauthors": 6
+        },
+        {
+          "ano": "2015",
+          "article": "ITE- 07/CET 11 - DESENVOLVIMENTO DE UM ARC ABOUÇO DE SOFTWARE ABERTO PARA REDES DE SENSORES SEM FIO USANDO ARDUÍNO",
+          "number_coauthors": 5
+        }
+      ],
+      "victor Ribeiro Pires": [
+        {
+          "ano": "2019",
+          "article": "Gatos virtuais: detectando e avaliando os impactos da mineração de criptomoedas em infraestrutura pública",
+          "number_coauthors": 4
+        }
+      ]
+    },
+    "qnames": [
+      "FARIAS",
+      " C. M.;Farias",
+      " Claudio M.;Miceli",
+      " C.;MICELI",
+      " C.;MICELI",
+      " C;DE FARIAS",
+      " CLAUDIO M.;MICELI",
+      " CLAUDIO;Miceli",
+      " Claudio;Claudio de Farias;DE FARIAS",
+      " CLAUDIO;FARIAS",
+      " CLAUDIO;FARIAS",
+      " CLAUDIO M. DE;FARIAS",
+      " CLAUDIO MICELI DE;MICELI DE FARIAS",
+      " CLAUDIO;MICELI FARIAS",
+      " C."
+    ]
+  },
   "Claudio Thomas Bornstein": {
     "edges": {
       "A. L. Zambalde": [
@@ -25655,6 +27668,255 @@
       "Bornstein",
       " C.T.;Bornstein",
       " Cláudio T."
+    ]
+  },
+  "Clovis Caesar Gonzaga": {
+    "edges": {
+      "Ademir A. Ribeiro": [
+        {
+          "ano": "2008",
+          "article": "Global convergence of filter methods for nonlinear programming",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2010",
+          "article": "Local convergence of filter methods for equality constrained non-linear programming",
+          "number_coauthors": 3
+        }
+      ],
+      "BEHLING, ROGER": [
+        {
+          "ano": "2013",
+          "article": "Primal-Dual Relationship Between Levenberg-Marquardt and Central Trajectories for Linearly Constrained Convex Optimization",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2014",
+          "article": "Primal-Dual Relationship Between Levenberg-Marquardt and Central Trajectories for Linearly Constrained Convex Optimization",
+          "number_coauthors": 3
+        }
+      ],
+      "BESSA, MARCELO R.": [
+        {
+          "ano": "2019",
+          "article": "Optimal non-anticipative scenarios for nonlinear hydro-thermal power systems",
+          "number_coauthors": 9
+        }
+      ],
+      "DE GEUS, KLAUS": [
+        {
+          "ano": "2019",
+          "article": "Optimal non-anticipative scenarios for nonlinear hydro-thermal power systems",
+          "number_coauthors": 9
+        }
+      ],
+      "DETZEL, DANIEL H.M.": [
+        {
+          "ano": "2019",
+          "article": "Optimal non-anticipative scenarios for nonlinear hydro-thermal power systems",
+          "number_coauthors": 9
+        }
+      ],
+      "E Polak": [
+        {
+          "ano": "1979",
+          "article": "On constraint dropping schemes and optimality functions for a class of outer approximation algorithms",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1980",
+          "article": "An improved algorithm for optimization problems with functional constraints",
+          "number_coauthors": 3
+        }
+      ],
+      "Elizabeth W. Karas": [
+        {
+          "ano": "2003",
+          "article": "A globally convergent filter method for nonlinear programming",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2005",
+          "article": "Examples of ill-behaved central paths in convex optimization",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2008",
+          "article": "Global convergence of filter methods for nonlinear programming",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2010",
+          "article": "Local convergence of filter methods for equality constrained non-linear programming",
+          "number_coauthors": 3
+        }
+      ],
+      "Fernanda Maria Raupp": [
+        {
+          "ano": "2002",
+          "article": "A center cutting plane algorithm for a likelihood estimate problem",
+          "number_coauthors": 2
+        }
+      ],
+      "Frédéric Bonnans": [
+        {
+          "ano": "1996",
+          "article": "Convergence of interior point algorithms for monotone linear complementarity problems",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1997",
+          "article": "Fast convergence of the simplified largest step path following algorithm",
+          "number_coauthors": 2
+        }
+      ],
+      "Gabriel Haeser": [
+        {
+          "ano": "2013",
+          "article": "Primal-Dual Relationship Between Levenberg-Marquardt and Central Trajectories for Linearly Constrained Convex Optimization",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2014",
+          "article": "Primal-Dual Relationship Between Levenberg-Marquardt and Central Trajectories for Linearly Constrained Convex Optimization",
+          "number_coauthors": 3
+        }
+      ],
+      "Hugo Lara": [
+        {
+          "ano": "1997",
+          "article": "A note on properties of condition numbers",
+          "number_coauthors": 2
+        }
+      ],
+      "Jean-Charles Gilbert": [
+        {
+          "ano": "2005",
+          "article": "Examples of ill-behaved central paths in convex optimization",
+          "number_coauthors": 3
+        }
+      ],
+      "Karas, Elizabeth W.": [
+        {
+          "ano": "2013",
+          "article": "Fine tuning Nesterov-s steepest descent algorithm for differentiable convex programming",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2013",
+          "article": "An Optimal Algorithm for Constrained Differentiable Convex Optimization",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2014",
+          "article": "COMPLEXITY OF FIRST-ORDER METHODS FOR DIFFERENTIABLE CONVEX OPTIMIZATION",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2019",
+          "article": "Optimal non-anticipative scenarios for nonlinear hydro-thermal power systems",
+          "number_coauthors": 9
+        }
+      ],
+      "Luiz Carlos Matioli": [
+        {
+          "ano": "2008",
+          "article": "A new family of penalties for augmented Lagrangian methods",
+          "number_coauthors": 2
+        }
+      ],
+      "MARCÍLIO, DÉBORA C.": [
+        {
+          "ano": "2019",
+          "article": "Optimal non-anticipative scenarios for nonlinear hydro-thermal power systems",
+          "number_coauthors": 9
+        }
+      ],
+      "MATIOLI, LUIZ CARLOS": [
+        {
+          "ano": "2019",
+          "article": "Optimal non-anticipative scenarios for nonlinear hydro-thermal power systems",
+          "number_coauthors": 9
+        }
+      ],
+      "Marcia Viana Vanti": [
+        {
+          "ano": "2003",
+          "article": "On the Newton interior point method for non-linear optimal power flow",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2003",
+          "article": "A globally convergent filter method for nonlinear programming",
+          "number_coauthors": 3
+        }
+      ],
+      "Michael Todd": [
+        {
+          "ano": "1992",
+          "article": "An O(sqrt(n)L)-iteration large-step primal-dual affine algorithm for linear programming",
+          "number_coauthors": 2
+        }
+      ],
+      "OENING, ANA PAULA": [
+        {
+          "ano": "2019",
+          "article": "Optimal non-anticipative scenarios for nonlinear hydro-thermal power systems",
+          "number_coauthors": 9
+        }
+      ],
+      "PERIÇARO, GISLAINE A.": [
+        {
+          "ano": "2019",
+          "article": "Optimal non-anticipative scenarios for nonlinear hydro-thermal power systems",
+          "number_coauthors": 9
+        }
+      ],
+      "R Trahan": [
+        {
+          "ano": "1980",
+          "article": "An improved algorithm for optimization problems with functional constraints",
+          "number_coauthors": 3
+        }
+      ],
+      "ROSSETTO, DIANE R.": [
+        {
+          "ano": "2013",
+          "article": "An Optimal Algorithm for Constrained Differentiable Convex Optimization",
+          "number_coauthors": 3
+        }
+      ],
+      "Richard Tapia": [
+        {
+          "ano": "1997",
+          "article": "On the convergence of the Mizuno-Todd-Ye algorithm to the analytic center of the solution set",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1997",
+          "article": "On the quadratic convergence of the simplified Mizuno-Todd-Ye algorithm for linear programming",
+          "number_coauthors": 2
+        }
+      ],
+      "Rómulo A. Castillo": [
+        {
+          "ano": "2003",
+          "article": "A nonlinear programming algorithm based on non-coercive penalty functions",
+          "number_coauthors": 2
+        }
+      ],
+      "SCHNEIDER, RUANA M.": [
+        {
+          "ano": "2015",
+          "article": "On the steepest descent algorithm for quadratic functions",
+          "number_coauthors": 2
+        }
+      ]
+    },
+    "qnames": [
+      "GONZAGA",
+      " C. C.;Gonzaga",
+      " Clóvis C."
     ]
   },
   "Daniel Ratton Figueiredo": {
@@ -70634,6 +72896,430 @@
       " JAYMELUIZ"
     ]
   },
+  "Joao Lizardo Rodrigues Hermes de Araujo": {
+    "edges": {
+      "A. ARAUJO J.L.R.H. DE OLIVEIRA": [
+        {
+          "ano": "1991",
+          "article": "Metodologia de Planejamento do Setor Eletrico : Questoes dos Anos 90",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1990",
+          "article": "Energy And Development The Case Of Rio de Janeiro State",
+          "number_coauthors": 2
+        }
+      ],
+      "A. GHIRARDI": [
+        {
+          "ano": "1987",
+          "article": "Substituicao de Derivados de Petroleo No Brasil: Questoes Urgentes",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1987",
+          "article": "Substitution Of Oil Products In Brazil: Urgent Issues",
+          "number_coauthors": 2
+        }
+      ],
+      "A. OLIVEIRA": [
+        {
+          "ano": "1997",
+          "article": "The Brazilian Electricity Reform: Issues And Perils",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1996",
+          "article": "Privatization Of The Brazilian Energy Industries: The Regulatory Challenge",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "1996",
+          "article": "De-Regulation (And Re-Regulation) Of The Brazilian Energy Industries",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1981",
+          "article": "A Controversia Sobre Os Contratos de Risco",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1980",
+          "article": "Impasse Atual e Perspectiva A Largo Prazo da Politica Energetica No Brasil",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2001",
+          "article": "A greedy randomized adaptive search procedure for transmission expansion planning",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1984",
+          "article": "Respostas do Setor Industrial Brasileiro Ao Choque do Petroleo e A Recessao",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1994",
+          "article": "O Sonho Nacional: Petróleo e Eletricidade (1954-1994)",
+          "number_coauthors": 3
+        }
+      ],
+      "A.C.G.": [
+        {
+          "ano": "1998",
+          "article": "Sensitivities Of Multi-Area Reliability Indices With Respect To Variations Of Equipment Failure And Repair Rates - An Analytical Approach",
+          "number_coauthors": 3
+        }
+      ],
+      "A.D. Kant": [
+        {
+          "ano": "1995",
+          "article": "Industrial Energy Efficiency In Developing Countries: Present Situation And Scope For New Initiatives",
+          "number_coauthors": 6
+        }
+      ],
+      "A.P. RODRIGUES": [
+        {
+          "ano": "1984",
+          "article": "Limites A Acao do Alcool Na Politica Energetica",
+          "number_coauthors": 2
+        }
+      ],
+      "Adilson de Oliveira": [
+        {
+          "ano": "2000",
+          "article": "Power market issues in the Brazilian ESI reform",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1991",
+          "article": "Performance of the Brazilian Electricity System",
+          "number_coauthors": 5
+        },
+        {
+          "ano": "1990",
+          "article": "Metodologia de Planejamento do Setor Elétrico: Questões dos Anos 90 ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1987",
+          "article": "O PNA no Cenário Energético Nacional ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1983",
+          "article": "Resposta do Setor Industrial Brasileiro ao Segundo Choque do Petróleo ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1981",
+          "article": "Estimativa da Taxa Média de Declínio da Produção dos Campos Brasileiros de Petróleo ",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2004",
+          "article": "Brazilian Energy Policy: Changing Course?",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2003",
+          "article": "The Brazilian Electricity Supply Industry: a new technological trajectory?",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2004",
+          "article": "Brazilian Energy Policy: Changing Course?",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2001",
+          "article": "A greedy randomized adaptive search procedure for transmission expansion planning",
+          "number_coauthors": 3
+        }
+      ],
+      "Agnes Maria de Aragão da Costa": [
+        {
+          "ano": "2007",
+          "article": "Energy contracting in Brazil and electricity prices",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2008",
+          "article": "Reform of the reforms in Brazil: Problems and solutions",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2008",
+          "article": "Energy contracting in Brazil and electricity prices",
+          "number_coauthors": 4
+        }
+      ],
+      "C Celso de B Camargo": [
+        {
+          "ano": "2001",
+          "article": "A greedy randomized adaptive search procedure for transmission expansion planning",
+          "number_coauthors": 3
+        }
+      ],
+      "Carlos Raul Borenstein": [
+        {
+          "ano": "2001",
+          "article": "A greedy randomized adaptive search procedure for transmission expansion planning",
+          "number_coauthors": 3
+        }
+      ],
+      "Cristiano José Castro Almeida Cunha": [
+        {
+          "ano": "2001",
+          "article": "A greedy randomized adaptive search procedure for transmission expansion planning",
+          "number_coauthors": 3
+        }
+      ],
+      "Edvaldo Alves de Santana": [
+        {
+          "ano": "2001",
+          "article": "A greedy randomized adaptive search procedure for transmission expansion planning",
+          "number_coauthors": 3
+        }
+      ],
+      "Elbia Melo": [
+        {
+          "ano": "2007",
+          "article": "Energy contracting in Brazil and electricity prices",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2008",
+          "article": "Reform of the reforms in Brazil: Problems and solutions",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2008",
+          "article": "Energy contracting in Brazil and electricity prices",
+          "number_coauthors": 4
+        }
+      ],
+      "F.M.J.A. Diepstratten": [
+        {
+          "ano": "1995",
+          "article": "Industrial Energy Efficiency In Developing Countries: Present Situation And Scope For New Initiatives",
+          "number_coauthors": 6
+        }
+      ],
+      "Frederico Gomes": [
+        {
+          "ano": "1981",
+          "article": "O Balanço Energético Brasileiro: Situação Atual e Perspectivas ",
+          "number_coauthors": 2
+        }
+      ],
+      "Gerson Couto de Oliveira": [
+        {
+          "ano": "2001",
+          "article": "A greedy randomized adaptive search procedure for transmission expansion planning",
+          "number_coauthors": 3
+        }
+      ],
+      "Helder Queiroz Pinto Jr": [
+        {
+          "ano": "2001",
+          "article": "A greedy randomized adaptive search procedure for transmission expansion planning",
+          "number_coauthors": 3
+        }
+      ],
+      "Helder Queiroz Pinto Jr.": [
+        {
+          "ano": "1998",
+          "article": "Changes In The Structure, Regulation And Financing Of The Brazilian Electricity Supply Industry",
+          "number_coauthors": 2
+        }
+      ],
+      "Hildete Pereira de Melo": [
+        {
+          "ano": "2003",
+          "article": "Raça e Nacionalidade no Mercado de Trabalho Carioca na Primeira República: O Caso da Cervejaria Brahma",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1994",
+          "article": "O Sonho Nacional: Petróleo e Eletricidade (1954-1994)",
+          "number_coauthors": 3
+        }
+      ],
+      "J.C. Jansen": [
+        {
+          "ano": "1995",
+          "article": "Industrial Energy Efficiency In Developing Countries: Present Situation And Scope For New Initiatives",
+          "number_coauthors": 6
+        }
+      ],
+      "Joao Lizardo R": [
+        {
+          "ano": "1996",
+          "article": "Privatization Of The Brazilian Energy Industries: The Regulatory Challenge",
+          "number_coauthors": 4
+        }
+      ],
+      "L.P. (TODOS CONTRIBUIRAM IGUALMENTE E) ROSA": [
+        {
+          "ano": "2001",
+          "article": "A greedy randomized adaptive search procedure for transmission expansion planning",
+          "number_coauthors": 3
+        }
+      ],
+      "L.P. ROSA": [
+        {
+          "ano": "1980",
+          "article": "Impasse Atual e Perspectiva A Largo Prazo da Politica Energetica No Brasil",
+          "number_coauthors": 3
+        }
+      ],
+      "M.R. MILLAN": [
+        {
+          "ano": "1979",
+          "article": "Os Tecnicos e A Politica de Informatica",
+          "number_coauthors": 2
+        }
+      ],
+      "M.V.F. Pereira Melo R. V. Lício": [
+        {
+          "ano": "1998",
+          "article": "Sensitivities Of Multi-Area Reliability Indices With Respect To Variations Of Equipment Failure And Repair Rates - An Analytical Approach",
+          "number_coauthors": 3
+        }
+      ],
+      "Patrícia Zendron": [
+        {
+          "ano": "2000",
+          "article": "Power market issues in the Brazilian ESI reform",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2000",
+          "article": "Modelagem do Jogo do Mercado Atacadista de Eletricidade (MAE)",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2001",
+          "article": "Modelling the Power Exchange Game",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2008",
+          "article": "Reform of the reforms in Brazil: Problems and solutions",
+          "number_coauthors": 4
+        }
+      ],
+      "R. H. Joao Lizardo": [
+        {
+          "ano": "1997",
+          "article": "Reflexões Sobre O Ensino de Disciplinas Quantitativas Num Curso de Economia",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1996",
+          "article": "On Stochastic Models Of Technology Innovation And Diffusion",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1995",
+          "article": "Design Of A Brazilian Innovative Activity Matrix",
+          "number_coauthors": 2
+        }
+      ],
+      "R.S. MOTTA": [
+        {
+          "ano": "1989",
+          "article": "Decomposicao dos Efeitos de Intensidade Energetica No Setor Industrial Brasileiro",
+          "number_coauthors": 2
+        }
+      ],
+      "Roberto Besnosik": [
+        {
+          "ano": "1991",
+          "article": "Performance of the Brazilian Electricity System",
+          "number_coauthors": 5
+        }
+      ],
+      "Ronaldo Bicalho": [
+        {
+          "ano": "1991",
+          "article": "Performance of the Brazilian Electricity System",
+          "number_coauthors": 5
+        }
+      ],
+      "Ronaldo Serôa da Motta": [
+        {
+          "ano": "1988",
+          "article": "Decomposição dos efeitos de intensidade energética no setor industrial brasileiro ",
+          "number_coauthors": 2
+        }
+      ],
+      "S. Barathan": [
+        {
+          "ano": "1995",
+          "article": "Industrial Energy Efficiency In Developing Countries: Present Situation And Scope For New Initiatives",
+          "number_coauthors": 6
+        }
+      ],
+      "S. Diallo": [
+        {
+          "ano": "1995",
+          "article": "Industrial Energy Efficiency In Developing Countries: Present Situation And Scope For New Initiatives",
+          "number_coauthors": 6
+        }
+      ],
+      "Silvio Binato": [
+        {
+          "ano": "2001",
+          "article": "A greedy randomized adaptive search procedure for transmission expansion planning",
+          "number_coauthors": 3
+        }
+      ],
+      "Teresa Novaes Marques": [
+        {
+          "ano": "2003",
+          "article": "Raça e Nacionalidade no Mercado de Trabalho Carioca na Primeira República: O Caso da Cervejaria Brahma",
+          "number_coauthors": 3
+        }
+      ],
+      "Tiago Correia": [
+        {
+          "ano": "2007",
+          "article": "Energy contracting in Brazil and electricity prices",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2008",
+          "article": "Reform of the reforms in Brazil: Problems and solutions",
+          "number_coauthors": 4
+        },
+        {
+          "ano": "2008",
+          "article": "Energy contracting in Brazil and electricity prices",
+          "number_coauthors": 4
+        }
+      ],
+      "Valcir Soares": [
+        {
+          "ano": "1991",
+          "article": "Performance of the Brazilian Electricity System",
+          "number_coauthors": 5
+        }
+      ],
+      "de Araujo H": [
+        {
+          "ano": "1996",
+          "article": "Privatization Of The Brazilian Energy Industries: The Regulatory Challenge",
+          "number_coauthors": 4
+        }
+      ]
+    },
+    "qnames": [
+      "ARAUJO",
+      " J. L. R. H."
+    ]
+  },
   "José Ferreira de Rezende": {
     "edges": {
       "ALBAGLI, ANDRÉ N.": [
@@ -81806,6 +84492,161 @@
       " L.F.M.;DE MORAES",
       " M. LUIS F.;DE MORAES",
       " LUÍS F."
+    ]
+  },
+  "Luis Paulo Vieira Braga": {
+    "edges": {
+      "Antônio Geraldo da Silva": [
+        {
+          "ano": "2014",
+          "article": "Avaliação Crítica de escalas de rastreamento",
+          "number_coauthors": 3
+        }
+      ],
+      "BRAGA, JEAN": [
+        {
+          "ano": "2020",
+          "article": "Mapping gold pathfinder metal ratios in Northern Nevada, USA: A compositional analysis approach",
+          "number_coauthors": 2
+        }
+      ],
+      "Cassio Almeida": [
+        {
+          "ano": "2005",
+          "article": "Evaluating the Estimation of Regularized Variables",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2004",
+          "article": "Determining the regularized semivariogram through the fast fourier transform and the fast inverse fourier transform",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2006",
+          "article": "Evaluating the global warming in the Amazon rain forest",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2002",
+          "article": "Using Non-linear Regression for Inference of Semivariogram Affected by Change of Support - an Exploratory Study of an Exponential Family",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2006",
+          "article": "Evaluating the estimation of regularized covariograms",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2008",
+          "article": "Mineração de Textos",
+          "number_coauthors": 1
+        }
+      ],
+      "Claudio Bettini": [
+        {
+          "ano": "2005",
+          "article": "Evaluating the Estimation of Regularized Variables",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2004",
+          "article": "Determining the regularized semivariogram through the fast fourier transform and the fast inverse fourier transform",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2006",
+          "article": "Evaluating the global warming in the Amazon rain forest",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2002",
+          "article": "Using Non-linear Regression for Inference of Semivariogram Affected by Change of Support - an Exploratory Study of an Exponential Family",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2006",
+          "article": "Evaluating the estimation of regularized covariograms",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2008",
+          "article": "Mineração de Textos",
+          "number_coauthors": 1
+        }
+      ],
+      "Claudio Porto": [
+        {
+          "ano": "2013",
+          "article": "Statistical Techniques Applied to Gold Exploration in the Amapari Area, Amazon Region, Brazil",
+          "number_coauthors": 3
+        }
+      ],
+      "Cláudio Gerheim Porto": [
+        {
+          "ano": "2008",
+          "article": "Application of Categorical Variables to Improve Estimation in the Amapari Lateritic Gold Mine, Brazil",
+          "number_coauthors": 3
+        }
+      ],
+      "Fernando Portela Camara": [
+        {
+          "ano": "2014",
+          "article": "Avaliação Crítica de escalas de rastreamento",
+          "number_coauthors": 3
+        }
+      ],
+      "Francisco Silva": [
+        {
+          "ano": "2008",
+          "article": "Application of Categorical Variables to Improve Estimation in the Amapari Lateritic Gold Mine, Brazil",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2013",
+          "article": "Statistical Techniques Applied to Gold Exploration in the Amapari Area, Amazon Region, Brazil",
+          "number_coauthors": 3
+        }
+      ],
+      "João Carlos Morgado de Souza": [
+        {
+          "ano": "1990",
+          "article": "Perspective Projection of Isocontour Curves and its Applications to Petroleum Exploration",
+          "number_coauthors": 3
+        }
+      ],
+      "Luiz Eduardo Varella": [
+        {
+          "ano": "1990",
+          "article": "Perspective Projection of Isocontour Curves and its Applications to Petroleum Exploration",
+          "number_coauthors": 3
+        }
+      ],
+      "Luiz Ivan Ortiz Valencia": [
+        {
+          "ano": "1987",
+          "article": "Aplicações da Geoestatística na Cartografia Assistida por Computador",
+          "number_coauthors": 1
+        }
+      ],
+      "Nelson Maculan Filho": [
+        {
+          "ano": "1981",
+          "article": "Aspectos Computacionais em Programação Linear",
+          "number_coauthors": 2
+        }
+      ],
+      "Santiago Ramirez Carvajal": [
+        {
+          "ano": "1987",
+          "article": "Aplicações da Geoestatística na Cartografia Assistida por Computador",
+          "number_coauthors": 1
+        }
+      ]
+    },
+    "qnames": [
+      "Braga",
+      " L. P.;BRAGA",
+      " LUIS P.V."
     ]
   },
   "Marcia Helena Costa Fampa": {
@@ -114097,6 +116938,291 @@
       " S. R. M.;Veloso",
       " Sheila R. M.;VELOSO",
       " SHEILA R.M.;SHEILA VELOSO"
+    ]
+  },
+  "Sueli Bandeira Teixeira Mendes": {
+    "edges": {
+      ": Marília Rosa Milan": [
+        {
+          "ano": "1975",
+          "article": "Lector: A Language to Write CAI Courses",
+          "number_coauthors": 2
+        }
+      ],
+      "Abel Reis": [
+        {
+          "ano": "1991",
+          "article": "Um Modelo Híbrido de Frames e Hipertextos",
+          "number_coauthors": 3
+        }
+      ],
+      "Adriano Cruz": [
+        {
+          "ano": "2002",
+          "article": "Using Previous Knowledge for Stock Market Prediction Based on Fundamentalist Analysis with Fuzzy-Neural Network",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2004",
+          "article": "Using Frames and Jess with Jervlets for Stock Market Prediction Based on Fundamentalist Analysis with Fuzzy-Neural Networks",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2002",
+          "article": "Using Previous Knowledge for Stock Market Prediction Baseid on Fundamentalist Analisys with Fuzzy-Neural Network",
+          "number_coauthors": 3
+        }
+      ],
+      "Ana Regina C. da Rocha": [
+        {
+          "ano": "1987",
+          "article": "Paradigmas para o Processo de Produção de Software",
+          "number_coauthors": 2
+        }
+      ],
+      "Ana Regina Cavalcanti da Rocha": [
+        {
+          "ano": "1987",
+          "article": "Paradigmas de Ambientes de Programação",
+          "number_coauthors": 2
+        }
+      ],
+      "Cláudia Laje Rebello da Motta": [
+        {
+          "ano": "2002",
+          "article": "Improving Meetings by identifying informal roles played by participants",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2001",
+          "article": "Modelling the Cooperative Information Filtering Problem",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "2000",
+          "article": "Modelling the Cooperative Information Filtering",
+          "number_coauthors": 2
+        }
+      ],
+      "Cláudio Chauke Nehme": [
+        {
+          "ano": "1997",
+          "article": "A Temporal Model for Storing Spatiotemporal Pattern Memory in Shunting Cooperative Competive Network ",
+          "number_coauthors": 3
+        }
+      ],
+      "Cláudio Kirner": [
+        {
+          "ano": "1984",
+          "article": "Evolução de Proposta da Linguagem de Programação Concorrente LPC",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1982",
+          "article": "Sistema Operacional Didático: Caracterização e Experiência",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1982",
+          "article": "Implementação dos Mecanismos de Comunicação e Sincronização da Linguagem LPC",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1981",
+          "article": "LPC - Uma Linguagem para Programação Concorrente",
+          "number_coauthors": 3
+        }
+      ],
+      "Felipe Afonso de Almeida": [
+        {
+          "ano": "1987",
+          "article": "ELECTRICAL: Uma Linguagem para Pesquisa em Programação Concorrente",
+          "number_coauthors": 2
+        }
+      ],
+      "Inês de Castro Dutra": [
+        {
+          "ano": "1989",
+          "article": "Um Modelo AND/OR: Uma Avaliação Crítica",
+          "number_coauthors": 4
+        }
+      ],
+      "Leila M. R. Eizirick": [
+        {
+          "ano": "1988",
+          "article": "Um Modelo Conexionista para o Tratamento da Ambiguidade Verbal de um Subconjunto do Português",
+          "number_coauthors": 2
+        }
+      ],
+      "Leila M. Ripoll Eizirick": [
+        {
+          "ano": "1988",
+          "article": "Uma Proposta para Retirar a Ambiguidade de Verbos usando Redes Neuronais",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2002",
+          "article": "Using Previous Knowledge for Stock Market Prediction Baseid on Fundamentalist Analisys with Fuzzy-Neural Network",
+          "number_coauthors": 3
+        }
+      ],
+      "Luís Adauto F. C. Pessoa": [
+        {
+          "ano": "2002",
+          "article": "Using Previous Knowledge for Stock Market Prediction Baseid on Fundamentalist Analisys with Fuzzy-Neural Network",
+          "number_coauthors": 3
+        }
+      ],
+      "Lídia Segre": [
+        {
+          "ano": "1984",
+          "article": "Evolução de Proposta da Linguagem de Programação Concorrente LPC",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1982",
+          "article": "Sistema Operacional Didático: Caracterização e Experiência",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1982",
+          "article": "Implementação dos Mecanismos de Comunicação e Sincronização da Linguagem LPC",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "1981",
+          "article": "LPC - Uma Linguagem para Programação Concorrente",
+          "number_coauthors": 3
+        }
+      ],
+      "Lídia Segre.": [
+        {
+          "ano": "2002",
+          "article": "Using Previous Knowledge for Stock Market Prediction Baseid on Fundamentalist Analisys with Fuzzy-Neural Network",
+          "number_coauthors": 3
+        }
+      ],
+      "Lúcia Lea G. de Oliveira": [
+        {
+          "ano": "1988",
+          "article": "Uma Proposta para Retirar a Ambiguidade de Verbos usando Redes Neuronais",
+          "number_coauthors": 3
+        }
+      ],
+      "Marcos Borges": [
+        {
+          "ano": "1991",
+          "article": "Um Modelo Híbrido de Frames e Hipertextos",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2002",
+          "article": "Improving Meetings by identifying informal roles played by participants",
+          "number_coauthors": 3
+        }
+      ],
+      "Marília Rosa Milan": [
+        {
+          "ano": "1976",
+          "article": "Um Módulo para Manutenção de Base de Dados de um Sistema de Ensino Avaliado por Computador",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1975",
+          "article": "A System for Teaching Programming by Means of a Brazilian Mini-Computer",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1972",
+          "article": "Automatic Proofs for Theorems on Predicate Calculus",
+          "number_coauthors": 2
+        }
+      ],
+      "Mauricio G. Solar Fuentes": [
+        {
+          "ano": "1991",
+          "article": "Algoritmos Genéticos no Aprendizado das Redes Neuronais",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1990",
+          "article": "Un Sistema Experto para Control de Processos en Tiempo Real",
+          "number_coauthors": 2
+        },
+        {
+          "ano": "1991",
+          "article": "Inteligência Artificial e Controle de Processos",
+          "number_coauthors": 2
+        }
+      ],
+      "Maurício G. Solar Fuente": [
+        {
+          "ano": "1989",
+          "article": "Um Modelo AND/OR: Uma Avaliação Crítica",
+          "number_coauthors": 4
+        }
+      ],
+      "Renato Raposo": [
+        {
+          "ano": "2002",
+          "article": "Using Previous Knowledge for Stock Market Prediction Based on Fundamentalist Analysis with Fuzzy-Neural Network",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2004",
+          "article": "Using Frames and Jess with Jervlets for Stock Market Prediction Based on Fundamentalist Analysis with Fuzzy-Neural Networks",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2002",
+          "article": "Using Previous Knowledge for Stock Market Prediction Baseid on Fundamentalist Analisys with Fuzzy-Neural Network",
+          "number_coauthors": 3
+        }
+      ],
+      "Ricardo Bianchini": [
+        {
+          "ano": "1989",
+          "article": "Um Modelo AND/OR: Uma Avaliação Crítica",
+          "number_coauthors": 4
+        }
+      ],
+      "Sheila R. M. Veloso": [
+        {
+          "ano": "1989",
+          "article": "Um Modelo Abstrato para Troca de Mensagens",
+          "number_coauthors": 2
+        }
+      ],
+      "Sheila Regina Murgel Veloso": [
+        {
+          "ano": "1986",
+          "article": "Mecanismos de Troca de Mensagens em Sistemas Dinâmicos e Distribuídos",
+          "number_coauthors": 2
+        }
+      ],
+      "Teresa Cristina de Aguiar": [
+        {
+          "ano": "2004",
+          "article": "Using Frames and Jess with Jervlets for Stock Market Prediction Based on Fundamentalist Analysis with Fuzzy-Neural Networks",
+          "number_coauthors": 3
+        },
+        {
+          "ano": "2004",
+          "article": "Using Frames and Jess with Jervlets for Stock Market Prediction Based on Fundamentalist Analysis with Fuzzy-Neural Networks",
+          "number_coauthors": 3
+        }
+      ],
+      "e Luís Alfredo V. de Carvalho": [
+        {
+          "ano": "1997",
+          "article": "A Temporal Model for Storing Spatiotemporal Pattern Memory in Shunting Cooperative Competive Network ",
+          "number_coauthors": 3
+        }
+      ]
+    },
+    "qnames": [
+      "MENDES",
+      " S. B. T."
     ]
   },
   "Sulamita Klein": {

@@ -2,20 +2,24 @@
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
 <graph edgedefault="undirected"><node id="Antonio Alberto Fernandes de Oliveira"/>
 <node id="Nelson Maculan"/>
+<node id="Clovis Caesar Gonzaga"/>
 <node id="P. Roberto Oliveira"/>
 <node id="Susana Scheimberg"/>
+<node id="Joao Lizardo Rodrigues Hermes de Araujo"/>
 <node id="Paulo A. S. Veloso"/>
 <node id="Sheila Regina Murgel Veloso"/>
+<node id="Luis Paulo Vieira Braga"/>
 <node id="Edil Severiano Tavares Fernandes"/>
 <node id="Felipe M. G. França"/>
 <node id="Adilson Elias Xavier"/>
+<node id="Sueli Bandeira Teixeira Mendes"/>
+<node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Claudio Luis de Amorim"/>
 <node id="Valmir Carneiro Barbosa"/>
 <node id="Jano Moreira de Souza"/>
 <node id="Marta Mattoso"/>
 <node id="Ines de Castro Dutra"/>
 <node id="Priscila Machado Vieira Lima"/>
-<node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Cláudia Maria Lima Werner"/>
 <node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Guilherme Horta Travassos"/>
@@ -50,10 +54,14 @@
 <node id="Henrique Luiz Cukierman"/>
 <node id="Ricardo Marroquim"/>
 <node id="Toacy Cavalcante de Oliveira"/>
+<node id="Claudio Miceli de Farias"/>
 <node id="Franklin L. Marquezino"/>
 <node id="Carlos Eduardo Pedreira"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan">
   <data key="d0">2</data>
+</edge>
+<edge source="Antonio Alberto Fernandes de Oliveira" target="Joao Lizardo Rodrigues Hermes de Araujo">
+  <data key="d0">18</data>
 </edge>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Claudio Esperança">
   <data key="d0">130</data>
@@ -72,6 +80,12 @@
 </edge>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Ricardo Marroquim">
   <data key="d0">16</data>
+</edge>
+<edge source="Nelson Maculan" target="Clovis Caesar Gonzaga">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nelson Maculan" target="Luis Paulo Vieira Braga">
+  <data key="d0">2</data>
 </edge>
 <edge source="Nelson Maculan" target="Adilson Elias Xavier">
   <data key="d0">12</data>
@@ -130,6 +144,9 @@
 <edge source="Paulo A. S. Veloso" target="Mario Roberto Folhadela Benevides">
   <data key="d0">12</data>
 </edge>
+<edge source="Sheila Regina Murgel Veloso" target="Sueli Bandeira Teixeira Mendes">
+  <data key="d0">4</data>
+</edge>
 <edge source="Sheila Regina Murgel Veloso" target="Gerson Zaverucha">
   <data key="d0">8</data>
 </edge>
@@ -173,7 +190,7 @@
   <data key="d0">4</data>
 </edge>
 <edge source="Felipe M. G. França" target="Luis Alfredo Vidal de Carvalho">
-  <data key="d0">2</data>
+  <data key="d0">1</data>
 </edge>
 <edge source="Felipe M. G. França" target="Ricardo C. Farias">
   <data key="d0">2</data>
@@ -181,11 +198,38 @@
 <edge source="Felipe M. G. França" target="Adilson Elias Xavier">
   <data key="d0">22</data>
 </edge>
+<edge source="Adilson Elias Xavier" target="Adilson Elias Xavier">
+  <data key="d0">2</data>
+</edge>
 <edge source="Adilson Elias Xavier" target="Ricardo C. Farias">
   <data key="d0">6</data>
 </edge>
 <edge source="Adilson Elias Xavier" target="Priscila Machado Vieira Lima">
   <data key="d0">22</data>
+</edge>
+<edge source="Sueli Bandeira Teixeira Mendes" target="Ana Regina Cavalcanti da Rocha">
+  <data key="d0">2</data>
+</edge>
+<edge source="Sueli Bandeira Teixeira Mendes" target="Ines de Castro Dutra">
+  <data key="d0">2</data>
+</edge>
+<edge source="Sueli Bandeira Teixeira Mendes" target="Valmir Carneiro Barbosa">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Marta Mattoso">
+  <data key="d0">4</data>
+</edge>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Geraldo Xexéo">
+  <data key="d0">68</data>
+</edge>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Guilherme Horta Travassos">
+  <data key="d0">366</data>
+</edge>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Cláudia Maria Lima Werner">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Claudio Thomas Bornstein">
+  <data key="d0">2</data>
 </edge>
 <edge source="Claudio Luis de Amorim" target="Valmir Carneiro Barbosa">
   <data key="d0">10</data>
@@ -250,9 +294,6 @@
 <edge source="Jano Moreira de Souza" target="Toacy Cavalcante de Oliveira">
   <data key="d0">4</data>
 </edge>
-<edge source="Marta Mattoso" target="Ana Regina Cavalcanti da Rocha">
-  <data key="d0">4</data>
-</edge>
 <edge source="Marta Mattoso" target="Geraldo Zimbrão">
   <data key="d0">12</data>
 </edge>
@@ -290,18 +331,6 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Priscila Machado Vieira Lima" target="Carlos Eduardo Pedreira">
-  <data key="d0">2</data>
-</edge>
-<edge source="Ana Regina Cavalcanti da Rocha" target="Geraldo Xexéo">
-  <data key="d0">68</data>
-</edge>
-<edge source="Ana Regina Cavalcanti da Rocha" target="Guilherme Horta Travassos">
-  <data key="d0">366</data>
-</edge>
-<edge source="Ana Regina Cavalcanti da Rocha" target="Cláudia Maria Lima Werner">
-  <data key="d0">2</data>
-</edge>
-<edge source="Ana Regina Cavalcanti da Rocha" target="Claudio Thomas Bornstein">
   <data key="d0">2</data>
 </edge>
 <edge source="Cláudia Maria Lima Werner" target="Guilherme Horta Travassos">
@@ -391,6 +420,9 @@
 <edge source="Paulo de Figueiredo Pires" target="José Ferreira de Rezende">
   <data key="d0">10</data>
 </edge>
+<edge source="Paulo de Figueiredo Pires" target="Claudio Miceli de Farias">
+  <data key="d0">16</data>
+</edge>
 <edge source="Alexandre A. B. Lima" target="Claudio Esperança">
   <data key="d0">8</data>
 </edge>
@@ -426,5 +458,11 @@
 </edge>
 <edge source="Abilio Lucena" target="Luidi Simonetti">
   <data key="d0">66</data>
+</edge>
+<edge source="Flávia Coimbra Delicato" target="Claudio Miceli de Farias">
+  <data key="d0">70</data>
+</edge>
+<edge source="Ricardo Marroquim" target="Ricardo Marroquim">
+  <data key="d0">5</data>
 </edge>
 </graph></graphml>

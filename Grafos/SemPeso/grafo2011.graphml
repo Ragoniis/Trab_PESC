@@ -1,20 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Antonio Alberto Fernandes de Oliveira"/>
 <node id="Nelson Maculan"/>
+<node id="Clovis Caesar Gonzaga"/>
 <node id="P. Roberto Oliveira"/>
 <node id="Susana Scheimberg"/>
+<node id="Joao Lizardo Rodrigues Hermes de Araujo"/>
 <node id="Paulo A. S. Veloso"/>
 <node id="Sheila Regina Murgel Veloso"/>
+<node id="Luis Paulo Vieira Braga"/>
 <node id="Edil Severiano Tavares Fernandes"/>
 <node id="Felipe M. G. França"/>
 <node id="Adilson Elias Xavier"/>
+<node id="Sueli Bandeira Teixeira Mendes"/>
+<node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Claudio Luis de Amorim"/>
 <node id="Valmir Carneiro Barbosa"/>
 <node id="Jano Moreira de Souza"/>
 <node id="Marta Mattoso"/>
 <node id="Ines de Castro Dutra"/>
 <node id="Priscila Machado Vieira Lima"/>
-<node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Cláudia Maria Lima Werner"/>
 <node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Guilherme Horta Travassos"/>
@@ -49,13 +53,17 @@
 <node id="Henrique Luiz Cukierman"/>
 <node id="Ricardo Marroquim"/>
 <node id="Toacy Cavalcante de Oliveira"/>
+<node id="Claudio Miceli de Farias"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan"/>
+<edge source="Antonio Alberto Fernandes de Oliveira" target="Joao Lizardo Rodrigues Hermes de Araujo"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Claudio Esperança"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Paulo Roma Cavalcanti"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Ricardo C. Farias"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Adilson Elias Xavier"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Geraldo Zimbrão"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Ricardo Marroquim"/>
+<edge source="Nelson Maculan" target="Clovis Caesar Gonzaga"/>
+<edge source="Nelson Maculan" target="Luis Paulo Vieira Braga"/>
 <edge source="Nelson Maculan" target="Adilson Elias Xavier"/>
 <edge source="Nelson Maculan" target="Jayme Luiz Szwarcfiter"/>
 <edge source="Nelson Maculan" target="Marcia Helena Costa Fampa"/>
@@ -74,6 +82,7 @@
 <edge source="P. Roberto Oliveira" target="Geraldo Zimbrão"/>
 <edge source="Susana Scheimberg" target="Edmundo de Souza e Silva"/>
 <edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso"/>
+<edge source="Sheila Regina Murgel Veloso" target="Sueli Bandeira Teixeira Mendes"/>
 <edge source="Sheila Regina Murgel Veloso" target="Gerson Zaverucha"/>
 <edge source="Sheila Regina Murgel Veloso" target="Mario Roberto Folhadela Benevides"/>
 <edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França"/>
@@ -91,7 +100,16 @@
 <edge source="Felipe M. G. França" target="Luis Alfredo Vidal de Carvalho"/>
 <edge source="Felipe M. G. França" target="Ricardo C. Farias"/>
 <edge source="Felipe M. G. França" target="Adilson Elias Xavier"/>
+<edge source="Adilson Elias Xavier" target="Adilson Elias Xavier"/>
 <edge source="Adilson Elias Xavier" target="Ricardo C. Farias"/>
+<edge source="Sueli Bandeira Teixeira Mendes" target="Ana Regina Cavalcanti da Rocha"/>
+<edge source="Sueli Bandeira Teixeira Mendes" target="Ines de Castro Dutra"/>
+<edge source="Sueli Bandeira Teixeira Mendes" target="Valmir Carneiro Barbosa"/>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Marta Mattoso"/>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Geraldo Xexéo"/>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Guilherme Horta Travassos"/>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Cláudia Maria Lima Werner"/>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Claudio Thomas Bornstein"/>
 <edge source="Claudio Luis de Amorim" target="Valmir Carneiro Barbosa"/>
 <edge source="Claudio Luis de Amorim" target="Ines de Castro Dutra"/>
 <edge source="Claudio Luis de Amorim" target="Priscila Machado Vieira Lima"/>
@@ -109,7 +127,6 @@
 <edge source="Jano Moreira de Souza" target="Geraldo Zimbrão"/>
 <edge source="Jano Moreira de Souza" target="Henrique Luiz Cukierman"/>
 <edge source="Jano Moreira de Souza" target="Ricardo C. Farias"/>
-<edge source="Marta Mattoso" target="Ana Regina Cavalcanti da Rocha"/>
 <edge source="Marta Mattoso" target="Geraldo Zimbrão"/>
 <edge source="Marta Mattoso" target="Paulo de Figueiredo Pires"/>
 <edge source="Marta Mattoso" target="Alexandre A. B. Lima"/>
@@ -121,10 +138,6 @@
 <edge source="Marta Mattoso" target="Ines de Castro Dutra"/>
 <edge source="Ines de Castro Dutra" target="Priscila Machado Vieira Lima"/>
 <edge source="Ines de Castro Dutra" target="Vítor Manuel de Morais Santos Costa"/>
-<edge source="Ana Regina Cavalcanti da Rocha" target="Geraldo Xexéo"/>
-<edge source="Ana Regina Cavalcanti da Rocha" target="Guilherme Horta Travassos"/>
-<edge source="Ana Regina Cavalcanti da Rocha" target="Cláudia Maria Lima Werner"/>
-<edge source="Ana Regina Cavalcanti da Rocha" target="Claudio Thomas Bornstein"/>
 <edge source="Cláudia Maria Lima Werner" target="Guilherme Horta Travassos"/>
 <edge source="Cláudia Maria Lima Werner" target="Gerson Zaverucha"/>
 <edge source="Cláudia Maria Lima Werner" target="Geraldo Xexéo"/>
@@ -152,6 +165,7 @@
 <edge source="Rosa Maria Meri Leão" target="Daniel R. Figueiredo"/>
 <edge source="Paulo de Figueiredo Pires" target="Flávia Coimbra Delicato"/>
 <edge source="Paulo de Figueiredo Pires" target="José Ferreira de Rezende"/>
+<edge source="Paulo de Figueiredo Pires" target="Claudio Miceli de Farias"/>
 <edge source="Alexandre A. B. Lima" target="Claudio Esperança"/>
 <edge source="Claudio Esperança" target="Paulo Roma Cavalcanti"/>
 <edge source="Claudio Esperança" target="Ricardo C. Farias"/>
@@ -164,4 +178,6 @@
 <edge source="José Ferreira de Rezende" target="Flávia Coimbra Delicato"/>
 <edge source="José Ferreira de Rezende" target="José Ferreira de Rezende"/>
 <edge source="Abilio Lucena" target="Luidi Simonetti"/>
+<edge source="Flávia Coimbra Delicato" target="Claudio Miceli de Farias"/>
+<edge source="Ricardo Marroquim" target="Ricardo Marroquim"/>
 </graph></graphml>

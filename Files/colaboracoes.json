@@ -241,6 +241,22 @@
     ]
   },
   "Adilson Elias Xavier": {
+    "Adilson Elias Xavier": [
+      {
+        "number_coauthors": 5,
+        "title": [
+          "a study on the universal access to vaccines in brazil"
+        ],
+        "year": "2008"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "a study on the universal access to vaccines in brazil"
+        ],
+        "year": "2009"
+      }
+    ],
     "Antonio Alberto Fernandes de Oliveira": [
       {
         "number_coauthors": 2,
@@ -1221,6 +1237,15 @@
         ],
         "year": "1989"
       }
+    ],
+    "Sueli Bandeira Teixeira Mendes": [
+      {
+        "number_coauthors": 2,
+        "title": [
+          "paradigmas de ambientes de programação"
+        ],
+        "year": "1987"
+      }
     ]
   },
   "Antonio Alberto Fernandes de Oliveira": {
@@ -1564,6 +1589,64 @@
           "autonomic business processes scalable architecture"
         ],
         "year": "2008"
+      }
+    ],
+    "Joao Lizardo Rodrigues Hermes de Araujo": [
+      {
+        "number_coauthors": 2,
+        "title": [
+          "the brazilian electricity reform: issues and perils"
+        ],
+        "year": "1997"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "privatization of the brazilian energy industries: the regulatory challenge"
+        ],
+        "year": "1996"
+      },
+      {
+        "number_coauthors": 2,
+        "title": [
+          "de-regulation (and re-regulation) of the brazilian energy industries"
+        ],
+        "year": "1996"
+      },
+      {
+        "number_coauthors": 2,
+        "title": [
+          "a controversia sobre os contratos de risco"
+        ],
+        "year": "1981"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "impasse atual e perspectiva a largo prazo da politica energetica no brasil"
+        ],
+        "year": "1980"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "a greedy randomized adaptive search procedure for transmission expansion planning"
+        ],
+        "year": "2001"
+      },
+      {
+        "number_coauthors": 2,
+        "title": [
+          "respostas do setor industrial brasileiro ao choque do petroleo e a recessao"
+        ],
+        "year": "1984"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "o sonho nacional: petróleo e eletricidade (1954-1994)"
+        ],
+        "year": "1994"
       }
     ],
     "Nelson Maculan Filho": [
@@ -2095,6 +2178,7 @@
       }
     ]
   },
+  "Celso de Renna e Souza": {},
   "Claudia Maria Lima Werner": {
     "Ana Regina Cavalcanti da Rocha": [
       {
@@ -3529,6 +3613,294 @@
       }
     ]
   },
+  "Claudio Miceli de Farias": {
+    "Flávia Coimbra Delicato": [
+      {
+        "number_coauthors": 7,
+        "title": [
+          "sistema de detecção de intrusão imuno-inspirado customizado para redes de sensores sem fio"
+        ],
+        "year": "2010"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "using mda for building wireless sensor network applications"
+        ],
+        "year": "2010"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "conde: um sistema de controle e decisão para ediifíios inteligentes usando redes de sensores e atuadores sem fio"
+        ],
+        "year": "2012"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "camaw: a clustering algorithm for multiple applications in wireless sensor and actuator networks"
+        ],
+        "year": "2015"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "a density-based decision-making data fusion method for multiapplication wireless sensor networks"
+        ],
+        "year": "2019"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "web das coisas: conectando dispositivos físicos ao mundo digital."
+        ],
+        "year": "2011"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "s-leach: a leach extension for shared sensor networks"
+        ],
+        "year": "2015"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "a holistic approach to challenges in industry 4.0"
+        ],
+        "year": "2018"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "sistema de detecção de intrusão imuno-inspirado customizado para redes de sensores sem fio"
+        ],
+        "year": "2010"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "a model-based approach for building ubiquitous applications based on wireless sensor networks"
+        ],
+        "year": "2010"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "model-driven development of wireless sensor network applications"
+        ],
+        "year": "2011"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "sistema de controle e decisão para edifícios inteligentes usando redes de sensores e atuadores sem fio"
+        ],
+        "year": "2012"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "information fusion techniques applied to shared sensor and actuator networks"
+        ],
+        "year": "2012"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "a scheduling algorithm for shared sensor and actuator networks"
+        ],
+        "year": "2013"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "dsl e metodologia para construção de aplicações ubíquas"
+        ],
+        "year": "2013"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "a control and decision system for smart buildings"
+        ],
+        "year": "2013"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "multisensor data fusion in shared sensor and actuator networks"
+        ],
+        "year": "2014"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "web2compile-cot: a web ide for the cloud of things"
+        ],
+        "year": "2015"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "theseus: a routing system for shared sensor networks"
+        ],
+        "year": "2015"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "hephaestus: a multisensor data fusion algorithm for multiple applications on wireless sensor networks"
+        ],
+        "year": "2016"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "grown: a control and decision system for smart greenhouses using wireless sensor networks"
+        ],
+        "year": "2017"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "a multisensor data fusion algorithm using the hidden correlations in multiapplication wireless sensor data streams"
+        ],
+        "year": "2017"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "dpcas: data prediction with cubic adaptive sampling for wireless sensor networks"
+        ],
+        "year": "2017"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "density based multisensor data fusion for multiapplication wireless sensor networks"
+        ],
+        "year": "2018"
+      },
+      {
+        "number_coauthors": 9,
+        "title": [
+          "intrusion detection system for wireless sensor networks using danger theory immune-inspired techniques"
+        ],
+        "year": "2012"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "efficient allocation of resources in multiple heterogeneous wireless sensor networks"
+        ],
+        "year": "2014"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "a systematic review of shared sensor networks"
+        ],
+        "year": "2016"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "web das coisas: conectando dispositivos físicos ao mundo digital"
+        ],
+        "year": "2011"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "seraph: service allocation algorithm for the execution of multiple applications in heterogeneous shared sensor and actuator networks"
+        ],
+        "year": "2016"
+      }
+    ],
+    "Paulo de Figueiredo Pires": [
+      {
+        "number_coauthors": 8,
+        "title": [
+          "model-driven development of wireless sensor network applications"
+        ],
+        "year": "2011"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "a model-based approach for building ubiquitous applications based on wireless sensor networks"
+        ],
+        "year": "2010"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "dsl e metodologia para construção de aplicações ubíquas"
+        ],
+        "year": "2013"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "hephaestus: a multisensor data fusion algorithm for multiple applications on wireless sensor networks"
+        ],
+        "year": "2016"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "efficient allocation of resources in multiple heterogeneous wireless sensor networks"
+        ],
+        "year": "2014"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "web das coisas: conectando dispositivos físicos ao mundo"
+        ],
+        "year": "2011"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "challenges in the use of wireless sensor networks for monitoring the health of civil structures"
+        ],
+        "year": "2013"
+      }
+    ],
+    "Priscila Machado Vieira Lima": [
+      {
+        "number_coauthors": 5,
+        "title": [
+          "modeling sparse data as input for weightless neural network"
+        ],
+        "year": "2019"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "zeus: a resource allocation algorithm for the cloud of sensors"
+        ],
+        "year": "2019"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "modeling sparse data as input for weightless neural network"
+        ],
+        "year": "2019"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "prescription of rhythmic patterns for legged locomotion"
+        ],
+        "year": "2016"
+      }
+    ]
+  },
   "Claudio Thomas Bornstein": {
     "Abilio Pereira de Lucena Filho": [
       {
@@ -3657,6 +4029,17 @@
           "multiobjective combinatorial optimization problems with a cost and several bottleneck objective functions: an algorithm with reoptimization"
         ],
         "year": "2012"
+      }
+    ]
+  },
+  "Clovis Caesar Gonzaga": {
+    "Nelson Maculan Filho": [
+      {
+        "number_coauthors": 3,
+        "title": [
+          "localização ótima de torres de transmissão utilizando teoria dos grafos"
+        ],
+        "year": "1979"
       }
     ]
   },
@@ -5059,15 +5442,6 @@
         "year": "2019"
       }
     ],
-    "Luis Alfredo Vidal de Carvalho": [
-      {
-        "number_coauthors": 2,
-        "title": [
-          "cooperative control for ground traffic at airports"
-        ],
-        "year": "2009"
-      }
-    ],
     "Luis Felipe Magalhães de Moraes": [
       {
         "number_coauthors": 8,
@@ -5574,6 +5948,211 @@
           "seleção de nó raiz ótimo para sincronização eficiente de relógios em redes de sensores sem fio"
         ],
         "year": "2018"
+      }
+    ],
+    "Claudio Miceli de Farias": [
+      {
+        "number_coauthors": 7,
+        "title": [
+          "sistema de detecção de intrusão imuno-inspirado customizado para redes de sensores sem fio"
+        ],
+        "year": "2010"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "using mda for building wireless sensor network applications"
+        ],
+        "year": "2010"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "conde: um sistema de controle e decisão para ediifíios inteligentes usando redes de sensores e atuadores sem fio"
+        ],
+        "year": "2012"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "camaw: a clustering algorithm for multiple applications in wireless sensor and actuator networks"
+        ],
+        "year": "2015"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "a density-based decision-making data fusion method for multiapplication wireless sensor networks"
+        ],
+        "year": "2019"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "web das coisas: conectando dispositivos físicos ao mundo digital."
+        ],
+        "year": "2011"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "s-leach: a leach extension for shared sensor networks"
+        ],
+        "year": "2015"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "a holistic approach to challenges in industry 4.0"
+        ],
+        "year": "2018"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "sistema de detecção de intrusão imuno-inspirado customizado para redes de sensores sem fio"
+        ],
+        "year": "2010"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "a model-based approach for building ubiquitous applications based on wireless sensor networks"
+        ],
+        "year": "2010"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "model-driven development of wireless sensor network applications"
+        ],
+        "year": "2011"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "sistema de controle e decisão para edifícios inteligentes usando redes de sensores e atuadores sem fio"
+        ],
+        "year": "2012"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "information fusion techniques applied to shared sensor and actuator networks"
+        ],
+        "year": "2012"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "a scheduling algorithm for shared sensor and actuator networks"
+        ],
+        "year": "2013"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "dsl e metodologia para construção de aplicações ubíquas"
+        ],
+        "year": "2013"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "a control and decision system for smart buildings"
+        ],
+        "year": "2013"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "multisensor data fusion in shared sensor and actuator networks"
+        ],
+        "year": "2014"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "web2compile-cot: a web ide for the cloud of things"
+        ],
+        "year": "2015"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "theseus: a routing system for shared sensor networks"
+        ],
+        "year": "2015"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "hephaestus: a multisensor data fusion algorithm for multiple applications on wireless sensor networks"
+        ],
+        "year": "2016"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "grown: a control and decision system for smart greenhouses using wireless sensor networks"
+        ],
+        "year": "2017"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "a multisensor data fusion algorithm using the hidden correlations in multiapplication wireless sensor data streams"
+        ],
+        "year": "2017"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "dpcas: data prediction with cubic adaptive sampling for wireless sensor networks"
+        ],
+        "year": "2017"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "density based multisensor data fusion for multiapplication wireless sensor networks"
+        ],
+        "year": "2018"
+      },
+      {
+        "number_coauthors": 9,
+        "title": [
+          "intrusion detection system for wireless sensor networks using danger theory immune-inspired techniques"
+        ],
+        "year": "2012"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "efficient allocation of resources in multiple heterogeneous wireless sensor networks"
+        ],
+        "year": "2014"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "a systematic review of shared sensor networks"
+        ],
+        "year": "2016"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "web das coisas: conectando dispositivos físicos ao mundo digital"
+        ],
+        "year": "2011"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "seraph: service allocation algorithm for the execution of multiple applications in heterogeneous shared sensor and actuator networks"
+        ],
+        "year": "2016"
       }
     ],
     "Felipe Maia Galvão França": [
@@ -9350,6 +9929,15 @@
         "year": "1997"
       }
     ],
+    "Sueli Bandeira Teixeira Mendes": [
+      {
+        "number_coauthors": 4,
+        "title": [
+          "um modelo and/or: uma avaliação crítica"
+        ],
+        "year": "1989"
+      }
+    ],
     "Vítor Manuel de Morais Santos Costa": [
       {
         "number_coauthors": 4,
@@ -11410,6 +11998,66 @@
       }
     ]
   },
+  "Joao Lizardo Rodrigues Hermes de Araujo": {
+    "Antonio Alberto Fernandes de Oliveira": [
+      {
+        "number_coauthors": 2,
+        "title": [
+          "the brazilian electricity reform: issues and perils"
+        ],
+        "year": "1997"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "privatization of the brazilian energy industries: the regulatory challenge"
+        ],
+        "year": "1996"
+      },
+      {
+        "number_coauthors": 2,
+        "title": [
+          "de-regulation (and re-regulation) of the brazilian energy industries"
+        ],
+        "year": "1996"
+      },
+      {
+        "number_coauthors": 2,
+        "title": [
+          "a controversia sobre os contratos de risco"
+        ],
+        "year": "1981"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "impasse atual e perspectiva a largo prazo da politica energetica no brasil"
+        ],
+        "year": "1980"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "a greedy randomized adaptive search procedure for transmission expansion planning"
+        ],
+        "year": "2001"
+      },
+      {
+        "number_coauthors": 2,
+        "title": [
+          "respostas do setor industrial brasileiro ao choque do petroleo e a recessao"
+        ],
+        "year": "1984"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "o sonho nacional: petróleo e eletricidade (1954-1994)"
+        ],
+        "year": "1994"
+      }
+    ]
+  },
   "José Ferreira de Rezende": {
     "Flávia Coimbra Delicato": [
       {
@@ -12423,6 +13071,17 @@
           "teoria espectral dos grafos e 2-emparelhamentos"
         ],
         "year": "1999"
+      }
+    ]
+  },
+  "Luis Paulo Vieira Braga": {
+    "Nelson Maculan Filho": [
+      {
+        "number_coauthors": 2,
+        "title": [
+          "aspectos computacionais em programação linear"
+        ],
+        "year": "1981"
       }
     ]
   },
@@ -13962,6 +14621,15 @@
         "year": "2012"
       }
     ],
+    "Clovis Caesar Gonzaga": [
+      {
+        "number_coauthors": 3,
+        "title": [
+          "localização ótima de torres de transmissão utilizando teoria dos grafos"
+        ],
+        "year": "1979"
+      }
+    ],
     "Felipe Maia Galvão França": [
       {
         "number_coauthors": 5,
@@ -14138,6 +14806,15 @@
           "searching and analysing neuropsychological patterns in schizophrenia with artificial neural networks"
         ],
         "year": "2000"
+      }
+    ],
+    "Luis Paulo Vieira Braga": [
+      {
+        "number_coauthors": 2,
+        "title": [
+          "aspectos computacionais em programação linear"
+        ],
+        "year": "1981"
       }
     ],
     "Marcia Helena Costa Fampa": [
@@ -15121,6 +15798,57 @@
     ]
   },
   "Paulo de Figueiredo Pires": {
+    "Claudio Miceli de Farias": [
+      {
+        "number_coauthors": 8,
+        "title": [
+          "model-driven development of wireless sensor network applications"
+        ],
+        "year": "2011"
+      },
+      {
+        "number_coauthors": 8,
+        "title": [
+          "a model-based approach for building ubiquitous applications based on wireless sensor networks"
+        ],
+        "year": "2010"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "dsl e metodologia para construção de aplicações ubíquas"
+        ],
+        "year": "2013"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "hephaestus: a multisensor data fusion algorithm for multiple applications on wireless sensor networks"
+        ],
+        "year": "2016"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "efficient allocation of resources in multiple heterogeneous wireless sensor networks"
+        ],
+        "year": "2014"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "web das coisas: conectando dispositivos físicos ao mundo"
+        ],
+        "year": "2011"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "challenges in the use of wireless sensor networks for monitoring the health of civil structures"
+        ],
+        "year": "2013"
+      }
+    ],
     "Flávia Coimbra Delicato": [
       {
         "number_coauthors": 5,
@@ -16297,6 +17025,36 @@
         "year": "2008"
       }
     ],
+    "Claudio Miceli de Farias": [
+      {
+        "number_coauthors": 5,
+        "title": [
+          "modeling sparse data as input for weightless neural network"
+        ],
+        "year": "2019"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "zeus: a resource allocation algorithm for the cloud of sensors"
+        ],
+        "year": "2019"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "modeling sparse data as input for weightless neural network"
+        ],
+        "year": "2019"
+      },
+      {
+        "number_coauthors": 6,
+        "title": [
+          "prescription of rhythmic patterns for legged locomotion"
+        ],
+        "year": "2016"
+      }
+    ],
     "Felipe Maia Galvão França": [
       {
         "number_coauthors": 4,
@@ -17193,6 +17951,113 @@
           "hardware-assisted projected tetrahedra"
         ],
         "year": "2010"
+      }
+    ],
+    "Ricardo Guerra Marroquim": [
+      {
+        "number_coauthors": 4,
+        "title": [
+          "texturing 3d models with low geometric features"
+        ],
+        "year": "2011"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "3d digitalization of scientific instruments ? the case of the bamberg meridian circle"
+        ],
+        "year": "2012"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "lazy work stealing for continuous hierarchy traversal on deformable bodies"
+        ],
+        "year": "2014"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "digitising ivory artefacts at the national history museum in brazil"
+        ],
+        "year": "2017"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "a practical and efficient approach for correct z-pass stencil shadow volumes"
+        ],
+        "year": "2019"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "what is the reddening effect and does it really exist?"
+        ],
+        "year": "2019"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "flow-based local optimization for image-to-geometry projection"
+        ],
+        "year": "2012"
+      },
+      {
+        "number_coauthors": 7,
+        "title": [
+          "generation of 3d ultrasound biomicroscopic images: technique validation and in vivo volumetric imaging of rat lateral gastrocnemius"
+        ],
+        "year": "2015"
+      },
+      {
+        "number_coauthors": 5,
+        "title": [
+          "interactive cutaways of oil reservoirs"
+        ],
+        "year": "2016"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "graph-based interactive volume exploration"
+        ],
+        "year": "2016"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "dilight: digital light table &#45; inbetweening for 2d animations using guidelines"
+        ],
+        "year": "2017"
+      },
+      {
+        "number_coauthors": 4,
+        "title": [
+          "assisted color acquisition for 3d models"
+        ],
+        "year": "2017"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "acquisition and validation of spectral ground truth data for predictive rendering of rough surfaces"
+        ],
+        "year": "2018"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "digitizing 3d historical scientific instruments with laser and photographic technologies"
+        ],
+        "year": "2016"
+      },
+      {
+        "number_coauthors": 3,
+        "title": [
+          "omicron - oblique multipass hierarchy creation while navigating"
+        ],
+        "year": "2019"
       }
     ]
   },
@@ -18343,6 +19208,67 @@
         ],
         "year": "2011"
       }
+    ],
+    "Sueli Bandeira Teixeira Mendes": [
+      {
+        "number_coauthors": 2,
+        "title": [
+          "um modelo abstrato para troca de mensagens"
+        ],
+        "year": "1989"
+      },
+      {
+        "number_coauthors": 2,
+        "title": [
+          "mecanismos de troca de mensagens em sistemas dinâmicos e distribuídos"
+        ],
+        "year": "1986"
+      }
+    ]
+  },
+  "Sueli Bandeira Teixeira Mendes": {
+    "Ana Regina Cavalcanti da Rocha": [
+      {
+        "number_coauthors": 2,
+        "title": [
+          "paradigmas de ambientes de programação"
+        ],
+        "year": "1987"
+      }
+    ],
+    "Ines de Castro Dutra": [
+      {
+        "number_coauthors": 4,
+        "title": [
+          "um modelo and/or: uma avaliação crítica"
+        ],
+        "year": "1989"
+      }
+    ],
+    "Sheila Regina Murgel Veloso": [
+      {
+        "number_coauthors": 2,
+        "title": [
+          "um modelo abstrato para troca de mensagens"
+        ],
+        "year": "1989"
+      },
+      {
+        "number_coauthors": 2,
+        "title": [
+          "mecanismos de troca de mensagens em sistemas dinâmicos e distribuídos"
+        ],
+        "year": "1986"
+      }
+    ],
+    "Valmir Carneiro Barbosa": [
+      {
+        "number_coauthors": 3,
+        "title": [
+          "a bayesian-network approach to lexical disambiguation"
+        ],
+        "year": "1993"
+      }
     ]
   },
   "Sulamita Klein": {
@@ -19266,6 +20192,15 @@
           "on the distributed parallel simulation of hopfield's neural networks"
         ],
         "year": "1990"
+      }
+    ],
+    "Sueli Bandeira Teixeira Mendes": [
+      {
+        "number_coauthors": 3,
+        "title": [
+          "a bayesian-network approach to lexical disambiguation"
+        ],
+        "year": "1993"
       }
     ],
     "Vítor Manuel de Morais Santos Costa": [

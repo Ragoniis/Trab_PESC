@@ -1,4 +1,317 @@
 {
+  "nodes": [
+    {
+      "id": "Abilio Pereira de Lucena Filho",
+      "entry_date": "2012",
+      "field": "Otimização"
+    },
+    {
+      "id": "Adilson Elias Xavier",
+      "entry_date": "1992",
+      "field": "Otimização"
+    },
+    {
+      "id": "Alexandre de Assis Bento Lima",
+      "entry_date": "2010",
+      "field": "Engenharia de Dados e Conhecimento"
+    },
+    {
+      "id": "Ana Regina Cavalcanti da Rocha",
+      "entry_date": "1985",
+      "field": "Engenharia de Software"
+    },
+    {
+      "id": "Antonio Alberto Fernandes de Oliveira",
+      "entry_date": "1975",
+      "field": "Computação Gráfica"
+    },
+    {
+      "id": "Carlos Eduardo Pedreira",
+      "entry_date": "2014",
+      "field": "Inteligência Artificial"
+    },
+    {
+      "id": "Celina Miraglia Herrera de Figueiredo",
+      "entry_date": "1991",
+      "field": "Algoritmos e Combinatória"
+    },
+    {
+      "id": "Celso de Renna e Souza",
+      "entry_date": "1970",
+      "field": "Otimização"
+    },
+    {
+      "id": "Claudia Maria Lima Werner",
+      "entry_date": "1994",
+      "field": "Engenharia de Software"
+    },
+    {
+      "id": "Claudio Esperança",
+      "entry_date": "1998",
+      "field": "Computação Gráfica"
+    },
+    {
+      "id": "Claudio Luis de Amorim",
+      "entry_date": "1985",
+      "field": "Arquitetura e Sistemas Operacionais"
+    },
+    {
+      "id": "Claudio Thomas Bornstein",
+      "entry_date": "1976",
+      "field": "Otimização"
+    },
+    {
+      "id": "Claudio Miceli de Farias",
+      "entry_date": "2020",
+      "field": "Engenharia de Software"
+    },
+    {
+      "id": "Clovis Caesar Gonzaga",
+      "entry_date": "1970",
+      "field": "Otimização"
+    },
+    {
+      "id": "Daniel Ratton Figueiredo",
+      "entry_date": "2007",
+      "field": "Redes de Computadores"
+    },
+    {
+      "id": "Edil Severiano Tavares Fernandes",
+      "entry_date": "1975",
+      "field": "Arquitetura e Sistemas Operacionais"
+    },
+    {
+      "id": "Edmundo Albuquerque de Souza e Silva",
+      "entry_date": "1989",
+      "field": "Redes de Computadores"
+    },
+    {
+      "id": "Eliseu Monteiro Chaves Filho",
+      "entry_date": "1998",
+      "field": "Arquitetura e Sistemas Operacionais"
+    },
+    {
+      "id": "Ernesto Prado Lopes",
+      "entry_date": "1994",
+      "field": "Otimização"
+    },
+    {
+      "id": "Felipe Maia Galvão França",
+      "entry_date": "1996",
+      "field": "Inteligência Artificial"
+    },
+    {
+      "id": "Flávia Coimbra Delicato",
+      "entry_date": "2018",
+      "field": "Engenharia de Dados e Conhecimento"
+    },
+    {
+      "id": "Franklin de Lima Marquezino",
+      "entry_date": "2011",
+      "field": "Algoritmos e Combinatória"
+    },
+    {
+      "id": "Fábio Happ Botler",
+      "entry_date": "2018",
+      "field": "Algoritmos e Combinatória"
+    },
+    {
+      "id": "Geraldo Bonorino Xexéo",
+      "entry_date": "1995",
+      "field": "Engenharia de Dados e Conhecimento"
+    },
+    {
+      "id": "Geraldo Zimbrao da Silva",
+      "entry_date": "2000",
+      "field": "Engenharia de Dados e Conhecimento"
+    },
+    {
+      "id": "Gerson Zaverucha",
+      "entry_date": "1993",
+      "field": "Inteligência Artificial"
+    },
+    {
+      "id": "Guilherme Horta Travassos",
+      "entry_date": "1996",
+      "field": "Engenharia de Software"
+    },
+    {
+      "id": "Henrique Luiz Cukierman",
+      "entry_date": "2002",
+      "field": "Informática e Sociedade"
+    },
+    {
+      "id": "Ines de Castro Dutra",
+      "entry_date": "1995",
+      "field": "Inteligência Artificial"
+    },
+    {
+      "id": "Jano Moreira de Souza",
+      "entry_date": "1976",
+      "field": "Engenharia de Dados e Conhecimento"
+    },
+    {
+      "id": "Jayme Luiz Szwarcfiter",
+      "entry_date": "1971",
+      "field": "Algoritmos e Combinatória"
+    },
+    {
+      "id": "Joao Lizardo Rodrigues Hermes de Araujo",
+      "entry_date": "1970",
+      "field": "Otimização"
+    },
+    {
+      "id": "José Ferreira de Rezende",
+      "entry_date": "2014",
+      "field": "Redes de Computadores"
+    },
+    {
+      "id": "Laura Silvia Bahiense da Silva Leite",
+      "entry_date": "2018",
+      "field": "Otimização"
+    },
+    {
+      "id": "Lidia Micaela Segre",
+      "entry_date": "1977",
+      "field": "Informática e Sociedade"
+    },
+    {
+      "id": "Luidi Gelabert Simonetti",
+      "entry_date": "2015",
+      "field": "Otimização"
+    },
+    {
+      "id": "Luis Alfredo Vidal de Carvalho",
+      "entry_date": "1985",
+      "field": "Inteligência Artificial"
+    },
+    {
+      "id": "Luis Felipe Magalhães de Moraes",
+      "entry_date": "1995",
+      "field": "Redes de Computadores"
+    },
+    {
+      "id": "Luis Paulo Vieira Braga",
+      "entry_date": "1977",
+      "field": "Otimização"
+    },
+    {
+      "id": "Marcia Helena Costa Fampa",
+      "entry_date": "1997",
+      "field": "Otimização"
+    },
+    {
+      "id": "Mario Roberto Folhadela Benevides",
+      "entry_date": "1991",
+      "field": "Inteligência Artificial"
+    },
+    {
+      "id": "Marta Lima de Queiros Mattoso",
+      "entry_date": "1994",
+      "field": "Engenharia de Dados e Conhecimento"
+    },
+    {
+      "id": "Márcia Rosana Cerioli",
+      "entry_date": "2000",
+      "field": "Algoritmos e Combinatória"
+    },
+    {
+      "id": "Nelson Maculan Filho",
+      "entry_date": "1971",
+      "field": "Otimização"
+    },
+    {
+      "id": "Paulo Augusto Silva Veloso",
+      "entry_date": "1975",
+      "field": "Inteligência Artificial"
+    },
+    {
+      "id": "Paulo Roberto Oliveira",
+      "entry_date": "1990",
+      "field": "Otimização"
+    },
+    {
+      "id": "Paulo Roma Cavalcanti",
+      "entry_date": "1994",
+      "field": "Computação Gráfica"
+    },
+    {
+      "id": "Paulo de Figueiredo Pires",
+      "entry_date": "2018",
+      "field": "Engenharia de Dados e Conhecimento"
+    },
+    {
+      "id": "Priscila Machado Vieira Lima",
+      "entry_date": "2019",
+      "field": "Otimização"
+    },
+    {
+      "id": "Regina Sandra Burachik",
+      "entry_date": "1996",
+      "field": "Otimização"
+    },
+    {
+      "id": "Ricardo Farias",
+      "entry_date": "2003",
+      "field": "Computação Gráfica"
+    },
+    {
+      "id": "Ricardo Guerra Marroquim",
+      "entry_date": "2009",
+      "field": "Computação Gráfica"
+    },
+    {
+      "id": "Rosa Maria Meri Leão",
+      "entry_date": "1997",
+      "field": "Redes de Computadores"
+    },
+    {
+      "id": "Rubem P Mondaini",
+      "entry_date": "1998",
+      "field": "Otimização"
+    },
+    {
+      "id": "Severino Collier Coutinho",
+      "entry_date": "1989",
+      "field": "Algoritmos e Combinatória"
+    },
+    {
+      "id": "Sheila Regina Murgel Veloso",
+      "entry_date": "1978",
+      "field": "Inteligência Artificial"
+    },
+    {
+      "id": "Sueli Bandeira Teixeira Mendes",
+      "entry_date": "1978",
+      "field": "Inteligência Artificial"
+    },
+    {
+      "id": "Sulamita Klein",
+      "entry_date": "1995",
+      "field": "Algoritmos e Combinatória"
+    },
+    {
+      "id": "Susana Scheimberg de Makler",
+      "entry_date": "1988",
+      "field": "Otimização"
+    },
+    {
+      "id": "Toacy Cavalcante de Oliveira",
+      "entry_date": "2010",
+      "field": "Engenharia de Software"
+    },
+    {
+      "id": "Valmir Carneiro Barbosa",
+      "entry_date": "1986",
+      "field": "Inteligência Artificial"
+    },
+    {
+      "id": "Vítor Manuel de Morais Santos Costa",
+      "entry_date": "1999",
+      "field": "Inteligência Artificial"
+    }
+  ],
+
   "publications": [
     {
       "authors": [
@@ -228,6 +541,14 @@
       ],
       "date": "2011",
       "id": "relax-and-cut as a preprocessor and warm starter to branch-and-cut"
+    },
+    {
+      "authors": [
+        "Adilson Elias Xavier",
+        "Adilson Elias Xavier"
+      ],
+      "date": "2008",
+      "id": "a study on the universal access to vaccines in brazil"
     },
     {
       "authors": [
@@ -1210,6 +1531,14 @@
     },
     {
       "authors": [
+        "Ana Regina Cavalcanti da Rocha",
+        "Sueli Bandeira Teixeira Mendes"
+      ],
+      "date": "1987",
+      "id": "paradigmas de ambientes de programação"
+    },
+    {
+      "authors": [
         "Antonio Alberto Fernandes de Oliveira",
         "Claudio Esperança"
       ],
@@ -1467,6 +1796,70 @@
       ],
       "date": "2007",
       "id": "towards an autonomic enterprise: from autonomic business processes to autonomic balanced scorecard"
+    },
+    {
+      "authors": [
+        "Antonio Alberto Fernandes de Oliveira",
+        "Joao Lizardo Rodrigues Hermes de Araujo"
+      ],
+      "date": "1997",
+      "id": "the brazilian electricity reform: issues and perils"
+    },
+    {
+      "authors": [
+        "Antonio Alberto Fernandes de Oliveira",
+        "Joao Lizardo Rodrigues Hermes de Araujo"
+      ],
+      "date": "1996",
+      "id": "privatization of the brazilian energy industries: the regulatory challenge"
+    },
+    {
+      "authors": [
+        "Antonio Alberto Fernandes de Oliveira",
+        "Joao Lizardo Rodrigues Hermes de Araujo"
+      ],
+      "date": "1996",
+      "id": "de-regulation (and re-regulation) of the brazilian energy industries"
+    },
+    {
+      "authors": [
+        "Antonio Alberto Fernandes de Oliveira",
+        "Joao Lizardo Rodrigues Hermes de Araujo"
+      ],
+      "date": "1981",
+      "id": "a controversia sobre os contratos de risco"
+    },
+    {
+      "authors": [
+        "Antonio Alberto Fernandes de Oliveira",
+        "Joao Lizardo Rodrigues Hermes de Araujo"
+      ],
+      "date": "1980",
+      "id": "impasse atual e perspectiva a largo prazo da politica energetica no brasil"
+    },
+    {
+      "authors": [
+        "Antonio Alberto Fernandes de Oliveira",
+        "Joao Lizardo Rodrigues Hermes de Araujo"
+      ],
+      "date": "2001",
+      "id": "a greedy randomized adaptive search procedure for transmission expansion planning"
+    },
+    {
+      "authors": [
+        "Antonio Alberto Fernandes de Oliveira",
+        "Joao Lizardo Rodrigues Hermes de Araujo"
+      ],
+      "date": "1984",
+      "id": "respostas do setor industrial brasileiro ao choque do petroleo e a recessao"
+    },
+    {
+      "authors": [
+        "Antonio Alberto Fernandes de Oliveira",
+        "Joao Lizardo Rodrigues Hermes de Araujo"
+      ],
+      "date": "1994",
+      "id": "o sonho nacional: petróleo e eletricidade (1954-1994)"
     },
     {
       "authors": [
@@ -3014,6 +3407,284 @@
     },
     {
       "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2010",
+      "id": "sistema de detecção de intrusão imuno-inspirado customizado para redes de sensores sem fio"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato",
+        "Paulo de Figueiredo Pires"
+      ],
+      "date": "2010",
+      "id": "using mda for building wireless sensor network applications"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2012",
+      "id": "conde: um sistema de controle e decisão para ediifíios inteligentes usando redes de sensores e atuadores sem fio"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2015",
+      "id": "camaw: a clustering algorithm for multiple applications in wireless sensor and actuator networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2019",
+      "id": "a density-based decision-making data fusion method for multiapplication wireless sensor networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2011",
+      "id": "web das coisas: conectando dispositivos físicos ao mundo digital."
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2015",
+      "id": "s-leach: a leach extension for shared sensor networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2018",
+      "id": "a holistic approach to challenges in industry 4.0"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato",
+        "Paulo de Figueiredo Pires"
+      ],
+      "date": "2010",
+      "id": "a model-based approach for building ubiquitous applications based on wireless sensor networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato",
+        "Paulo de Figueiredo Pires"
+      ],
+      "date": "2011",
+      "id": "model-driven development of wireless sensor network applications"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2012",
+      "id": "sistema de controle e decisão para edifícios inteligentes usando redes de sensores e atuadores sem fio"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2012",
+      "id": "information fusion techniques applied to shared sensor and actuator networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2013",
+      "id": "a scheduling algorithm for shared sensor and actuator networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato",
+        "Paulo de Figueiredo Pires"
+      ],
+      "date": "2013",
+      "id": "dsl e metodologia para construção de aplicações ubíquas"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2013",
+      "id": "a control and decision system for smart buildings"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2014",
+      "id": "multisensor data fusion in shared sensor and actuator networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2015",
+      "id": "web2compile-cot: a web ide for the cloud of things"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato",
+        "Paulo de Figueiredo Pires"
+      ],
+      "date": "2015",
+      "id": "theseus: a routing system for shared sensor networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato",
+        "Paulo de Figueiredo Pires"
+      ],
+      "date": "2016",
+      "id": "hephaestus: a multisensor data fusion algorithm for multiple applications on wireless sensor networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2017",
+      "id": "grown: a control and decision system for smart greenhouses using wireless sensor networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato",
+        "Paulo de Figueiredo Pires"
+      ],
+      "date": "2017",
+      "id": "a multisensor data fusion algorithm using the hidden correlations in multiapplication wireless sensor data streams"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato",
+        "Paulo de Figueiredo Pires"
+      ],
+      "date": "2017",
+      "id": "dpcas: data prediction with cubic adaptive sampling for wireless sensor networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2018",
+      "id": "density based multisensor data fusion for multiapplication wireless sensor networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2012",
+      "id": "intrusion detection system for wireless sensor networks using danger theory immune-inspired techniques"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato",
+        "Paulo de Figueiredo Pires"
+      ],
+      "date": "2014",
+      "id": "efficient allocation of resources in multiple heterogeneous wireless sensor networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato",
+        "Paulo de Figueiredo Pires"
+      ],
+      "date": "2016",
+      "id": "a systematic review of shared sensor networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato",
+        "Paulo de Figueiredo Pires"
+      ],
+      "date": "2011",
+      "id": "web das coisas: conectando dispositivos físicos ao mundo digital"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Flávia Coimbra Delicato",
+        "Paulo de Figueiredo Pires"
+      ],
+      "date": "2016",
+      "id": "seraph: service allocation algorithm for the execution of multiple applications in heterogeneous shared sensor and actuator networks"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Paulo de Figueiredo Pires",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2011",
+      "id": "web das coisas: conectando dispositivos físicos ao mundo"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Paulo de Figueiredo Pires",
+        "Flávia Coimbra Delicato"
+      ],
+      "date": "2013",
+      "id": "challenges in the use of wireless sensor networks for monitoring the health of civil structures"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Priscila Machado Vieira Lima"
+      ],
+      "date": "2019",
+      "id": "modeling sparse data as input for weightless neural network"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Priscila Machado Vieira Lima"
+      ],
+      "date": "2019",
+      "id": "zeus: a resource allocation algorithm for the cloud of sensors"
+    },
+    {
+      "authors": [
+        "Claudio Miceli de Farias",
+        "Priscila Machado Vieira Lima"
+      ],
+      "date": "2016",
+      "id": "prescription of rhythmic patterns for legged locomotion"
+    },
+    {
+      "authors": [
         "Claudio Thomas Bornstein",
         "Henrique Luiz Cukierman"
       ],
@@ -3131,6 +3802,14 @@
       ],
       "date": "2012",
       "id": "multiobjective combinatorial optimization problems with a cost and several bottleneck objective functions: an algorithm with reoptimization"
+    },
+    {
+      "authors": [
+        "Clovis Caesar Gonzaga",
+        "Nelson Maculan Filho"
+      ],
+      "date": "1979",
+      "id": "localização ótima de torres de transmissão utilizando teoria dos grafos"
     },
     {
       "authors": [
@@ -4171,17 +4850,6 @@
     {
       "authors": [
         "Felipe Maia Galvão França",
-        "Luis Alfredo Vidal de Carvalho",
-        "Priscila Machado Vieira Lima",
-        "Valmir Carneiro Barbosa",
-        "Vítor Manuel de Morais Santos Costa"
-      ],
-      "date": "2009",
-      "id": "cooperative control for ground traffic at airports"
-    },
-    {
-      "authors": [
-        "Felipe Maia Galvão França",
         "Mario Roberto Folhadela Benevides",
         "Valmir Carneiro Barbosa"
       ],
@@ -4448,6 +5116,17 @@
       ],
       "date": "2015",
       "id": "redes de sensoriamento participativo"
+    },
+    {
+      "authors": [
+        "Felipe Maia Galvão França",
+        "Priscila Machado Vieira Lima",
+        "Valmir Carneiro Barbosa",
+        "Vítor Manuel de Morais Santos Costa",
+        "Luis Alfredo Vidal de Carvalho"
+      ],
+      "date": "2009",
+      "id": "cooperative control for ground traffic at airports"
     },
     {
       "authors": [
@@ -4940,14 +5619,6 @@
         "Flávia Coimbra Delicato",
         "Paulo de Figueiredo Pires"
       ],
-      "date": "2010",
-      "id": "a model-based approach for building ubiquitous applications based on wireless sensor networks"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
       "date": "2011",
       "id": "using semantic web to build and execute ad-hoc processes"
     },
@@ -4958,14 +5629,6 @@
       ],
       "date": "2011",
       "id": "fuzz-ssvs: a fuzzy logic based voting scheme to improve protein secondary structure prediction"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
-      "date": "2013",
-      "id": "dsl e metodologia para construção de aplicações ubíquas"
     },
     {
       "authors": [
@@ -5005,14 +5668,6 @@
         "Paulo de Figueiredo Pires"
       ],
       "date": "2015",
-      "id": "theseus: a routing system for shared sensor networks"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
-      "date": "2015",
       "id": "architecture-driven development approach for wsan applications"
     },
     {
@@ -5045,31 +5700,7 @@
         "Paulo de Figueiredo Pires"
       ],
       "date": "2016",
-      "id": "hephaestus: a multisensor data fusion algorithm for multiple applications on wireless sensor networks"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
-      "date": "2016",
       "id": "cost-effective processing for delay-sensitive applications in cloud of things systems"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
-      "date": "2017",
-      "id": "a multisensor data fusion algorithm using the hidden correlations in multiapplication wireless sensor data streams"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
-      "date": "2017",
-      "id": "dpcas: data prediction with cubic adaptive sampling for wireless sensor networks"
     },
     {
       "authors": [
@@ -5205,14 +5836,6 @@
         "Paulo de Figueiredo Pires"
       ],
       "date": "2016",
-      "id": "a systematic review of shared sensor networks"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
-      "date": "2016",
       "id": "on the interplay of internet of things and cloud computing: a systematic mapping study"
     },
     {
@@ -5300,24 +5923,8 @@
         "Flávia Coimbra Delicato",
         "Paulo de Figueiredo Pires"
       ],
-      "date": "2011",
-      "id": "web das coisas: conectando dispositivos físicos ao mundo digital"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
       "date": "2015",
       "id": "plataformas para a internet das coisas"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
-      "date": "2016",
-      "id": "seraph: service allocation algorithm for the execution of multiple applications in heterogeneous shared sensor and actuator networks"
     },
     {
       "authors": [
@@ -5397,14 +6004,6 @@
         "Paulo de Figueiredo Pires"
       ],
       "date": "2010",
-      "id": "using mda for building wireless sensor network applications"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
-      "date": "2010",
       "id": "crossmda-spl: uma abordagem para gerência de variabilidades dirigida por modelos e aspectos"
     },
     {
@@ -5430,14 +6029,6 @@
       ],
       "date": "2011",
       "id": "altostratus: um rede de colaboração com foco nos novos desafios e oportunidades de pesquisa em computação em nuvem"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
-      "date": "2011",
-      "id": "model-driven development of wireless sensor network applications"
     },
     {
       "authors": [
@@ -5597,14 +6188,6 @@
         "Paulo de Figueiredo Pires"
       ],
       "date": "2014",
-      "id": "efficient allocation of resources in multiple heterogeneous wireless sensor networks"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
-      "date": "2014",
       "id": "long term and large scale time synchronization in wireless sensor networks"
     },
     {
@@ -5644,14 +6227,6 @@
         "Flávia Coimbra Delicato",
         "Paulo de Figueiredo Pires"
       ],
-      "date": "2011",
-      "id": "web das coisas: conectando dispositivos físicos ao mundo"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
       "date": "2012",
       "id": "network-wide strategies for energy efficiency in wireless sensor networks"
     },
@@ -5662,14 +6237,6 @@
       ],
       "date": "2012",
       "id": "energy awareness and efficiency in wireless sensor networks: from physical devices to the communication link"
-    },
-    {
-      "authors": [
-        "Flávia Coimbra Delicato",
-        "Paulo de Figueiredo Pires"
-      ],
-      "date": "2013",
-      "id": "challenges in the use of wireless sensor networks for monitoring the health of civil structures"
     },
     {
       "authors": [
@@ -7178,6 +7745,14 @@
     {
       "authors": [
         "Ines de Castro Dutra",
+        "Sueli Bandeira Teixeira Mendes"
+      ],
+      "date": "1989",
+      "id": "um modelo and/or: uma avaliação crítica"
+    },
+    {
+      "authors": [
+        "Ines de Castro Dutra",
         "Vítor Manuel de Morais Santos Costa"
       ],
       "date": "1999",
@@ -8420,6 +8995,14 @@
     },
     {
       "authors": [
+        "Luis Paulo Vieira Braga",
+        "Nelson Maculan Filho"
+      ],
+      "date": "1981",
+      "id": "aspectos computacionais em programação linear"
+    },
+    {
+      "authors": [
         "Marcia Helena Costa Fampa",
         "Nelson Maculan Filho"
       ],
@@ -8876,7 +9459,8 @@
     {
       "authors": [
         "Paulo Augusto Silva Veloso",
-        "Sheila Regina Murgel Veloso"
+        "Sheila Regina Murgel Veloso",
+        "Sueli Bandeira Teixeira Mendes"
       ],
       "date": "1989",
       "id": "um modelo abstrato para troca de mensagens"
@@ -9305,6 +9889,94 @@
       ],
       "date": "2010",
       "id": "hardware-assisted projected tetrahedra"
+    },
+    {
+      "authors": [
+        "Ricardo Guerra Marroquim",
+        "Ricardo Guerra Marroquim"
+      ],
+      "date": "2017",
+      "id": "digitising ivory artefacts at the national history museum in brazil"
+    },
+    {
+      "authors": [
+        "Ricardo Guerra Marroquim",
+        "Ricardo Guerra Marroquim"
+      ],
+      "date": "2019",
+      "id": "a practical and efficient approach for correct z-pass stencil shadow volumes"
+    },
+    {
+      "authors": [
+        "Ricardo Guerra Marroquim",
+        "Ricardo Guerra Marroquim"
+      ],
+      "date": "2019",
+      "id": "what is the reddening effect and does it really exist?"
+    },
+    {
+      "authors": [
+        "Ricardo Guerra Marroquim",
+        "Ricardo Guerra Marroquim"
+      ],
+      "date": "2012",
+      "id": "flow-based local optimization for image-to-geometry projection"
+    },
+    {
+      "authors": [
+        "Ricardo Guerra Marroquim",
+        "Ricardo Guerra Marroquim"
+      ],
+      "date": "2016",
+      "id": "graph-based interactive volume exploration"
+    },
+    {
+      "authors": [
+        "Ricardo Guerra Marroquim",
+        "Ricardo Guerra Marroquim"
+      ],
+      "date": "2017",
+      "id": "dilight: digital light table &#45; inbetweening for 2d animations using guidelines"
+    },
+    {
+      "authors": [
+        "Ricardo Guerra Marroquim",
+        "Ricardo Guerra Marroquim"
+      ],
+      "date": "2017",
+      "id": "assisted color acquisition for 3d models"
+    },
+    {
+      "authors": [
+        "Ricardo Guerra Marroquim",
+        "Ricardo Guerra Marroquim"
+      ],
+      "date": "2018",
+      "id": "acquisition and validation of spectral ground truth data for predictive rendering of rough surfaces"
+    },
+    {
+      "authors": [
+        "Ricardo Guerra Marroquim",
+        "Ricardo Guerra Marroquim"
+      ],
+      "date": "2016",
+      "id": "digitizing 3d historical scientific instruments with laser and photographic technologies"
+    },
+    {
+      "authors": [
+        "Sheila Regina Murgel Veloso",
+        "Sueli Bandeira Teixeira Mendes"
+      ],
+      "date": "1986",
+      "id": "mecanismos de troca de mensagens em sistemas dinâmicos e distribuídos"
+    },
+    {
+      "authors": [
+        "Sueli Bandeira Teixeira Mendes",
+        "Valmir Carneiro Barbosa"
+      ],
+      "date": "1993",
+      "id": "a bayesian-network approach to lexical disambiguation"
     }
   ]
 }

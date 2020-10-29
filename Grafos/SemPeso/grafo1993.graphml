@@ -1,20 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Antonio Alberto Fernandes de Oliveira"/>
 <node id="Nelson Maculan"/>
+<node id="Clovis Caesar Gonzaga"/>
 <node id="P. Roberto Oliveira"/>
 <node id="Susana Scheimberg"/>
+<node id="Joao Lizardo Rodrigues Hermes de Araujo"/>
 <node id="Paulo A. S. Veloso"/>
 <node id="Sheila Regina Murgel Veloso"/>
+<node id="Luis Paulo Vieira Braga"/>
 <node id="Edil Severiano Tavares Fernandes"/>
 <node id="Felipe M. G. França"/>
 <node id="Adilson Elias Xavier"/>
+<node id="Sueli Bandeira Teixeira Mendes"/>
+<node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Claudio Luis de Amorim"/>
 <node id="Valmir Carneiro Barbosa"/>
 <node id="Jano Moreira de Souza"/>
 <node id="Marta Mattoso"/>
 <node id="Ines de Castro Dutra"/>
 <node id="Priscila Machado Vieira Lima"/>
-<node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Cláudia Maria Lima Werner"/>
 <node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Guilherme Horta Travassos"/>
@@ -28,14 +32,23 @@
 <node id="Severino Collier Coutinho"/>
 <node id="Vítor Manuel de Morais Santos Costa"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan"/>
+<edge source="Antonio Alberto Fernandes de Oliveira" target="Joao Lizardo Rodrigues Hermes de Araujo"/>
+<edge source="Nelson Maculan" target="Clovis Caesar Gonzaga"/>
+<edge source="Nelson Maculan" target="Luis Paulo Vieira Braga"/>
 <edge source="Nelson Maculan" target="Adilson Elias Xavier"/>
 <edge source="P. Roberto Oliveira" target="Susana Scheimberg"/>
 <edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso"/>
+<edge source="Sheila Regina Murgel Veloso" target="Sueli Bandeira Teixeira Mendes"/>
 <edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França"/>
 <edge source="Edil Severiano Tavares Fernandes" target="Claudio Luis de Amorim"/>
 <edge source="Edil Severiano Tavares Fernandes" target="Valmir Carneiro Barbosa"/>
 <edge source="Edil Severiano Tavares Fernandes" target="Eliseu Monteiro Chaves Filho"/>
 <edge source="Felipe M. G. França" target="Valmir Carneiro Barbosa"/>
+<edge source="Sueli Bandeira Teixeira Mendes" target="Ana Regina Cavalcanti da Rocha"/>
+<edge source="Sueli Bandeira Teixeira Mendes" target="Ines de Castro Dutra"/>
+<edge source="Sueli Bandeira Teixeira Mendes" target="Valmir Carneiro Barbosa"/>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Marta Mattoso"/>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Geraldo Xexéo"/>
 <edge source="Claudio Luis de Amorim" target="Valmir Carneiro Barbosa"/>
 <edge source="Claudio Luis de Amorim" target="Ines de Castro Dutra"/>
 <edge source="Claudio Luis de Amorim" target="Priscila Machado Vieira Lima"/>
@@ -46,10 +59,8 @@
 <edge source="Jano Moreira de Souza" target="Cláudia Maria Lima Werner"/>
 <edge source="Jano Moreira de Souza" target="Guilherme Horta Travassos"/>
 <edge source="Jano Moreira de Souza" target="Geraldo Xexéo"/>
-<edge source="Marta Mattoso" target="Ana Regina Cavalcanti da Rocha"/>
 <edge source="Ines de Castro Dutra" target="Priscila Machado Vieira Lima"/>
 <edge source="Ines de Castro Dutra" target="Vítor Manuel de Morais Santos Costa"/>
-<edge source="Ana Regina Cavalcanti da Rocha" target="Geraldo Xexéo"/>
 <edge source="Luis Alfredo Vidal de Carvalho" target="Claudio Thomas Bornstein"/>
 <edge source="Celina M. H. de Figueiredo" target="Jayme Luiz Szwarcfiter"/>
 <edge source="Celina M. H. de Figueiredo" target="Sulamita Klein"/>

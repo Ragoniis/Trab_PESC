@@ -85,5 +85,5 @@ for x in arr:
 
 #print (colaboradores)
 #print(edges)
-with open('Files/test_lattes.json', 'w',encoding='utf-8') as json_file:
+with open('Files/lattes.json', 'w',encoding='utf-8') as json_file:
   json.dump(pesc_professors, json_file,indent=2,sort_keys=True,ensure_ascii=False)

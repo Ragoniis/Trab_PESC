@@ -2,25 +2,38 @@
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
 <graph edgedefault="undirected"><node id="Antonio Alberto Fernandes de Oliveira"/>
 <node id="Nelson Maculan"/>
+<node id="Clovis Caesar Gonzaga"/>
 <node id="P. Roberto Oliveira"/>
 <node id="Susana Scheimberg"/>
+<node id="Joao Lizardo Rodrigues Hermes de Araujo"/>
 <node id="Paulo A. S. Veloso"/>
 <node id="Sheila Regina Murgel Veloso"/>
+<node id="Luis Paulo Vieira Braga"/>
 <node id="Edil Severiano Tavares Fernandes"/>
 <node id="Felipe M. G. França"/>
 <node id="Adilson Elias Xavier"/>
+<node id="Sueli Bandeira Teixeira Mendes"/>
+<node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Claudio Luis de Amorim"/>
 <node id="Valmir Carneiro Barbosa"/>
 <node id="Jano Moreira de Souza"/>
 <node id="Marta Mattoso"/>
 <node id="Ines de Castro Dutra"/>
 <node id="Priscila Machado Vieira Lima"/>
-<node id="Ana Regina Cavalcanti da Rocha"/>
 <node id="Cláudia Maria Lima Werner"/>
 <node id="Eliseu Monteiro Chaves Filho"/>
 <node id="Guilherme Horta Travassos"/>
 <node id="Luis Alfredo Vidal de Carvalho"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Antonio Alberto Fernandes de Oliveira" target="Joao Lizardo Rodrigues Hermes de Araujo">
+  <data key="d0">6</data>
+</edge>
+<edge source="Nelson Maculan" target="Clovis Caesar Gonzaga">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nelson Maculan" target="Luis Paulo Vieira Braga">
   <data key="d0">2</data>
 </edge>
 <edge source="Nelson Maculan" target="Adilson Elias Xavier">
@@ -30,6 +43,9 @@
   <data key="d0">2</data>
 </edge>
 <edge source="Paulo A. S. Veloso" target="Sheila Regina Murgel Veloso">
+  <data key="d0">4</data>
+</edge>
+<edge source="Sheila Regina Murgel Veloso" target="Sueli Bandeira Teixeira Mendes">
   <data key="d0">4</data>
 </edge>
 <edge source="Edil Severiano Tavares Fernandes" target="Felipe M. G. França">
@@ -46,6 +62,15 @@
 </edge>
 <edge source="Felipe M. G. França" target="Valmir Carneiro Barbosa">
   <data key="d0">4</data>
+</edge>
+<edge source="Sueli Bandeira Teixeira Mendes" target="Ana Regina Cavalcanti da Rocha">
+  <data key="d0">2</data>
+</edge>
+<edge source="Sueli Bandeira Teixeira Mendes" target="Ines de Castro Dutra">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ana Regina Cavalcanti da Rocha" target="Marta Mattoso">
+  <data key="d0">2</data>
 </edge>
 <edge source="Claudio Luis de Amorim" target="Valmir Carneiro Barbosa">
   <data key="d0">10</data>
@@ -70,9 +95,6 @@
 </edge>
 <edge source="Jano Moreira de Souza" target="Guilherme Horta Travassos">
   <data key="d0">6</data>
-</edge>
-<edge source="Marta Mattoso" target="Ana Regina Cavalcanti da Rocha">
-  <data key="d0">2</data>
 </edge>
 <edge source="Ines de Castro Dutra" target="Priscila Machado Vieira Lima">
   <data key="d0">6</data>

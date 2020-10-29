@@ -2,11 +2,19 @@
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
 <graph edgedefault="undirected"><node id="Antonio Alberto Fernandes de Oliveira"/>
 <node id="Nelson Maculan"/>
+<node id="Clovis Caesar Gonzaga"/>
 <node id="P. Roberto Oliveira"/>
 <node id="Susana Scheimberg"/>
+<node id="Joao Lizardo Rodrigues Hermes de Araujo"/>
 <node id="Paulo A. S. Veloso"/>
 <node id="Sheila Regina Murgel Veloso"/>
 <edge source="Antonio Alberto Fernandes de Oliveira" target="Nelson Maculan">
+  <data key="d0">0.6666666666666666</data>
+</edge>
+<edge source="Antonio Alberto Fernandes de Oliveira" target="Joao Lizardo Rodrigues Hermes de Araujo">
+  <data key="d0">0.6666666666666666</data>
+</edge>
+<edge source="Nelson Maculan" target="Clovis Caesar Gonzaga">
   <data key="d0">0.6666666666666666</data>
 </edge>
 <edge source="P. Roberto Oliveira" target="Susana Scheimberg">

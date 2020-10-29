@@ -16,7 +16,7 @@ lista_grafos_1 = []
 lista_grafos_2 = []
 lista_grafos_3 = []
 
-with open('Files/jarowinkler.json', 'r') as f:
+with open('Files/colaboracoes.json', 'r') as f:
     jw = json.load(f)
 
 
@@ -31,7 +31,10 @@ translation = {
     "Claudia Maria Lima Werner":"Cláudia Maria Lima Werner",
     "Claudio Esperança":"Claudio Esperança",
     "Claudio Luis de Amorim":"Claudio Luis de Amorim",
+    "Claudio Miceli de Farias":"Claudio Miceli de Farias",
     "Claudio Thomas Bornstein":False,
+    "Clovis Caesar Gonzaga":"Clovis Caesar Gonzaga",
+    "Celso de Renna e Souza": "Celso de Renna e Souza",
     "Daniel Ratton Figueiredo":"Daniel R. Figueiredo",
     "Edil Severiano Tavares Fernandes":False,
     "Edmundo Albuquerque de Souza e Silva":"Edmundo de Souza e Silva",
@@ -49,12 +52,14 @@ translation = {
     "Ines de Castro Dutra":False,
     "Jano Moreira de Souza":"Jano Moreira de Souza",
     "Jayme Luiz Szwarcfiter":"Jayme Luiz Szwarcfiter",
+    "Joao Lizardo Rodrigues Hermes de Araujo":"Joao Lizardo Rodrigues Hermes de Araujo",
     "José Ferreira de Rezende":"José Ferreira de Rezende",
     "Laura Silvia Bahiense da Silva Leite":"Laura Bahiense",
     "Lidia Micaela Segre":False,
     "Luidi Gelabert Simonetti":"Luidi Simonetti",
     "Luis Alfredo Vidal de Carvalho":False,
     "Luis Felipe Magalhães de Moraes":"Luís Felipe M. de Moraes",
+    "Luis Paulo Vieira Braga":"Luis Paulo Vieira Braga",
     "Marcia Helena Costa Fampa":"Marcia Helena Costa Fampa",
     "Mario Roberto Folhadela Benevides":False,
     "Marta Lima de Queiros Mattoso":"Marta Mattoso",
@@ -73,6 +78,7 @@ translation = {
     "Severino Collier Coutinho":False,
     "Sheila Regina Murgel Veloso":False,
     "Sulamita Klein": "Sulamita Klein",
+    "Sueli Bandeira Teixeira Mendes": "Sueli Bandeira Teixeira Mendes",
     "Susana Scheimberg de Makler": "Susana Scheimberg",
     "Toacy Cavalcante de Oliveira": "Toacy Cavalcante de Oliveira",
     "Valmir Carneiro Barbosa": "Valmir Carneiro Barbosa",
@@ -163,7 +169,13 @@ colors ={
 "Susana Scheimberg" : "#FF7F00",
 "Toacy Cavalcante de Oliveira" : "m",
 "Valmir Carneiro Barbosa" : "r",
-"Vítor Manuel de Morais Santos Costa":"b"
+"Vítor Manuel de Morais Santos Costa":"b",
+"Sueli Bandeira Teixeira Mendes": "#FF0068",
+"Clovis Caesar Gonzaga": "#FF0068",
+"Claudio Miceli de Farias": "#FF0068",
+"Joao Lizardo Rodrigues Hermes de Araujo": "#FF0068",
+"Luis Paulo Vieira Braga": "#FF0068",
+"Celso de Renna e Souza": "#FF0068"
 }
 
 
@@ -173,8 +185,8 @@ n_artigos=[0]*51
 n_vertices = [0]*51
 ano = 1970
 while ano <= 2020:
-    if (ano > 1970):
-        n_artigos[ano-1970] = n_artigos[ano-1970-1]
+    #if (ano > 1970):
+        #n_artigos[ano-1970] = n_artigos[ano-1970-1]
     artigos = []
     G1 = nx.Graph(G1) #cria uma copia do proprio grafo, necessario para que alteracoes ocorram so em um grafo
     G2 = nx.Graph(G2) #Peso 1 para cada artigo
@@ -213,7 +225,9 @@ while ano <= 2020:
     lista_grafos_2.append(G2)
     lista_grafos_3.append(G3)
 
-    n_vertices[ano-1970] = G1.number_of_nodes()
+    if (ano > 1970):
+        n_vertices[ano-1970] = G1.number_of_nodes() - lista_grafos_1[ano-1970-1].number_of_nodes()
+
     #n_artigos[ano-1970] = sum([G2[u][v]['weight'] for u,v in edges]) / 2
     #weights = [G2[u][v]['weight']*10 for u,v in edges]
     print(ano)

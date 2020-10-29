@@ -8,7 +8,7 @@ from pyjarowinkler import distance
 import json
 lattes ={}
 
-with open('Files/test_lattes.json', 'r') as f:
+with open('Files/lattes.json', 'r') as f:
 	lattes = json.load(f)
 
 #print(pesc_professors)
@@ -81,7 +81,7 @@ for x in lattes.keys():
 
                  
 
-with open('Files/jarowinkler.json', 'w',encoding='utf-8') as json_file:
+with open('Files/colaboracoes.json', 'w',encoding='utf-8') as json_file:
   json.dump(graph, json_file,indent=2,sort_keys=True,ensure_ascii=False)
         
         

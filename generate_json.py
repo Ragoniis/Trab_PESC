@@ -1,5 +1,5 @@
 import json
-with open('Files/jarowinkler.json', 'r') as f:
+with open('Files/colaboracoes.json', 'r') as f:
     jw = json.load(f)
 
 
@@ -27,5 +27,5 @@ def main(dic):
 result = main(jw)
 arr = {"publications": list(result.values())}
 
-with open('Files/new_json.json', 'w',encoding='utf-8') as json_file:
+with open('Files/grafo.json', 'w',encoding='utf-8') as json_file:
   json.dump(arr, json_file,indent=2,sort_keys=True,ensure_ascii=False)
